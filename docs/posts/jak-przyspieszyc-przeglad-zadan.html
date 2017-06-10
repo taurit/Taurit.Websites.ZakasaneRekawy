@@ -1,0 +1,290 @@
+﻿
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Jak przyspieszy&#x107; przegl&#x105;d zada&#x144;: projekt aplikacji Revisionist - Przed czasem</title>
+
+    <meta name="description" content="Poszukiwanie sposobu na optymalizacje &#x17C;mudnych przegl&#x105;d&#xF3;w zada&#x144; na listach todo." />    
+    <meta http-equiv="content-language" content="pl">
+    
+    <link hreflang="pl" href="https://blog.taurit.pl/" rel="alternate" />
+    <link rel="index" href="https://blog.taurit.pl/">
+
+    <link type="application/rss+xml" rel="alternate" title="Przed czasem" href="/feed.rss" />
+        <link type="application/atom+xml" rel="alternate" title="Przed czasem" href="/feed.atom" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- styles to allow render most useful content quickly, and load the rest of styles asynchronously -->
+    <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
+    <style type="text/css">
+        nav.navbar,
+        #intro-header,
+        div.media-left,
+        hr,
+        div.sidebar,
+        .hidden{
+            display: none;
+        }
+
+        .outline-header {
+            position: absolute;
+            clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+            clip: rect(1px, 1px, 1px, 1px);
+            padding: 0;
+            border: 0;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+        }
+    </style>
+    <link href="/assets/css/bundle.min.css?v=4" rel="stylesheet" />
+
+    <link href='//fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,400i,800&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+
+    <meta name="application-name" content="Przed czasem" />
+    <meta name="msapplication-tooltip" content="Przed czasem" />
+    <meta name="msapplication-starturl" content="/" />
+
+    <meta property="og:title" content="Jak przyspieszy&#x107; przegl&#x105;d zada&#x144;: projekt aplikacji Revisionist - Przed czasem" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan" />
+    
+    <link rel="canonical" href="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan"> 
+    <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
+    <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+    
+    <meta name="theme-color" content="#558eaf"> 
+</head>
+<body>
+    <h1 class="outline-header">Blog &ldquo;Prosto do celu&rdquo;</h1>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <h1 class="outline-header">Menu główne</h1>
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" rel="home" href="/">Przed czasem</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/" rel="home">Start</a></li>
+            <li><a href="/about">O blogu</a></li>
+            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+<article itemscope itemtype="http://schema.org/BlogPosting">    <!-- Page Header -->
+    <header class="intro-header" id="intro-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+    <div class="post-heading">
+    <h1 itemprop="name headline"><a itemprop="mainEntityOfPage" href="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan" rel="bookmark">Jak przyspieszy&#x107; przegl&#x105;d zada&#x144;: projekt aplikacji Revisionist</a></h1>
+         
+    <div class="meta">        
+<meta itemprop="author" content="Paweł Bulwan"/><b>Data publikacji</b>: <time itemprop="datePublished" datetime="2017-03-29T22:08:01&#x2B;02:00">&#x15B;roda, 29 marca 2017 r.</time><!--
+                                           
+              -->
+                <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                        <img class="hidden" src="https://blog.taurit.pl/assets/img/taurit-logo.png" alt="Taurit: publisher logo" width="140" height="140" />
+                        <meta itemprop="url" content="https://blog.taurit.pl/assets/img/taurit-logo.png">
+                        <meta itemprop="width" content="140">
+                        <meta itemprop="height" content="140">
+                    </span>
+                    <meta itemprop="name" content="Taurit">
+                </span>
+                <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://blog.taurit.pl/assets/img/thumbnails/przeglad-zadan.jpg" />
+                    <meta itemprop="width" content="150"/>
+                    <meta itemprop="height" content="150"/>
+                </span>        
+        <br></div>
+        <div class="tags" itemprop="keywords">
+                    <a rel="tag" role="button" href="/tags/dsp-2017" class="btn btn-default btn-xs">dsp 2017</a>
+                    <a rel="tag" role="button" href="/tags/gtd" class="btn btn-default btn-xs">gtd</a>
+                    <a rel="tag" role="button" href="/tags/gtd-weekly-review" class="btn btn-default btn-xs">gtd weekly review</a>
+                    <a rel="tag" role="button" href="/tags/produktywno%C5%9B%C4%87" class="btn btn-default btn-xs">produktywno&#x15B;&#x107;</a>
+                    <a rel="tag" role="button" href="/tags/revisionist" class="btn btn-default btn-xs">revisionist</a>
+        </div>     
+</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div id="content" class="col-md-12">
+                
+
+<h2 id="peny-przeglad-nie-mamy-na-to-czasu">Pełny przegląd: nie mamy na to czasu</h2>
+<p>W projekcie <a href="https://github.com/taurit/revisionist" target="_blank">Revisionist</a> chcę umożliwić przegląd zadań na liście zadań Todoist w sposób, który pozwoli nam zaoszczędzić czas.<br />
+Żeby móc mówić o oszczędności czasu, wyjdźmy od punktu startowego, którym jest wykonanie <strong>pełnego przeglądu zadań</strong>.</p>
+<p>Przez pełny przegląd zadań rozumiem <strong>przejście przez wszystkie elementy na liście todo</strong> oraz wykonanie dla każdego z nich analizy. W zależności od tego jakie konwencje przyjęliśmy w naszym osobistym systemie zarządzania zadaniami, analiza może mieć inny przebieg u innych osób. Przykładowe kroki to:</p>
+<ul>
+	<li>ocena czy pozycja na liście <strong>jeszcze nas interesuje</strong>,</li>
+	<li>ocena czy pozycja jest <strong>zadaniem czy projektem</strong> składającym się z wielu zadań,</li>
+	<li>określenie metadanych takich jak <strong>deadline</strong>, <strong>konteksty</strong> gdzie można wykonać zadanie (pomagające nam później w filtrowaniu zadań), <strong>czas wykonania</strong> (jeśli dla zadania lepiej jest z wyprzedzeniem ustalić czas), <strong>długość trwania</strong> (pomaga wyświetlić zadania w kalendarzu),</li>
+    <li>określenie jakie <strong>przypomnienia</strong> o zadaniach chcemy dostać (np. powiadomienie w określonym czasie przed deadlinem, lub gdy znajdziemy się w określonej geolokalizacji).</li>
+</ul>
+<p>Wymienione kwestie to przykłady tego, co możemy chcieć <strong>doprecyzować</strong> w tematach które już zapisaliśmy na liście todo. Nie rozpatruję na razie tematu dodawania do listy nowych zadań ("zrzucania" chodzących nam po głowie pomysłów na listę), ani planowania nowych celów. Jedynie utrzymanie porządku na liście.</p>
+<p>Jak kiedyś przytaczałem we wpisie <a href="/posts/lista-zadan-narzedzie-do-wyrzucenia-czy-usprawnienia">Lista zadań: narzędzie do wyrzucenia, czy usprawnienia?</a>, <strong>typowo na naszych listach znajduje się 150-200 pozycji</strong>.</p>
+<p>Przejrzenie wszystkich tych zadań na liście i wykonanie wyżej wymienionych akcji niewątpliwie zagwarantują nam <strong>solidny przegląd wszystkiego co mamy w kolejce</strong>. Pytanie tylko, ile czasu nam to zajmie? Godzinę, dwie? A jeśli tak to jak często usiądziemy do tego zadania?</p>
+<p>GTD daje odpowiedź: <a href="http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/" target="_blank">róbmy przegląd co 1 tydzień</a>. To nieźle dobrany interwał, ale wciąż okazuje się, że bardzo dużo osób taki przegląd zadań pomija, albo przekładając go w czasie, albo całkowicie zaniedbując. Jestem niestety jedną z takich osób, którym ciężko jest usiąść o zaplanowanej godzinie do czegoś co nie jest dramatycznie pilne albo ekscytujące. Wrzucenie przeglądu do kalendarza nie wystarcza.</p>
+<h2 id="alternatywna-czesciowy-przeglad">Alternatywna: częściowy przegląd</h2>
+<p>Patrząc na <strong>pojedyncze wykonanie</strong> pełnego przeglądu zadań, z algorytmicznego punktu widzenia nie mamy za dużego pola do optymalizacji i skrócenia jego czasu. Wszystkie elementy na liście przeglądamy dokładnie raz. Jeśli chcielibyśmy przyspieszyć przegląd, trzeba byłoby niektóre z nich pominąć.</p>
+<p>Jednak w rzeczywistości przeglądu nie chcemy robić jednorazowo, a <strong>cyklicznie</strong>. Niektórzy być może co tydzień, ja chciałbym codziennie, a może nawet co kilka godzin, wplatając krótsze przeglądy w rytm codziennego dnia. Przy takich wymaganiach nie możemy sobie pozwolić na przegląd wszystkich zadań za każdym razem. Ale też nie musimy! W końcu większość listy została już w przeszłości przejrzana, uporządkowana i z wysokim prawdopodobieństwem informacje o niej są aktualne.</p>
+<p>Podjąłem kiedyś próby realizacji takiego częściowego przeglądu. Do zarządzania zadaniami korzystam z aplikacji Todoist. W poście <a href="/posts/co-chowam-w-szufladzie" target="_blank">Wspomaganie przeglądu zadań: co chowam w szufladzie?</a> opisuję aplikacje, które napisałem kiedyś, żeby rozwiązać u siebie problem <strong>szybszego nadawania kontekstu zadaniom</strong>. W kolejnym z artykułów, <a href="/posts/koncepcja-revisionist" target="_blank">Koncepcja projektu wspomagającego przegląd zadań</a>, opisuję ogólną wizję aplikacji webowej <em>Revisionist</em>, który uogólnia to rozwiązanie.</p>
+<div class="row">
+    <figure class="col-sm-6 col-md-4 col-md-offset-4">
+        <div class="thumbnail">
+            <img src="/assets/img/posts/todoist-review-app-screenshot-300.png" alt="Aplikacja TodoistReview" />
+        <div class="caption">
+            <figcaption>Rys. 2. Poprzednik projektu Revisionist: moja aplikacja <a href="https://github.com/taurit/TodoistReview" target="_blank" rel="nofollow">TodoistReview</a>
+            </figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Dziś, jako istotny krok w kierunku realizacji projektu <em>Revisionist</em>, opiszę szczegółowo jakie rozwiązanie chcę w nadchodzących tygodniach stworzyć.</p>
+<h2 id="revisionist-projekt-rozwiazania">Revisionist: projekt rozwiązania</h2>
+<h3 id="zaozenia-funkcjonalne">Założenia funkcjonalne</h3>
+<p>Aplikacja jest <strong>rozszerzeniem dla systemu zarządzania zadaniami Todoist</strong>. Umożliwia <strong>uporządkowanie listy zadań</strong> bez konieczności wykonywania pełnego przeglądu listy zadań przez użytkownika. Celem jest rozwiązanie typowych problemów, na które napotykają osoby zarządzające dużymi lub dynamicznie zmieniającymi się listami zadań.</p>
+<p>Aplikacja sprowadza przegląd zadań na liście todo do serii <strong>prostych pytań decyzyjnych</strong> na ich temat. Pozwala to opisać zadania przy pomocy metadanych o ściśle określonym znaczeniu. Dzięki temu system będzie w stanie przypomnieć użytkownikowi o najważniejszych zadaniach jakie może wykonać w danym kontekście i lepiej podpowiadać najważniejsze zadania prowadzące go do jego celów.</p>
+<h3 id="technologie">Technologie</h3>
+<p>Projekt <em>Revisionist</em> będzie <strong>aplikacją webową</strong>. Umożliwi to dostęp z wielu platform, w szczególności smartfonów, które w założeniu są głównym kanałem dostępu do aplikacji. Aplikacja będzie zoptymalizowana do wyświetlania na małych ekranach. Połączenie z Internetem będzie wymagane, ale komunikacja z back-endem będzie możliwie rzadka. Dane, na które zapotrzebowanie można przewidzieć, będą pobierane na starcie aplikacji, aby minimalizować opóźnienia w trakcie samego przeglądu zadań.</p>
+<p>Aplikacja będzie bazować na frameworku <a href="https://angular.io/" target="_blank" rel="nofollow">Angular</a> (obecnie w wersji 4), aby umożliwić implementację przeglądu w postaci <em>single page app</em>, z minimalnymi opóźnieniami podczas przechodzenia między ekranami.</p>
+<p>Po stronie back-endu zostanie użyte <a href="https://www.asp.net/web-api" target="_blank" rel="nofollow">ASP .NET Web API</a>.</p>
+<p>Aplikacja będzie hostowana jako <a href="https://azure.microsoft.com/pl-pl/services/app-service/web/" target="_blank" rel="nofollow">Azure App Service</a>. Podczas prac, na wczesnym etapie zostanie skonfigurowany Continuous Deployment, aby bieżąca wersja kodu znajdującego się na GitHub była łatwo dostępna w formie działającej aplikacji po kliknięciu w link.</p>
+<p>Dane konfiguracyjne będą przechowywane z użyciem usługi <a href="https://azure.microsoft.com/pl-pl/services/storage/tables/" target="_blank" rel="nofollow">Magazyn tabel (Table Storage) w Azure</a>. Pozwoli to uniknąć kosztów utrzymywania pełnej relacyjnej bazy danych takiej jak Microsoft SQL Server, a jednocześnie dostarczy API, które jest wygodne, dobrze udokumentowane i łatwe w użyciu z poziomu aplikacji ASP.NET.</p>
+<h2 id="architektura"><span id="architektura">Architektura</a></h2>
+<p>Aplikacja będzie w miarę możliwości trzymać się konwencji przyjętych we frameworkach <em>Angular</em> oraz <em>ASP .NET Web API</em>.</p>
+<p>W ramach aplikacji funkcjonować będą plug-iny realizujące elementarne funkcjonalności przeglądu. Przykładem plug-ina może być <em>Nadanie zadaniu kontekstu wykonania</em>, albo <em>Określenie szacowanego czasu wykonania dla zadania</em>. Plug-iny <strong>na wejściu otrzymają listę zadań, na wyjściu zwrócą przetworzoną listę zadań</strong>.</p>
+<p>Użytkownik w ramach konfiguracji będzie mógł wybrać zestaw plug-inów używanych w swoim przeglądzie. Każdy plug-in będzie konfigurowalny. Przykładowo, dla plug-inu <em>Nadanie zadaniu kontekstu wykonania</em> można będzie skonfigurować opcje takie jak "maksymalna ilość zadań na wejściu", lub "przejrzyj tylko zadania bez kontekstu".</p>
+<h2 id="sposob-uzycia-aplikacji">Sposób użycia aplikacji</h2>
+<p><strong>Rejestracja i konfiguracja</strong> (preferowane urządzenie z dużym ekranem): użytkownik loguje się na stronę poprzez konto Todoist, używając mechamizmu <a href="https://developer.todoist.com/#authorization" target="_blank" rel="nofollow" title="Dokumentacja dla uwierzytelniania metodą OAuth w systemie Todoist">OAuth</a>. Na starcie jego konfiguracja jest pusta. Konfigurację może rozpocząć od skomponowania swojego przeglądu poprzez wybranie bloczków odpowiadających plug-inom i ułożenie ich w odpowiadającej mu kolejności <a href="https://luckylooke.github.io/dragular/#/docs/exampleBasic" target="_blank" rel="nofollow">metodą drag&amp;drop</a>.</p>
+<p><strong>Przegląd zadań</strong> (np. smartfon): użytkownik wchodzi na stronę aplikacji. Loguje się, lub korzysta z faktu że zalogował się w przeszłości. Podczas pierwszego użycia jest zachęcany, aby dodać ikonę do aplikacji do głównego ekranu smartfona, dla szybkiego dostępu. Nie licząc tego przypadku, <strong>aplikacja przechodzi bezpośrednio do przeglądu zadań</strong> który skonfigurował.</p>
+<p>Aplikacja zadaje pytania wyświetlane na kolejnych ekranach, dając kilka możliwości wyboru odpowiedzi na każde z nich. Po wybraniu odpowiedzi aplikacja automatycznie przechodzi do następnego ekranu (z następnym pytaniem). Użytkownik ma możliwość powrotu do poprzedniego ekranu (np. w razie pomyłki).</p>
+<p>Użytkownik może kontynuować przegląd tak długo, jak długo ma ochotę lub czas i w dowolnej chwili zakończyć przegląd.</p>
+<p>Pytania, realizowane przez plug-iny (patrz: <a href="#architektura">architektura</a>) mają na celu:</p>
+<ul>
+	<li>Spisanie problemów i zadań których nie mamy na liście, a o których myślimy</li>
+	<li>Wyrzucenie nieaktualnych zadań</li>
+	<li>Wyrzucenie nieaktualnych projektów</li>
+	<li>Przeniesienie wstrzymanych projektów do listy <i>Someday/maybe</i> lub ich przywrócenie</li>
+	<li>Odhaczenie wykonanych zadań</li>
+	<li>Rozbicie projektów (czegoś co wymaga wielu kroków wykonania) na zadania</li>
+	<li>Określenie dla zadań kontekstu w którym chcemy dostać o nich przypomnienie</li>
+	<li>Określenie dla zadań szacowanego czasu wykonania</li>
+	<li>Weryfikacja, czy częstotliwość dla zadań cyklicznych jest prawidłowa</li>
+</ul>
+<p>Wybór plug-inów do zaimplementowania w pierwszej kolejności będzie arbitralny i dopasowany do moich potrzeb. Być może będę jedynym użytkownikiem aplikacji, więc dobrze żeby choć mi służyła ;)</p>
+<h2 id="podsumowanie">Podsumowanie</h2>
+<p>W artykule przedstawiłem projekt realizowanej przeze mnie aplikacji <em>Revisionist</em>. <em>&quot;Pamiętaj abyś zawsze wiedział jasno czego pragniesz&quot;</em>, pisał Paulo Coelho. Ten post służy mi właśnie po to, aby określić co dokładnie jest do wykonania i jak się do tego zabrać. Być może także dla przypomnienia sobie motywacji stojących za decyzjami w przyszłości, lub jako materiał wprowadzający w projekt inną osobę.</p>
+<p>Jeśli mimo to udało Ci się przebrnąć przez tekst, lub chociaż przeskanować go na szybko wzrokiem, to dzięki za odwiedziny i zainteresowanie :) Jak zwykle, wszelkie przemyślenia i uwagi, jeśli zechcesz takie zostawić, będą dla mnie bardzo cenne. Do usłyszenia!</p>
+
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan';
+this.page.identifier = 'jak-przyspieszyc-przeglad-zadan';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//prostodocelu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+            </div>
+        </div>
+    </div>
+</article>    <hr>
+
+    <!-- Footer -->
+    <footer id="page-footer">
+        <div class="container">
+        <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="copyright text-muted">
+                        Copyright © 2017 <a rel="author" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" target="_blank">Paweł Bulwan</a>
+                        <br />
+                            <i class="fa fa-rss"></i> <a href="/feed.rss">RSS</a>
+                        |
+                            <i class="fa fa-rss"></i> <a href="/feed.atom">Atom</a>
+                    </p>
+                </div>
+        </div>
+</div>
+
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+        integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+        crossorigin="anonymous" defer></script>
+
+<script src="/assets/js/bootstrap.min.js" defer></script>
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+        <script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- syntax highlighting -->
+<script src="/assets/js/highlight.pack.js" async onload="hljs.initHighlightingOnLoad()"></script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-92769796-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+    
+    <!--
+    Hack recommended by Google PageSpeed tool:
+    move non-essential stylesheets to bottom, below <html> tag, to make critical rendering path faster
+
+    But on the other hand... http://stackoverflow.com/a/21058277/889779
+    -->
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+</body>
+</html>

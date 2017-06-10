@@ -1,0 +1,304 @@
+﻿
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Jak przyspieszy&#x107; bloga z Cloudflare (za darmo) - Przed czasem</title>
+
+    <meta name="description" content="Jak przyspieszy&#x107; bloga: o narz&#x119;dziach, kt&#xF3;re firma Cloudflare oferuje za darmo, a kt&#xF3;re w znacz&#x105;cy spos&#xF3;b potrafi&#x105; zmieni&#x107; postrzeganie naszych blog&#xF3;w i stron." />    
+    <meta http-equiv="content-language" content="pl">
+    
+    <link hreflang="pl" href="https://blog.taurit.pl/" rel="alternate" />
+    <link rel="index" href="https://blog.taurit.pl/">
+
+    <link type="application/rss+xml" rel="alternate" title="Przed czasem" href="/feed.rss" />
+        <link type="application/atom+xml" rel="alternate" title="Przed czasem" href="/feed.atom" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- styles to allow render most useful content quickly, and load the rest of styles asynchronously -->
+    <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
+    <style type="text/css">
+        nav.navbar,
+        #intro-header,
+        div.media-left,
+        hr,
+        div.sidebar,
+        .hidden{
+            display: none;
+        }
+
+        .outline-header {
+            position: absolute;
+            clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+            clip: rect(1px, 1px, 1px, 1px);
+            padding: 0;
+            border: 0;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+        }
+    </style>
+    <link href="/assets/css/bundle.min.css?v=4" rel="stylesheet" />
+
+    <link href='//fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,400i,800&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+
+    <meta name="application-name" content="Przed czasem" />
+    <meta name="msapplication-tooltip" content="Przed czasem" />
+    <meta name="msapplication-starturl" content="/" />
+
+    <meta property="og:title" content="Jak przyspieszy&#x107; bloga z Cloudflare (za darmo) - Przed czasem" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare" />
+    
+    <link rel="canonical" href="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare"> 
+    <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
+    <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+    
+    <meta name="theme-color" content="#558eaf"> 
+</head>
+<body>
+    <h1 class="outline-header">Blog &ldquo;Prosto do celu&rdquo;</h1>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <h1 class="outline-header">Menu główne</h1>
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" rel="home" href="/">Przed czasem</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/" rel="home">Start</a></li>
+            <li><a href="/about">O blogu</a></li>
+            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+<article itemscope itemtype="http://schema.org/BlogPosting">    <!-- Page Header -->
+    <header class="intro-header" id="intro-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+    <div class="post-heading">
+    <h1 itemprop="name headline"><a itemprop="mainEntityOfPage" href="https://przedczasem.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare" rel="bookmark">Jak przyspieszy&#x107; bloga z Cloudflare (za darmo)</a></h1>
+         
+    <div class="meta">        
+<meta itemprop="author" content="Paweł Bulwan"/><b>Data publikacji</b>: <time itemprop="datePublished" datetime="2017-05-30T20:34:01&#x2B;02:00">wtorek, 30 maja 2017 r.</time><!--
+                                           
+              -->
+                <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                        <img class="hidden" src="https://blog.taurit.pl/assets/img/taurit-logo.png" alt="Taurit: publisher logo" width="140" height="140" />
+                        <meta itemprop="url" content="https://blog.taurit.pl/assets/img/taurit-logo.png">
+                        <meta itemprop="width" content="140">
+                        <meta itemprop="height" content="140">
+                    </span>
+                    <meta itemprop="name" content="Taurit">
+                </span>
+                <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://blog.taurit.pl/assets/img/thumbnails/cloudflare-logo.png" />
+                    <meta itemprop="width" content="150"/>
+                    <meta itemprop="height" content="150"/>
+                </span>        
+        <br></div>
+        <div class="tags" itemprop="keywords">
+                    <a rel="tag" role="button" href="/tags/blogowanie" class="btn btn-default btn-xs">blogowanie</a>
+                    <a rel="tag" role="button" href="/tags/cloudflare" class="btn btn-default btn-xs">cloudflare</a>
+                    <a rel="tag" role="button" href="/tags/dsp-2017" class="btn btn-default btn-xs">dsp 2017</a>
+                    <a rel="tag" role="button" href="/tags/narz%C4%99dzia" class="btn btn-default btn-xs">narz&#x119;dzia</a>
+                    <a rel="tag" role="button" href="/tags/pagespeed" class="btn btn-default btn-xs">pagespeed</a>
+        </div>     
+</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div id="content" class="col-md-12">
+                
+
+<h1 id="szybki-blog-przyciaga-czytelnikow">Szybki blog przyciąga czytelników</h1>
+<p>Jeśli prowadzisz bloga, to <strong>treści które tworzysz</strong> są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także <strong>aspektom technicznym</strong>.</p>
+<p>Warto nie tylko z próżności i chęci zmian dla samych zmian, ale także po to, by upewnić się, że wszyscy czytelnicy odwiedzający naszą witrynę są w stanie zobaczyć nasze treści bez przeszkód. Jedną z największych takich przeszkód wydaje się <strong>wolne ładowanie się strony</strong>, co odczuwają szczególnie osoby trafiające na nasze treści na smartfonach. A tych od pewnego czasu <a href="https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets" target="_blank" rel="nofollow">jest już więcej</a> niż użytkowników surfujących na dużych monitorach.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-md-8 col-md-offset-2">
+        <div class="thumbnail"><img src="/assets/img/posts/traffic-car-vehicle-black.jpg" alt="" />
+        <div class="caption">
+            <figcaption>Rys. 1. Ilustracja, źródło: <a href="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/" rel="nofollow" target="_blank">Pexels</a></figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Amazon w 2008 roku policzył, że <b>każde 100ms podczas ładowania strony kosztuje ich 1% przychodu</b>. To ledwie 1/10 sekundy. Skoro tak niewielki czas ma wpływ na decyzje o zakupie lub jej braku, ma również na pewno wpływ na ogólny odbiór strony.</p>
+<p>Google w narzędziu dla twórców stron internetowych <a href="https://developers.google.com/speed/pagespeed/" rel="nofollow" target="_blank">Page Speed</a> uwzględnia czas ładowania strony jako istotny czynnik wpływający na jej końcową ocenę punktową. Można się również domyślać, że ten parametr ma duży wpływ na pozycję naszej strony w wynikach wyszukiwania, na której na pewno wielu z nas należy.</p>
+<h2 id="jak-szybko-powinien-adowac-sie-blog">Jak szybko powinien ładować się blog?</h2>
+<p>Jak szybko w idealnym świecie powinna ładować się strona? Jako odpowiedź najczęściej pojawia się wartość <span class="bg-success text-success">100ms</span>. To czas, w którym <strong>użytkownik typowo <a href="https://cogsci.stackexchange.com/questions/1664/what-is-the-threshold-where-actions-are-perceived-as-instant" target="_blank" rel="nofollow">nie dostrzega opóźnienia</a></strong>.</p>
+<p>Osiągnięcie takiego wyniku jest w praktyce bardzo trudne. W <a href="https://www.webdesignerdepot.com/2016/02/how-slow-is-too-slow-in-2016/" target="_blank" rel="nofollow">badaniu z 2011</a> obliczono, że mediana wynosiła wówczas ok. 2.9 sekundy, co jest wyraźnie dalekie od ideału i nawet intuicyjnie wskazuje na dość długi czas ładowania strony.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-md-8 col-md-offset-2">
+        <div class="thumbnail"><img src="/assets/img/posts/blog-loading-time-user-perception.png" alt="" />
+        <div class="caption">
+            <figcaption>Rys. 2. Czas ładowania się strony internetowej i jego postrzeganie przez użytkowników, źródło: <a href="https://blog.radware.com/applicationdelivery/wpo/2014/07/eight-tricks-improve-perceived-web-performance/" rel="nofollow" target="_blank">Web Performance Today</a></figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p><b>Czas poniżej 1 sekundy wydaje się na blogowe standardy wystarczająco dobry</b> i jeśli się w nim mieścimy to nie sądzę, abyśmy tracili czytelników z powodu powolnego ładowania się strony. Tym niemniej każde kilka milisekund się liczy i może zmieniać odbiór oglądanej treści.</p>
+<h2 id="przyczyny-powolnego-adowania-sie-stron">Przyczyny powolnego ładowania się stron</h2>
+<p>Podstawowymi dostępnymi dla nas jako twórców sposobami na poprawę czasu ładowania strony może być np.:</p>
+<ul>
+<li><b>zmniejszenie ilości i rozmiaru ładowanych obrazków</b>,</li>
+<li><b>rezygnacja z dużych bibliotek JavaScript</b> takich jak jQuery (jeśli ich nie używamy, a zostały załączone przez nasz system blogowy),</li>
+<li><b>użycie statycznego generatora stron</b> jak popularny Jekyll, aby zminimalizować pracę którą musi wykonać serwer gdy zostanie poproszony o przesłanie strony bloga.</li>
+</ul>
+<p>Jednak jeśli nawet w miejscu naszego bloga będzie jedynie widniał ogromny napis <i>&quot;Under Construction&quot;</i>, to istnieje ryzyko, że czas ładowania naszej strony będzie całkiem długi, dłuższy niż to 100 milisekund.</p>
+<p>Przyczyną, której mogliśmy nie wziąć pod uwagę, jest duży wpływ <b>konfiguracji środowiska, na którym jest hostowana strona</b> na czasy dostępu. Przykładowymi czynnikami zależnymi od tej konfiguracji są <strong>odległość geograficzna</strong>, która dzieli czytelnika od serwera hostingowego na którym trzymany jest blog, albo to, czy serwer ma włączoną <b>kompresję dla wysyłanych zasobów</b>.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-md-6 col-md-offset-3">
+        <div class="thumbnail">
+            <a href="/assets/img/posts/nordvpn-geographic-distance.png" target="_blank"><img src="/assets/img/posts/nordvpn-geographic-distance.png" alt="okno programu NordVPN" /></a>
+        <div class="caption">
+            <figcaption>Rys. 3. Okno programu NordVPN dostarczającego usługę VPN. Dla serwerów jest prezentowana <strong>odległość geograficzna</strong>, ponieważ to istotny parametr wpływający na szybkość komunikacji między maszynami. Projektując strony nie zawsze bierzemy to pod uwagę.</figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<h2 id="jak-cloudflare-moze-pomoc-przyspieszyc-strone">Jak Cloudflare może pomóc przyspieszyć stronę?</h2>
+<p>Na <a href="https://www.cloudflare.com/network/" target="_blank" rel="nofollow">mapie serwerów CloudFlare</a> znajduje się dziś <b>115 centrów danych</b>, które są rozsiane po całym świecie. Możemy użyć Cloudflare jako serwisu pośredniczącego w wymianie danych <b>pomiędzy gościem naszego serwisu, a hostingiem</b> gdzie trzymany jest blog. Ten model działania usługi Cloudflare pokazuje rysunek 4.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-md-8 col-md-offset-2">
+        <div class="thumbnail">
+            <a href="/assets/img/posts/cloudflare-model-by-troy-hunt.png" target="_blank"><img src="/assets/img/posts/cloudflare-model-by-troy-hunt.png" alt="Model działania usługi Cloudflare" /></a>
+        <div class="caption">
+            <figcaption>Rys. 4. Model działania usługi Cloudflare. Źródło: <a href="https://www.troyhunt.com/get-started-with-cloudflare-security-on/" target="_bank" rel="nofollow">Troy Hunt</a></figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Mogłoby się wydawać, że dodanie serwisu pośredniczącego w komunikacji między użytkownikiem a serwerem musi spowolnić pobieranie strony. Jednak w praktyce dzieje się dokładnie przeciwnie. W praktyce serwerów Cloudflare jest tak wiele, że <b>najprawdopodobniej jeden z nich będzie bliżej Twojego czytelnika niż serwer gdzie hostujesz bloga</b>.</p>
+<p>Serwery te mogą również działać jako <i>cache</i> i przechowują najczęściej pobierane zasoby. Niekiedy czytelnik który na nią wchodzi nie będzie musiał się nawet wcale kontaktować z oryginalnym, dalszym geograficznie serwerem.</p>
+<h2 id="co-dostajemy-za-darmo">Co dostajemy za darmo?</h2>
+<p>Nie wydając ani grosza dostajemy zestaw naprawdę świetnych usług. Osoby, które nie miały wcześniej styczności z serwisem bywają nawet zaskoczone.</p>
+<blockquote>
+<p>"Is there a catch i'm missing? How do they offer SSL and a CDN for free? (..)? Are there limits they're not describing on their plans page?"</p>
+<p class="text-right">Źródło: <a href="https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/" target="_blank" rel="nofollow">CloudFlare free plan; too good to be true?</a></p>
+</blockquote>
+<p>Przegląd możliwości, które dostajemy za darmo znajdziemy w kursie <a href="https://app.pluralsight.com/library/courses/cloudflare-security-getting-started/table-of-contents" target="_blank">Getting Started with CloudFlare™ Security</a> Troya Hunta na Pluralsight. Poniżej natomiast przedstawiam te, z których korzystam na blogu:</p>
+<ul>
+<li><strong>Darmowy certyfikat SSL/TLS</strong>. Ponieważ użytkownik łączy się tak naprawdę z serwerem Cloudflare, ma on możliwość zapewnienia dla tego połączenia obsługi SSL. Dostajemy więc łatwy w konfiguracji dostęp do naszej witryny przez <b>HTTPS</b> i to za darmo. To już wystarczający powód, żeby zainteresować się założeniem konta w Cloudflare.</li>
+<li><strong>Wsparcie dla HTTP2</strong>. Połączenie https realizowane jest z użyciem dość nowego standardu HTTP2. Nawet jeśli nasz hosting go nie wspiera (jak np. lubiany przeze mnie <i>Azure Web Apps</i>, gdzie adaptacja HTTP2 idzie bardzo powoli), to w połączeniu użytkownika z Cloudflare będzie on dostępny.</li>
+<li><strong>Analityka ruchu na stronie.</strong> Możemy np. liczyć unikalnych gości bez umieszczania na stronie skryptów takich jak Google Analytics (jeśli ich nie potrzebujemy) i zaoszczędzić na szybkości ładowania się tych skryptów. Cloudflare może policzyć te statystyki, bo cały ruch do naszej strony jest kierowany przez jego serwery.</li>
+<li><strong>Zarządzanie DNS-ami naszej domeny</strong>. Cloudflare ze względu na model działania musi pełnić rolę serwera DNS dla naszej strony. Przy tej okazji zapewnia nam proste narzędzie, które pozwala dodawać poddomeny, domeny dla e-maili czy inne wpisy DNS przy minimalnym ryzyku zepsucia czegoś w konfiguracji.</li>
+<li><strong>Możliwość włączenia HSTS</strong>. Pozwala to wymusić na przeglądarkach użycie HTTPS i znacząco utrudnia niektóre ataki.</li>
+<li><strong>Ochrona przed atakami DDOS</strong>. Ta funkcjonalność jest dla wielu osób flagową usługa Cloudflare. Ryzyko ataków na blogi wydaje się minimalne, ale to miły dodatek.</li>
+<li><strong>Automatyczna minifikacja plików CSS, JS, HTML</strong>. Wykonywana na tyle bezpiecznie, że od dwóch lat nie miałem z nią żadnego problemu.</li>
+<li><strong>Cache dla plików</strong>. A także możliwość łatwej konfiguracji czasu cache'owania konkretnych zasobów przez przeglądarki.</li>
+</ul>
+<p>I to wszystko w ramach darmowej usługi świetnej jakości. Jak tu nie polecić takiego rozwiązania? W związku z tym polecam <a href="https://www.cloudflare.com/" target="_blank">skorzystanie z tych możliwości</a>, gdy tylko znajdziecie chwilę czasu i ochotę na to by podłubać przy swoim projekcie.</p>
+<p>Dzięki za odwiedziny, powodzenia z Waszymi blogami i do zobaczenia!</p>
+
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'https://przedczasem.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare';
+this.page.identifier = 'jak-przyspieszyc-bloga-cloudflare';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//prostodocelu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+            </div>
+        </div>
+    </div>
+</article>    <hr>
+
+    <!-- Footer -->
+    <footer id="page-footer">
+        <div class="container">
+        <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="copyright text-muted">
+                        Copyright © 2017 <a rel="author" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" target="_blank">Paweł Bulwan</a>
+                        <br />
+                            <i class="fa fa-rss"></i> <a href="/feed.rss">RSS</a>
+                        |
+                            <i class="fa fa-rss"></i> <a href="/feed.atom">Atom</a>
+                    </p>
+                </div>
+        </div>
+</div>
+
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+        integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+        crossorigin="anonymous" defer></script>
+
+<script src="/assets/js/bootstrap.min.js" defer></script>
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+        <script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- syntax highlighting -->
+<script src="/assets/js/highlight.pack.js" async onload="hljs.initHighlightingOnLoad()"></script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-92769796-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+    
+    <!--
+    Hack recommended by Google PageSpeed tool:
+    move non-essential stylesheets to bottom, below <html> tag, to make critical rendering path faster
+
+    But on the other hand... http://stackoverflow.com/a/21058277/889779
+    -->
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+</body>
+</html>

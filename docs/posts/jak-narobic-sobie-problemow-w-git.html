@@ -1,0 +1,289 @@
+﻿
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Jak narobi&#x107; sobie (i innym) problem&#xF3;w w Git - Przed czasem</title>
+
+    <meta name="description" content="O b&#x142;&#x119;dach w pracy z systemem git, kt&#xF3;re kopn&#x105; nas dopiero w przysz&#x142;o&#x15B;ci." />    
+    <meta http-equiv="content-language" content="pl">
+    
+    <link hreflang="pl" href="https://blog.taurit.pl/" rel="alternate" />
+    <link rel="index" href="https://blog.taurit.pl/">
+
+    <link type="application/rss+xml" rel="alternate" title="Przed czasem" href="/feed.rss" />
+        <link type="application/atom+xml" rel="alternate" title="Przed czasem" href="/feed.atom" />
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- styles to allow render most useful content quickly, and load the rest of styles asynchronously -->
+    <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
+    <style type="text/css">
+        nav.navbar,
+        #intro-header,
+        div.media-left,
+        hr,
+        div.sidebar,
+        .hidden{
+            display: none;
+        }
+
+        .outline-header {
+            position: absolute;
+            clip: rect(1px 1px 1px 1px); /* for Internet Explorer */
+            clip: rect(1px, 1px, 1px, 1px);
+            padding: 0;
+            border: 0;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+        }
+    </style>
+    <link href="/assets/css/bundle.min.css?v=4" rel="stylesheet" />
+
+    <link href='//fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,400i,800&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
+
+    <meta name="application-name" content="Przed czasem" />
+    <meta name="msapplication-tooltip" content="Przed czasem" />
+    <meta name="msapplication-starturl" content="/" />
+
+    <meta property="og:title" content="Jak narobi&#x107; sobie (i innym) problem&#xF3;w w Git - Przed czasem" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://przedczasem.taurit.pl/posts/jak-narobic-sobie-problemow-w-git" />
+    
+    <link rel="canonical" href="https://przedczasem.taurit.pl/posts/jak-narobic-sobie-problemow-w-git"> 
+    <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
+    <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+    
+    <meta name="theme-color" content="#558eaf"> 
+</head>
+<body>
+    <h1 class="outline-header">Blog &ldquo;Prosto do celu&rdquo;</h1>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <h1 class="outline-header">Menu główne</h1>
+
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" rel="home" href="/">Przed czasem</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="navbar-collapse">
+                <ul class="nav navbar-nav navbar-right">
+                        <li><a href="/" rel="home">Start</a></li>
+            <li><a href="/about">O blogu</a></li>
+            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+<article itemscope itemtype="http://schema.org/BlogPosting">    <!-- Page Header -->
+    <header class="intro-header" id="intro-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+
+    <div class="post-heading">
+    <h1 itemprop="name headline"><a itemprop="mainEntityOfPage" href="https://przedczasem.taurit.pl/posts/jak-narobic-sobie-problemow-w-git" rel="bookmark">Jak narobi&#x107; sobie (i innym) problem&#xF3;w w Git</a></h1>
+         
+    <div class="meta">        
+<meta itemprop="author" content="Paweł Bulwan"/><b>Data publikacji</b>: <time itemprop="datePublished" datetime="2017-04-20T20:52:18&#x2B;02:00">czwartek, 20 kwietnia 2017 r.</time><!--
+                                           
+              --><br /><b>Aktualizacja</b>: <time itemprop="dateModified" datetime="2017-05-06T09:36:10&#x2B;02:00">sobota, 6 maja 2017 r.</time>
+                <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+                    <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+                        <img class="hidden" src="https://blog.taurit.pl/assets/img/taurit-logo.png" alt="Taurit: publisher logo" width="140" height="140" />
+                        <meta itemprop="url" content="https://blog.taurit.pl/assets/img/taurit-logo.png">
+                        <meta itemprop="width" content="140">
+                        <meta itemprop="height" content="140">
+                    </span>
+                    <meta itemprop="name" content="Taurit">
+                </span>
+                <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+                    <meta itemprop="url" content="https://blog.taurit.pl/assets/img/thumbnails/git.jpg" />
+                    <meta itemprop="width" content="150"/>
+                    <meta itemprop="height" content="150"/>
+                </span>        
+        <br></div>
+        <div class="tags" itemprop="keywords">
+                    <a rel="tag" role="button" href="/tags/bezpiecze%C5%84stwo" class="btn btn-default btn-xs">bezpiecze&#x144;stwo</a>
+                    <a rel="tag" role="button" href="/tags/dsp-2017" class="btn btn-default btn-xs">dsp 2017</a>
+                    <a rel="tag" role="button" href="/tags/git" class="btn btn-default btn-xs">git</a>
+                    <a rel="tag" role="button" href="/tags/narz%C4%99dzia" class="btn btn-default btn-xs">narz&#x119;dzia</a>
+                    <a rel="tag" role="button" href="/tags/praca-zespo%C5%82owa" class="btn btn-default btn-xs">praca zespo&#x142;owa</a>
+                    <a rel="tag" role="button" href="/tags/programowanie" class="btn btn-default btn-xs">programowanie</a>
+        </div>     
+</div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div id="content" class="col-md-12">
+                
+
+<h2 id="git-niby-trudno-jest-cos-zepsuc">Git - niby trudno jest coś zepsuć...</h2>
+<p>Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale <code>git</code> stał się w ostatnich latach właściwie <strong>podstawowym narzędziem używanym w IT</strong>. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.</p>
+<p>Zakładam u Ciebie znajomość podstaw tego narzędzia. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że <strong>raz scommitowany kod nie zostanie utracony</strong>. Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi <code>--force</code> lub odhaczenia w GUI pola wyboru typu &quot;wiem co robię&quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-sm-6 col-md-6 col-md-offset-3">
+        <div class="thumbnail">
+            <img src="/assets/img/posts/depression.jpg" alt="Depression" />
+        <div class="caption">
+            <figcaption>Rys. 1. Złe praktyki w zespole developerskim są jedną z najczęstszych przyczyn depresji u programistów (na drugim miejscu, po technologii Microsoft SharePoint). Fot. <a href="https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/" target="_blank" rel="nofollow">Jim Jackson, Pexels</a></figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Jeśli już jednak pracując w zespole zepsujemy coś w ten sposób, prawdopodobnie dowiemy się o tym w przeciągu 24 godzin od innej osoby.</p>
+<p>Przykładowo, <strong>jeśli złośliwie nadpiszemy historię dla gałęzi, to ktoś nie będzie mógł wypchnąć swoich zmian na tę gałąź</strong> (ale będzie miał lokalnie kopię całej pracy, więc dane nie zostaną utracone). Jeśli źle rozwiążemy konflikty, to kod się nie zbuduje albo dostrzeżemy to podczas testu po uruchomieniu aplikacji.</p>
+<h2 id="sa-jednak-puapki-ktore-nas-dotykaja-po-czasie">Są jednak pułapki, które nas dotykają po czasie</h2>
+<p>I jest to zły dotyk. Pewnych problemów na pierwszy rzut oka możemy nie zauważyć, ale z czasem mogą stać się kosztowne.</p>
+<p>Podobnie jak dług techniczny może powolutku i niezauważalnie niszczyć nam projekt od środka, pewne przyzwyczajenia w zespole mogą powodować że <strong>jakość naszego repozytorium z czasem się pogarsza</strong>. Oto dwa z nich.</p>
+<h3 id="commitowanie-duzych-plikow-binarnych">1. Commitowanie dużych plików binarnych</h3>
+<p>Prawdopodobnie większą częśc naszych repozytoriów stanowią rodzaju <strong>pliki tekstowe</strong>. Przez <i>pliki tekstowe</i> rozumiem takie, które w odróżnieniu od <i>binarnych</i> dają się otworzyć i sensownie edytować w notatniku. Pliki takie składają się z tekstu rozdzielonego znakami nowej linii, łatwo możemy je też automatycznymi narzędziami porównywać i wskazywać fragmenty które się różnią. Pliki binarne natomiast zawierają dane, dla których porównywanie danych &quot;linia po linii&quot; nie ma sensu. Są to na przykład obrazki, pliki wykonywalne, spakowane pliki, ikony.</p>
+<p>Jeśli ta definicja wydaje Ci się nieścisła, masz rację. To rozróżnienie jest bardziej umowne. Systemy kontroli wersji <a href="https://stackoverflow.com/questions/7110750/how-do-popular-source-control-systems-differentiate-binary-files-from-text-files" target="_blank">używają heurystyk</a> aby ocenić czy coś jest plikiem tekstowym, czy binarnym, bo muszą je traktować inaczej. Możemy im trochę pomóc, np. w <code>git</code> dodając podpowiedzi w pliku <code>.gitattributes</code>. Pewnie wszyscy mamy jednak wyrobioną pewną intuicję na temat tego, co jest plikiem tekstowym, a co binarnym i powinna nam ona na co dzień wystarczyć.</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-sm-8 col-md-8 col-md-offset-2">
+        <div class="thumbnail">
+            <img src="/assets/img/posts/git-repository-large-files.png" alt="Git: large files stored in repository" />
+        <div class="caption">
+            <figcaption>Rys. 2. Największe pliki kiedykolwiek scommitowane i nadal obecne w kazdej kopii repozytorium mojego bloga. Skrypt listujący takie pliki stworzył <a href="http://stackoverflow.com/a/42544963/889779" target="_blank" title="Skrypt listujący największe pliki w repozytorium Git">raphinesse (zobacz na: StackOverflow)</a></figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Pliki binarne w praktyce mają też pewną częstą cechę - są <b>duże</b>. Co to znaczy duże? Pomyślmy o przykładowych plikach, które można czasem znaleźć na repozytoriach git:</p>
+<ul>
+<li>obrazki jpeg, png</li>
+<li>pliki instalacyjne wtyczek Visual Studio potrzebnych do pracy z projektem,</li>
+<li>programy (exe-ki, dll-ki) będące zależności dla naszej aplikacji, np. <a href="http://www.antoniaklukasz.eu/dsp2017/sposob-na-generowanie-pdf/" target="_blank">wkhtmltopdf</a> do generowania PDF-ów,</li>
+<li>pliki Worda z dokumentacją biznesową,</li>
+<li>pliki Excela z wymaganiami.</li>
+</ul>
+<p>Można by pewnie wymienić jeszcze trochę.</p>
+<p>Nie posunąłbym się może do tak rygorystycznego stwierdzenia jak “<a href="https://robinwinslow.uk/2013/06/11/dont-ever-commit-binary-files-to-git/" target="_blank">Don't ever commit binary files to Git</a>”, ale również w swoich repozytoriach staram się ograniczać pliki binarne do minimum.</p>
+<p>Pamiętajmy bowiem, że <strong>wszystko co commitujemy, zostaje w historii repozytorium już na zawsze</strong>. Jeśli więc na starcie projektu webowego dużo sobie prototypujemy i używamy do tego grafik w rozmiarze <b>4000 x 3000</b>, a do tego często commitujemy zmiany jako &quot;checkpointy&quot; naszej pracy (co jest właściwie dobrą praktyką), to nasze repozytorium będzie szybko puchło.</p>
+<p>Każda osoba, która w przyszłości ściągnie repozytorium, będzie musiała ściągnąć również te obrazki, <strong>choć w bieżącej wersji kodu może ich od dawna nie być</strong>. To nie tylko wolniejsza praca z gitem dla wszystkich członków zespołu, ale też więcej miejsca na dysku zajmowanego przez repozytorium (czasem wiele gigabajtów), oraz np.  trudniejszy backup takich danych.</p>
+<p>A teraz, jeśli chcesz, to zerknij na folder projektu nad którym pracujesz najdłużej i sprawdź ile miejsca na dysku zajmuje. Możesz potem zestawić tę liczbę z <a href="https://confluence.atlassian.com/bitbucket/reduce-repository-size-321848262.html" target="_blank">rekomendacją od firmy Atlassian</a>:</p>
+<blockquote>Ideally, you should keep your repository size to between 100MB and 300MB. To give you some examples: Git itself is 222MB, Mercurial itself is 64MB, and Apache is 225MB. You can check out these open source repositories here: https://bitbucket.org/mirror/ </blockquote>
+<h3 id="commitowanie-hase">2. Commitowanie haseł</h3>
+<p>Fakt, że repozytorium gita &quot;nie zapomina&quot; ma też swoje konsekwencje, jeśli zdarzy nam się wrzucić plik, który zawiera hasło (lub np. <i>connection string</i> do bazy danych).</p>
+<p>Jedną z takich historii, zakończoną sporymi stratami finansowymi <a href="https://niebezpiecznik.pl/post/jak-blad-w-visual-studio-w-kilka-godzin-wygenerowal-firmie-straty-na-25-tys-pln-historia-z-amazonem-i-githubem-w-tle/" target="_blank">opisuje Niebezpiecznik</a>.</p>
+<blockquote>Bitcoinowi kopacze stale skanują źródła na GitHubie w poszukiwaniu kluczy Amazonu, a kiedy je zdobywają zakładają za ich pomocą potężne instancje, które wykorzystują do kopania wirtualnej waluty na czyjś rachunek.</blockquote>
+<p>Jeśli chcesz zobaczyć jak łatwo znaleźć hasło w historii repozytorium, wpisz w wyszukiwarce commitów GitHub frazę <a href="https://github.com/search?q=remove+password&type=Commits&utf8=%E2%9C%93" target="_blank" rel="nofollow">&quot;remove password&quot;</a> - to zawsze poprawia humor ;)</p>
+<div class="row" aria-hidden="true">
+    <figure class="col-sm-8 col-md-8 col-md-offset-2">
+        <div class="thumbnail">
+            <img src="/assets/img/posts/github-result-search-remove-password.png" alt="GitHub: wyniki wyszukiwania dla frazy "usunięto hasło"" />
+        <div class="caption">
+            <figcaption>Rys. 3. Wyniki wyszukiwania dla frazy "remove password" w tytule commita w publicznych repozytoriach na portalu GitHub.</figcaption>
+        </div>
+        </div>
+    </figure>
+</div>
+<p>Pamiętajmy więc, aby przed commitem <strong>zawsze przejrzeć dokładnie wszystko co zmieniliśmy, plik po pliku i linia po linii</strong>. Jeśli już &quot;mleko się wylało&quot; i wcisnęliśmy przycisk &quot;Commit&quot;, ale nie wypchnęliśmy jeszcze zmian na współdzielone repozytorium, to usuńmy lub zmodyfikujmy zmianę z hasłem, zamiast tworzyć kolejną usuwającą hasło (bo to nic nie da i obie będą dostępne w historii, jak na rys. 3).</p>
+<h2 id="czy-to-koniec-puapek">Czy to koniec pułapek?</h2>
+<p>Zapewne nie. Może Ty masz jakieś doświadczenia z gitem, przez które musiałeś lub musiałaś się wstydzić, albo robić nadgodziny? ;-) Jeśli tak, to zachęcam do dzielenia się nimi w komentarzach - w roli przestrogi dla nas wszystkich. Dzięki za odwiedziny!</p>
+
+
+<div id="disqus_thread"></div>
+<script>
+
+var disqus_config = function () {
+this.page.url = 'https://przedczasem.taurit.pl/posts/jak-narobic-sobie-problemow-w-git';
+this.page.identifier = 'jak-narobic-sobie-problemow-w-git';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//prostodocelu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+            </div>
+        </div>
+    </div>
+</article>    <hr>
+
+    <!-- Footer -->
+    <footer id="page-footer">
+        <div class="container">
+        <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="copyright text-muted">
+                        Copyright © 2017 <a rel="author" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" target="_blank">Paweł Bulwan</a>
+                        <br />
+                            <i class="fa fa-rss"></i> <a href="/feed.rss">RSS</a>
+                        |
+                            <i class="fa fa-rss"></i> <a href="/feed.atom">Atom</a>
+                    </p>
+                </div>
+        </div>
+</div>
+
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+        integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+        crossorigin="anonymous" defer></script>
+
+<script src="/assets/js/bootstrap.min.js" defer></script>
+
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+        <script src="/assets/js/html5shiv.js"></script>
+        <script src="/assets/js/respond.min.js"></script>
+<![endif]-->
+
+<!-- syntax highlighting -->
+<script src="/assets/js/highlight.pack.js" async onload="hljs.initHighlightingOnLoad()"></script>
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-92769796-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+
+    
+    <!--
+    Hack recommended by Google PageSpeed tool:
+    move non-essential stylesheets to bottom, below <html> tag, to make critical rendering path faster
+
+    But on the other hand... http://stackoverflow.com/a/21058277/889779
+    -->
+    <link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+</body>
+</html>

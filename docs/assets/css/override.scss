@@ -1,0 +1,226 @@
+﻿$headerBackgroundColor: #f1b602;
+$linkColor: #369CD4;
+$readMoreLinkColor: #000000;
+$postHeadingLinkColor: #ffffff;
+// tasks component:
+$taskColorMediumPriority: #FFDC00;
+$taskColorHighPriority: #FF4136;
+$taskColorLowPriority: #fbfbfb;
+$taskTickColor: #42a442;
+
+
+/* fix: logo too big on desktop */
+#intro-header {
+    background-color: #558eaf;
+}
+
+p.center-wrapper {
+    text-align: center;
+}
+
+#about-page-todoist-top-1 {
+    max-width: 80%;
+}
+/* fix: link color does not differ from text color */
+a {
+    //color: $linkColor;
+}
+/* fix: disqus commends should leave some space */
+#disqus_thread {
+    margin-top: 30px;
+}
+/* fix: theme targets page footer by element name */
+footer {
+    padding: 0; /*reset*/
+}
+
+#page-footer {
+    padding: 50px 0 65px;
+}
+/* fix: font too big */
+.empty-list-fallback {
+    font-size: 0.8em;
+    font-style: italic;
+}
+/* feature: task list */
+todo-list {
+    display: block;
+
+    tasks {
+        display: block;
+        padding: 15px;
+
+        task {
+            display: block;
+            margin-bottom: 2px;
+            font-size: 0.9em;
+
+            $taskHeight: 18px;
+
+            task-priority {
+                display: inline-block;
+                vertical-align: top;
+                line-height: $taskHeight;
+                width: $taskHeight;
+                height: $taskHeight;
+                border-radius: 35%;
+                border: 1px solid #D5D5D5;
+
+                &.high {
+                    background-color: $taskColorHighPriority;
+                }
+
+                &.medium {
+                    background-color: $taskColorMediumPriority;
+                }
+
+                &.low {
+                    background-color: $taskColorLowPriority;
+                }
+            }
+
+            &:hover {
+                task-priority:after {
+                    content: "✔";
+                    color: $taskTickColor;
+                }
+            }
+
+            task-description {
+                display: inline-block;
+                vertical-align: top;
+                line-height: $taskHeight;
+                margin-left: 3px;
+                cursor: default;
+                position: relative;
+                top: 1px; // for border
+            }
+        }
+    }
+}
+/* fix: spacing for paragraphs is too big in my opinion */
+p {
+    margin: 16px 0;
+}
+
+.post-thumbnail {
+    border: 1px solid #dcdcdc;
+    margin-top: 7px;
+}
+/* fix: align post title with thumbnail image on a list */
+.post-preview .media-body p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.media-left {
+    padding-right: 14px
+}
+
+p.read-more {
+    text-align: right;
+
+    a {
+        color: $readMoreLinkColor;
+    }
+}
+
+a img:hover,
+a img:focus {
+    cursor: pointer;
+}
+
+.post-heading h1 a {
+    color: $postHeadingLinkColor;
+
+    &:hover {
+        color: $postHeadingLinkColor;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .post-preview .media .media-left {
+        display: none;
+    }
+}
+
+// reverse inlined styles for quick rendering of critical path
+nav.navbar, #intro-header, hr, div.sidebar {
+    display: block;
+}
+
+div.media-left {
+    display: table-cell;
+}
+// end: reverse inlined styles
+
+.navbar-custom.is-fixed {
+    background-color: rgba(255,255,255,0.2);
+    border: 0;
+}
+
+.navbar-custom.is-fixed .navbar-brand, .navbar-custom.is-fixed .navbar-brand:hover, .navbar-custom.is-fixed .navbar-brand:focus,
+.navbar-custom.is-fixed .nav li a {
+    color: #ffffff !important;
+}
+
+
+.sidebar .media {
+    img {
+        $size: 50px;
+        width: $size;
+        height: $size;
+        border: 1px solid #dcdcdc;
+    }
+
+    font-size: 14px;
+}
+
+ul li a {
+    text-decoration: underline;
+}
+
+.disqus-comments-count-container {
+    margin-left: 10px;
+}
+
+.disqus-comments-count-container-sidebar {
+    margin-left: 4px;
+    color: #a1a1a1;
+}
+
+
+.post-list-post-thumbnail {
+    width: 75px;
+}
+
+.content-index {
+    .media-body {
+        h3 {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .post-meta {
+            margin-top: 5px;
+        }
+    }
+}
+
+.tags-sidebar {
+    vertical-align: top;
+}
+
+.article-title-index {
+    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+.sidebar aside p {
+    font-size: 14px;
+}
+
+.semibold {
+    font-weight: 400;
+}

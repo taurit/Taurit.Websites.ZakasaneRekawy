@@ -1,0 +1,12 @@
+[
+  {
+    "outputFileName": "assets/css/bundle.css",
+    "inputFiles": [
+      "assets/css/bootstrap.css",
+      "assets/css/highlight.css",
+      "assets/css/clean-blog.css",
+      "assets/css/master.css",
+      "assets/css/override.css"
+    ]
+  }
+]
