@@ -4,7 +4,7 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-10T19:43:34Z</updated>
+	<updated>2017-06-11T08:10:06Z</updated>
 	<subtitle>Blog o tym, jak sprawnie przejść przez obowiązki i mieć więcej czasu o którym to my decydujemy.</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany" />
@@ -734,7 +734,7 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
-		<summary>O tym, gdzie można obejrzeć działającą wersję aplikacji</summary>
+		<summary>Link do wersji alpha aplikacji Revisionist</summary>
 	</entry>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/zycie-bez-papieru" />
@@ -1551,9 +1551,9 @@ s.setAttribute('data-timestamp', +new Date());
     &lt;/thead&gt;
     &lt;tbody&gt;
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href="https://www.easytocode.pl/" rel="nofollow"&gt;https://www.easytocode.pl/&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;del title="2017-06-11: brak dostępu - źle skonfigurowany SSL"&gt;https://www.easytocode.pl/&lt;/del&gt;&lt;/td&gt;
             &lt;td class="text-success"&gt;100&lt;/td&gt;
-            &lt;td&gt;Strona na Wordpressie, raczej minimalistyczny design ale bez skrajności, na razie tylko jeden wpis. Obecnie również &lt;span class="bg-warning text-warning"&gt;ma problem ze źle skonfigurowanym TLS-em&lt;/span&gt;, ale maksuje punktację :)&lt;/td&gt;
+            &lt;td&gt;Strona na Wordpressie, raczej minimalistyczny design ale bez skrajności, na razie tylko jeden wpis. Tak czy inaczej, maksuje punktację :)&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;&lt;a href="https://arturtamborski.pl/" rel="nofollow"&gt;https://arturtamborski.pl/&lt;/a&gt;&lt;/td&gt;
@@ -1561,9 +1561,9 @@ s.setAttribute('data-timestamp', +new Date());
             &lt;td&gt;Wyraźny minimalizm w wyglądzie i w kodzie, renderuje się dzięki temu naprawdę szybko&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href="https://www.finalcommit.com/" rel="nofollow"&gt;https://www.finalcommit.com/&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;del title="2017-06-11: brak dostępu - źle skonfigurowany SSL"&gt;https://www.finalcommit.com/&lt;/del&gt;&lt;/td&gt;
             &lt;td class="text-success"&gt;96&lt;/td&gt;
-            &lt;td&gt;Blog na Wordpressie, pojawiają się zarówno grafiki jak i co nieco styli, na razie jeszcze minimum treści. &lt;span class="bg-warning text-warning"&gt;TLS również coś nie hula&lt;/span&gt; ;)&lt;/td&gt;
+            &lt;td&gt;Blog na Wordpressie, pojawiają się zarówno grafiki jak i co nieco styli, na razie jeszcze minimum treści.&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
             &lt;td&gt;&lt;a href="https://wzieba.github.io/" rel="nofollow"&gt;https://wzieba.github.io/&lt;/a&gt;&lt;/td&gt;
@@ -1571,17 +1571,17 @@ s.setAttribute('data-timestamp', +new Date());
             &lt;td&gt;Minimalistyczny wygląd, prawdopodobnie statycznie wygenerowana strona, hosting na GitHub Pages&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href="https://torrocus.github.io/" rel="nofollow"&gt;https://torrocus.github.io/&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;del title="2017-06-11: pusty blog"&gt;https://torrocus.github.io/&lt;/del&gt;&lt;/td&gt;
             &lt;td class="text-success"&gt;96&lt;/td&gt;
             &lt;td&gt;Minimalistyczny wygląd, prawdopodobnie statycznie wygenerowana strona, hosting na GitHub Pages&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href="http://adambac.com/" rel="nofollow"&gt;http://adambac.com/&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;del title="2017-06-11: 404 Not Found"&gt;http://adambac.com/&lt;/del&gt;&lt;/td&gt;
             &lt;td class="text-success"&gt;96&lt;/td&gt;
             &lt;td&gt;Minimalistyczny wygląd&lt;/td&gt;
         &lt;/tr&gt;
         &lt;tr&gt;
-            &lt;td&gt;&lt;a href="https://arkadiog.com/" rel="nofollow"&gt;https://arkadiog.com/&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;del title="2017-06-11: brak dostępu - źle skonfigurowany SSL"&gt;https://arkadiog.com/&lt;/del&gt;&lt;/td&gt;
             &lt;td class="text-success"&gt;96&lt;/td&gt;
             &lt;td&gt;Strona na Wordpressie, theme używa dość wielu zasobów takich jak CSS, obrazy, a mimo to punktacja jest wysoka&lt;/td&gt;
         &lt;/tr&gt;
