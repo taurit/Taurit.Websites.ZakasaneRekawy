@@ -166,3 +166,20 @@ ul li a {
   .skip-to-main-content:focus {
     left: 0; }
 
+#content a:focus, #page-footer a:focus {
+  color: #000;
+  background-color: #feffbf;
+  outline: 2px dotted #d4b32a;
+  text-decoration: none; }
+  #content a:focus h1, #content a:focus h2, #content a:focus h3, #content a:focus h4, #content a:focus h5, #page-footer a:focus h1, #page-footer a:focus h2, #page-footer a:focus h3, #page-footer a:focus h4, #page-footer a:focus h5 {
+    background-color: #feffbf; }
+
+.navbar-nav a {
+  text-decoration: none; }
+  .navbar-nav a:hover {
+    text-decoration: underline; }
+  .navbar-nav a:focus {
+    color: #fff !important;
+    background-color: #000 !important;
+    outline: 2px dotted #60e3ff; }
+

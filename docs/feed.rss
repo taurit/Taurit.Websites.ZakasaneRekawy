@@ -5,8 +5,8 @@
 		<link>https://przedczasem.taurit.pl/</link>
 		<description>Blog o tym, jak odciążyć się z rutynowych obowiązków i realizować swoje plany bez opóźnień</description>
 		<copyright>2017</copyright>
-		<pubDate>Thu, 15 Jun 2017 12:48:41 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Jun 2017 12:48:41 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Jun 2017 16:06:09 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Jun 2017 16:06:09 GMT</lastBuildDate>
 		<item>
 			<title>Revisionist 0.0.1 wydany!</title>
 			<link>https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany</link>
@@ -150,7 +150,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Serwery te mogą również działać jako &lt;i&gt;cache&lt;/i&gt; i przechowują najczęściej pobierane zasoby. Niekiedy czytelnik który na nią wchodzi nie będzie musiał się nawet wcale kontaktować z oryginalnym, dalszym geograficznie serwerem.&lt;/p&gt;
 &lt;h2 id="co-dostajemy-za-darmo"&gt;Co dostajemy za darmo?&lt;/h2&gt;
 &lt;p&gt;Nie wydając ani grosza dostajemy zestaw naprawdę świetnych usług. Osoby, które nie miały wcześniej styczności z serwisem bywają nawet zaskoczone.&lt;/p&gt;
-&lt;blockquote&gt;
+&lt;blockquote lang="en"&gt;
 &lt;p&gt;"Is there a catch i'm missing? How do they offer SSL and a CDN for free? (..)? Are there limits they're not describing on their plans page?"&lt;/p&gt;
 &lt;p class="text-right"&gt;Źródło: &lt;a href="https://www.reddit.com/r/Wordpress/comments/2zpq2g/cloudflare_free_plan_too_good_to_be_true/" target="_blank" rel="nofollow"&gt;CloudFlare free plan; too good to be true?&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -197,9 +197,9 @@ s.setAttribute('data-timestamp', +new Date());
 			<pubDate>Thu, 25 May 2017 21:41:01 GMT</pubDate>
 			<content:encoded>&lt;h2 id="cel-w-100-dni"&gt;Cel w 100 dni&lt;/h2&gt;
 &lt;p&gt;Ile czasu potrzebujesz, żeby osiągnąć &lt;strong&gt;najważniejszy dla Ciebie obecnie cel&lt;/strong&gt;? To pewnie dla większości z nas trudne pytanie, bo im horyzont czasowy dłuższy, tym więcej niepewności. W dodatku jeśli jesteśmy na początku drogi, np. myślimy o rozkręceniu nowego projektu, to może nam brakować perspektywy albo doświadczenia żeby w ogóle zaplanować swoje działania.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;The Freedom Journal&lt;/em&gt; to projekt, który ma nam pomóc &lt;strong&gt;osiągnąć cel w 100 dni&lt;/strong&gt;. Projekt &lt;a href="https://www.kickstarter.com/projects/eofire/the-freedom-journal-accomplish-your-1-goal-in-100" rel="nofollow" target="_blank"&gt;zebrał na portalu Kickstarter&lt;/a&gt; ponad $450,000 i od czasu jego pojawienia się na rynku zdążył zaskarbić sobie wielu fanów. Póki co głównie w Stanach Zjednoczonych i Kanadzie, bo jedynie tam jest dystrybuowany. Są też jednak opcje dla ludzi z naszego kontynentu, o czym później.&lt;/p&gt;
-&lt;h2 id="the-freedom-journal-dziennik-dla-leniwych"&gt;The Freedom Journal: dziennik dla leniwych?&lt;/h2&gt;
-&lt;p&gt;Pomysł jest prosty, a jednocześnie wydaje mi się oryginalny, bo z niczym podobnym wcześniej się nie spotkałem. &lt;em&gt;The Freedom Journal&lt;/em&gt; jest w zasadzie &lt;strong&gt;notatnikiem&lt;/strong&gt;, ale takim, który... podpowiada nam co pisać.&lt;/p&gt;
+&lt;p&gt;&lt;em lang="en"&gt;The Freedom Journal&lt;/em&gt; to projekt, który ma nam pomóc &lt;strong&gt;osiągnąć cel w 100 dni&lt;/strong&gt;. Projekt &lt;a href="https://www.kickstarter.com/projects/eofire/the-freedom-journal-accomplish-your-1-goal-in-100" rel="nofollow" target="_blank"&gt;zebrał na portalu Kickstarter&lt;/a&gt; ponad $450,000 i od czasu jego pojawienia się na rynku zdążył zaskarbić sobie wielu fanów. Póki co głównie w Stanach Zjednoczonych i Kanadzie, bo jedynie tam jest dystrybuowany. Są też jednak opcje dla ludzi z naszego kontynentu, o czym później.&lt;/p&gt;
+&lt;h2 id="the-freedom-journal-dziennik-dla-leniwych"&gt;&lt;span lang="en"&gt;The Freedom Journal&lt;/span&gt;: dziennik dla leniwych?&lt;/h2&gt;
+&lt;p&gt;Pomysł jest prosty, a jednocześnie wydaje mi się oryginalny, bo z niczym podobnym wcześniej się nie spotkałem. &lt;em lang="en"&gt;The Freedom Journal&lt;/em&gt; jest w zasadzie &lt;strong&gt;notatnikiem&lt;/strong&gt;, ale takim, który... podpowiada nam co pisać.&lt;/p&gt;
 &lt;p&gt;Dziennik ten pomaga nam w codziennym planowaniu akcji, które mają nas prowadzić do osiągnięcia określonego przez nas celu. Kto planuje swoje działania z wyprzedzeniem, wie jaką siłą jest przeznaczenie odrobiny czasu na przemyślenie planu zanim rzucimy się do działań.&lt;/p&gt;
 &lt;p&gt;Ten dziennik nadaje naszemu planowaniu systematyczność i pewien porządek. Wystarczy podążać za pytaniami, które inspirują nas zarówno do kreatywnego jak i racjonalnego myślenia i pozwalają posunąć się naprzód w przedsięwzięciach.&lt;/p&gt;
 &lt;div class="row" aria-hidden="true"&gt;
@@ -225,7 +225,7 @@ s.setAttribute('data-timestamp', +new Date());
     &lt;/figure&gt;
 &lt;/div&gt;
 &lt;p&gt;Pomysł podoba mi się z tego powodu, że wydaje się &lt;strong&gt;zmniejszać do minimum opór przed planowaniem&lt;/strong&gt; dużego przedsięwzięcia. Myślę, że również dość łatwo przywiązać się do tej książeczki, która jest ładnie i jakościowo wydana, i tym bardziej potraktować swoje zobowiązanie codziennego pisania na poważnie.&lt;/p&gt;
-&lt;p&gt;Tak jak wspomniałem, &lt;a href="https://thefreedomjournal.com/" target="_blank"&gt;The Freedom Journal&lt;/a&gt; jest obecnie sprzedawany jedynie na kontynencie amerykańskim. Na ten moment nakład w brytyjskim sklepie Amazon się skończył, co uniemożliwia tanią dostawę zakupu do Polski. Najlepszą opcją jaką w tej sytuacji widzę, jest wzięcie sprawy w swoje ręce i skorzystanie z wersji elektronicznej, którą dostajemy w PDF-ie i możemy wydrukować. Wariant elektroniczny kosztuje $30, ale możemy dość łatwo uzyskać zniżkę do $25, co przy dzisiejszym tanim kursie dolara pozwala na zakup &lt;strong&gt;w cenie ok. 93 zł&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Tak jak wspomniałem, &lt;a href="https://thefreedomjournal.com/" target="_blank" lang="en"&gt;The Freedom Journal&lt;/a&gt; jest obecnie sprzedawany jedynie na kontynencie amerykańskim. Na ten moment nakład w brytyjskim sklepie Amazon się skończył, co uniemożliwia tanią dostawę zakupu do Polski. Najlepszą opcją jaką w tej sytuacji widzę, jest wzięcie sprawy w swoje ręce i skorzystanie z wersji elektronicznej, którą dostajemy w PDF-ie i możemy wydrukować. Wariant elektroniczny kosztuje $30, ale możemy dość łatwo uzyskać zniżkę do $25, co przy dzisiejszym tanim kursie dolara pozwala na zakup &lt;strong&gt;w cenie ok. 93 zł&lt;/strong&gt;.&lt;/p&gt;
 
 
 &lt;div&gt;
@@ -337,7 +337,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Postanowiłem więc trochę zoptymalizować składowanie danych.&lt;/p&gt;
 &lt;h2 id="moj-wybor-jpeg2000"&gt;Mój wybór: Jpeg2000&lt;/h2&gt;
 &lt;p&gt;Wyszedłem od formatu JPEG, w którym typowo zachowywane są zdjęcia na smartfonie. Poszukując czegoś, co zapewni lepszy stopień kompresji dla skanów, dość szybko trafiłem na &lt;a href="https://jpeg.org/jpeg2000/" target="_blank"&gt;standard JPEG2000&lt;/a&gt;. Już kilka cytowanych niżej zdań zabrzmiało zachęcająco.&lt;/p&gt;
-&lt;blockquote cite="http://www.dpbestflow.org/file-format/archive-file-formats#jpeg"&gt;Some of the cultural institutions finding JPEG2000 to be the best current solution for their archiving needs include &lt;b&gt;The Library of Congress&lt;/b&gt;, &lt;b&gt;the Harvard University Library&lt;/b&gt;, &lt;b&gt;Library and Archives Canada&lt;/b&gt;, &lt;b&gt;Chronicling America&lt;/b&gt; website and the &lt;b&gt;Google Library Project&lt;/b&gt;.&lt;br&gt;
+&lt;blockquote cite="http://www.dpbestflow.org/file-format/archive-file-formats#jpeg" lang="en"&gt;Some of the cultural institutions finding JPEG2000 to be the best current solution for their archiving needs include &lt;b&gt;The Library of Congress&lt;/b&gt;, &lt;b&gt;the Harvard University Library&lt;/b&gt;, &lt;b&gt;Library and Archives Canada&lt;/b&gt;, &lt;b&gt;Chronicling America&lt;/b&gt; website and the &lt;b&gt;Google Library Project&lt;/b&gt;.&lt;br&gt;
 &lt;br&gt;
 Źródło: &lt;a href="http://www.dpbestflow.org/file-format/archive-file-formats#jpeg" target="_blank" rel="nofollow"&gt;dpbestflow.org/file-format/archive-file-formats#jpeg&lt;/a&gt;&lt;/blockquote&gt;
 &lt;p&gt;Skoro tak duże instytucje wybrały ten format, to musi on mieć parę zalet.&lt;/p&gt;
@@ -490,7 +490,7 @@ s.setAttribute('data-timestamp', +new Date());
     &lt;li&gt;Niektóre aplikacje jak Microsoft OneNote przy wklejaniu wiedzą z jakiej strony internetowej skopiowałeś fragment?&lt;/li&gt;
     &lt;li&gt;Tekst skopiowany z przeglądarki internetowej możemy wkleić do notatnika jako czysty tekst, a do Worda z zachowaniem formatowania?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Kluczem do tego jest fakt, że dane w schowku są równocześnie przechowywane w różnych formatach, np. czystego tekstu, html albo tekstu sformatowanego (ang. &lt;i&gt;rich text&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;Kluczem do tego jest fakt, że dane w schowku są równocześnie przechowywane w różnych formatach, np. czystego tekstu, html albo tekstu sformatowanego (ang. &lt;i lang="en"&gt;rich text&lt;/i&gt;).&lt;/p&gt;
 &lt;p&gt;Program mieści się w zaledwie 46 kilobajtach. Jeśli jesteś developerem, warto choć na chwilę się mu przyjrzeć w działaniu, żeby wyrobić sobie wyobraźnię na temat tego jak działa tak podstawowe narzędzie jak schowek.&lt;/p&gt;
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Schowek jaki jest każdy widzi. Jeśli zastosował opisane wyżej narzędzia to widzi nawet znacznie wyraźniej ;)&lt;/p&gt;
@@ -586,7 +586,7 @@ s.setAttribute('data-timestamp', +new Date());
         &lt;/div&gt;
     &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;To podejście &lt;strong&gt;przypomina mi inne solidne projekty tworzone w ostatnim czasie przez Microsoft&lt;/strong&gt;. &lt;i&gt;Visual Studio Code&lt;/i&gt; również od pierwszej wersji było publicznie dostępne i wdrażało feedback od użytkowników. &lt;i&gt;OneNote&lt;/i&gt; czy &lt;i&gt;Office Lens&lt;/i&gt; o których pisałem w artykule &lt;a href="/posts/zycie-bez-papieru" target="_blank"&gt;Życie bez papieru&lt;/a&gt; są minimalistyczne, zintegrowane z chmurą, dostępne w tej samej świetnej jakości na wszystkich platformach. &lt;i&gt;To-Do&lt;/i&gt; świetnie wpasowuje się w ten krajobraz.&lt;/p&gt;
+&lt;p&gt;To podejście &lt;strong&gt;przypomina mi inne solidne projekty tworzone w ostatnim czasie przez Microsoft&lt;/strong&gt;. &lt;i&gt;Visual Studio Code&lt;/i&gt; również od pierwszej wersji było publicznie dostępne i wdrażało feedback od użytkowników. &lt;i&gt;OneNote&lt;/i&gt; czy &lt;i lang="en"&gt;Office Lens&lt;/i&gt; o których pisałem w artykule &lt;a href="/posts/zycie-bez-papieru" target="_blank"&gt;Życie bez papieru&lt;/a&gt; są minimalistyczne, zintegrowane z chmurą, dostępne w tej samej świetnej jakości na wszystkich platformach. &lt;i&gt;To-Do&lt;/i&gt; świetnie wpasowuje się w ten krajobraz.&lt;/p&gt;
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Nowa aplikacja od globalnego giganta to dopiero zalążek prawdziwego systemu do zarządzania zadaniami. Myślę natomiast, że podstawa aplikacji jaką widzimy jest dobra i przyjemnie będzie obserwować jak projekt się rozwinie.&lt;/p&gt;
 &lt;p&gt;W tej chwili &lt;i&gt;To-Do&lt;/i&gt; &lt;strong&gt;nie implementuje rewolucyjnych pomysłów&lt;/strong&gt;. Nie ma na ten moment żadnego ukłonu w stronę sposobu zarządzania zadaniami proponowanego np. przez GTD. Nie ma i raczej nigdy nie będzie większej uwagi skupionej prywatności (nadal czekam, aż ktoś opracuję listę zadań wierną zasadzie &lt;i&gt;zero-knowledge encryption&lt;/i&gt;). Jest natomiast prosta, darmowa aplikacja &lt;strong&gt;budząca zaufanie w to, że dane nie zostaną utracone&lt;/strong&gt;, będą poprawnie synchronizowane, i będziemy mieli do nich wygodny dostęp z każdego miejsca.&lt;/p&gt;
@@ -772,7 +772,7 @@ s.setAttribute('data-timestamp', +new Date());
 			<pubDate>Thu, 06 Apr 2017 18:24:18 GMT</pubDate>
 			<content:encoded>&lt;h2 id="ksiazki-z-domu-pokom-lzej"&gt;Książki z domu, półkom lżej&lt;/h2&gt;
 &lt;p&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że &lt;strong&gt;więcej nie znaczy lepiej&lt;/strong&gt;. Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;
-&lt;p&gt;Jednocześnie same &lt;i&gt;informacje&lt;/i&gt; które na tych papierowych nośnikach posiadamy, praktycznie nic nie ważą (choć fani Lema mogą znaleźć przykłady przeczące tej tezie). Nośniki danych są już mikroskopijnie małe. W dodatku usługi dysku w chmurze takie jak &lt;i&gt;OneDrive&lt;/i&gt;, &lt;i&gt;Google Drive&lt;/i&gt; czy &lt;i&gt;Dropbox&lt;/i&gt; dostarczają tyle przestrzeni, że możemy w nich spokojnie przechować całość posiadanych przez nas notatek, książek, faktur, paragonów czy innych rzeczy które tradycyjnie gromadzilismy na papierze.&lt;/p&gt;
+&lt;p&gt;Jednocześnie same &lt;i&gt;informacje&lt;/i&gt; które na tych papierowych nośnikach posiadamy, praktycznie nic nie ważą (choć fani Lema mogą znaleźć przykłady przeczące tej tezie). Nośniki danych są już mikroskopijnie małe. W dodatku usługi dysku w chmurze takie jak &lt;i lang="en"&gt;OneDrive&lt;/i&gt;, &lt;i&gt;Google Drive&lt;/i&gt; czy &lt;i&gt;Dropbox&lt;/i&gt; dostarczają tyle przestrzeni, że możemy w nich spokojnie przechować całość posiadanych przez nas notatek, książek, faktur, paragonów czy innych rzeczy które tradycyjnie gromadzilismy na papierze.&lt;/p&gt;
 &lt;h2 id="jaka-strategie-przyjac"&gt;Jaką strategię przyjąć?&lt;/h2&gt;
 &lt;p&gt;Osobiście staram się utrzymać rygor, w którym &lt;i&gt;digitalizuję&lt;/i&gt; wszystkie dokumenty które posiadam i pozbywam się papierowych odpowiedników zawsze, kiedy to tylko możliwe.&lt;/p&gt;
 &lt;p&gt;Zauważyłem, że niektóre "papiery" mógłbym wyrzucić nawet bez tworzenia ich cyfrowej kopii, bo nie będą już nigdy potrzebne. Jeśli jednak trzyma nas przy nich np. sentyment, to ich digitalizacja jest sprytnym trikiem, żeby &lt;i&gt;zjeść ciastko i mieć ciastko&lt;/i&gt;. Papiery znikają z półki, a jednocześnie jeśli zapragniemy, to mamy do nich dostęp.&lt;/p&gt;
@@ -809,7 +809,7 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
 &lt;p&gt;Zapewne masz już jakiś system przechowywania danych na komputerze, mniej lub bardziej przemyślany. Na pewno też najlepiej potrafisz go zaprojektować pod swoje potrzeby.&lt;/p&gt;
 &lt;p&gt;Ze swojej strony mogę natomiast podsunąć kilka narzędzi, które zrewolucjonizowały u mnie na różnych etapach katalogowanie cyfrowych informacji.&lt;/p&gt;
 &lt;h3 id="onenote-wersja-desktop"&gt;OneNote (wersja desktop)&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.onenote.com" target="_blank"&gt;OneNote&lt;/a&gt;, moja ulubiona aplikacja pakietu Microsoft Office, od jakiegoś czasu jest dostępna dla wszystkich za darmo.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.onenote.com" target="_blank" lang="en"&gt;OneNote&lt;/a&gt;, moja ulubiona aplikacja pakietu Microsoft Office, od jakiegoś czasu jest dostępna dla wszystkich za darmo.&lt;/p&gt;
 &lt;p&gt;W wersji desktopowej (bardziej dojrzałej niż wariant mobilny dostarczany z Windows 10) to świetnie dopracowane narzędzie do tworzenia notatek i współdzielenia ich z innymi, lub zachowywania ich jako prywatnych. Notesy &lt;strong&gt;mogą być szyfrowane&lt;/strong&gt; silnym algorytmem AES128, dzięki czemu pozostają dostępne tylko dla nas, mimo przechowywania w publicznej chmurze.&lt;/p&gt;
 &lt;div class="row" aria-hidden="true"&gt;
     &lt;figure class="col-sm-8 col-md-8 col-md-offset-2"&gt;
@@ -834,7 +834,7 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
         &lt;/div&gt;
     &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Aplikacja stosuje podejście &lt;i&gt;zero knowledge&lt;/i&gt; i nie przechowuje żadnych kluczy dostępu u siebie. Wszystkie dane są szyfrowane na naszej maszynie przed wysłaniem do chmury. W tej sytuacji nawet w razie wycieku danych od dostawcy dysku w chmurze mamy pewność, że nikt inny nie będzie się w stanie do nich dostać.&lt;/p&gt;
+&lt;p&gt;Aplikacja stosuje podejście &lt;i lang="en"&gt;zero knowledge&lt;/i&gt; i nie przechowuje żadnych kluczy dostępu u siebie. Wszystkie dane są szyfrowane na naszej maszynie przed wysłaniem do chmury. W tej sytuacji nawet w razie wycieku danych od dostawcy dysku w chmurze mamy pewność, że nikt inny nie będzie się w stanie do nich dostać.&lt;/p&gt;
 &lt;h3 id="microsoft-office-lens"&gt;Microsoft Office Lens&lt;/h3&gt;
 &lt;p&gt;Stacjonarny skaner to dla codziennych zastosowań przeżytek. Smartfony radzą dziś sobie z zadaniem digitalizacji dokumentów wystarczająco dobrze, dzięki aparatom o naprawdę dobrych parametrach.&lt;/p&gt;
 &lt;p&gt;Sam aparat to jednak dopiero połowa rozwiązania. Istnieją dedykowane aplikacje, które potrafią znacznie więcej: wykryją krawędzie papieru na zdjęciu, wyprostują obraz, poprawią oświetlenie i czytelność tekstu, a nawet rozpoznają tekst i wrzucą go w odpowiednie miejsce.&lt;/p&gt;
@@ -848,8 +848,8 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
         &lt;/div&gt;
     &lt;/figure&gt;
 &lt;/div&gt;
-&lt;p&gt;Sam używam na Androidzie &lt;a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;amp;hl=pl" target="_blank"&gt;Office Lens&lt;/a&gt; od Microsoft. Jest minimalistyczny, integruje się dobrze ze światem Microsoftu (OneDrive, OneNote), spełnia swoje zadanie.&lt;/p&gt;
-&lt;p&gt;Wśród polecanych aplikacji tego typu mówi się również często o &lt;a href="https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&amp;amp;hl=pl" target="_blank"&gt;Genius Scan&lt;/a&gt; oraz &lt;a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;amp;hl=pl" target="_blank"&gt;Google Drive&lt;/a&gt;, które posiada opcję skanowania. Osobiście jeszcze nie próbowałem, choć jestem ciekawy jakie funkcjonalności proponują oprócz tych, które znam z &lt;i&gt;Office Lens&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Sam używam na Androidzie &lt;a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;amp;hl=pl" target="_blank" lang="en"&gt;Office Lens&lt;/a&gt; od Microsoft. Jest minimalistyczny, integruje się dobrze ze światem Microsoftu (OneDrive, OneNote), spełnia swoje zadanie.&lt;/p&gt;
+&lt;p&gt;Wśród polecanych aplikacji tego typu mówi się również często o &lt;a href="https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&amp;amp;hl=pl" target="_blank" lang="en"&gt;Genius Scan&lt;/a&gt; oraz &lt;a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;amp;hl=pl" target="_blank" lang="en"&gt;Google Drive&lt;/a&gt;, które posiada opcję skanowania. Osobiście jeszcze nie próbowałem, choć jestem ciekawy jakie funkcjonalności proponują oprócz tych, które znam z &lt;i&gt;Office Lens&lt;/i&gt;.&lt;/p&gt;
 &lt;h2 id="a-czy-ty-uzywasz-jeszcze-papieru"&gt;A czy Ty używasz jeszcze papieru?&lt;/h2&gt;
 &lt;p&gt;W moim pokoju jedna półka wciąż straszy stertą papierów, o których losie muszę zdecydować. Kilka książek czeka w kolejce na to żeby się ich pozbyć, kilka starych segregatorów na przejrzenie. Na szczęście kolejka jest coraz mniejsza i już prawie nie rośnie. Jeśli nowej książki nie mogę dostać w formie audiobooka lub e-booka, to raczej jej nie kupię ;)&lt;/p&gt;
 &lt;p&gt;A Ty jak radzisz sobie ze stertami dokumentów, wizytówek, notatek i książek? &lt;strong&gt;Zachęcam do dzielenia się swoimi sztuczkami i sposobami i komentowania&lt;/strong&gt; i dziękuję za odwiedziny na blogu!&lt;/p&gt;
@@ -928,7 +928,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;strong&gt;Pierwsza skrajność, to odcięcie się od całej poczty i powiadomień np. podczas pracy&lt;/strong&gt;. Nie dowiemy się wtedy np. o tym, że mamy do odebrania paczkę w paczkomacie, albo dostaliśmy wiadomość od osoby która jest dla nas ważna. Albo, że dostaliśmy coś zaadresowanego bezpośrednio do nas od nieznanej osoby. Będzie nas wtedy kusiło, żeby od czasu do czasu ręcznie sprawdzić skrzynkę. Jeśli przez pracę rozumiemy 8h w biurze na etacie — powodzenia w walce z takimi pokusami!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Druga skrajność, to otrzymywanie powiadomień o wszystkim&lt;/strong&gt;. Prawdopodobnie jest wiele maili, które są umiarkowanie ekscytujące i mogą poczekać aż przysiądziemy na spokojnie przy większym monitorze. Pewnie są też takie, z którymi nic nie możemy zrobić na smartfonie. Przykładowo, sam nie odpisuję na komentarze na forach czy blogach na smartfonie, tylko zawsze robię to z laptopa gdzie jest to dużo wygodniejsze. Tym samym nie potrzebuję powiadomień aż do czasu, gdy realnie będę mógł na wiadomość &lt;i&gt;odpisać&lt;/i&gt;, &lt;i&gt;przyjąć ją do wiadomości i zarchiwizować&lt;/i&gt;, lub &lt;i&gt;wyrzucić&lt;/i&gt; maila.&lt;/p&gt;
 &lt;h2 id="a-jak-wyglada-twoj-workflow"&gt;A jak wygląda Twój Workflow?&lt;/h2&gt;
-&lt;p&gt;Czy Ty również stosujesz w zarządzaniu pocztą e-mail jakieś triki? Może znasz jeszcze inne metody, aby regularnie osiągnąć &lt;i&gt;Inbox Zero&lt;/i&gt;? ;) Zachęcam do podzielenia się swoimi sposobami i dziękuję za odwiedziny!&lt;/p&gt;
+&lt;p&gt;Czy Ty również stosujesz w zarządzaniu pocztą e-mail jakieś triki? Może znasz jeszcze inne metody, aby regularnie osiągnąć &lt;i lang="en"&gt;Inbox Zero&lt;/i&gt;? ;) Zachęcam do podzielenia się swoimi sposobami i dziękuję za odwiedziny!&lt;/p&gt;
 
 
 &lt;div&gt;
@@ -1399,7 +1399,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Ciekawą i chyba najbardziej pouczającą obserwacją wydaje mi się to, że na listę todo wrzucamy pewne "rzeczy", ale te rzeczy maja &lt;strong&gt;bardzo różną naturę&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Większość programów typu &lt;em&gt;todo lista&lt;/em&gt; list pozwala nam zarządzać... zadaniami. Ten prosty "model domeny" w którym mamy &lt;i&gt;zadanie&lt;/i&gt; z flagą &lt;i&gt;wykonane&lt;/i&gt;/&lt;i&gt;niewykonane&lt;/i&gt; jest bardzo wygodny dla programistów. Nawet tak bardzo, że aplikacja "todo" jest często stosowana w roli programu "hello world" przy wyjaśnianiu działaniu nowego frameworka programistycznego. Ale ten model również za bardzo upraszcza rzeczywistość.&lt;/p&gt;
 &lt;p&gt;Rzeczywistość jest bowiem taka, że &lt;strzłożyc ong=""&gt;na listę wrzucamy nie tylko zadania (akcje). W takim razie co jeszcze? &lt;acronym title="Getting Things Done"&gt;Książka Davida Allena&lt;/acronym&gt; określa to pojęciem &lt;i&gt;rzeczy&lt;/i&gt; (ang. &lt;i&gt;stuff&lt;/i&gt;). Poniżej cytat, który w języku Szekspira zarysowuje ów problem.&lt;/strzłożyc&gt;&lt;/p&gt;
-&lt;blockquote class="blockquote"&gt;
+&lt;blockquote class="blockquote" lang="en"&gt;
 &lt;p class="mb-0"&gt;Most of the to-do lists I have seen over the years (when people had them at all) were merely listings of “stuff”, not inventories of the resultant real work that needed to be done. They were partial reminders of a lot of things that were unresolved and as yet untranslated into outcomes and actions.&lt;/p&gt;
 &lt;footer class="blockquote-footer"&gt;&lt;cite&gt;&lt;a title="Getting Things Done" href="http://gettingthingsdone.com/"&gt;David Allen - Getting Things Done&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;
@@ -1516,7 +1516,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dodam może pewne swoje spostrzeżenie. Przez długi czas bazowałem swoje listy na priorytetach. Zauważyłem kiedyś, że czasem nadawałem wysoki priorytet mało istotnym zadaniom tylko dlatego, że były szybkie do zrobienia i nie chciałem żeby utknęły gdzieś na dnie kolejki. Ten sposób nawet działał, choć nie skalował się w "trudnych czasach", gdy ważnych rzeczy było dużo. Dopiero po głębszym zastanowieniu się nad tematem rozumiem teraz jak można lepiej rozwiązać tę sprzeczność, że zadania mało ważne lądują na liście z wysokim priorytetem. O tym następny akapit :)&lt;/p&gt;
 &lt;h2 id="jak-lepiej-opisac-zadania"&gt;Jak lepiej opisać zadania&lt;/h2&gt;
 &lt;p&gt;Jak więc można opisując zadanie na liście zrobić to lepiej niż przez nadanie &lt;i&gt;priorytetu&lt;/i&gt;? Odpowiedzi możemy poszukać w książce &lt;i&gt;Getting Things Done&lt;/i&gt;, gdzie David Allen rekomenduje opisywanie zadania czterema metadanymi: &lt;em&gt;kontekst&lt;/em&gt;, &lt;em&gt;czas&lt;/em&gt;, &lt;em&gt;energia&lt;/em&gt; i &lt;em&gt;korzyść&lt;/em&gt; jaką przyniosą.&lt;/p&gt;
-&lt;blockquote class="blockquote"&gt;
+&lt;blockquote class="blockquote" lang="en"&gt;
 &lt;p class="mb-0"&gt;The four criteria that you will use to decide what to do are (in order of precedence):&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Context (what can I do where I am?)&lt;/li&gt;
@@ -1524,14 +1524,14 @@ s.setAttribute('data-timestamp', +new Date());
     &lt;li&gt;Energy (how wasted/fresh am I?)&lt;/li&gt;
     &lt;li&gt;Priority (what has the highest payoff for me if I do it?)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;footer class="blockquote-footer"&gt;&lt;cite&gt;&lt;a title="Getting Things Done" href="http://gettingthingsdone.com/"&gt;David Allen - Getting Things Done&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
+&lt;footer class="blockquote-footer" lang="en"&gt;&lt;cite&gt;&lt;a title="Getting Things Done" href="http://gettingthingsdone.com/"&gt;David Allen - Getting Things Done&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Można zauważyć że wśród nich pojawia się również “Priorytet”, ale jest tu rozumiany bardziej jako &lt;i&gt;opłacalność&lt;/i&gt; niż &lt;i&gt;pilność&lt;/i&gt;.&lt;/p&gt;
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Rozważania na temat natury "rzeczy" na liście "todo" mogą się wydawać niszowym zagadnieniem, ale myślę że zrozumienie tej natury jest kluczowe, żeby planować dobrze i nie natykać się na trudne dylematy.&lt;/p&gt;
 &lt;p&gt;To również krok w stronę zaprojektowania rozwiązania w którym chciałbym &lt;strong&gt;ułatwić przegląd zadań&lt;/strong&gt; na naszych listach. Nawet jeśli nie powstanie z tego w pełni gotowe "produkcyjnie" oprogramowanie, to liczę na to, że takie ćwiczenie myślowe pomoże mi wdrożyć lepszy system zarządzania swoim czasem, a może także zainspiruje kogoś z Was do ulepszeń własnych systemów.&lt;/p&gt;
 &lt;p&gt;Na koniec dorzucę jeszcze jeden cytat z &lt;em&gt;Getting Things Done&lt;/em&gt;, który dość dobrze podsumowuje powyższe rozważania o naturze priorytetów na listach:&lt;/p&gt;
-&lt;blockquote class="blockquote"&gt;
+&lt;blockquote class="blockquote" lang="en"&gt;
 &lt;p class="mb-0"&gt;You don’t &lt;strong&gt;manage&lt;/strong&gt; priorities — you &lt;strong&gt;have&lt;/strong&gt; them.&lt;br&gt;Instead, the key to managing all of your “stuff” is managing your &lt;strong&gt;actions&lt;/strong&gt;.&lt;/p&gt;
 &lt;footer class="blockquote-footer"&gt;&lt;cite&gt;&lt;a title="Getting Things Done" href="http://gettingthingsdone.com/"&gt;David Allen - Getting Things Done&lt;/a&gt;&lt;/cite&gt;&lt;/footer&gt;
 &lt;/blockquote&gt;

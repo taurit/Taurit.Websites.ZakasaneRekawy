@@ -245,3 +245,34 @@ ul li a {
         left: 0;
     }
 }
+
+#content, #page-footer {
+    a:focus { // accessibility feature: make links stand out when navigating via keyboard's Tab key
+        $bgColor: #feffbf;
+
+        color: #000;
+        background-color: $bgColor;
+        outline: 2px dotted #d4b32a;
+        text-decoration: none;
+
+        h1, h2, h3, h4, h5 {
+            background-color: $bgColor;
+        }
+    }
+}
+
+.navbar-nav a { 
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+
+    &:focus {
+        $bgColor: #000;
+
+        color: #fff !important;
+        background-color: #000 !important;
+        outline: 2px dotted #60e3ff;
+    }
+}
