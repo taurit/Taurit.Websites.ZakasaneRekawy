@@ -5432,8 +5432,22 @@ ul li a {
   font-weight: 300;
   font-size: 24px; }
 
+.sidebar aside h1 {
+  font-size: 16px; }
+
 .sidebar aside p {
   font-size: 14px; }
 
 .semibold {
   font-weight: 400; }
+
+.skip-to-main-content {
+  position: absolute;
+  left: -300px;
+  background-color: #000000;
+  color: #ffffff !important;
+  padding: 10px 20px 10px 20px;
+  z-index: 5;
+  text-decoration: underline; }
+  .skip-to-main-content:focus {
+    left: 0; }
