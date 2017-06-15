@@ -5,8 +5,8 @@
 		<link>https://przedczasem.taurit.pl/</link>
 		<description>Blog o tym, jak odciążyć się z rutynowych obowiązków i realizować swoje plany bez opóźnień</description>
 		<copyright>2017</copyright>
-		<pubDate>Thu, 15 Jun 2017 16:06:09 GMT</pubDate>
-		<lastBuildDate>Thu, 15 Jun 2017 16:06:09 GMT</lastBuildDate>
+		<pubDate>Thu, 15 Jun 2017 16:43:21 GMT</pubDate>
+		<lastBuildDate>Thu, 15 Jun 2017 16:43:21 GMT</lastBuildDate>
 		<item>
 			<title>Revisionist 0.0.1 wydany!</title>
 			<link>https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany</link>
@@ -251,14 +251,14 @@ s.setAttribute('data-timestamp', +new Date());
 		<item>
 			<title>Po co Ci f.lux?</title>
 			<link>https://przedczasem.taurit.pl/posts/flux</link>
-			<description>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem, i czy w ogóle mamy jakiś problem?</description>
+			<description>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem i czy w ogóle mamy jakiś problem?</description>
 			<guid>https://przedczasem.taurit.pl/posts/flux</guid>
 			<pubDate>Mon, 22 May 2017 20:38:10 GMT</pubDate>
 			<content:encoded>&lt;h2 id="czy-f.lux-dziaa"&gt;Czy f.lux działa?&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;
 &lt;p&gt;Ta aplikacja, która niegdyś wydawała się niszową ciekawostką dla nerdów, zdobyła już całkiem sporą popularność. W niedawnej aktualizacji dla &lt;i&gt;Windows 10&lt;/i&gt; Microsoft wprowadził nawet na poziomie systemu operacyjnego funkcję &lt;em&gt;Night Light&lt;/em&gt;, która w analogiczny sposób modyfikuje wyświetlany na ekranie obraz (o ile ją włączymy).&lt;/p&gt;
 &lt;p&gt;Czy takie profilaktyczne działania mają sens? Badania i eksperymenty, których w tym temacie &lt;a href="https://en.wikipedia.org/wiki/Effects_of_blue_lights_technology" target="_blank"&gt;jest już sporo&lt;/a&gt;, pokazują że tak. Jednak &lt;b&gt;aplikacja to tylko część rozwiązania&lt;/b&gt;, którego możemy potrzebować.&lt;/p&gt;
-&lt;p&gt;F.lux jest jak &lt;b&gt;umycie pach&lt;/b&gt;, gdy tak naprawdę potrzebujemy &lt;b&gt;prysznica&lt;/b&gt;. Jeśli chcemy skorzystać z tego co oferuje, musimy do pewnego stopnia zrozumieć problem.&lt;/p&gt;
+&lt;p&gt;F.lux jest jak umycie pach, gdy tak naprawdę potrzebujemy prysznica. Jeśli chcemy skorzystać z tego co oferuje, musimy do pewnego stopnia zrozumieć problem.&lt;/p&gt;
 &lt;div class="row" aria-hidden="true"&gt;
     &lt;figure class="col-md-6 col-md-offset-3"&gt;
         &lt;div class="thumbnail"&gt;
@@ -954,7 +954,7 @@ s.setAttribute('data-timestamp', +new Date());
 		<item>
 			<title>Jak przyspieszyć przegląd zadań: projekt aplikacji Revisionist</title>
 			<link>https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan</link>
-			<description>Poszukiwanie sposobu na optymalizacje żmudnych przeglądów zadań na listach todo.</description>
+			<description>Poszukiwanie sposobu na optymalizację żmudnych przeglądów zadań na listach todo.</description>
 			<guid>https://przedczasem.taurit.pl/posts/jak-przyspieszyc-przeglad-zadan</guid>
 			<pubDate>Wed, 29 Mar 2017 22:08:01 GMT</pubDate>
 			<content:encoded>&lt;h2 id="peny-przeglad-nie-mamy-na-to-czasu"&gt;Pełny przegląd: nie mamy na to czasu&lt;/h2&gt;

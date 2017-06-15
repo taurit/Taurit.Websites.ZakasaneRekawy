@@ -4,7 +4,7 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-15T16:06:09Z</updated>
+	<updated>2017-06-15T16:43:21Z</updated>
 	<subtitle>Blog o tym, jak odciążyć się z rutynowych obowiązków i realizować swoje plany bez opóźnień</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany" />
@@ -256,7 +256,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;
 &lt;p&gt;Ta aplikacja, która niegdyś wydawała się niszową ciekawostką dla nerdów, zdobyła już całkiem sporą popularność. W niedawnej aktualizacji dla &lt;i&gt;Windows 10&lt;/i&gt; Microsoft wprowadził nawet na poziomie systemu operacyjnego funkcję &lt;em&gt;Night Light&lt;/em&gt;, która w analogiczny sposób modyfikuje wyświetlany na ekranie obraz (o ile ją włączymy).&lt;/p&gt;
 &lt;p&gt;Czy takie profilaktyczne działania mają sens? Badania i eksperymenty, których w tym temacie &lt;a href="https://en.wikipedia.org/wiki/Effects_of_blue_lights_technology" target="_blank"&gt;jest już sporo&lt;/a&gt;, pokazują że tak. Jednak &lt;b&gt;aplikacja to tylko część rozwiązania&lt;/b&gt;, którego możemy potrzebować.&lt;/p&gt;
-&lt;p&gt;F.lux jest jak &lt;b&gt;umycie pach&lt;/b&gt;, gdy tak naprawdę potrzebujemy &lt;b&gt;prysznica&lt;/b&gt;. Jeśli chcemy skorzystać z tego co oferuje, musimy do pewnego stopnia zrozumieć problem.&lt;/p&gt;
+&lt;p&gt;F.lux jest jak umycie pach, gdy tak naprawdę potrzebujemy prysznica. Jeśli chcemy skorzystać z tego co oferuje, musimy do pewnego stopnia zrozumieć problem.&lt;/p&gt;
 &lt;div class="row" aria-hidden="true"&gt;
     &lt;figure class="col-md-6 col-md-offset-3"&gt;
         &lt;div class="thumbnail"&gt;
@@ -321,7 +321,7 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
-		<summary>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem, i czy w ogóle mamy jakiś problem?</summary>
+		<summary>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem i czy w ogóle mamy jakiś problem?</summary>
 	</entry>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/jpeg2000-archiwizacja-danych" />
@@ -1041,7 +1041,7 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
-		<summary>Poszukiwanie sposobu na optymalizacje żmudnych przeglądów zadań na listach todo.</summary>
+		<summary>Poszukiwanie sposobu na optymalizację żmudnych przeglądów zadań na listach todo.</summary>
 	</entry>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/kiedy-przestac-sie-uczyc" />
