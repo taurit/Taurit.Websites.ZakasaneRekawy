@@ -277,28 +277,7 @@ ul li a {
     }
 }
 
-.mailchimp-sidebar {
-    .fa {
-        width: 30px;
-        font-size: 16px;
-        position: absolute;
-        top: 7px;
-        left: 10px;
-    }
-
-    .fa-user {
-        left: 12px;
-    }
-
-
-    .form-group {
-        margin-bottom: 13px;
-        position: relative; // to position icons inside fields
-        input {
-            padding-left: 38px;
-            padding-right: 13px;
-        }
-    }
+.mailchimp-form {
 
     #mc_embed_signup input.mce_inline_error {
         border: 1px solid #d21919;
@@ -323,5 +302,57 @@ ul li a {
         padding: 12px;
         margin-bottom: 10px;
         background-color: #ffe2e2;
+    }
+
+    .fa-input {
+        width: 30px;
+        font-size: 16px;
+        position: absolute;
+        top: 7px;
+        left: 10px;
+    }
+
+    .fa-user {
+        left: 12px;
+    }
+
+
+    .form-group {
+        margin-bottom: 13px;
+        position: relative; // to position icons inside fields
+        input {
+            padding-left: 38px;
+            padding-right: 13px;
+        }
+    }
+}
+
+.mailchimp-sidebar {
+}
+
+.mailchimp-post-footer {
+    background-color: #f5f5f5;
+    border: 1px solid #c0c0c0;
+    padding: 15px 27px 15px 27px;
+
+    h2 {
+        margin-top: 5px;
+        font-size: 24px;
+    }
+
+    .form-group {
+        display: inline-block;
+    }
+
+    #mce-EMAIL {
+        width: 365px;
+    }
+
+    p {
+        margin-bottom: 6px;
+    }
+
+    #mce-responses {
+        margin-top: 12px;
     }
 }

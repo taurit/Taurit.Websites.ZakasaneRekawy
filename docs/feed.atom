@@ -4,7 +4,7 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-18T20:43:28Z</updated>
+	<updated>2017-06-22T18:44:59Z</updated>
 	<subtitle>Blog o tym, jak wykonać wszystko to, co ważne nim zastanie nas noc</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany" />
@@ -60,6 +60,46 @@
 &lt;p&gt;Do zobaczenia!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -78,7 +118,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Pierwsze wydanie aplikacji do przeglądu zadań w Todoist na zakończenie trzeciego miesiąca prac.</summary>
 	</entry>
 	<entry>
@@ -167,6 +210,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dzięki za odwiedziny, powodzenia z Waszymi blogami i do zobaczenia!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -185,7 +268,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak przyspieszyć bloga: o narzędziach, które firma Cloudflare oferuje za darmo, a które w znaczący sposób potrafią zmienić postrzeganie naszych blogów i stron.</summary>
 	</entry>
 	<entry>
@@ -226,6 +312,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Tak jak wspomniałem, &lt;a href="https://thefreedomjournal.com/" target="_blank" lang="en"&gt;The Freedom Journal&lt;/a&gt; jest obecnie sprzedawany jedynie na kontynencie amerykańskim. Na ten moment nakład w brytyjskim sklepie Amazon się skończył, co uniemożliwia tanią dostawę zakupu do Polski. Najlepszą opcją jaką w tej sytuacji widzę, jest wzięcie sprawy w swoje ręce i skorzystanie z wersji elektronicznej, którą dostajemy w PDF-ie i możemy wydrukować. Wariant elektroniczny kosztuje $30, ale możemy dość łatwo uzyskać zniżkę do $25, co przy dzisiejszym tanim kursie dolara pozwala na zakup &lt;strong&gt;w cenie ok. 93 zł&lt;/strong&gt;.&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -244,7 +370,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>The Freedom Journal: specjalny notatnik, który ma nam pomóc w osiągnięciu swojego celu</summary>
 	</entry>
 	<entry>
@@ -302,6 +431,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dziękuję za odwiedziny na blogu!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -320,7 +489,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem i czy w ogóle mamy jakiś problem?</summary>
 	</entry>
 	<entry>
@@ -396,6 +568,46 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Dziękuję za odwiedziny na blogu! A może Ty znasz jakąś &lt;strong&gt;inną dobrą alternatywę dla JPEG-a&lt;/strong&gt;?&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -414,7 +626,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>JPEG-2000 to następca JPG, który niestety się nie przyjął. Można go jednak zastosować do archiwizacji danych i osiągnąć dobre wyniki.</summary>
 	</entry>
 	<entry>
@@ -495,6 +710,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;A czy Ty stosujesz jakieś programy do wspomagania schowka? Zachęcam do podzielenia się wszelkimi alternatywnymi aplikacjami lub pomysłami. Dziękuję za odwiedziny!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -513,7 +768,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Narzędzia pomagające w codziennej pracy ze schowkiem Windows.</summary>
 	</entry>
 	<entry>
@@ -591,6 +849,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;strong&gt;A czy Ty zostajesz ze swoją aplikacją do listy zadań na dobre&lt;/strong&gt;, czy wciąż szukasz tej jedynej? :) Zachęcam Cię do podzielenia się swoim zdaniem w komentarzu i dziękuję za odwiedziny!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -609,7 +907,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Recenzja nowej aplikacji do zarządzania listą zadań od Microsoft</summary>
 	</entry>
 	<entry>
@@ -682,6 +983,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Zapewne nie. Może Ty masz jakieś doświadczenia z gitem, przez które musiałeś lub musiałaś się wstydzić, albo robić nadgodziny? ;-) Jeśli tak, to zachęcam do dzielenia się nimi w komentarzach - w roli przestrogi dla nas wszystkich. Dzięki za odwiedziny!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -700,7 +1041,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>O błędach w pracy z systemem git, które kopną nas dopiero w przyszłości.</summary>
 	</entry>
 	<entry>
@@ -742,6 +1086,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dzięki za odwiedziny na blogu! Ciekawy jestem, czy Ciebie, jeśli również startujesz w DSP, nie dopadły podobne rozterki na temat tego czy warto w takim tempie? :) O swoich postępach i przemyśleniach będę na pewno informował w kolejnych postach.&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -760,7 +1144,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Link do wersji alpha aplikacji Revisionist</summary>
 	</entry>
 	<entry>
@@ -853,6 +1240,46 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
 &lt;p&gt;A Ty jak radzisz sobie ze stertami dokumentów, wizytówek, notatek i książek? &lt;strong&gt;Zachęcam do dzielenia się swoimi sztuczkami i sposobami i komentowania&lt;/strong&gt; i dziękuję za odwiedziny na blogu!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -871,7 +1298,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak zdigitalizować wszystkie swoje papiery i dlaczego warto.</summary>
 	</entry>
 	<entry>
@@ -929,6 +1359,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Czy Ty również stosujesz w zarządzaniu pocztą e-mail jakieś triki? Może znasz jeszcze inne metody, aby regularnie osiągnąć &lt;i lang="en"&gt;Inbox Zero&lt;/i&gt;? ;) Zachęcam do podzielenia się swoimi sposobami i dziękuję za odwiedziny!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -947,7 +1417,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Co oprócz Inbox Zero może nam pomóc w ogarnięciu poczty e-mail?</summary>
 	</entry>
 	<entry>
@@ -1022,6 +1495,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Jeśli mimo to udało Ci się przebrnąć przez tekst, lub chociaż przeskanować go na szybko wzrokiem, to dzięki za odwiedziny i zainteresowanie :) Jak zwykle, wszelkie przemyślenia i uwagi, jeśli zechcesz takie zostawić, będą dla mnie bardzo cenne. Do usłyszenia!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1040,7 +1553,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Poszukiwanie sposobu na optymalizację żmudnych przeglądów zadań na listach todo.</summary>
 	</entry>
 	<entry>
@@ -1095,6 +1611,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Rozwiązanie matematyczne tego problemu istnieje. Żeby je poznać trzeba sięgnąć po wspomnianą książkę, albo do Wikipedii. Czy eksploracja tej wiedzy jest warta zachodu? Pozostawiam każdemu decyzję :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1113,7 +1669,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>O tym czy zawsze warto sie uczyć nowych rzeczy, czy czasem jednak warto przestać.</summary>
 	</entry>
 	<entry>
@@ -1209,6 +1768,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Może przychodzą Ci do głowy inne aplikacje, wtyczki do edytora kodu lub miejsca w cyfrowym (lub analogowym) świecie gdzie używasz kolorów do kategoryzowania informacji? Zachęcam do komentowania i &lt;strong&gt;dzielenia się własnymi trickami&lt;/strong&gt; na wykorzystanie &lt;i&gt;color code&lt;/i&gt; :) Dzięki za odwiedziny i do usłyszenia!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1227,7 +1826,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak możemy poprawić produktywność podczas programowania dzięki... kolorom</summary>
 	</entry>
 	<entry>
@@ -1273,6 +1875,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Na koniec mam do Ciebie pytanie, jeśli stosujesz &lt;acronym title="Getting Things Done"&gt;GTD&lt;/acronym&gt; lub zarządzasz zadaniami w inny sposób. &lt;strong&gt;Czy wykonujuesz cyklicznie przegląd zadań?&lt;/strong&gt; Jakich narzędzi do tego używasz i co w tym sposobie Ci się podoba lub drażni? Dziękuję za Twój czas i do usłyszenia następnym razem :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1291,7 +1933,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Koncepcja programu wspomagającego przegląd zadań na listach TODO</summary>
 	</entry>
 	<entry>
@@ -1353,6 +1998,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Jeśli masz pomysły na to jak jeszcze można usprawnić swój przegląd zadań, zachęcam do podzielenia się nimi w komentarzu. Jestem pewien, że nie wszystkie dobre pomysły udało mi się odkryć, a obecnie czas najbardziej sprzyja planowaniu funkcjonalności dla powstającego projektu :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1371,7 +2056,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Rozwiązania problemu przeglądu zadań jakie stworzyłem w przeszłości</summary>
 	</entry>
 	<entry>
@@ -1432,6 +2120,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dziękuję za odwiedziny i zachęcam do zostawienia komentarza. Może przychodzi Ci na myśl jakieś zadanie, które zalega na Twojej liście od dawna? Masz jakąś teorię dlaczego tak jest? :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1450,7 +2178,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Sposoby na zadania, które zalegają na naszych listach todo już zbyt długo</summary>
 	</entry>
 	<entry>
@@ -1537,6 +2268,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Wszystkim Kobietom oraz innym osobom które czują się dziś wyjątkowo kobieco, wszystkigo najlepszego z okazji 8 marca! :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1555,7 +2326,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Dlaczego posługiwanie się priorytetami dla zadań prowadzi do paradoksów?</summary>
 	</entry>
 	<entry>
@@ -1728,6 +2502,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Dzięki za odwiedzenie bloga. Jeśli chciałbyś coś dodać w temacie wydajności stron, pomiaru ich jakości, a może samego konkursu Daj Się Poznać, to zachęcam do komentowania :) Zapraszam również do śledzenia kanału RSS tego bloga. Już wkrótce pojawią się tu kolejne ciekawe artykuły. Do zobaczenia!&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1746,7 +2560,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Ranking blogów DSP2017 wg punktacji narzędzia Google PageSpeed Insights mierzacego szybkość stron</summary>
 	</entry>
 	<entry>
@@ -1794,6 +2611,46 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;&lt;strong&gt;A może Ty znasz dobre materiały na temat treningu lub diety&lt;/strong&gt;? Jeśli wiesz o czymś wartym polecenia, zachęcam do podzielenia się w komentarzu. Sam np. nie znam za dużo materiałów dostępnych po polsku, a ludzie z którymi rozmawiam są czasem zainteresowani taką wiedzą w przystępnej formie :)&lt;/p&gt;
 
 
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Lista mailingowa z bonusowymi treściami&lt;/h2&gt;
+
+    &lt;p&gt;Każdy email do czytelników redaguję osobiście (więc nie ma ich za dużo) i zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus ;),&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi. Choć będę się starał nie zanudzić :).&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
 &lt;div&gt;
     &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
     &lt;div id="disqus_thread"&gt;&lt;/div&gt;
@@ -1812,7 +2669,10 @@ s.setAttribute('data-timestamp', +new Date());
 (d.head || d.body).appendChild(s);
 })();
 &lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content>
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
+&lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Dygresja na temat robienia masy, odchudzania i tego, że można to wszystko precyzyjnie zaplanować</summary>
 	</entry>
 </feed>
