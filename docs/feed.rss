@@ -5,8 +5,131 @@
 		<link>https://przedczasem.taurit.pl/</link>
 		<description>Blog o tym, jak wykonać wszystko to, co ważne nim zastanie nas noc</description>
 		<copyright>2017</copyright>
-		<pubDate>Sun, 25 Jun 2017 13:15:05 GMT</pubDate>
-		<lastBuildDate>Sun, 25 Jun 2017 13:15:05 GMT</lastBuildDate>
+		<pubDate>Sun, 25 Jun 2017 19:07:17 GMT</pubDate>
+		<lastBuildDate>Sun, 25 Jun 2017 19:07:17 GMT</lastBuildDate>
+		<item>
+			<title>Aplikacja dla kierowców, która wyręcza nas w pamiętaniu</title>
+			<link>https://przedczasem.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow</link>
+			<description>Jak aplikacja Drivvo na iPhone i Androida pomaga nam oszczędzić czas który przeznaczamy na obsługę swojego pojazdu</description>
+			<guid>https://przedczasem.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow</guid>
+			<pubDate>Sun, 25 Jun 2017 21:06:10 GMT</pubDate>
+			<content:encoded>&lt;h2 id="zarzadzanie-pojazdem-czy-to-dla-mnie"&gt;Zarządzanie pojazdem - czy to dla mnie?&lt;/h2&gt;
+&lt;p class="lead"&gt;Własny pojazd może być przydatny, ale też wymaga poświęcenia mu &lt;strong&gt;sporej uwagi i czasu&lt;/strong&gt;. Na szczęście &lt;strong&gt;nie musimy sami pamiętać o wszystkich obowiązkach&lt;/strong&gt; kierowcy i posiadacza pojazdu, bo może to za nas robić solidnie napisana aplikacja.&lt;/p&gt;
+&lt;p&gt;Najpopularniejszym dzisiaj programem dla kierowców w Polsce (nie licząc może systemów nawigacji) jest &lt;em&gt;Yanosik&lt;/em&gt;. Pozwala egzekwować przepisy dotyczące prędkości na drogach poprzez uprzedzanie o zbliżającej się kontroli drogówki lub radarze.&lt;/p&gt;
+&lt;p&gt;Dziś chciałbym jednak napisać o innej, mniej znanej aplikacji która znalazła się w moim przyborniku przydatnych aplikacji mobilnych. Mowa o &lt;strong&gt;&lt;a href="https://play.google.com/store/apps/details?id=br.com.ctncardoso.ctncar&amp;amp;hl=pl" target="_blank"&gt;Drivvo&lt;/a&gt;&lt;/strong&gt;, aplikacji która pozwala, jak autorzy to określają, &lt;em&gt;zarządzać pojazdami&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Co kryje się pod tym pojęciem? Możliwości wykorzystania jest kilka, ale ja skupię się na tych, które pozwoliły mi rozwiązać pewne wcześniejsze problemy.&lt;/p&gt;
+&lt;div class="row" aria-hidden="true"&gt;
+    &lt;figure class="col-md-4 col-md-offset-4"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="/assets/img/posts/drivvo-screenshot-android-01-480.png" alt="Zrzut ekranu aplikacji Drivvo"&gt;
+        &lt;div class="caption"&gt;
+            &lt;figcaption&gt;Rys. 1. Zrzut ekranu aplikacji Drivvo&lt;/figcaption&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;h2 id="o-czym-musimy-pamietac-jako-kierowcy"&gt;O czym musimy pamiętać jako kierowcy?&lt;/h2&gt;
+&lt;p&gt;Spójrzmy na to ile zadań czeka właściciela dowolnego pojazdu. Po pierwsze, mamy pewne obowiązki narzucone prawnie:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;wykonywanie badań technicznych pojazdu,&lt;/li&gt;
+    &lt;li&gt;odnawianie ubezpieczenia OC,&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Utrzymanie pojazdu w przyzwoitym stanie wymaga też innych, zwykle w pewien sposób regularnych czynności, np.:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;tankowania lub ładowania pojazdu,&lt;/li&gt;
+    &lt;li&gt;dbania o prawidłowe ciśnienie w oponach,&lt;/li&gt;
+    &lt;li&gt;wymiany oleju,&lt;/li&gt;
+    &lt;li&gt;wymiany filtrów paliwa, powietrza itp.,&lt;/li&gt;
+    &lt;li&gt;sprawdzenia stanu płynów,&lt;/li&gt;
+    &lt;li&gt;przeglądów w serwisie,&lt;/li&gt;
+    &lt;li&gt;smarowania łańcucha (w motocyklu).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Prawdopodobnie jeśli jesteście właścicielami pojazdu dłużej ode mnie, znajdziecie z łatwością jeszcze inne czynności warte wykonywania.&lt;/p&gt;
+&lt;p&gt;Dla osoby, której zależy przede wszystkim na jeździe, to już i tak &lt;b&gt;spora lista czynności pobocznych o których lepiej nie zapominać&lt;/b&gt;. Jak więc zagwarantować sobie, że przypomnimy je sobie w odpowiednim momencie?&lt;/p&gt;
+&lt;h2 id="kalendarz-i-todo-lista-nie-rozwiazuja-problemu"&gt;Kalendarz i todo-lista nie rozwiązują problemu&lt;/h2&gt;
+&lt;p&gt;&lt;b&gt;Kalendarz&lt;/b&gt; albo &lt;b&gt;lista todo&lt;/b&gt; mogą nam przypomnieć o niektórych zadaniach. Tych narzędzi zapewne używacie na co dzień i w zupełności wystarczą do przypominania sobie o ważnych powtarzających się cyklicznie obowiązkach. W zupełności wystarczą, by zaplanować coroczne badanie techniczne pojazdu.&lt;/p&gt;
+&lt;p&gt;Jednak wiele z opisanych czynności powinniśmy wykonywać &lt;strong&gt;co pewien przejechany dystans&lt;/strong&gt;, np. co 400 km, 6000 km lub 15 000 km. Nie wiem jak Wy, ale ja zdecydowanie nie planuję zaprzątać sobie głowy pamiętaniem kilku stanów licznika.&lt;/p&gt;
+&lt;p&gt;Moim pierwszym podejściem żeby śledzić te wartości był arkusz w Excelu z liczbą przejechanych kilometrów oraz cykliczne zadanie na liście w którym miałem ocenić czy zbliżam się dodystansu gdzie potrzebna jest moja akcja. To rozwiązania się nie sprawdziło, a w dodatku było bardzo niewygodne.&lt;/p&gt;
+&lt;h2 id="drivvo-na-ratunek"&gt;Drivvo na ratunek&lt;/h2&gt;
+&lt;p&gt;Aplikacja &lt;em&gt;Drivvo&lt;/em&gt; rozwiązała dokładnie ten problem. Pozwala nam zdefiniować jakiego rodzaju powiadomienia chcemy otrzymywać i co jaką liczbę przejechanych kilometrów, lub co jaki czas.&lt;/p&gt;
+&lt;p&gt;Wystarczy więc wyrobić &lt;strong&gt;jeden prosty nawyk&lt;/strong&gt;: po każdym tankowaniu &lt;strong&gt;wpisać do aplikacji informację&lt;/strong&gt; o tankowaniu &lt;strong&gt;wraz z aktualnym stanem licznika&lt;/strong&gt;. Możemy też oczywiście aktualizować stan licznika częściej, np. na zakończenie dłuższej podróży, albo nawet zawsze gdy włączymy zapłon.&lt;/p&gt;
+&lt;div class="row" aria-hidden="true"&gt;
+    &lt;figure class="col-md-4 col-md-offset-4"&gt;
+        &lt;div class="thumbnail"&gt;
+            &lt;img src="/assets/img/posts/drivvo-screenshot-android-02-480.png" alt="Zrzut ekranu aplikacji Drivvo"&gt;
+        &lt;div class="caption"&gt;
+            &lt;figcaption&gt;Rys. 1. Zrzut ekranu aplikacji Drivvo: fragment zapisanej historii pojazdu&lt;/figcaption&gt;
+        &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/figure&gt;
+&lt;/div&gt;
+&lt;p&gt;Notowanie zdarzeń dotyczących pojazdu daje też kilka dodatkowych korzyści. Po pewnym czasie możemy zgromadzić naprawdę solidne źródło informacji na temat rzeczywistych kosztów utrzymania pojazdu.&lt;/p&gt;
+&lt;p&gt;Program gromadzi informacje o wydatkach, częstotliwości tankowań i trasach. Na ich podstawie możemy dowiedzieć się precyzyjnie jakie jest średnie spalanie, koszty napraw czy wręcz &lt;strong&gt;średni koszt przejechania jednego kilometra&lt;/strong&gt; z uwzględnieniem wszystkich opłat.&lt;/p&gt;
+&lt;p&gt;I niestety większość z nas zauważy, że potwierdza się to co Michał Szafrański pisał kiedyś w artykule o &lt;a href="http://jakoszczedzacpieniadze.pl/nowe-auto-z-salonu-calkowity-koszt-eksploatacji" rel="nofollow" target="_blank"&gt;koszcie eksploatacji auta&lt;/a&gt;. Mianowicie, że jak się to wszystko policzy, to korzystanie z taksówek okazuje się tańszym rozwiązaniem ;)&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://www.drivvo.com/en/" target="_blank" rel="nofollow"&gt;Aplikacja Drivvo&lt;/a&gt; jest dostępna w sklepach &lt;em&gt;Google Play&lt;/em&gt; i &lt;em&gt;iTunes&lt;/em&gt;. Roczna subskrypcja kosztuje &lt;b&gt;12 zł&lt;/b&gt; (Android) lub ok. &lt;b&gt;22,60 zł&lt;/b&gt; (iPhone).&lt;/p&gt;
+
+
+&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
+    &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
+
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
+        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
+        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
+        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;!-- Begin MailChimp Signup Form --&gt;
+    &lt;div id="mc_embed_signup"&gt;
+        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
+            &lt;div id="mc_embed_signup_scroll"&gt;
+                &lt;div class="form-group form-group-email"&gt;
+                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
+                &lt;/div&gt;
+                &lt;div class="form-group"&gt;
+                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+
+                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
+                &lt;/div&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+
+                &lt;div id="mce-responses" class="clear"&gt;
+                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
+                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
+                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
+                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
+                &lt;/div&gt;
+            &lt;/div&gt;
+        &lt;/form&gt;
+    &lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;div&gt;
+    &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
+    &lt;div id="disqus_thread"&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+var disqus_config = function () {
+this.page.url = 'https://przedczasem.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow';
+this.page.identifier = 'drivvo-aplikacja-dla-kierowcow';
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//prostodocelu.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;!--End mc_embed_signup--&gt;</content:encoded>
+		</item>
 		<item>
 			<title>Revisionist 0.0.1 wydany!</title>
 			<link>https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany</link>
@@ -89,7 +212,6 @@
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -238,7 +360,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -339,7 +460,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -457,7 +577,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -593,7 +712,6 @@ magick convert input.jpg -quality 20 output.jpg
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -734,7 +852,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -872,7 +989,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1005,7 +1121,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1107,7 +1222,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1260,7 +1374,6 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1378,7 +1491,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1513,7 +1625,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1628,7 +1739,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1784,7 +1894,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1890,7 +1999,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2012,7 +2120,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2133,7 +2240,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2280,7 +2386,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2513,7 +2618,6 @@ s.setAttribute('data-timestamp', +new Date());
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
                 &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2535,114 +2639,6 @@ s.setAttribute('data-timestamp', +new Date());
 var disqus_config = function () {
 this.page.url = 'https://przedczasem.taurit.pl/posts/ranking-blogow-daj-sie-poznac-2017';
 this.page.identifier = 'ranking-blogow-daj-sie-poznac-2017';
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-&lt;/script&gt;
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;!--End mc_embed_signup--&gt;</content:encoded>
-		</item>
-		<item>
-			<title>Jak zaplanować swoją wagę?</title>
-			<link>https://przedczasem.taurit.pl/posts/jak-zaplanowac-swoja-wage</link>
-			<description>Dygresja na temat robienia masy, odchudzania i tego, że można to wszystko precyzyjnie zaplanować</description>
-			<guid>https://przedczasem.taurit.pl/posts/jak-zaplanowac-swoja-wage</guid>
-			<pubDate>Sat, 04 Mar 2017 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;h2 id="co-waga-ma-wspolnego-z-produktywnoscia"&gt;Co waga ma wspólnego z produktywnością?&lt;/h2&gt;
-&lt;p&gt;Zacznę od zdania wyjaśnienia, bo tematyka sportowa może wydawać się bezpośrednio niezwiązana z produktywnością, zarządzaniem swoim czasem czy w końcu budowaniem narzędzi IT wspierających wyżej wymienione tematy.&lt;/p&gt;
-&lt;p&gt;Pomyślałem jednak, że przede wszystkim celem bloga jest &lt;strong&gt;dostarczanie wartości jego czytelnikom&lt;/strong&gt;. Ponieważ więc nasunęła mi się ku temu okazja, chciałbym dziś napisać dosłownie kilka zdań na temat... wagi i jej kontrolowania.&lt;/p&gt;
-&lt;p&gt;Co więcej, choć nie mam na to pod ręką żadnych dowodów statystycznych, intuicja mówi mi że ci z nas, którzy w jakiś sposób starają się z siebie dać więcej (a więc prawdopodobni czytelnicy bloga) często interesują się również sportem ;) Dla tych osób więc tekst poniżej.&lt;/p&gt;
-&lt;h2 id="moje-odkrycie-1-wage-mozna-atwo-kontrolowac"&gt;Moje odkrycie #1: wagę można łatwo kontrolować&lt;/h2&gt;
-&lt;p&gt;To, czym właściwie chcę się podzielić, to moje "odkrycie" z zeszłego roku, które nadal daje mi dużo frajdy. Mianowicie, że &lt;strong&gt;swoją wagę można bardzo łatwo kontrolować&lt;/strong&gt;. Dałem się ku temu przekonać mimo kilku prób w poprzednich latach zakończonych fiaskiem, i nie mam nic przeciwko temu żeby tą wiedzą się podzielić ;)&lt;/p&gt;
-&lt;p&gt;Internet bez dowodów anegdotycznych nie byłby Internetem, więc na start wykres z moimi własnoręcznie zebranymi pomiarami ;) &lt;/p&gt;
-&lt;div class="row"&gt;
-    &lt;figure class="col-sm-6 col-md-6 col-md-offset-3"&gt;
-        &lt;div class="thumbnail"&gt;
-            &lt;img src="/assets/img/posts/waga-w-czasie.png" alt="Wykres pokazujący zmianę mojej wagi w czasie w okresie czerwiec 2016-marzec 2017"&gt;
-        &lt;div class="caption"&gt;
-            &lt;figcaption&gt;Rys. 1. Wykres pokazujący zmianę mojej wagi przy przechodzeniu kolejno przez fazy:             &lt;b&gt;bulking&lt;/b&gt;, przerwa w treningu, &lt;b&gt;bulking&lt;/b&gt;, &lt;b&gt;cutting&lt;/b&gt;. Okres pomiaru: czerwiec 2016 — marzec 2017.
-            &lt;/figcaption&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-&lt;p&gt;Jak widać, w przeciągu niecałego roku udało się przybrać na wadze 15 kg, a następnie zrzucić 5 kg. Na podstawie tych danych mogę więc sobie prywatnie wysunąć jeden wniosek (prywatnie, bo badanie jest na populacji wielkości 1 osoby). Mianowicie, &lt;strong&gt;postępując według pewnych niezbyt trudnych reguł, da się niewielkim wysiłkiem kontrolować własną wagę&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Oczywiście, żeby doprecyzować, celem jest nie tyle sama zabawa wagą, co towarzyszące temu cele sportowe czy zdrowotne.&lt;/p&gt;
-&lt;h2 id="moje-odkrycie-2-istnieja-swietne-materiay-o-tym-jak-optymalnie-trenowac"&gt;Moje odkrycie #2: istnieją świetne materiały o tym jak optymalnie trenować&lt;/h2&gt;
-&lt;p&gt;Ponieważ miało być krótko, w drugim punkcie chciałbym tylko podrzucić link do książki. Owe reguły pozwalające nam sterować treningiem i dietą są w niej dobrze opisane i &lt;strong&gt;dedykowane dla szerokiego grona czytelników&lt;/strong&gt;, nie tylko ludzi z ambicjami sportowymi, ale też np. dla walczących z nadwagą lub niedowagą.&lt;/p&gt;
-&lt;p&gt;Jeśli trenujesz od dawna i masz fajne wyniki, to pewnie masz już tę wiedzę. Ale jednocześnie jesteśmy na początku marca. Podobno statystycznie po trzech miesiącach od rozpoczęcia treningów najwięcej ludzi się wykrusza z braku motywacji i efektów. &lt;b&gt;Jeśli więc właśnie posypało Ci się postanowienie noworoczne&lt;/b&gt;, to może warto ugryźć temat od strony teoretycznej i poczytać co jest nie tak :)&lt;/p&gt;
-&lt;p&gt;Książka o której piszę to &lt;a href="https://www.muscleforlife.com/bigger-leaner-stronger/"&gt;Bigger Leaner Stronger&lt;/a&gt; (dla mężczyzn) oraz &lt;a href="https://www.muscleforlife.com/thinner-leaner-stronger/" rel="nofollow"&gt;Thinner Leaner Stronger&lt;/a&gt; (dla kobiet). &lt;strong&gt;Do końca tego weekendu&lt;/strong&gt; można je kupić &lt;strong&gt;w wersji na Kindle za symbolicznego 1 dolara&lt;/strong&gt;, oraz opcjonalnie dorzucić do tego wersje audiobooka za $2.50. Jeśli nawet nie masz czasu czytać, to warto sobie te książki zachomikować. A jeśli nie masz czasu na książki, to może chociaż &lt;a href="https://www.muscleforlife.com/"&gt;poczytać bloga autora&lt;/a&gt; gdzie wiele tych treści jest za darmo ;)&lt;/p&gt;
-&lt;div class="row"&gt;
-    &lt;figure class="col-sm-6 col-md-6 col-md-offset-3"&gt;
-        &lt;div class="thumbnail"&gt;
-            &lt;img src="/assets/img/posts/ksiazki-w-promocji-ceny.png" alt="Ceny w przeliczeniu na PLN: ok. 5 PLN za wersję Kindle, ok. 10 zł za Audiobooka"&gt;
-        &lt;div class="caption"&gt;
-            &lt;figcaption&gt;Rys. 2. Orientacyjne ceny w promocji po przeliczeniu z USD na złotówki to ok 5 zł (książka na Kindle) oraz 10 zł (audiobook Audible.com)
-            &lt;/figcaption&gt;
-        &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/figure&gt;
-&lt;/div&gt;
-&lt;p&gt;Linki: &lt;a href="https://www.amazon.co.uk/gp/search?tag=mflweb-21&amp;amp;keywords=B007FW0PI8%7cB0098PYV7Q%7cB006XF5BTG%7cB00MXE63MA%7cB0076BT83Q" rel="nofollow"&gt;książki Mike Matthews na Amazon.com&lt;/a&gt; (w promocji do końca weekendu), oraz &lt;a href="http://lubimyczytac.pl/ksiazka/3667141/bigger-leaner-stronger-the-simple-science-of-building-the-ultimate-male-body/opinia/35693626" rel="nofollow"&gt;moja dawna recenzja Bigger Leaner Stronger na lubimyczytac.pl&lt;/a&gt;. Dla jasności, linki nie są afiliacyjne, nie mam z tego dolara ani centa. Po prostu uważam że to świetny materiał :)
-&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;A może Ty znasz dobre materiały na temat treningu lub diety&lt;/strong&gt;? Jeśli wiesz o czymś wartym polecenia, zachęcam do podzielenia się w komentarzu. Sam np. nie znam za dużo materiałów dostępnych po polsku, a ludzie z którymi rozmawiam są czasem zainteresowani taką wiedzą w przystępnej formie :)&lt;/p&gt;
-
-
-&lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
-    &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
-
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
-
-    &lt;!-- Begin MailChimp Signup Form --&gt;
-    &lt;div id="mc_embed_signup"&gt;
-        &lt;form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate=""&gt;
-            &lt;div id="mc_embed_signup_scroll"&gt;
-                &lt;div class="form-group form-group-email"&gt;
-                    &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
-                    &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
-                &lt;/div&gt;
-                &lt;div class="form-group"&gt;
-                    &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
-
-                    &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
-                &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
-                Dzięki! &lt;i class="fa fa-smile-o" aria-hidden="true"&gt;&lt;/i&gt;
-
-                &lt;div id="mce-responses" class="clear"&gt;
-                    &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
-                    &lt;div class="response" id="mce-success-response" style="display: none"&gt;&lt;/div&gt;
-                &lt;/div&gt; &lt;!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups--&gt;
-                &lt;div style="position: absolute; left: -5000px;" aria-hidden="true"&gt;&lt;input type="text" name="b_330f3c8a4e6aab69c57478e23_ed53bc8d77" tabindex="-1" value=""&gt;
-                &lt;/div&gt;
-            &lt;/div&gt;
-        &lt;/form&gt;
-    &lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;div&gt;
-    &lt;h2 class="outline-header"&gt;Komentarze&lt;/h2&gt;
-    &lt;div id="disqus_thread"&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;script&gt;
-var disqus_config = function () {
-this.page.url = 'https://przedczasem.taurit.pl/posts/jak-zaplanowac-swoja-wage';
-this.page.identifier = 'jak-zaplanowac-swoja-wage';
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
