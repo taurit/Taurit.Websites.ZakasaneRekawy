@@ -4,7 +4,7 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-25T10:16:01Z</updated>
+	<updated>2017-06-25T11:10:11Z</updated>
 	<subtitle>Blog o tym, jak wykonać wszystko to, co ważne nim zastanie nas noc</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany" />
@@ -120,7 +120,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Pierwsze wydanie aplikacji do przeglądu zadań w Todoist na zakończenie trzeciego miesiąca prac.</summary>
 	</entry>
@@ -270,7 +269,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak przyspieszyć bloga: o narzędziach, które firma Cloudflare oferuje za darmo, a które w znaczący sposób potrafią zmienić postrzeganie naszych blogów i stron.</summary>
 	</entry>
@@ -372,7 +370,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>The Freedom Journal: specjalny notatnik, który ma nam pomóc w osiągnięciu swojego celu</summary>
 	</entry>
@@ -491,7 +488,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Flu.x i niebieskie światło z monitora. Czy aplikacja faktycznie pozwoli rozwiązać problem i czy w ogóle mamy jakiś problem?</summary>
 	</entry>
@@ -628,7 +624,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>JPEG-2000 to następca JPG, który niestety się nie przyjął. Można go jednak zastosować do archiwizacji danych i osiągnąć dobre wyniki.</summary>
 	</entry>
@@ -770,7 +765,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Narzędzia pomagające w codziennej pracy ze schowkiem Windows.</summary>
 	</entry>
@@ -909,7 +903,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Recenzja nowej aplikacji do zarządzania listą zadań od Microsoft</summary>
 	</entry>
@@ -1043,7 +1036,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>O błędach w pracy z systemem git, które kopną nas dopiero w przyszłości.</summary>
 	</entry>
@@ -1146,7 +1138,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Link do wersji alpha aplikacji Revisionist</summary>
 	</entry>
@@ -1300,7 +1291,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak zdigitalizować wszystkie swoje papiery i dlaczego warto.</summary>
 	</entry>
@@ -1419,7 +1409,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Co oprócz Inbox Zero może nam pomóc w ogarnięciu poczty e-mail?</summary>
 	</entry>
@@ -1555,7 +1544,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Poszukiwanie sposobu na optymalizację żmudnych przeglądów zadań na listach todo.</summary>
 	</entry>
@@ -1671,7 +1659,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>O tym czy zawsze warto sie uczyć nowych rzeczy, czy czasem jednak warto przestać.</summary>
 	</entry>
@@ -1828,7 +1815,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Jak możemy poprawić produktywność podczas programowania dzięki... kolorom</summary>
 	</entry>
@@ -1935,7 +1921,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Koncepcja programu wspomagającego przegląd zadań na listach TODO</summary>
 	</entry>
@@ -2058,7 +2043,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Rozwiązania problemu przeglądu zadań jakie stworzyłem w przeszłości</summary>
 	</entry>
@@ -2180,7 +2164,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Sposoby na zadania, które zalegają na naszych listach todo już zbyt długo</summary>
 	</entry>
@@ -2328,7 +2311,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Dlaczego posługiwanie się priorytetami dla zadań prowadzi do paradoksów?</summary>
 	</entry>
@@ -2562,7 +2544,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Ranking blogów DSP2017 wg punktacji narzędzia Google PageSpeed Insights mierzacego szybkość stron</summary>
 	</entry>
@@ -2671,7 +2652,6 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
-&lt;script type="text/javascript" src="/assets/js/mc-validate.js" '=""&gt;&lt;/script&gt;&lt;script type="text/javascript"&gt;(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; }(jQuery)); var $mcj = jQuery.noConflict(true);&lt;/script&gt;
 &lt;!--End mc_embed_signup--&gt;</content>
 		<summary>Dygresja na temat robienia masy, odchudzania i tego, że można to wszystko precyzyjnie zaplanować</summary>
 	</entry>
