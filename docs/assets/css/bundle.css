@@ -5522,3 +5522,9 @@ ul li a {
     margin-bottom: 6px; }
   .mailchimp-post-footer #mce-responses {
     margin-top: 12px; }
+
+.sidebar-about-image {
+  float: right;
+  border: 1px solid #b0b0b0;
+  margin-top: 10px;
+  margin-right: 5px; }

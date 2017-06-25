@@ -4,7 +4,7 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-24T17:20:50Z</updated>
+	<updated>2017-06-25T10:16:01Z</updated>
 	<subtitle>Blog o tym, jak wykonać wszystko to, co ważne nim zastanie nas noc</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/revisionist-0.0.1-wydany" />
@@ -133,7 +133,7 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;p&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Warto nie tylko z próżności i chęci zmian dla samych zmian, ale także po to, by upewnić się, że wszyscy czytelnicy odwiedzający naszą witrynę są w stanie zobaczyć nasze treści bez przeszkód. Jedną z największych takich przeszkód wydaje się &lt;strong&gt;wolne ładowanie się strony&lt;/strong&gt;, co odczuwają szczególnie osoby trafiające na nasze treści na smartfonach. A tych od pewnego czasu &lt;a href="https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets" target="_blank" rel="nofollow"&gt;jest już więcej&lt;/a&gt; niż użytkowników surfujących na dużych monitorach.&lt;/p&gt;
 &lt;div class="row" aria-hidden="true"&gt;
-    &lt;figure class="col-md-8 col-md-offset-2"&gt;
+    &lt;figure class="col-md-6 col-md-offset-3"&gt;
         &lt;div class="thumbnail"&gt;&lt;img src="/assets/img/posts/traffic-car-vehicle-black.jpg" alt=""&gt;
         &lt;div class="caption"&gt;
             &lt;figcaption&gt;Rys. 1. Ilustracja, źródło: &lt;a href="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/" rel="nofollow" target="_blank"&gt;Pexels&lt;/a&gt;&lt;/figcaption&gt;
