@@ -5514,6 +5514,8 @@ ul li a {
   background-color: #f5f5f5;
   border: 1px solid #c0c0c0;
   padding: 15px 27px 15px 27px; }
+  .mailchimp-post-footer #mc_embed_signup {
+    margin-top: 18px; }
   .mailchimp-post-footer h2 {
     margin-top: 5px;
     font-size: 24px; }

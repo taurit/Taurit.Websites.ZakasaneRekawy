@@ -4,8 +4,8 @@
 	<id>https://przedczasem.taurit.pl/</id>
 	<title>Przed czasem</title>
 	<rights>2017</rights>
-	<updated>2017-06-25T19:07:17Z</updated>
-	<subtitle>Blog o tym, jak wykonać wszystko to, co ważne nim zastanie nas noc</subtitle>
+	<updated>2017-06-30T19:41:39Z</updated>
+	<subtitle>Blog o tym, jak pokonać słomiany zapał i skończyć to, co dla nas ważne nim zastanie nas noc</subtitle>
 	<entry>
 		<link href="https://przedczasem.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow" />
 		<id>https://przedczasem.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow</id>
@@ -70,13 +70,13 @@
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -93,7 +93,7 @@
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -119,10 +119,30 @@ this.page.identifier = 'drivvo-aplikacja-dla-kierowcow';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -186,13 +206,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -209,7 +229,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -235,10 +255,30 @@ this.page.identifier = 'revisionist-0.0.1-wydany';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -334,13 +374,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -357,7 +397,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -383,10 +423,30 @@ this.page.identifier = 'jak-przyspieszyc-bloga-cloudflare';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -434,13 +494,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -457,7 +517,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -483,10 +543,30 @@ this.page.identifier = 'the-freedom-journal';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -551,13 +631,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -574,7 +654,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -600,10 +680,30 @@ this.page.identifier = 'flux';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -686,13 +786,13 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -709,7 +809,7 @@ magick convert input.jpg -quality 20 output.jpg
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -735,10 +835,30 @@ this.page.identifier = 'jpeg2000-archiwizacja-danych';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -826,13 +946,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -849,7 +969,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -875,10 +995,30 @@ this.page.identifier = 'schowek-windows-narzedzia';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -963,13 +1103,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -986,7 +1126,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1012,10 +1152,30 @@ this.page.identifier = 'microsoft-to-do-recenzja';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1095,13 +1255,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1118,7 +1278,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1144,10 +1304,30 @@ this.page.identifier = 'jak-narobic-sobie-problemow-w-git';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1196,13 +1376,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1219,7 +1399,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1245,10 +1425,30 @@ this.page.identifier = 'revisionist-wersja-pogladowa';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1348,13 +1548,13 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1371,7 +1571,7 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1397,10 +1597,30 @@ this.page.identifier = 'zycie-bez-papieru';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1465,13 +1685,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1488,7 +1708,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1514,10 +1734,30 @@ this.page.identifier = 'sprawdzony-pomysl-na-organizacje-poczty-email';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1599,13 +1839,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1622,7 +1862,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1648,10 +1888,30 @@ this.page.identifier = 'jak-przyspieszyc-przeglad-zadan';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1713,13 +1973,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1736,7 +1996,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1762,10 +2022,30 @@ this.page.identifier = 'kiedy-przestac-sie-uczyc';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1868,13 +2148,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1891,7 +2171,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -1917,10 +2197,30 @@ this.page.identifier = '5-sposobow-w-jakie-kolory-ulatwiaja-prace-programisty';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -1973,13 +2273,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -1996,7 +2296,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2022,10 +2322,30 @@ this.page.identifier = 'koncepcja-revisionist';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -2094,13 +2414,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -2117,7 +2437,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2143,10 +2463,30 @@ this.page.identifier = 'co-chowam-w-szufladzie';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -2214,13 +2554,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -2237,7 +2577,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2263,10 +2603,30 @@ this.page.identifier = 'dlaczego-niektore-zadania-zalegaja';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -2360,13 +2720,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -2383,7 +2743,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2409,10 +2769,30 @@ this.page.identifier = 'jaki-priorytet-ma-podlanie-kwiatkow';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
@@ -2592,13 +2972,13 @@ s.setAttribute('data-timestamp', +new Date());
 &lt;aside class="mailchimp-form mailchimp-post-footer"&gt;
     &lt;h2&gt;Podobał Ci się ten artykuł?&lt;/h2&gt;
 
-    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych &lt;strong&gt;sposobów na ułatwienie sobie pracy&lt;/strong&gt;, aby pracować &lt;strong&gt;lżej, krócej i z coraz lepszymi wynikami&lt;/strong&gt;. Każdy email ode mnie zawiera:&lt;/p&gt;
-    &lt;ul&gt;
-        &lt;li&gt;Powiadomienie o &lt;strong&gt;kilku ostatnich artykułach&lt;/strong&gt; na blogu,&lt;/li&gt;
-        &lt;li&gt;Króciutki, &lt;strong&gt;bardziej osobisty esej&lt;/strong&gt; na temat bieżących wydarzeń,&lt;/li&gt;
-        &lt;li&gt;&lt;strong&gt;Niszowy dowcip&lt;/strong&gt; wygrzebany w starych książkach jako rozrywkowy bonus,&lt;/li&gt;
-        &lt;li&gt;Link do wypisania się, jeśli czytanie Ci się znudzi :)&lt;/li&gt;
-    &lt;/ul&gt;
+    &lt;p&gt;Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.&lt;/p&gt;
+
+    
+    &lt;p class="text-center hidden-overridable" id="show-newsletter-form-wrapper"&gt;
+        &lt;button class="btn btn-default btn-success" id="show-newsletter-form"&gt;Zapisz na listę&lt;/button&gt;
+    &lt;/p&gt;
+
 
     &lt;!-- Begin MailChimp Signup Form --&gt;
     &lt;div id="mc_embed_signup"&gt;
@@ -2615,7 +2995,7 @@ s.setAttribute('data-timestamp', +new Date());
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
-                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;&lt;br&gt;
+                &lt;input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"&gt;
 
                 &lt;div id="mce-responses" class="clear"&gt;
                     &lt;div class="response" id="mce-error-response" style="display: none"&gt;&lt;/div&gt;
@@ -2641,10 +3021,30 @@ this.page.identifier = 'ranking-blogow-daj-sie-poznac-2017';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 &lt;/script&gt;
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 

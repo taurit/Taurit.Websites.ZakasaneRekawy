@@ -26,9 +26,10 @@
         div.media-left,
         hr,
         div.sidebar,
-        .hidden{
+        .hidden, .hidden-overridable{
             display: none;
         }
+        
 
         .outline-header {
             position: absolute;
@@ -41,7 +42,7 @@
             overflow: hidden;
         }
     </style>
-    <link href="/assets/css/bundle.min.css?v=7787a" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=10703" rel="stylesheet" />
 
     <link href='//fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,400i,800&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
@@ -315,13 +316,13 @@
 <aside class="mailchimp-form mailchimp-post-footer">
     <h2>Podobał Ci się ten artykuł?</h2>
 
-    <p>Jeśli tak, zarejestruj się i nie przegap kolejnych <strong>sposobów na ułatwienie sobie pracy</strong>, aby pracować <strong>lżej, krócej i z coraz lepszymi wynikami</strong>. Każdy email ode mnie zawiera:</p>
-    <ul>
-        <li>Powiadomienie o <strong>kilku ostatnich artykułach</strong> na blogu,</li>
-        <li>Króciutki, <strong>bardziej osobisty esej</strong> na temat bieżących wydarzeń,</li>
-        <li><strong>Niszowy dowcip</strong> wygrzebany w starych książkach jako rozrywkowy bonus,</li>
-        <li>Link do wypisania się, jeśli czytanie Ci się znudzi :)</li>
-    </ul>
+    <p>Jeśli tak, zarejestruj się i nie przegap kolejnych artykułów pozwalających Ci poprawić motywację i szybciej realizować Twoje cele.</p>
+
+    
+    <p class="text-center hidden-overridable" id="show-newsletter-form-wrapper">
+        <button class="btn btn-default btn-success" id="show-newsletter-form">Zapisz na listę</button>
+    </p>
+
 
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">
@@ -338,7 +339,7 @@
 
                     <input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię" />
                 </div>
-                <input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm"><br />
+                <input type="submit" value="Zapisz na listę →" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-sm">
 
                 <div id="mce-responses" class="clear">
                     <div class="response" id="mce-error-response" style="display: none"></div>
@@ -364,10 +365,30 @@ this.page.identifier = 'ranking-blogow-daj-sie-poznac-2017';
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-s.src = '//prostodocelu.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
+    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
 })();
+
+    function setVisibility(domElement, visibility) {
+    domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+    
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+
+
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 

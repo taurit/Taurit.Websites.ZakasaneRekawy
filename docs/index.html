@@ -7,7 +7,7 @@
 
     <title>Przed czasem</title>
 
-    <meta name="description" content="Blog o tym, jak wykona&#x107; wszystko to, co wa&#x17C;ne nim zastanie nas noc" />    
+    <meta name="description" content="Blog o tym, jak pokona&#x107; s&#x142;omiany zapa&#x142; i sko&#x144;czy&#x107; to, co dla nas wa&#x17C;ne nim zastanie nas noc" />    
     <meta http-equiv="content-language" content="pl">
     
     <link hreflang="pl" href="https://przedczasem.taurit.pl/" rel="alternate" />
@@ -26,9 +26,10 @@
         div.media-left,
         hr,
         div.sidebar,
-        .hidden{
+        .hidden, .hidden-overridable{
             display: none;
         }
+        
 
         .outline-header {
             position: absolute;
@@ -41,7 +42,7 @@
             overflow: hidden;
         }
     </style>
-    <link href="/assets/css/bundle.min.css?v=7787a" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=10703" rel="stylesheet" />
 
     <link href='//fonts.googleapis.com/css?family=Lora:400,400i,700,700i&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,400i,800&amp;subset=latin-ext' rel='stylesheet' type='text/css'>
@@ -56,7 +57,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:url" content="https://przedczasem.taurit.pl/" />
     <meta name="twitter:title" content="Przed czasem" />
-    <meta name="twitter:description" content="Blog o tym, jak wykona&#x107; wszystko to, co wa&#x17C;ne nim zastanie nas noc" />
+    <meta name="twitter:description" content="Blog o tym, jak pokona&#x107; s&#x142;omiany zapa&#x142; i sko&#x144;czy&#x107; to, co dla nas wa&#x17C;ne nim zastanie nas noc" />
     <meta name="twitter:image" content="https://przedczasem.taurit.pl/assets/img/icon.png" />
 
     <meta property="og:title" content="Przed czasem" />
@@ -114,7 +115,7 @@
 
         <hr class="small">
     <span class="subheading">
-        Blog o tym, jak wykona&#x107; wszystko to, co wa&#x17C;ne nim zastanie nas noc
+        Blog o tym, jak pokona&#x107; s&#x142;omiany zapa&#x142; i sko&#x144;czy&#x107; to, co dla nas wa&#x17C;ne nim zastanie nas noc
     </span>
 
 </div>
@@ -350,10 +351,10 @@
             <h1>O blogu</h1>
             
             <img src="/assets/img/profile-photo-square.jpg" alt="" class="sidebar-about-image"/>
-            <p>Cześć! Jestem Paweł i opisuję sposoby na <strong>usprawnienie sobie pracy</strong>, dzięki czemu oszczędzamy czas tak potrzebny na inne rzeczy, które są dla nas ważne.
+            <p>Cześć! Jestem Paweł i opisuję sposoby na <strong>pokonanie lenia</strong>, dzięki czemu możemy sprawnie realizować nasze plany, a po pracy cieszyć się czasem wolnym. Nie tylko od święta!
             </p>
 
-            <p>Nie piszę jako autorytet, za to dużo eksperymentuję i chcę <strong>wymienić się z Tobą doświadczeniami</strong>. Sądzę, że codzienne, często błahe decyzje decydują o tym, czy znajdziemy czas na najbardziej wartościowe dla nas działania, czy znów odłożymy je na przyszłość bo zastanie nas noc.</p>
+            <p>Sądzę, że codzienne, często błahe decyzje decydują o tym, czy uda nam się zrealizować choć część z miliona pomysłów które mamy, czy znów odłożymy je na przyszłość bo zastanie nas noc.</p>
         </aside>
 
         <hr/>
@@ -361,9 +362,14 @@
         <aside class="mailchimp-form mailchimp-sidebar">
             <h1>Nie przegap nowych artykułów</h1>
             
-            <p>W każdym mailu z <strong>powiadomieniem o nowych artykułach</strong> znajdziesz również niszowy dowcip lub ciekawą anegdotę, żeby rozerwać błędne skojarzenie produktywności z pracą do utraty tchu ;-)</p>
+            <p>Dołącz do grona regularnych czytelników i otrzymaj powiadomienia o nowych artykułach - zero spamu, tylko wartościowe treści!</p>
+            
 
             <!-- Begin MailChimp Signup Form -->
+            <div id="show-newsletter-form-wrapper" class="hidden-overridable">
+                <button class="btn btn-default btn-success" id="show-newsletter-form">Zapisz mnie &rarr;</button>
+            </div>
+
             <div id="mc_embed_signup">
                 <form action="//taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=ed53bc8d77" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form" target="_blank" novalidate>
                     <div id="mc_embed_signup_scroll">
@@ -391,10 +397,8 @@
                 </form>
             </div>
             
-            <p>Twój adres nie zostanie nikomu udostępniony.</p>
         </aside>
         
-
         <hr />
 
         <aside>
@@ -554,7 +558,25 @@
     </div>
 </div>
 <script id="dsq-count-scr" src="//prostodocelu.disqus.com/count.js" async></script>
-<!--End mc_embed_signup-->
+<script>
+    function setVisibility(domElement, visibility) {
+        domElement.style.display = (visibility === true) ? 'block' : 'none';
+    }
+
+    var showFormWrapper = document.getElementById('show-newsletter-form-wrapper');
+    var button = document.getElementById('show-newsletter-form');
+    var mailchimpForm = document.getElementById('mc_embed_signup');
+    var emailInput = document.getElementById('mce-EMAIL');
+
+    setVisibility(showFormWrapper, true);
+    setVisibility(mailchimpForm, false);
+    
+    button.onclick = function() { 
+        setVisibility(showFormWrapper, false);
+        setVisibility(mailchimpForm, true);
+        emailInput.focus();
+    };
+</script>
 
         </div>
     </div>
