@@ -7,7 +7,7 @@ $taskColorMediumPriority: #FFDC00;
 $taskColorHighPriority: #FF4136;
 $taskColorLowPriority: #fbfbfb;
 $taskTickColor: #42a442;
-
+@import 'config.scss';
 
 /* fix: logo too big on desktop */
 #intro-header {
@@ -177,7 +177,7 @@ div.media-left {
         border: 1px solid #dcdcdc;
     }
 
-    font-size: 14px;
+    font-size: 0.8em;
 }
 
 ul li a {
@@ -215,20 +215,32 @@ ul li a {
     vertical-align: top;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    font-family: $headersFontFamily;
+}
+
 .article-title-index {
-    font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: $headersFontFamily;
     font-weight: 300;
     font-size: 24px;
 }
 
 .sidebar aside {
+    margin-bottom: 30px;
     h1 {
-        font-size: 16px; // h1 for outline, but visually I'd like to see h5 strength
+        font-size: 0.85em; // h1 for outline, but visually I'd like to see h5 strength
+        border-bottom: 1px solid #eee;
+        padding-bottom: 8px;
     }
 
     p {
-        font-size: 14px;
+        font-size: 0.85em;
     }
+}
+
+.other-blog-posts a {
+    font-family: $headersFontFamily;
+    font-size: 0.9em;
 }
 
 .semibold {

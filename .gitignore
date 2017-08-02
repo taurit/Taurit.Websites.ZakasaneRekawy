@@ -307,3 +307,4 @@ docs/assets/css/bootstrap.css
 docs/assets/img/thumbnails/*.fullsize.jpg
 docs/assets/img/thumbnails/*.txt
 
+*.scss

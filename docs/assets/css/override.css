@@ -115,7 +115,7 @@ div.media-left {
   color: #ffffff !important; }
 
 .sidebar .media {
-  font-size: 14px; }
+  font-size: 0.8em; }
   .sidebar .media img {
     width: 50px;
     height: 50px;
@@ -144,16 +144,26 @@ ul li a {
 .tags-sidebar {
   vertical-align: top; }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Segoe UI", sans-serif; }
+
 .article-title-index {
-  font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+  font-family: "Segoe UI", sans-serif;
   font-weight: 300;
   font-size: 24px; }
 
-.sidebar aside h1 {
-  font-size: 16px; }
+.sidebar aside {
+  margin-bottom: 30px; }
+  .sidebar aside h1 {
+    font-size: 0.85em;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 8px; }
+  .sidebar aside p {
+    font-size: 0.85em; }
 
-.sidebar aside p {
-  font-size: 14px; }
+.other-blog-posts a {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.9em; }
 
 .semibold {
   font-weight: 400; }

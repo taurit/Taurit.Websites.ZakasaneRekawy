@@ -2,5 +2,9 @@
   {
     "outputFile": "assets/css/override.css",
     "inputFile": "assets/css/override.scss"
+  },
+  {
+    "outputFile": "assets/css/clean-blog.css",
+    "inputFile": "assets/css/clean-blog.scss"
   }
 ]
