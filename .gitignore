@@ -308,3 +308,4 @@ docs/assets/img/thumbnails/*.fullsize.jpg
 docs/assets/img/thumbnails/*.txt
 
 *.scss
+docs/assets/img/thumbnails/*.fullsize.*
