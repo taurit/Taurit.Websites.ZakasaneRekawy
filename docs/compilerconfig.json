@@ -6,5 +6,9 @@
   {
     "outputFile": "assets/css/clean-blog.css",
     "inputFile": "assets/css/clean-blog.scss"
+  },
+  {
+    "outputFile": "assets/css/inline-styles.css",
+    "inputFile": "assets/css/inline-styles.scss"
   }
 ]

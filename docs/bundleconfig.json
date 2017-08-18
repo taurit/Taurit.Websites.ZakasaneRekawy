@@ -8,5 +8,17 @@
       "assets/css/master.css",
       "assets/css/override.css"
     ]
+  },
+  {
+    "outputFileName": "assets/js/global.min.js",
+    "inputFiles": [
+      "assets/js/global.js"
+    ]
+  },
+  {
+    "outputFileName": "assets/js/newsletter-form.min.js",
+    "inputFiles": [
+      "assets/js/newsletter-form.js"
+    ]
   }
 ]
