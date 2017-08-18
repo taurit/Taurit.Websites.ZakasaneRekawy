@@ -227,6 +227,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .sidebar aside {
     margin-bottom: 30px;
+
     h1 {
         font-size: 0.85em; // h1 for outline, but visually I'd like to see h5 strength
         border-bottom: 1px solid #eee;
@@ -380,4 +381,15 @@ h1, h2, h3, h4, h5, h6 {
     border: 1px solid #b0b0b0;
     margin-top: 10px;
     margin-right: 5px;
+}
+
+p.lead, .lead {
+    font-size: 2.2rem;
+}
+
+
+@media only screen and (max-width: 768px) {
+    .mailchimp-post-footer #mce-EMAIL {
+        width: 100%;
+    }
 }
