@@ -310,3 +310,4 @@ docs/assets/img/thumbnails/*.txt
 *.scss
 docs/assets/img/thumbnails/*.fullsize.*
 docs/assets/img/posts/*.fullsize.jpg
+docs/assets/css/fontello-*.zip

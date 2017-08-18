@@ -4,7 +4,7 @@
 	<id>https://zakasanerekawy.pl/</id>
 	<title>Zakasane rękawy</title>
 	<rights>2017</rights>
-	<updated>2017-08-18T20:20:30Z</updated>
+	<updated>2017-08-18T20:52:46Z</updated>
 	<subtitle>Blog dla tych, którzy lubią pracować</subtitle>
 	<entry>
 		<link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
@@ -87,12 +87,12 @@
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -214,12 +214,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -357,12 +357,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -493,12 +493,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -661,12 +661,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -781,12 +781,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -918,12 +918,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1073,12 +1073,12 @@ magick convert input.jpg -quality 20 output.jpg
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1233,12 +1233,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1390,12 +1390,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1542,12 +1542,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1663,12 +1663,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1835,12 +1835,12 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -1972,12 +1972,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2126,12 +2126,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2260,12 +2260,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2435,12 +2435,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2560,12 +2560,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2701,12 +2701,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;
@@ -2841,12 +2841,12 @@ var d = document, s = d.createElement('script');
             &lt;div id="mc_embed_signup_scroll"&gt;
                 &lt;div class="form-group form-group-email"&gt;
                     &lt;label for="mce-EMAIL" class="outline-header"&gt;Email *&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-envelope" aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-envelope icon-mail" aria-hidden="true"&gt;&lt;/i&gt;
                     &lt;input type="email" value="" name="EMAIL" class="required email form-input" id="mce-EMAIL" placeholder="Twój adres email"&gt;&lt;br&gt;
                 &lt;/div&gt;
                 &lt;div class="form-group"&gt;
                     &lt;label for="mce-FNAME" class="outline-header"&gt;Imię&lt;/label&gt;
-                    &lt;i class="fa fa-input fa-user-circle-o " aria-hidden="true"&gt;&lt;/i&gt;
+                    &lt;i class="fa fa-input fa-user-circle-o icon-user-circle-o" aria-hidden="true"&gt;&lt;/i&gt;
 
                     &lt;input type="text" value="" name="FNAME" class="form-input" id="mce-FNAME" placeholder="Twoje imię"&gt;
                 &lt;/div&gt;

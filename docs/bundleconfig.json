@@ -20,5 +20,11 @@
     "inputFiles": [
       "assets/js/newsletter-form.js"
     ]
+  },
+  {
+    "outputFileName": "assets/css/fontello.min.css",
+    "inputFiles": [
+      "assets/css/fontello.css"
+    ]
   }
 ]

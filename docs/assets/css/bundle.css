@@ -5522,14 +5522,11 @@ h1, h2, h3, h4, h5, h6 {
   .mailchimp-post-footer #mce-responses {
     margin-top: 12px; }
 
-.sidebar-about-image-wrapper {
-    padding: 10px 5px 5px 5px;
-    float: right;
-}
 .sidebar-about-image {
-  
+  float: right;
   border: 1px solid #b0b0b0;
-  }
+  margin-top: 10px;
+  margin-right: 5px; }
 
 p.lead, .lead {
   font-size: 2.2rem; }
@@ -5537,3 +5534,6 @@ p.lead, .lead {
 @media only screen and (max-width: 768px) {
   .mailchimp-post-footer #mce-EMAIL {
     width: 100%; } }
+
+.fa {
+  font-family: 'fontello'; }

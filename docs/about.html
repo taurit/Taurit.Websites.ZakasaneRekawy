@@ -21,9 +21,9 @@
     <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
     <style type="text/css">
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
+   
     </style>
-    <link href="/assets/css/bundle.min.css?v=4cffb" rel="stylesheet" />
-
+    <link href="/assets/css/bundle.min.css?v=86ab7" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="msapplication-tooltip" content="Zakasane r&#x119;kawy" />
@@ -180,9 +180,9 @@ Podoba mi się również wizja, w której udaje się nam solidnie wykonać wszys
                     <p class="copyright text-muted">
                         Copyright © 2017 <a rel="author" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" target="_blank">Paweł Bulwan</a>
                         <br />
-                            <i class="fa fa-rss"></i> <a href="/feed.rss">RSS</a>
+                            <i class="fa fa-rss icon-rss"></i> <a href="/feed.rss">RSS</a>
                         |
-                            <i class="fa fa-rss"></i> <a href="/feed.atom">Atom</a>
+                            <i class="fa fa-rss icon-rss"></i> <a href="/feed.atom">Atom</a>
                     </p>
                 </div>
         </div>
@@ -194,14 +194,7 @@ Podoba mi się również wizja, w której udaje się nam solidnie wykonać wszys
 var toggleNav=function(){var n=document.getElementById("navbar-collapse").classList;n.contains("collapse")?n.remove("collapse"):n.add("collapse")};document.getElementById("navbar-button").addEventListener("click",toggleNav),function(n,t,i,r,u,f,e){n.GoogleAnalyticsObject=u;n[u]=n[u]||function(){(n[u].q=n[u].q||[]).push(arguments)};n[u].l=1*new Date;f=t.createElement(i);e=t.getElementsByTagName(i)[0];f.async=1;f.src=r;e.parentNode.insertBefore(f,e)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-92769796-1","auto");ga("send","pageview");;
 </script>
 
-
-<!--
-Hack recommended by Google PageSpeed tool:
-move non-essential stylesheets to bottom, below <html> tag, to make critical rendering path faster
-
-But on the other hand... http://stackoverflow.com/a/21058277/889779
--->
-<link href="/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/fontello.min.css" rel="stylesheet" type="text/css">
 
 </body>
 </html>
