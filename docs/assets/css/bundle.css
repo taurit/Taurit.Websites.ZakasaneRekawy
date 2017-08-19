@@ -5402,7 +5402,8 @@ ul li a {
   color: #a1a1a1; }
 
 .post-list-post-thumbnail {
-  width: 75px; }
+  width: 75px;
+  height: 75px; }
 
 .content-index .media-body h3 {
   margin-top: 0;
@@ -5522,11 +5523,14 @@ h1, h2, h3, h4, h5, h6 {
   .mailchimp-post-footer #mce-responses {
     margin-top: 12px; }
 
-.sidebar-about-image {
+.sidebar-about-image-wrapper {
   float: right;
+  padding: 10px 3px 3px 3px; }
+
+.sidebar-about-image {
   border: 1px solid #b0b0b0;
-  margin-top: 10px;
-  margin-right: 5px; }
+  width: 80px;
+  height: 80px; }
 
 p.lead, .lead {
   font-size: 2.2rem; }
