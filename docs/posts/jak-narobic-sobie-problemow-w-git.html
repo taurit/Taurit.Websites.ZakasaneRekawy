@@ -125,24 +125,24 @@
         <div id="content" class="col-md-12">
             
 
-<h2 id="git-niby-trudno-jest-cos-zepsuc">Git - niby trudno jest coś zepsuć...</h2>
+<h2 id="teoria-w-git-trudno-jest-cos-zepsuc">Teoria: w Git trudno jest coś zepsuć</h2>
 <p>Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale <code>git</code> stał się w ostatnich latach właściwie <strong>podstawowym narzędziem używanym w IT</strong>. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.</p>
-<p>Zakładam u Ciebie znajomość podstaw tego narzędzia. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że <strong>raz scommitowany kod nie zostanie utracony</strong>. Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi <code>--force</code> lub odhaczenia w GUI pola wyboru typu &quot;wiem co robię&quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.</p>
+<p>W tym artykule zakładam znajomość podstaw tego narzędzia, rozważania wychodzą trochę poza podstawy. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że <strong>raz scommitowany kod nie zostanie utracony</strong>.</p>
+<p>Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi <code>--force</code> lub odhaczenia w GUI pola wyboru typu &quot;wiem co robię&quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.</p>
 <div class="row" aria-hidden="true">
     <figure class="col-sm-6 col-md-6 col-md-offset-3">
         <div class="thumbnail">
             <img src="/assets/img/posts/depression.jpg" alt="Depression" />
         <div class="caption">
-            <figcaption>Rys. 1. Złe praktyki w zespole developerskim są jedną z najczęstszych przyczyn depresji u programistów (na drugim miejscu, po technologii Microsoft SharePoint). Fot. <a href="https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/" target="_blank" rel="nofollow">Jim Jackson, Pexels</a></figcaption>
+            <figcaption>Rys. 1. Nadpisywanie historii w repozytorium źle się kończy. Fot. <a href="https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/" target="_blank" rel="nofollow">Jim Jackson, Pexels</a></figcaption>
         </div>
         </div>
     </figure>
 </div>
-<p>Jeśli już jednak pracując w zespole zepsujemy coś w ten sposób, prawdopodobnie dowiemy się o tym w przeciągu 24 godzin od innej osoby.</p>
-<p>Przykładowo, <strong>jeśli złośliwie nadpiszemy historię dla gałęzi, to ktoś nie będzie mógł wypchnąć swoich zmian na tę gałąź</strong> (ale będzie miał lokalnie kopię całej pracy, więc dane nie zostaną utracone). Jeśli źle rozwiążemy konflikty, to kod się nie zbuduje albo dostrzeżemy to podczas testu po uruchomieniu aplikacji.</p>
+<p>Jeśli już jednak pracując w zespole zepsujemy coś w ten sposób, prawdopodobnie dowiemy się o tym w przeciągu 24 godzin od innej osoby. Przykładowo, jeśli złośliwie nadpiszemy historię dla gałęzi, to ktoś nie będzie mógł wypchnąć swoich zmian na tę gałąź (ale będzie miał lokalnie kopię całej pracy, więc dane nie zostaną utracone). Jeśli źle rozwiążemy konflikty, to kod się nie zbuduje albo dostrzeżemy to podczas testu po uruchomieniu aplikacji.</p>
 <h2 id="sa-jednak-puapki-ktore-nas-dotykaja-po-czasie">Są jednak pułapki, które nas dotykają po czasie</h2>
 <p>I jest to zły dotyk. Pewnych problemów na pierwszy rzut oka możemy nie zauważyć, ale z czasem mogą stać się kosztowne.</p>
-<p>Podobnie jak dług techniczny może powolutku i niezauważalnie niszczyć nam projekt od środka, pewne przyzwyczajenia w zespole mogą powodować że <strong>jakość naszego repozytorium z czasem się pogarsza</strong>. Oto dwa z nich.</p>
+<p>Pewne przyzwyczajenia w zespole mogą powodować że <strong>jakość naszego repozytorium z czasem się pogarsza</strong>. Oto dwa z nich, które widzę.</p>
 <h3 id="commitowanie-duzych-plikow-binarnych">1. Commitowanie dużych plików binarnych</h3>
 <p>Prawdopodobnie większą częśc naszych repozytoriów stanowią rodzaju <strong>pliki tekstowe</strong>. Przez <i>pliki tekstowe</i> rozumiem takie, które w odróżnieniu od <i>binarnych</i> dają się otworzyć i sensownie edytować w notatniku. Pliki takie składają się z tekstu rozdzielonego znakami nowej linii, łatwo możemy je też automatycznymi narzędziami porównywać i wskazywać fragmenty które się różnią. Pliki binarne natomiast zawierają dane, dla których porównywanie danych &quot;linia po linii&quot; nie ma sensu. Są to na przykład obrazki, pliki wykonywalne, spakowane pliki, ikony.</p>
 <p>Jeśli ta definicja wydaje Ci się nieścisła, masz rację. To rozróżnienie jest bardziej umowne. Systemy kontroli wersji <a href="https://stackoverflow.com/questions/7110750/how-do-popular-source-control-systems-differentiate-binary-files-from-text-files" target="_blank">używają heurystyk</a> aby ocenić czy coś jest plikiem tekstowym, czy binarnym, bo muszą je traktować inaczej. Możemy im trochę pomóc, np. w <code>git</code> dodając podpowiedzi w pliku <code>.gitattributes</code>. Pewnie wszyscy mamy jednak wyrobioną pewną intuicję na temat tego, co jest plikiem tekstowym, a co binarnym i powinna nam ona na co dzień wystarczyć.</p>
@@ -158,17 +158,17 @@
 </div>
 <p>Pliki binarne w praktyce mają też pewną częstą cechę - są <b>duże</b>. Co to znaczy duże? Pomyślmy o przykładowych plikach, które można czasem znaleźć na repozytoriach git:</p>
 <ul>
+<li>pliki Worda z dokumentacją biznesową,</li>
+<li>pliki Excela z wymaganiami,</li>
 <li>obrazki jpeg, png</li>
 <li>pliki instalacyjne wtyczek Visual Studio potrzebnych do pracy z projektem,</li>
-<li>programy (exe-ki, dll-ki) będące zależności dla naszej aplikacji, np. <a href="http://www.antoniaklukasz.eu/dsp2017/sposob-na-generowanie-pdf/" target="_blank">wkhtmltopdf</a> do generowania PDF-ów,</li>
-<li>pliki Worda z dokumentacją biznesową,</li>
-<li>pliki Excela z wymaganiami.</li>
+<li>programy (exe-ki, dll-ki) będące zależnościami dla naszej aplikacji.</li>
 </ul>
 <p>Można by pewnie wymienić jeszcze trochę.</p>
-<p>Nie posunąłbym się może do tak rygorystycznego stwierdzenia jak “<a href="https://robinwinslow.uk/2013/06/11/dont-ever-commit-binary-files-to-git/" target="_blank">Don't ever commit binary files to Git</a>”, ale również w swoich repozytoriach staram się ograniczać pliki binarne do minimum.</p>
+<p>Nie posunąłbym się może do tak rygorystycznego stwierdzenia jak “<a href="https://robinwinslow.uk/2013/06/11/dont-ever-commit-binary-files-to-git/" target="_blank">Don't ever commit binary files to Git</a>”, ale kierowany doświadczeniem zacząłem sam zwracać uwagę, aby ograniczać pliki binarne do minimum.</p>
 <p>Pamiętajmy bowiem, że <strong>wszystko co commitujemy, zostaje w historii repozytorium już na zawsze</strong>. Jeśli więc na starcie projektu webowego dużo sobie prototypujemy i używamy do tego grafik w rozmiarze <b>4000 x 3000</b>, a do tego często commitujemy zmiany jako &quot;checkpointy&quot; naszej pracy (co jest właściwie dobrą praktyką), to nasze repozytorium będzie szybko puchło.</p>
 <p>Każda osoba, która w przyszłości ściągnie repozytorium, będzie musiała ściągnąć również te obrazki, <strong>choć w bieżącej wersji kodu może ich od dawna nie być</strong>. To nie tylko wolniejsza praca z gitem dla wszystkich członków zespołu, ale też więcej miejsca na dysku zajmowanego przez repozytorium (czasem wiele gigabajtów), oraz np.  trudniejszy backup takich danych.</p>
-<p>A teraz, jeśli chcesz, to zerknij na folder projektu nad którym pracujesz najdłużej i sprawdź ile miejsca na dysku zajmuje. Możesz potem zestawić tę liczbę z <a href="https://confluence.atlassian.com/bitbucket/reduce-repository-size-321848262.html" target="_blank">rekomendacją od firmy Atlassian</a>:</p>
+<p>Na koniec, jeśli chcesz, to w ramach krótkiego warsztatu zerknij na folder projektu nad którym pracujesz najdłużej ;) Sprawdź ile miejsca na dysku zajmuje. Możesz potem zestawić tę liczbę z <a href="https://confluence.atlassian.com/bitbucket/reduce-repository-size-321848262.html" target="_blank">rekomendacją od firmy Atlassian</a>:</p>
 <blockquote>Ideally, you should keep your repository size to between 100MB and 300MB. To give you some examples: Git itself is 222MB, Mercurial itself is 64MB, and Apache is 225MB. You can check out these open source repositories here: https://bitbucket.org/mirror/ </blockquote>
 <h3 id="commitowanie-hase">2. Commitowanie haseł</h3>
 <p>Fakt, że repozytorium gita &quot;nie zapomina&quot; ma też swoje konsekwencje, jeśli zdarzy nam się wrzucić plik, który zawiera hasło (lub np. <i>connection string</i> do bazy danych).</p>
