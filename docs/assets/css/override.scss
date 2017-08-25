@@ -14,13 +14,10 @@ $taskTickColor: #42a442;
     background-color: #558eaf;
 }
 
-p.center-wrapper {
+.center-wrapper {
     text-align: center;
 }
 
-#about-page-todoist-top-1 {
-    max-width: 80%;
-}
 /* fix: link color does not differ from text color */
 a {
     //color: $linkColor;
@@ -45,58 +42,60 @@ footer {
 /* feature: task list */
 todo-list {
     display: block;
+}
 
-    tasks {
-        display: block;
-        padding: 15px;
+tasks {
+    display: block;
+    padding: 15px;
+}
 
-        task {
-            display: block;
-            margin-bottom: 2px;
-            font-size: 0.9em;
+task {
+    display: block;
+    margin-bottom: 2px;
+    font-size: 0.9em;
 
-            $taskHeight: 18px;
-
-            task-priority {
-                display: inline-block;
-                vertical-align: top;
-                line-height: $taskHeight;
-                width: $taskHeight;
-                height: $taskHeight;
-                border-radius: 35%;
-                border: 1px solid #D5D5D5;
-
-                &.high {
-                    background-color: $taskColorHighPriority;
-                }
-
-                &.medium {
-                    background-color: $taskColorMediumPriority;
-                }
-
-                &.low {
-                    background-color: $taskColorLowPriority;
-                }
-            }
-
-            &:hover {
-                task-priority:after {
-                    content: "✔";
-                    color: $taskTickColor;
-                }
-            }
-
-            task-description {
-                display: inline-block;
-                vertical-align: top;
-                line-height: $taskHeight;
-                margin-left: 3px;
-                cursor: default;
-                position: relative;
-                top: 1px; // for border
-            }
+    &:hover {
+        task-priority:after {
+            content: "✔";
+            color: $taskTickColor;
         }
     }
+}
+
+$taskHeight: 18px;
+
+task-priority {
+    display: inline-block;
+    vertical-align: top;
+    line-height: $taskHeight;
+    width: $taskHeight;
+    height: $taskHeight;
+    border-radius: 35%;
+    border: 1px solid #D5D5D5;
+
+    &.high {
+        background-color: $taskColorHighPriority;
+    }
+
+    &.medium {
+        background-color: $taskColorMediumPriority;
+    }
+
+    &.low {
+        background-color: $taskColorLowPriority;
+    }
+}
+
+task-description {
+    display: inline-block;
+    vertical-align: top;
+    line-height: $taskHeight;
+    margin-left: 3px;
+    cursor: default;
+    position: relative;
+    top: 1px; // for border
+}
+
 }
 /* fix: spacing for paragraphs is too big in my opinion */
 p {
@@ -170,11 +169,13 @@ div.media-left {
 
 
 .sidebar .media {
+
     img {
-        $size: 50px;
+        $border: 1px;
+        $size: 50px + 2*$border;
         width: $size;
         height: $size;
-        border: 1px solid #dcdcdc;
+        border: $border solid #dcdcdc;
     }
 
     font-size: 0.8em;
@@ -381,10 +382,13 @@ h1, h2, h3, h4, h5, h6 {
     float: right;
     padding: 10px 3px 3px 3px;
 }
+
 .sidebar-about-image {
     border: 1px solid #b0b0b0;
-    width: 80px; height: 80px;
+    width: 80px;
+    height: 80px;
 }
+
 p.lead, .lead {
     font-size: 2.2rem;
 }

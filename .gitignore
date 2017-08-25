@@ -312,3 +312,4 @@ docs/assets/img/thumbnails/*.fullsize.*
 docs/assets/img/posts/*.fullsize.jpg
 docs/assets/css/fontello-*.zip
 docs/assets/img/*.fullsize.*
+docs/assets/css/bundle.optimized.css

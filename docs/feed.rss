@@ -5,11 +5,12 @@
 		<link>https://zakasanerekawy.pl/</link>
 		<description>Blog dla tych, którzy lubią pracować</description>
 		<copyright>2017</copyright>
-		<pubDate>Wed, 23 Aug 2017 16:03:06 GMT</pubDate>
-		<lastBuildDate>Wed, 23 Aug 2017 16:03:06 GMT</lastBuildDate>
+		<pubDate>Fri, 25 Aug 2017 18:08:41 GMT</pubDate>
+		<lastBuildDate>Fri, 25 Aug 2017 18:08:41 GMT</lastBuildDate>
 		<item>
 			<title>Gadżet dla produktywnych w cenie kebaba</title>
 			<link>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</link>
+			<description>Pomysł na to jak wykorzystując budżet kilkunastu złotych możemy poprawić swoją produktywność.</description>
 			<guid>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</guid>
 			<pubDate>Mon, 21 Aug 2017 22:54:00 GMT</pubDate>
 			<content:encoded>&lt;h2 id="czy-produktywnosc-wymaga-gadzetow"&gt;Czy produktywność wymaga gadżetów?&lt;/h2&gt;
@@ -120,11 +121,11 @@
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych';
 this.page.identifier = 'gadzet-dla-produktywnych';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -254,11 +255,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy';
 this.page.identifier = 'jak-zmusic-sie-do-pracy';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -397,11 +398,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow';
 this.page.identifier = 'drivvo-aplikacja-dla-kierowcow';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -533,11 +534,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany';
 this.page.identifier = 'revisionist-0.0.1-wydany';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -702,11 +703,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare';
 this.page.identifier = 'jak-przyspieszyc-bloga-cloudflare';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -824,11 +825,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/the-freedom-journal';
 this.page.identifier = 'the-freedom-journal';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -961,11 +962,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/flux';
 this.page.identifier = 'flux';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1117,11 +1118,11 @@ magick convert input.jpg -quality 20 output.jpg
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych';
 this.page.identifier = 'jpeg2000-archiwizacja-danych';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1278,11 +1279,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/schowek-windows-narz%C4%99dzia';
 this.page.identifier = 'schowek-windows-narzedzia';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1435,11 +1436,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/microsoft-to-do-recenzja';
 this.page.identifier = 'microsoft-to-do-recenzja';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1587,11 +1588,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git';
 this.page.identifier = 'jak-narobic-sobie-problemow-w-git';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1708,11 +1709,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/revisionist-wersja-pogladowa';
 this.page.identifier = 'revisionist-wersja-pogladowa';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -1880,11 +1881,11 @@ Przy takim podejściu problemami do rozwiązania pozostają jedynie:
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/zycie-bez-papieru';
 this.page.identifier = 'zycie-bez-papieru';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2017,11 +2018,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/sprawdzony-pomysl-na-organizacje-poczty-email';
 this.page.identifier = 'sprawdzony-pomysl-na-organizacje-poczty-email';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2171,11 +2172,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/jak-przyspieszyc-przeglad-zadan';
 this.page.identifier = 'jak-przyspieszyc-przeglad-zadan';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2305,11 +2306,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/kiedy-przestac-sie-uczyc';
 this.page.identifier = 'kiedy-przestac-sie-uczyc';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2480,11 +2481,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/5-sposobow-w-jakie-kolory-ulatwiaja-prace-programisty';
 this.page.identifier = '5-sposobow-w-jakie-kolory-ulatwiaja-prace-programisty';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2595,11 +2596,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/koncepcja-revisionist';
 this.page.identifier = 'koncepcja-revisionist';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2736,11 +2737,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/co-chowam-w-szufladzie';
 this.page.identifier = 'co-chowam-w-szufladzie';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
@@ -2876,11 +2877,11 @@ var d = document, s = d.createElement('script');
 var disqus_config = function () {
 this.page.url = 'https://zakasanerekawy.pl/posts/dlaczego-niektore-zadania-zalegaja';
 this.page.identifier = 'dlaczego-niektore-zadania-zalegaja';
-};
+}; 
 
 (function() { // DON'T EDIT BELOW THIS LINE
 var d = document, s = d.createElement('script');
-    s.src = '//prostodocelu.disqus.com/embed.js';
+    s.src = 'https://prostodocelu.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
 })();
