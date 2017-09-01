@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -139,19 +139,21 @@
 <h1 id="co-chowam-w-szufladzie">Co chowam w szufladzie</h1>
 <p>Zanim przedstawię rozwiązanie nad którym pracuję w tym roku, chciałbym pokazać <strong>dwa projekty związane z zarządzaniem zadaniami</strong> które stworzyłem na własny użytek już jakiś czas temu. Sprawdziły mi się. Używam ich na co dzień i chociaż jestem jedynym użytkownikiem, to być może dobrze opakowane i dopracowane mogłyby pomóc jeszcze co najmniej paru osobom ;-)</p>
 <h1 id="nadawanie-kontekstow-zadaniom-czyli-todoist-review">Nadawanie kontekstów zadaniom czyli Todoist Review</h1>
-<p>Problem z priorytetami jaki niedawno opisywałem w artykule <a href="/posts/jaki-priorytet-ma-podlanie-kwiatkow">Jaki priorytet ma podlanie kwiatków?</a> można nieco zmitygować. Uszeregowanie zadań według priorytetów dla całej naszej listy staje się niewykonalne, gdy lista robi się duża. Możemy jednak otagować zadania <strong>rozłącznymi kontekstami</strong> opisującymi np. miejsce gdzie chcemy wykonać dane zadanie. Wtedy lista pozwala na siebie spojrzeć jak na kilka mniejszych, rozłącznych list, a dla takich podejmowanie decyzji o tym <strong>co warto zrobić w pierwszej kolejności</strong> jest znacznie łatwiejsze.</[>
+<p>Problem z priorytetami jaki niedawno opisywałem w artykule <a href="/posts/jaki-priorytet-ma-podlanie-kwiatkow">Jaki priorytet ma podlanie kwiatków?</a> można nieco zmitygować. Uszeregowanie zadań według priorytetów dla całej naszej listy staje się niewykonalne, gdy lista robi się duża. Możemy jednak otagować zadania <strong>rozłącznymi kontekstami</strong> opisującymi np. miejsce gdzie chcemy wykonać dane zadanie. Wtedy lista pozwala na siebie spojrzeć jak na kilka mniejszych, rozłącznych list, a dla takich podejmowanie decyzji o tym <strong>co warto zrobić w pierwszej kolejności</strong> jest znacznie łatwiejsze.</p>
 <p>Rozwiązaniem, które miało pomóc mi szybciej nadawać konteksty zadaniom jest <em>Todoist Review</em>. Trzymam go sobie <a href="https://github.com/taurit/TodoistReview" target="_blank" rel="nofollow">na GitHubie</a>, używam dość często na smartfonie.</p>
-<div class="row">
-    <figure class="col-sm-6 col-md-4 col-md-offset-4">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/todoist-review-app-screenshot-300.png" alt="Aplikacja TodoistReview" />
-        <div class="caption">
-            <figcaption>Rys. 1. Narzędzie do nadawania kontekstów zadaniom, którym go brakuje. Stworzone do szuflady jakiś czas temu, sprawdza mi się na co dzień.
-            </figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/todoist-review-app-screenshot-300.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/todoist-review-app-screenshot-300.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/todoist-review-app-screenshot-300.png' alt='Aplikacja TodoistReview' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 1. Narzędzie do nadawania kontekstów zadaniom, którym go brakuje. Stworzone do szuflady jakiś czas temu, sprawdza mi się na co dzień..
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Rysunek 1 przedstawia zrzut ekranu aplikacji. Po roku jej używania zauważyłem kilka braków, które chciałbym rozwiązać, ale zapewne już nie w ramach tego projektu tylko ogólniejszego rozwiązania do którego zmierzam :) Te rzeczy to dorzucenie opcji "już wykonałem to zadanie" i "już nie planuję wykonywać tego zadania" jako alternatywy dla nadania kontekstu i pozostawienia zadania na liście.</p>
 <p>Muszę również pomyśleć o sposobie nadawania zadaniom innych metadanych niż <em>kontekst wykonania</em>. Dobrze określone zadanie ma informację także o <i>deadlinie</i>, <i>szacowanym czasie wykonania</i>, <i>energii jakiej potrzebujemy na wykonanie zadania</i>. Piszę o tym więcej w artykule <a href="/posts/dlaczego-niektore-zadania-zalegaja" target="_blank">Dlaczego niektóre zadania zalegają na listach?</a>.</p>
 <p>To, co chciałbym jednak zachować, to <strong>sposób przeglądu</strong> zadań. Mianowicie, dla każdego <i>niedookreślonego</i> zadania użytkownikowi prezentowana jest <strong>prosta decyzja do podjęcia</strong>. Jej podjęcie przekłada się na konkretny zysk w przyszłości: w tym przypadku pozwoli nam dostać przypomnienie o zadaniu gdy znajdziemy się w odpowiednim <i>kontekście</i>, np. o zakupach gdy w sklepie spojrzymy na listę rzeczy otagowanych jako <code>&#64;market</code>.</p>
@@ -159,32 +161,36 @@
 <p>Drugim z projektów który miał ułatwić mi integrację centralnej listy zadań z innymi narzędziami używanymi na co dzień jest <a href="https://github.com/taurit/CalendarProxy" target="_blank" rel="nofollow">Calendar Proxy</a>. W zasadzie narzędzie wyszło mi na tyle ogólne, że korzystam także w kilku innych celach :)</p>
 <p>Ideę być może najlepiej przedstawi rysunek 2, na którym pokazana jest konfiguracja filtra na kalendarz. Otóż problem jaki miewałem jest spowodowany tym, że w swoim kalendarzu mam zdarzenia pochodzące z różnych źródeł. Dla przykładu, w jednym widoku wyświetlam swój prywatny kalendarz, kalendarz z pracy, mój kalendarz Facebooka, kalendarz z Meetupa i na koniec jeszcze kalendarz z Todoist z listą zadań.</p>
 <p>Niestety taka organizacja prowadzi do tego, że <strong>kalendarz często jest zaśmiecony</strong>. Na Facebooku ludzie często ustawiają czas trwania wydarzenia (np. festiwali) na kilka dni, co zajmuje ogromną przestrzeń w kalendarzu. Zadania z Todoist eksportowane są z długością "1 godziny" co rzadko odpowiada rzeczywistości. Zdarzenia się na siebie nakładają, chociaż nie jesteśmy w stanie być w dwóch miejscach równocześnie.</p>
-<div class="row">
-    <figure class="col-sm-6 col-md-8 col-md-offset-2">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/CalendarProxy-example-screenshot.png" alt="Usługa CalendarProxy" />
-        <div class="caption">
-            <figcaption>Rys. 2. Narzędzie do filtrowania kalendarzy w formacie iCal.
-            </figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-8 col-md-offset-2'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/CalendarProxy-example-screenshot.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/CalendarProxy-example-screenshot.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/CalendarProxy-example-screenshot.png' alt='Usługa CalendarProxy' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 2.  Narzędzie do filtrowania kalendarzy w formacie iCal..
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Rozwiązanie, które stworzyłem odpowiada na te potrzeby i pozwala filtrować dane z kalendarza iCal wg własnych reguł. Nie będę wchodził w szczegóły, można o nich poczytać <a href="https://github.com/taurit/CalendarProxy" target="_blank" rel="nofollow">na GitHubie</a> :)</p>
 <h1 id="po-co-wiec-kolejne-narzedzie">Po co więc kolejne narzędzie?</h1>
 <p>Stworzenie i używanie tych narzędzi poprawiło mój komfort zarządzania zadaniami i <strong>zmniejszyło czas potrzebny na ich rutynowy przegląd</strong>. Dostrzegam jednak jeszcze kilka aspektów, które znacznie można usprawnić.</p>
 <p>Lwią część zadań związanych z porządkowaniem listy <strong>nadal muszę wykonywać przy komputerze</strong>. Siedzenie przy monitorze w skupieniu to dla mnie czasowy i energetyczny <i>bottleneck</i>, bo robię to już dobre kilka godzin dziennie w związku z innymi zadaniami. Znacznie łatwiej znaleźć czas na przejrzenie czegoś na telefonie. W drodze tramwajem do pracy (na motocyklu przegląd niestety odpada), w kolejce w sklepie, podczas 3-minutowej przerwy między seriami na pustej siłowni.</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-6 col-md-4 col-md-offset-4">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/drawer.jpg" alt="" />
-        <div class="caption">
-            <figcaption>Rys. 3. Obrazowe przedstawienie szuflady. Choć może rack w serwerowni byłby bardziej trafioną wizualizacją.
-            </figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-4 col-md-offset-4'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/drawer.webp' type='image/webp' />  <source srcset='/assets/img/posts/jpeg/drawer.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/img/posts/jpeg/drawer.jpg' alt='' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 3. Obrazowe przedstawienie szuflady. Choć może rack w serwerowni byłby bardziej trafioną wizualizacją..
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Widzę też zaletę <strong>robienia przeglądu częściej</strong> i mniejszymi nakładami czasowymi. Po pierwsze, dużo zadań na liście powinno być wykonanych w czasie krótszym niż tygodnia (a <em>weekly review</em> znany z GTD w pesymistycznym przypadku zostawi takie zadania zapomniane na kilka dni). Nie zawsze też łatwo zobowiązać się wewnętrznie do rozpoczęcia godzinnego przeglądu. Jeśli coś można zrobić w pięć minut i uzyskać obserwowalny efekt, <strong>psychologicznie powinno być znacznie łatwiej rozpocząć taki przegląd</strong>.</p>
 <p>Narzędzie, którym chcę rozwiązać powyższe problemy nosi nazwę <strong>Revisionist</strong> i o nim będzie następny wpis, bo koncepcja na nie już w dużej mierze mi się wyklarowała. Zapraszam do śledzenia bloga kanałami RSS/Atom i dziękuję za odwiedziny!</p>
 <p>Jeśli masz pomysły na to jak jeszcze można usprawnić swój przegląd zadań, zachęcam do podzielenia się nimi w komentarzu. Jestem pewien, że nie wszystkie dobre pomysły udało mi się odkryć, a obecnie czas najbardziej sprzyja planowaniu funkcjonalności dla powstającego projektu :)</p>

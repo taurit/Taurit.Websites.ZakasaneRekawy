@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -141,35 +141,37 @@
 <p>Jeśli od czasu do czasu przejrzymy listę, z części uda nam się pewnie zrezygnować. Wyrzucić, zapomnieć, uznać że są za mało ważne żeby je wykonać. Jednak co z pozostałymi? Ignorowanie takich zadań sprawi, że <strong>lista będzie rosła, a w dodatku stanie się mniej przyjazna</strong>. Co innego mieć na liście 20 zadań które nas ekscytują, a co innego 500 wpędzających nas w doła.</p>
 <h1 id="czemu-niektore-zadania-nas-przerastaja">Czemu niektóre zadania nas przerastają?</h1>
 <p>Podzielę się swoją teorią, która może nie zaskoczy Cię oryginalnością, ale mam nadzieję, że obrazowo pokaże pewien problem i pozwoli skorygować nasz model patrzenia na zadania :)</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-6 col-md-6 col-md-offset-3">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/pani-z-balonami.jpg" alt="" />
-        <div class="caption">
-            <figcaption>Rys. 1. fot. <a href="http://www.gratisography.com/" target="_blank">Gratisography</a></figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/pani-z-balonami.webp' type='image/webp' />  <source srcset='/assets/img/posts/jpeg/pani-z-balonami.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/img/posts/jpeg/pani-z-balonami.jpg' alt='' /></picture>
+                        
+                    </div>
+                </figure>
+            </div></p>
 <p>Ciekawą i chyba najbardziej pouczającą obserwacją wydaje mi się to, że na listę todo wrzucamy pewne "rzeczy", ale te rzeczy maja <strong>bardzo różną naturę</strong>.</p>
 <p>Większość programów typu <em>todo lista</em> list pozwala nam zarządzać... zadaniami. Ten prosty "model domeny" w którym mamy <i>zadanie</i> z flagą <i>wykonane</i>/<i>niewykonane</i> jest bardzo wygodny dla programistów. Nawet tak bardzo, że aplikacja "todo" jest często stosowana w roli programu "hello world" przy wyjaśnianiu działaniu nowego frameworka programistycznego. Ale ten model również za bardzo upraszcza rzeczywistość.</p>
-<p>Rzeczywistość jest bowiem taka, że <strzłożyc ong>na listę wrzucamy nie tylko zadania (akcje)</strong>. W takim razie co jeszcze? <acronym title="Getting Things Done">Książka Davida Allena</acronym> określa to pojęciem <i>rzeczy</i> (ang. <i>stuff</i>). Poniżej cytat, który zarysowuje ów problem.</p>
+<p>Rzeczywistość jest bowiem taka, że <strong>na listę wrzucamy nie tylko zadania (akcje)</strong>. W takim razie co jeszcze? <acronym title="Getting Things Done">Książka Davida Allena</acronym> określa to pojęciem <i>rzeczy</i> (ang. <i>stuff</i>). Poniżej cytat, który zarysowuje ów problem.</p>
 <blockquote class="blockquote" lang="en">
 <p class="mb-0">Most of the to-do lists I have seen over the years (when people had them at all) were merely listings of “stuff”, not inventories of the resultant real work that needed to be done. They were partial reminders of a lot of things that were unresolved and as yet untranslated into outcomes and actions.</p>
 <footer class="blockquote-footer"><cite><a title="Getting Things Done" href="http://gettingthingsdone.com/">David Allen - Getting Things Done</a></cite></footer>
 </blockquote>
 <p>Skoro więc dodajemy na listę <i>rzeczy</i>, które nie są <i>zadaniami</i>, jak możemy oczekiwać że będziemy z niej mogli korzystać jak z wygodnej listy akcji podsuwających nam tylko to co ważne i potrzebne? ;)</p>
 <p>Spróbujmy w takim razie zaproponować nieco lepszą domenę dla <em>listy zadań</em>. Poniżej znajduje się moja naszkicowana na szybko propozycja. Być może nie uwzględnia wszystkich typów <i>rzeczy</i>, ale pokazuje że za daną pozycją mogą się kryć różne koncepcje i rzeczy te gdzieś z tyłu głowy kwantyfikujemy z użyciem różnych zestawów metadanych.</p>
-<div class="row">
-    <figure class="col-sm-6 col-md-6 col-md-offset-3">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/zawartosc-listy-todo.png" alt="Zawartośc listy todo to: pomysły, projekty, akcje" />
-        <div class="caption">
-            <figcaption>Rys. 2. Oczekujemy na liście zadań, które możemy wykonać: <strong>akcji</strong>. Jednak wrzucamy na nią także inne rzeczy nie będące akcjami: np. <strong>projekty</strong> czy <strong>luźne pomysły do przemyślenia</strong></figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-8 col-md-offset-2'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/zawartosc-listy-todo.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/zawartosc-listy-todo.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/zawartosc-listy-todo.png' alt='Zawartośc listy todo to: pomysły, projekty, akcje' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 2. Oczekujemy na liście zadań, które możemy wykonać: <strong>akcji</strong>. Jednak wrzucamy na nią także inne rzeczy nie będące akcjami: np. <strong>projekty</strong> czy <strong>luźne pomysły do przemyślenia</strong>.
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Jak widać na rys. 2, wyróżniłem trzy przykładowe rodzaje "rzeczy" które dodajemy do list:</p>
 <ul>
     <li>Luźne pomysły (np. <i>podnieść bezpieczeństwo jazdy na rowerze</i>, <i>stworzyć aplikację która zarobi milion</i>)</li>

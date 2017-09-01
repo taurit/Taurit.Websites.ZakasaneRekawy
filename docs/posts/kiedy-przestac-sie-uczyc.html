@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -143,16 +143,19 @@
 <p><strong>Zasobów do przeczytania jest zawsze więcej niż czasu</strong> który możemy na to poświęcić. Co robić?!</p>
 <h2 id="z-nauka-tez-czasem-trzeba-przystopowac">Z nauką też czasem trzeba przystopować</h2>
 <p>Słuchałem dziś audiobooka <a href="https://www.goodreads.com/book/show/25666050-algorithms-to-live-by">Algorithms to Live By: The Computer Science of Human Decisions</a>. Rozdział <strong>Explore/Exploit</strong> przedstawiał model matematyczny pewnego problemu związanego z podejmowaniem decyzji w sytuacji, gdy nasza wiedza jest ograniczona. Można go łatwo odnieść do pewnych codziennych sytuacji.</p>
-<div class="row">
-    <figure class="col-md-6 col-md-offset-3">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/algorithms-to-live-by-cover.png" alt="Okładka książki Algorithms to Live By" />
-        <div class="caption">
-            <figcaption>Rys. 1. Okładka książki <a href="http://algorithmstoliveby.com/" target="_blank">Algorithms to Live By: The Computer Science of Human Decisions</a>.</figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/algorithms-to-live-by-cover.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/algorithms-to-live-by-cover.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/algorithms-to-live-by-cover.png' alt='Okładka książki Algorithms to Live By' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 1. Okładka książki. Źródło: <a href='http://algorithmstoliveby.com/' rel='nofollow' target='_blank'>Algorithms to Live By: The Computer Science of Human Decisions</a>
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Problem w matematyce jest przedstawiany jako <a href="https://en.wikipedia.org/wiki/Multi-armed_bandit">multi-armed bandit problem</a>. Wyobraźmy sobie salon gier, w którym mamy wiele różnych automatów typu <em>jednoręki bandyta</em>. Automaty pozwalają nam wygrać z większym lub mniejszym prawdopodobieństwem. Po wejściu do salonu nie wiemy jednak, który automat jest lepszy, a który gorszy.</p>
 <p>Załóżmy, że po paru minutach oddawania się rozrywce wiemy już że <b>automat A</b> pozwolił nam <span class="bg-success text-success">wygrać 6 razy</span> i <span class="text-danger bg-danger">przegrać 4 razy</span>. Natomiast <b>automat B</b> pozwolił <span class="bg-success text-success">wygrać 1 raz</span> i <span class="text-danger bg-danger">przegrać 1 raz</span>. Którego z nich powinniśmy użyć w kolejnej rundzie?</p>
 <p>Można być chytrym i szybko policzyć, że <strong>automat A wygrywa w 60% przypadków</strong>, natomiast <strong>automat B tylko w 50%</strong>. Czy to jednak dobra strategia? W końcu w drugim przypadku nasza wiedza jest jednak dość mała i wynika z zaledwie dwóch prób. I co zrobić z automatami o których nic nie wiemy, czyli które dały nam <span class="bg-success text-success">0 wygranych</span> i <span class="text-danger bg-danger">0 przegranych</span>? Nigdy nie użyć? A może któryś z nich zawsze wygrywa, tylko o tym nie wiemy?</p>
@@ -167,16 +170,19 @@
 <p><i>Meloman</i> może być osobą, dla której zawód recenzenta muzycznego wydaje się pracą marzeń. Gdyby jednak zamienili się rolami, mógłby być rozczarowany. Słuchanie muzyki dla przyjemności pozwala dowolnie wybrać <strong>proporcje pomiędzy słuchaniem tego co już znane, a nowościami</strong>. Praca dziennikarza wymusza ciągłe zapoznawanie się z nowościami, <strong>eksploracja może sięgać 100% czasu</strong>, a słuchanie dla przyjemności starych utworów okazać się niemożliwe.</p>
 <h3 id="przykad-z-zycia-programista">Przykład z życia: programista</h3>
 <p>W tym kontekście nasuwają mi się przemyślenia także odnośnie pracy w naszej branży. Nowa wiedza w tej dziedzinie jest tworzona tak szybko, że żadna osoba nie jest w stanie za nią w pełni &quot;nadążyć&quot;. Oczywiście, podstawy informatyki się nie zmieniają. Jednak jeśli myślimy o programiście w ekosystemie w którym pracuje, z jego narzędziami, bibliotekami i zmieniającymi się konwencjami, to wszystkie te rzeczy mają charakter nowych informacji, płynących do nas bystrym strumieniem internetowych łączy każdego dnia.</p>
-<div class="row">
-    <figure class="col-md-8 col-md-offset-2">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/food.jpg" alt="Jedzenie" />
-        <div class="caption">
-            <figcaption>Rys. 2. Innym przykładem dylematu, który można zamodelować poprzez problem wielorękiego bandyty jest wybór restauracji w mieście. Czy lepiej wybrać znany i sprawdzony lokal, czy spróbować czegoś nowego? Fot. Pexels.</figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/food.webp' type='image/webp' />  <source srcset='/assets/img/posts/jpeg/food.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/img/posts/jpeg/food.jpg' alt='Jedzenie' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 2. Innym przykładem dylematu, który można zamodelować poprzez problem wielorękiego bandyty jest wybór restauracji w mieście. Czy lepiej wybrać znany i sprawdzony lokal, czy spróbować czegoś nowego?. Źródło: Pexels
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Mamy natomiast w tym zawodzie zwykle pewien stopień swobody, który pozwala nam <strong>wybrać w jakim stopniu chcemy eksplorować, a w jakim wykorzystać obecną wiedzę do rozwiązania problemów</strong>. Wykorzystując posiadaną wiedzę godzimy się z tym, że być może istnieją prostsze, bardziej eleganckie rozwiązania.</p>
 <p>Każdy z nas podejmując decyzję o swojej karierze, ścieżce certyfikacji, miejscu pracy w jakimś stopniu musi się określić pod kątem kryteriów eksploracji i eksploatacji. Zmieniając firmę możemy wybrać zestaw technologii który znamy w 100%, ale może celowo zechcemy zejść z tym współczynnikiem do 60%, żeby w nowym miejscu nauczyć się nowego ORM-a albo frameworka.</p>
 <p>Robiąc projekt po godzinach możemy zechcieć nauczyć się nowej technologii i złapać dwie sroki za ogon. Może jednak rozsądniej jest użyć tego co znamy, żeby w najkrótszym czasie stworzyć <em>Minimum Viable Product</em>? Wiele takich decyzji musieli na pewno podjąć uczestnicy <a href="http://dajsiepoznac.pl" target="_blank" rel="nofollow">Daj Się Poznać 2017</a> i w tej chwili zapewne widzą ich efekty: dobre, złe, lub zależne od perspektywy (wszak opóźniony projekt może być mniej ważny niż nowa wiedza).</p>

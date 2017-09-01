@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -148,16 +148,19 @@
 <p>Kod projektu ciągle jest w powijakach. Jednocześnie sama wizja już mi się dość mocno &quot;uleżała&quot;, staram się w tym dostrzec jakiś postęp ;) Udało mi się pójść do przodu z samą organizacją środowiska pracy, co powinno mi teraz pozwolić na przyspieszenie tempa.</p>
 <p>Zgodnie z <a href="/posts/jak-przyspieszyc-przeglad-zadan" target="_blank">planem działań który sobie określiłem</a> jednym z początkowych działań miała być konfiguracja <em>Continuous Deployment</em> kodu z GitHuba. <strong>I udało się!</strong> Aplikacja od teraz jest zawsze dostępna w najnowszej wersji na <a href="https://revisionist.azurewebsites.net" target="_blank" class="bg-success text-success" rel="nofollow">https://revisionist.azurewebsites.net</a>.</p>
 <p>Sam jeszcze nie wiem, czy publikacja wersji &quot;nightly&quot; ma więcej zalet czy wad, ale słowo się rzekło i trzeba spróbować. Z jednej strony upraszcza to mój workflow i pozwoli mi korzystać z najnowszego builda aplikacji na co dzień (w ramach testów). Z drugiej może budować wizerunek aplikacji jako niedopracowanej, bo deployowany jest każdy budujący się commit, który wypchnę na repozytorium.</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-10 col-md-10 col-md-offset-1">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/revisionist-preview-on-azure.jpg" alt="Revisionist: wersja poglądowa" />
-        <div class="caption">
-            <figcaption>Rys. 1. Landing page projektu Revisionist - wersja poglądowa na dzień 09.04.2017 r.</figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-10 col-md-offset-1'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/revisionist-preview-on-azure.webp' type='image/webp' />  <source srcset='/assets/img/posts/jpeg/revisionist-preview-on-azure.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/img/posts/jpeg/revisionist-preview-on-azure.jpg' alt='Revisionist: wersja poglądowa' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 1. Landing page projektu Revisionist - wersja poglądowa na dzień 09.04.2017 r..
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Pozostałe sukcesy w pracach nad projektem w minionym czasie, to:</p>
 <ul>
     <li><strong>wymiana dysku HDD na SSD</strong>. To co prawda jedynie zmiana narzędzia, ale liczę na to że zmniejszy też mój opór przed pracą z kodem. Do tej pory działało mi to wszystko koszmarnie wolno i ciężko było o produktywną pracę. Różnica jest kolosalna i obym już nigdy nie musiał wracać do dysków magnetycznych :)</li>

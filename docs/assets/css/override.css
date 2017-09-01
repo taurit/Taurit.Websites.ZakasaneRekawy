@@ -3,7 +3,7 @@
 #intro-header {
   background-color: #558eaf; }
 
-p.center-wrapper {
+.center-wrapper {
   text-align: center; }
 
 /* fix: link color does not differ from text color */
@@ -27,38 +27,42 @@ footer {
 /* feature: task list */
 todo-list {
   display: block; }
-  todo-list tasks {
-    display: block;
-    padding: 15px; }
-    todo-list tasks task {
-      display: block;
-      margin-bottom: 2px;
-      font-size: 0.9em; }
-      todo-list tasks task task-priority {
-        display: inline-block;
-        vertical-align: top;
-        line-height: 18px;
-        width: 18px;
-        height: 18px;
-        border-radius: 35%;
-        border: 1px solid #D5D5D5; }
-        todo-list tasks task task-priority.high {
-          background-color: #FF4136; }
-        todo-list tasks task task-priority.medium {
-          background-color: #FFDC00; }
-        todo-list tasks task task-priority.low {
-          background-color: #fbfbfb; }
-      todo-list tasks task:hover task-priority:after {
-        content: "✔";
-        color: #42a442; }
-      todo-list tasks task task-description {
-        display: inline-block;
-        vertical-align: top;
-        line-height: 18px;
-        margin-left: 3px;
-        cursor: default;
-        position: relative;
-        top: 1px; }
+
+tasks {
+  display: block;
+  padding: 15px; }
+
+task {
+  display: block;
+  margin-bottom: 2px;
+  font-size: 0.9em; }
+  task:hover task-priority:after {
+    content: "✔";
+    color: #42a442; }
+
+task-priority {
+  display: inline-block;
+  vertical-align: top;
+  line-height: 18px;
+  width: 18px;
+  height: 18px;
+  border-radius: 35%;
+  border: 1px solid #D5D5D5; }
+  task-priority.high {
+    background-color: #FF4136; }
+  task-priority.medium {
+    background-color: #FFDC00; }
+  task-priority.low {
+    background-color: #fbfbfb; }
+
+task-description {
+  display: inline-block;
+  vertical-align: top;
+  line-height: 18px;
+  margin-left: 3px;
+  cursor: default;
+  position: relative;
+  top: 1px; }
 
 /* fix: spacing for paragraphs is too big in my opinion */
 p {
@@ -267,4 +271,7 @@ p.lead, .lead {
 
 .fa {
   font-family: 'fontello'; }
+
+.img-generated {
+  margin: 0 auto 0 auto; }
 

@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -155,17 +155,19 @@
 <p>Patrząc na <strong>pojedyncze wykonanie</strong> pełnego przeglądu zadań, z algorytmicznego punktu widzenia nie mamy za dużego pola do optymalizacji i skrócenia jego czasu. Wszystkie elementy na liście przeglądamy dokładnie raz. Jeśli chcielibyśmy przyspieszyć przegląd, trzeba byłoby niektóre z nich pominąć.</p>
 <p>Jednak w rzeczywistości przeglądu nie chcemy robić jednorazowo, a <strong>cyklicznie</strong>. Niektórzy być może co tydzień, ja chciałbym codziennie, a może nawet co kilka godzin, wplatając krótsze przeglądy w rytm codziennego dnia. Przy takich wymaganiach nie możemy sobie pozwolić na przegląd wszystkich zadań za każdym razem. Ale też nie musimy! W końcu większość listy została już w przeszłości przejrzana, uporządkowana i z wysokim prawdopodobieństwem informacje o niej są aktualne.</p>
 <p>Podjąłem kiedyś próby realizacji takiego częściowego przeglądu. Do zarządzania zadaniami korzystam z aplikacji Todoist. W poście <a href="/posts/co-chowam-w-szufladzie" target="_blank">Wspomaganie przeglądu zadań: co chowam w szufladzie?</a> opisuję aplikacje, które napisałem kiedyś, żeby rozwiązać u siebie problem <strong>szybszego nadawania kontekstu zadaniom</strong>. W kolejnym z artykułów, <a href="/posts/koncepcja-revisionist" target="_blank">Koncepcja projektu wspomagającego przegląd zadań</a>, opisuję ogólną wizję aplikacji webowej <em>Revisionist</em>, który uogólnia to rozwiązanie.</p>
-<div class="row">
-    <figure class="col-sm-6 col-md-4 col-md-offset-4">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/todoist-review-app-screenshot-300.png" alt="Aplikacja TodoistReview" />
-        <div class="caption">
-            <figcaption>Rys. 2. Poprzednik projektu Revisionist: moja aplikacja <a href="https://github.com/taurit/TodoistReview" target="_blank" rel="nofollow">TodoistReview</a>
-            </figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/todoist-review-app-screenshot-300.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/todoist-review-app-screenshot-300.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/todoist-review-app-screenshot-300.png' alt='Aplikacja TodoistReview' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 1. Poprzednik projektu Revisionist: moja aplikacja TodoistReview. Źródło: <a href='https://github.com/taurit/TodoistReview' rel='nofollow' target='_blank'>GitHub</a>
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Dziś, jako istotny krok w kierunku realizacji projektu <em>Revisionist</em>, opiszę szczegółowo jakie rozwiązanie chcę w nadchodzących tygodniach stworzyć.</p>
 <h2 id="revisionist-projekt-rozwiazania">Revisionist: projekt rozwiązania</h2>
 <h3 id="zaozenia-funkcjonalne">Założenia funkcjonalne</h3>

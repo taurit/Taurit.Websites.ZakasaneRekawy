@@ -29,7 +29,7 @@
     nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
    
     </style>
-    <link href="/assets/css/bundle.min.css?v=39f25" rel="stylesheet" />
+    <link href="/assets/css/bundle.min.css?v=a9a5f" rel="stylesheet" />
 
     <meta name="application-name" content="Zakasane r&#x119;kawy" />
     <meta name="apple-mobile-web-app-title" content="Zakasane r&#x119;kawy">
@@ -83,7 +83,7 @@
             <ul class="nav navbar-nav navbar-right">
                     <li><a href="/" rel="home">Start</a></li>
             <li><a href="/about">O blogu</a></li>
-            <li><a href="/posts" rel="toc">Spis tre&#x15B;ci</a></li>
+    <li><a href="/posts" rel="toc">Spis treści</a></li>
 
             </ul>
         </div>
@@ -140,16 +140,19 @@
 <p>Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale <code>git</code> stał się w ostatnich latach właściwie <strong>podstawowym narzędziem używanym w IT</strong>. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.</p>
 <p>W tym artykule zakładam znajomość podstaw tego narzędzia, rozważania wychodzą trochę poza podstawy. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że <strong>raz scommitowany kod nie zostanie utracony</strong>.</p>
 <p>Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi <code>--force</code> lub odhaczenia w GUI pola wyboru typu &quot;wiem co robię&quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-6 col-md-6 col-md-offset-3">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/depression.jpg" alt="Depression" />
-        <div class="caption">
-            <figcaption>Rys. 1. Nadpisywanie historii w repozytorium źle się kończy. Fot. <a href="https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/" target="_blank" rel="nofollow">Jim Jackson, Pexels</a></figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-6 col-md-offset-3'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/depression.webp' type='image/webp' />  <source srcset='/assets/img/posts/jpeg/depression.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/img/posts/jpeg/depression.jpg' alt='Depression' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 1. Nadpisywanie historii w repozytorium źle się kończy.. Źródło: <a href='https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/' rel='nofollow' target='_blank'>Jim Jackson, Pexels</a>
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Jeśli już jednak pracując w zespole zepsujemy coś w ten sposób, prawdopodobnie dowiemy się o tym w przeciągu 24 godzin od innej osoby. Przykładowo, jeśli złośliwie nadpiszemy historię dla gałęzi, to ktoś nie będzie mógł wypchnąć swoich zmian na tę gałąź (ale będzie miał lokalnie kopię całej pracy, więc dane nie zostaną utracone). Jeśli źle rozwiążemy konflikty, to kod się nie zbuduje albo dostrzeżemy to podczas testu po uruchomieniu aplikacji.</p>
 <h2 id="sa-jednak-puapki-ktore-nas-dotykaja-po-czasie">Są jednak pułapki, które nas dotykają po czasie</h2>
 <p>I jest to zły dotyk. Pewnych problemów na pierwszy rzut oka możemy nie zauważyć, ale z czasem mogą stać się kosztowne.</p>
@@ -157,16 +160,19 @@
 <h3 id="commitowanie-duzych-plikow-binarnych">1. Commitowanie dużych plików binarnych</h3>
 <p>Prawdopodobnie większą częśc naszych repozytoriów stanowią rodzaju <strong>pliki tekstowe</strong>. Przez <i>pliki tekstowe</i> rozumiem takie, które w odróżnieniu od <i>binarnych</i> dają się otworzyć i sensownie edytować w notatniku. Pliki takie składają się z tekstu rozdzielonego znakami nowej linii, łatwo możemy je też automatycznymi narzędziami porównywać i wskazywać fragmenty które się różnią. Pliki binarne natomiast zawierają dane, dla których porównywanie danych &quot;linia po linii&quot; nie ma sensu. Są to na przykład obrazki, pliki wykonywalne, spakowane pliki, ikony.</p>
 <p>Jeśli ta definicja wydaje Ci się nieścisła, masz rację. To rozróżnienie jest bardziej umowne. Systemy kontroli wersji <a href="https://stackoverflow.com/questions/7110750/how-do-popular-source-control-systems-differentiate-binary-files-from-text-files" target="_blank">używają heurystyk</a> aby ocenić czy coś jest plikiem tekstowym, czy binarnym, bo muszą je traktować inaczej. Możemy im trochę pomóc, np. w <code>git</code> dodając podpowiedzi w pliku <code>.gitattributes</code>. Pewnie wszyscy mamy jednak wyrobioną pewną intuicję na temat tego, co jest plikiem tekstowym, a co binarnym i powinna nam ona na co dzień wystarczyć.</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-8 col-md-8 col-md-offset-2">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/git-repository-large-files.png" alt="Git: large files stored in repository" />
-        <div class="caption">
-            <figcaption>Rys. 2. Największe pliki kiedykolwiek scommitowane i nadal obecne w kazdej kopii repozytorium mojego bloga. Skrypt listujący takie pliki stworzył <a href="http://stackoverflow.com/a/42544963/889779" target="_blank" title="Skrypt listujący największe pliki w repozytorium Git">raphinesse (zobacz na: StackOverflow)</a></figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-8 col-md-offset-2'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/git-repository-large-files.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/git-repository-large-files.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/git-repository-large-files.png' alt='Git: large files stored in repository' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 2. Największe pliki kiedykolwiek scommitowane i nadal obecne w kazdej kopii repozytorium mojego bloga. Skrypt listujący takie pliki stworzył raphinesse. Źródło: <a href='http://stackoverflow.com/a/42544963/889779' rel='nofollow' target='_blank'>StackOverflow</a>
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Pliki binarne w praktyce mają też pewną częstą cechę - są <b>duże</b>. Co to znaczy duże? Pomyślmy o przykładowych plikach, które można czasem znaleźć na repozytoriach git:</p>
 <ul>
 <li>pliki Worda z dokumentacją biznesową,</li>
@@ -186,16 +192,19 @@
 <p>Jedną z takich historii, zakończoną sporymi stratami finansowymi <a href="https://niebezpiecznik.pl/post/jak-blad-w-visual-studio-w-kilka-godzin-wygenerowal-firmie-straty-na-25-tys-pln-historia-z-amazonem-i-githubem-w-tle/" target="_blank">opisuje Niebezpiecznik</a>.</p>
 <blockquote>Bitcoinowi kopacze stale skanują źródła na GitHubie w poszukiwaniu kluczy Amazonu, a kiedy je zdobywają zakładają za ich pomocą potężne instancje, które wykorzystują do kopania wirtualnej waluty na czyjś rachunek.</blockquote>
 <p>Jeśli chcesz zobaczyć jak łatwo znaleźć hasło w historii repozytorium, wpisz w wyszukiwarce commitów GitHub frazę <a href="https://github.com/search?q=remove+password&type=Commits&utf8=%E2%9C%93" target="_blank" rel="nofollow">&quot;remove password&quot;</a> - to zawsze poprawia humor ;)</p>
-<div class="row" aria-hidden="true">
-    <figure class="col-sm-8 col-md-8 col-md-offset-2">
-        <div class="thumbnail">
-            <img src="/assets/img/posts/github-result-search-remove-password.png" alt="GitHub: wyniki wyszukiwania dla frazy "usunięto hasło"" />
-        <div class="caption">
-            <figcaption>Rys. 3. Wyniki wyszukiwania dla frazy "remove password" w tytule commita w publicznych repozytoriach na portalu GitHub.</figcaption>
-        </div>
-        </div>
-    </figure>
-</div>
+<p>
+            <div class='row' aria-hidden='true'>
+                <figure class='col-md-8 col-md-offset-2'>
+                    <div class='thumbnail'>
+                        <picture>  <source srcset='/assets/img/posts/webp/github-result-search-remove-password.webp' type='image/webp' />  <source srcset='/assets/img/posts/png/github-result-search-remove-password.png' type='image/png' />  <img class='img-responsive img-generated' src='/assets/img/posts/png/github-result-search-remove-password.png' alt='GitHub: wyniki wyszukiwania dla frazy 'usunięto hasło'' /></picture>
+                        
+                        <div class='caption'>
+                            <figcaption>Rys. 3. Wyniki wyszukiwania dla frazy <i>remove password</i> w tytule commita w publicznych repozytoriach na portalu GitHub..
+                            </figcaption>
+                        </div>
+                    </div>
+                </figure>
+            </div></p>
 <p>Pamiętajmy więc, aby przed commitem <strong>zawsze przejrzeć dokładnie wszystko co zmieniliśmy, plik po pliku i linia po linii</strong>. Jeśli już &quot;mleko się wylało&quot; i wcisnęliśmy przycisk &quot;Commit&quot;, ale nie wypchnęliśmy jeszcze zmian na współdzielone repozytorium, to usuńmy lub zmodyfikujmy zmianę z hasłem, zamiast tworzyć kolejną usuwającą hasło (bo to nic nie da i obie będą dostępne w historii, jak na rys. 3).</p>
 <h2 id="czy-to-koniec-puapek">Czy to koniec pułapek?</h2>
 <p>Zapewne nie. Może Ty masz jakieś doświadczenia z gitem, przez które musiałeś lub musiałaś się wstydzić, albo robić nadgodziny? ;-) Jeśli tak, to zachęcam do dzielenia się nimi w komentarzach - w roli przestrogi dla nas wszystkich. Dzięki za odwiedziny!</p>
