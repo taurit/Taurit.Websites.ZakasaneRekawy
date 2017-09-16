@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html lang="pl">
-<head>
+<head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="manifest" href="/manifest.json">
-    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128x128.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icon-96x96.png">
-    <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
-    <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
-    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
-
+  
     <title>O nielubianych zadaniach - Zakasane rękawy</title>
 
     <meta name="description" content="Sposoby na zadania, które zalegają na naszych listach todo już zbyt długo" />    
@@ -49,14 +43,35 @@
     <meta name="twitter:title" content="O nielubianych zadaniach - Zakasane rękawy" />
     <meta name="twitter:description" content="Sposoby na zadania, które zalegają na naszych listach todo już zbyt długo" />
     <meta name="twitter:image" content="https://zakasanerekawy.pl/assets/img/thumbnails/difficulties.jpg" />
-
+    
+    <meta property="fb:app_id" content="1768845453415639" /> 
     <meta property="og:title" content="O nielubianych zadaniach - Zakasane rękawy" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://zakasanerekawy.pl/posts/dlaczego-niektore-zadania-zalegaja" />
+    <meta property="og:image" content="https://zakasanerekawy.pl/assets/img/thumbnails/difficulties.jpg" />
+    <meta property="og:description" content="Sposoby na zadania, które zalegają na naszych listach todo już zbyt długo" />
+    
+    <meta property="og:type" content="blog" />
+    <meta property="article:author" content="https://www.facebook.com/pawel.bulwan" />
+    <meta property="profile:first_name" content="Paweł" />
+    <meta property="profile:last_name" content="Bulwan" />
+    <meta property="profile:gender" content="male" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="150" />
+    <meta property="og:image:height" content="150" />
+    <meta property="og:image:alt" content="O nielubianych zadaniach - Zakasane rękawy" />
+
     
     <link rel="canonical" href="https://zakasanerekawy.pl/posts/dlaczego-niektore-zadania-zalegaja"> 
     <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
     <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+    
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128x128.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icon-96x96.png">
+    <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
 </head>
 <body>
 <a class="skip-to-main-content" href="#content">Przejdź do treści</a> 
@@ -193,10 +208,11 @@
 <p>Dziękuję za odwiedziny i zachęcam do zostawienia komentarza. Może przychodzi Ci na myśl jakieś zadanie, które zalega na Twojej liście od dawna? Może warto zastanowić się dlaczego tak jest? :)</p>
 
 
-<aside class="mailchimp-form mailchimp-post-footer">
+<aside class="mailchimp-form mailchimp-post-footer" id="mailchimp-form-blogpost">
     <h2>Podobał Ci się ten artykuł?</h2>
 
-    <p>Zapisz się i otrzymaj powiadomienia o nowych postach na temat <b>wytrwałości w postanowieniach</b>.</p>
+    <p>Zapisz się i otrzymaj powiadomienia o postach podobnych do tego! Każdy email zawiera także niszowy dowcip jako bonus ;)</p>
+
 
     
     <p class="text-center hidden-overridable" id="show-newsletter-form-wrapper">
@@ -232,6 +248,8 @@
     </div>
 </aside>
 
+ 
+
 <div>
     <h2 class="outline-header">Komentarze</h2>
     <div id="disqus_thread"></div>
@@ -250,6 +268,7 @@ var d = document, s = d.createElement('script');
     (d.head || d.body).appendChild(s);
 })();
 
+   
     function setVisibility(domElement, visibility) {
     domElement.style.display = (visibility === true) ? 'block' : 'none';
     }

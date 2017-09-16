@@ -1,17 +1,11 @@
 <!DOCTYPE html>
 <html lang="pl">
-<head>
+<head prefix="og: http://ogp.me/ns#">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="manifest" href="/manifest.json">
-    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
-    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128x128.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icon-96x96.png">
-    <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
-    <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
-    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
-
+  
     <title>Aplikacja dla kierowców, która wyręcza nas w pamiętaniu - Zakasane rękawy</title>
 
     <meta name="description" content="Jak aplikacja Drivvo na iPhone i Androida pomaga nam oszczędzić czas który przeznaczamy na obsługę swojego pojazdu" />    
@@ -49,14 +43,35 @@
     <meta name="twitter:title" content="Aplikacja dla kierowców, która wyręcza nas w pamiętaniu - Zakasane rękawy" />
     <meta name="twitter:description" content="Jak aplikacja Drivvo na iPhone i Androida pomaga nam oszczędzić czas który przeznaczamy na obsługę swojego pojazdu" />
     <meta name="twitter:image" content="https://zakasanerekawy.pl/assets/img/thumbnails/drivvo-logo.png" />
-
+    
+    <meta property="fb:app_id" content="1768845453415639" /> 
     <meta property="og:title" content="Aplikacja dla kierowców, która wyręcza nas w pamiętaniu - Zakasane rękawy" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow" />
+    <meta property="og:image" content="https://zakasanerekawy.pl/assets/img/thumbnails/drivvo-logo.png" />
+    <meta property="og:description" content="Jak aplikacja Drivvo na iPhone i Androida pomaga nam oszczędzić czas który przeznaczamy na obsługę swojego pojazdu" />
+    
+    <meta property="og:type" content="blog" />
+    <meta property="article:author" content="https://www.facebook.com/pawel.bulwan" />
+    <meta property="profile:first_name" content="Paweł" />
+    <meta property="profile:last_name" content="Bulwan" />
+    <meta property="profile:gender" content="male" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="150" />
+    <meta property="og:image:height" content="150" />
+    <meta property="og:image:alt" content="Aplikacja dla kierowców, która wyręcza nas w pamiętaniu - Zakasane rękawy" />
+
     
     <link rel="canonical" href="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow"> 
     <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
     <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+    
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128x128.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icon-96x96.png">
+    <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
 </head>
 <body>
 <a class="skip-to-main-content" href="#content">Przejdź do treści</a> 
@@ -195,10 +210,11 @@
 <p><a href="http://www.drivvo.com/en/" target="_blank" rel="nofollow">Aplikacja Drivvo</a> jest dostępna w sklepach <em>Google Play</em> i <em>iTunes</em>. Roczna subskrypcja kosztuje <b>12 zł</b> (Android) lub ok. <b>22,60 zł</b> (iPhone).</p>
 
 
-<aside class="mailchimp-form mailchimp-post-footer">
+<aside class="mailchimp-form mailchimp-post-footer" id="mailchimp-form-blogpost">
     <h2>Podobał Ci się ten artykuł?</h2>
 
-    <p>Zapisz się i otrzymaj powiadomienia o nowych postach na temat <b>wytrwałości w postanowieniach</b>.</p>
+    <p>Zapisz się i otrzymaj powiadomienia o postach podobnych do tego! Każdy email zawiera także niszowy dowcip jako bonus ;)</p>
+
 
     
     <p class="text-center hidden-overridable" id="show-newsletter-form-wrapper">
@@ -234,6 +250,8 @@
     </div>
 </aside>
 
+ 
+
 <div>
     <h2 class="outline-header">Komentarze</h2>
     <div id="disqus_thread"></div>
@@ -252,6 +270,7 @@ var d = document, s = d.createElement('script');
     (d.head || d.body).appendChild(s);
 })();
 
+   
     function setVisibility(domElement, visibility) {
     domElement.style.display = (visibility === true) ? 'block' : 'none';
     }
