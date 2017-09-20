@@ -275,3 +275,24 @@ p.lead, .lead {
 .img-generated {
   margin: 0 auto 0 auto; }
 
+#about-top1 {
+  text-align: center;
+  font-style: italic;
+  font-size: 0.8em;
+  padding: 3px;
+  border: 1px solid #d7d7d7; }
+
+#about-top1-image {
+  margin-bottom: 3px; }
+
+@media screen and (max-width: 991px) {
+  #about-top1-image {
+    width: 100%; } }
+
+@media screen and (min-width: 991px) {
+  #about-top1 {
+    float: right;
+    margin-left: 10px; }
+  #about-top1-image {
+    width: 500px; } }
+
