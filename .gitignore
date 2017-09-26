@@ -315,3 +315,4 @@ docs/assets/img/*.fullsize.*
 docs/assets/css/bundle.optimized.css
 docs/assets/img/posts/*.hq.*
 docs/assets/img/posts/webp/*.fullsize.webp
+docs/assets/img/thumbnails/*.hq.*
