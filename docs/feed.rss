@@ -5,8 +5,55 @@
 		<link>https://zakasanerekawy.pl/</link>
 		<description>Blog o nawykach i narzędziach sprzyjających efektywnej pracy</description>
 		<copyright>2017</copyright>
-		<pubDate>Sat, 16 Sep 2017 18:45:27 GMT</pubDate>
-		<lastBuildDate>Sat, 16 Sep 2017 18:45:27 GMT</lastBuildDate>
+		<pubDate>Tue, 26 Sep 2017 06:17:24 GMT</pubDate>
+		<lastBuildDate>Tue, 26 Sep 2017 06:17:24 GMT</lastBuildDate>
+		<item>
+			<title>Spam telefoniczny: jak zablokować telefony marketingowe?</title>
+			<link>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</link>
+			<description>&lt;p class="lead"&gt;“- Halo? (...) Tak, to ja.&lt;br&gt;
+- (...)&lt;br&gt;
+- Dziękuję, nie jestem zainteresowany.&lt;br&gt;
+- (...)&lt;br&gt;
+- Ale naprawdę nie mam teraz czasu, do widzenia.“&lt;/p&gt;</description>
+			<guid>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</guid>
+			<pubDate>Tue, 26 Sep 2017 08:14:10 GMT</pubDate>
+			<content:encoded>&lt;h2 id="czy-rozmawiam-z-panem-pawe-bulwan"&gt;Czy rozmawiam z Panem &amp;quot;Paweł Bulwan&amp;quot;?&lt;/h2&gt;
+&lt;p class="lead"&gt;&amp;ldquo;- Halo? (...) Tak, to ja.&lt;br /&gt;
+- (...)&lt;br /&gt;
+- Dziękuję, nie jestem zainteresowany.&lt;br /&gt;
+- (...)&lt;br /&gt;
+- Ale naprawdę nie mam teraz czasu, do widzenia.&amp;ldquo;&lt;/p&gt;
+&lt;p&gt;Nie ma chyba dnia, w którym nie słyszę gdzieś rozmowy telefonicznej tego typu. Czasami towarzyszy jej jeszcze kilka opiniujących zdań na temat firmy stosującej tego typu marketing. To już raczej po odłożeniu słuchawki.&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-4 col-md-offset-4'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/truecaller-screenshot.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/truecaller-screenshot.png' type='image/png' /&gt;  &lt;source srcset='/assets/img/posts/truecaller-screenshot.hq.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/truecaller-screenshot.png' alt='' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Truecaller: lista nieodebranych połączeń. Aplikacja poprawnie rozpoznaje dużą część połączeń marketingowych wychodzących z Polski (choć nie wszystkie).
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;Czy powinniśmy czuć się źle ignorując połączenie przychodzące z nieznanego numeru?&lt;/b&gt; Podzielę się dziś swoimi przemyśleniami w tym temacie.&lt;/p&gt;
+&lt;h2 id="czy-odbieranie-telefonu-jest-obowiazkiem"&gt;Czy odbieranie telefonu jest obowiązkiem?&lt;/h2&gt;
+&lt;p&gt;Telefony, podobnie jak e-maile, potrafią nas wybić ze stanu skupienia i przerwać naszą pracę. Rozumie to Donald Knuth, profestor Stanforda i autor m.in. słynnej książki &lt;i&gt;The Art of Computer Programming&lt;/i&gt; który od 1990 roku &lt;a href="http://www-cs-faculty.stanford.edu/~knuth/email.html" target="_blank"&gt;nie używa nawet poczty email&lt;/a&gt; &lt;reference url="http://www-cs-faculty.stanford.edu/~knuth/email.html" author="Donald Knuth" title="Donald Knuth, FAQ, When did you stop using email?" date="2017-09-13" /&gt;. Na swojej stronie pisze:&lt;/p&gt;
+&lt;blockquote lang="en"&gt;Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration. I try to learn certain areas of computer science exhaustively; then I try to digest that knowledge into a form that is accessible to people who don't have time for such study. (...)&lt;/blockquote&gt;
+&lt;p&gt;Muszę przyznać, że tego rozumowanie bardzo dobrze do mnie trafia. Dodam więc jeszcze fragment z &lt;i&gt;Deep Work&lt;/i&gt; &lt;reference author="Cal Newport" title="Deep Work" publisher='Piatkus' place='London' isbn='978-0-349-41191-0' date='2016' edition="1" /&gt;, który doskonale uzupełnia powyższe rozważania.&lt;/p&gt;
+&lt;blockquote lang="en"&gt;To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.
+&lt;br /&gt;
+If you’re comfortable going deep, you’ll be comfortable mastering the increasingly complex systems and skills needed to thrive in our economy.
+&lt;br /&gt;If you instead remain one of the many for whom depth is uncomfortable and distraction ubiquitous, you shouldn’t expect these systems and skills to come easily to you. (...)&lt;/blockquote&gt;
+&lt;p&gt;Biorąc pod uwagę sam ten kontekst wybijania nas przez telefony z koncentracji, osobiście mam bardzo mocne poczucie, że odbieranie nadchodzących połączeń lub wiadomości od nieznanych mi osób i firm nie jest moim &lt;b&gt;obowiązkiem&lt;/b&gt;. Tym samym daję sobie pozwolenie na ignorowanie ich, kiedy wiem że by mi przeszkadzały. Czyli zawsze ;)&lt;/p&gt;
+&lt;h2 id="jak-dowiedziec-sie-kto-dzwoni"&gt;Jak dowiedzieć się kto dzwoni?&lt;/h2&gt;
+&lt;p&gt;Jak często w takich przypadkach, z pomocą przychodzi odpowiednia aplikacja. W przypadku spamu telefonicznego &lt;b&gt;mój problem skutecznie rozwiązał &lt;a href="https://www.truecaller.com/"&gt;Truecaller&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
+&lt;p&gt;Aplikacja spełnia swoje zadanie. Rozpoznaje dzwoniący numer prawie zawsze i dość szybko, wydaje mi się że zwykle przy pierwszym sygnale.&lt;/p&gt;
+&lt;p&gt;Skąd aplikacja wie kto kryje się za numerem? Tu kryje się jednocześnie jej największa dla wielu wada. Firma dość agresywnie zbiera wszelkie informacje o numerach telefonów i jak sama się chwali ma ich już ponad 3 miliardy &lt;reference url="https://www.truecaller.com/" title="Oficjalna strona aplikacji Truecaller" date="2017-09-25" author="Truecaller" /&gt;. U dużej części osób wrażliwych na punkcie prywatności budzi to spore obawy o to, że ich książki adresowe są eksportowane na serwery &lt;reference url="https://zaufanatrzeciastrona.pl/post/jak-ustalic-nazwisko-posiadacza-numeru-telefonu-twoje-pewnie-tez/" author="Zaufana Trzecia Strona" title="Jak ustalić nazwisko posiadacza numeru telefonu – Twoje pewnie też" date="2017-09-25" /&gt;. Jednocześnie firma jasno daje do zrozumienia, że aplikacje na Androida oraz iPhone tego nie robią &lt;reference url="https://support.truecaller.com/hc/en-us/articles/212638205-Is-my-phonebook-shared-to-other-users-" date="2017-09-25" title="FAQ: Is my phonebook shared to other users?" author="Truecaller"/&gt;. Można więc przypuszczać że dane pochodzą głównie od osób wyszukujących numery na stronie internetowej i logujących się tam swoim kontem Facebook lub Google+.&lt;/p&gt;
+&lt;p&gt;Etyczność takich działań może budzić zastrzeżenia. Serwis gromadzi nie tylko informacje o użytkownikach którzy zaakceptowali zapisy umowy licencyjnej, ale także o miliardach ludzi którzy nigdy takiej zgody nie wyrażali. Trudno mi się jednoznacznie opowiedzieć po którejś ze stron, bo rozumiem że stworzenie tego typu skutecznej aplikacji wymaga zgromadzenia solidnej bazy danych osobowych i nie da się tego celu osiągnąć inaczej. Jednocześnie trudno nie uznać głosów osób oburzonych tym, że ich dane znalazły się w bazie.&lt;/p&gt;
+&lt;p&gt;Ja mimo opisanych dylematów korzystam z usług firmy i mam do niej na tyle zaufania, żeby uruchamiać aplikację na swoim telefonie. A Ty, odbierasz telefony od nieznajomych? ;)&lt;/p&gt;
+</content:encoded>
+		</item>
 		<item>
 			<title>Jak próbuję ograć nawyk oglądania YouTube</title>
 			<link>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</link>
@@ -1332,69 +1379,6 @@ magick convert input.jpg -quality 20 output.jpg
                 &lt;/figure&gt;
             &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Na koniec mam do Ciebie pytanie, jeśli stosujesz &lt;acronym title="Getting Things Done"&gt;GTD&lt;/acronym&gt; lub zarządzasz zadaniami w inny sposób. &lt;strong&gt;Czy wykonujuesz cyklicznie przegląd zadań?&lt;/strong&gt; Jakich narzędzi do tego używasz i co w tym sposobie Ci się podoba lub drażni? Dziękuję za Twój czas i do usłyszenia następnym razem :)&lt;/p&gt;
-</content:encoded>
-		</item>
-		<item>
-			<title>Wspomaganie przeglądu zadań: co chowam w szufladzie?</title>
-			<link>https://zakasanerekawy.pl/posts/co-chowam-w-szufladzie</link>
-			<description>&lt;p&gt;Zanim przedstawię rozwiązanie nad którym pracuję w tym roku, chciałbym pokazać &lt;strong&gt;dwa projekty związane z zarządzaniem zadaniami&lt;/strong&gt; które stworzyłem na własny użytek już jakiś czas temu. Sprawdziły mi się. Używam ich na co dzień i chociaż jestem jedynym użytkownikiem, to być może dobrze opakowane i dopracowane mogłyby pomóc jeszcze co najmniej paru osobom ;-)&lt;/p&gt;</description>
-			<guid>https://zakasanerekawy.pl/posts/co-chowam-w-szufladzie</guid>
-			<pubDate>Sun, 19 Mar 2017 18:28:00 GMT</pubDate>
-			<content:encoded>&lt;h1 id="co-chowam-w-szufladzie"&gt;Co chowam w szufladzie&lt;/h1&gt;
-&lt;p&gt;Zanim przedstawię rozwiązanie nad którym pracuję w tym roku, chciałbym pokazać &lt;strong&gt;dwa projekty związane z zarządzaniem zadaniami&lt;/strong&gt; które stworzyłem na własny użytek już jakiś czas temu. Sprawdziły mi się. Używam ich na co dzień i chociaż jestem jedynym użytkownikiem, to być może dobrze opakowane i dopracowane mogłyby pomóc jeszcze co najmniej paru osobom ;-)&lt;/p&gt;
-&lt;h1 id="nadawanie-kontekstow-zadaniom-czyli-todoist-review"&gt;Nadawanie kontekstów zadaniom czyli Todoist Review&lt;/h1&gt;
-&lt;p&gt;Problem z priorytetami jaki niedawno opisywałem w artykule &lt;a href="/posts/jaki-priorytet-ma-podlanie-kwiatkow"&gt;Jaki priorytet ma podlanie kwiatków?&lt;/a&gt; można nieco zmitygować. Uszeregowanie zadań według priorytetów dla całej naszej listy staje się niewykonalne, gdy lista robi się duża. Możemy jednak otagować zadania &lt;strong&gt;rozłącznymi kontekstami&lt;/strong&gt; opisującymi np. miejsce gdzie chcemy wykonać dane zadanie. Wtedy lista pozwala na siebie spojrzeć jak na kilka mniejszych, rozłącznych list, a dla takich podejmowanie decyzji o tym &lt;strong&gt;co warto zrobić w pierwszej kolejności&lt;/strong&gt; jest znacznie łatwiejsze.&lt;/p&gt;
-&lt;p&gt;Rozwiązaniem, które miało pomóc mi szybciej nadawać konteksty zadaniom jest &lt;em&gt;Todoist Review&lt;/em&gt;. Trzymam go sobie &lt;a href="https://github.com/taurit/TodoistReview" target="_blank" rel="nofollow"&gt;na GitHubie&lt;/a&gt;, używam dość często na smartfonie.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-6 col-md-offset-3'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/todoist-review-app-screenshot-300.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/todoist-review-app-screenshot-300.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/todoist-review-app-screenshot-300.png' alt='Aplikacja TodoistReview' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Narzędzie do nadawania kontekstów zadaniom, którym go brakuje. Stworzone do szuflady jakiś czas temu, sprawdza mi się na co dzień.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Rysunek 1 przedstawia zrzut ekranu aplikacji. Po roku jej używania zauważyłem kilka braków, które chciałbym rozwiązać, ale zapewne już nie w ramach tego projektu tylko ogólniejszego rozwiązania do którego zmierzam :) Te rzeczy to dorzucenie opcji "już wykonałem to zadanie" i "już nie planuję wykonywać tego zadania" jako alternatywy dla nadania kontekstu i pozostawienia zadania na liście.&lt;/p&gt;
-&lt;p&gt;Muszę również pomyśleć o sposobie nadawania zadaniom innych metadanych niż &lt;em&gt;kontekst wykonania&lt;/em&gt;. Dobrze określone zadanie ma informację także o &lt;i&gt;deadlinie&lt;/i&gt;, &lt;i&gt;szacowanym czasie wykonania&lt;/i&gt;, &lt;i&gt;energii jakiej potrzebujemy na wykonanie zadania&lt;/i&gt;. Piszę o tym więcej w artykule &lt;a href="/posts/dlaczego-niektore-zadania-zalegaja" target="_blank"&gt;Dlaczego niektóre zadania zalegają na listach?&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;To, co chciałbym jednak zachować, to &lt;strong&gt;sposób przeglądu&lt;/strong&gt; zadań. Mianowicie, dla każdego &lt;i&gt;niedookreślonego&lt;/i&gt; zadania użytkownikowi prezentowana jest &lt;strong&gt;prosta decyzja do podjęcia&lt;/strong&gt;. Jej podjęcie przekłada się na konkretny zysk w przyszłości: w tym przypadku pozwoli nam dostać przypomnienie o zadaniu gdy znajdziemy się w odpowiednim &lt;i&gt;kontekście&lt;/i&gt;, np. o zakupach gdy w sklepie spojrzymy na listę rzeczy otagowanych jako &lt;code&gt;&amp;#64;market&lt;/code&gt;.&lt;/p&gt;
-&lt;h1 id="calendar-proxy-filtrowanie-kalendarza"&gt;Calendar proxy: filtrowanie kalendarza&lt;/h1&gt;
-&lt;p&gt;Drugim z projektów który miał ułatwić mi integrację centralnej listy zadań z innymi narzędziami używanymi na co dzień jest &lt;a href="https://github.com/taurit/CalendarProxy" target="_blank" rel="nofollow"&gt;Calendar Proxy&lt;/a&gt;. W zasadzie narzędzie wyszło mi na tyle ogólne, że korzystam także w kilku innych celach :)&lt;/p&gt;
-&lt;p&gt;Ideę być może najlepiej przedstawi rysunek 2, na którym pokazana jest konfiguracja filtra na kalendarz. Otóż problem jaki miewałem jest spowodowany tym, że w swoim kalendarzu mam zdarzenia pochodzące z różnych źródeł. Dla przykładu, w jednym widoku wyświetlam swój prywatny kalendarz, kalendarz z pracy, mój kalendarz Facebooka, kalendarz z Meetupa i na koniec jeszcze kalendarz z Todoist z listą zadań.&lt;/p&gt;
-&lt;p&gt;Niestety taka organizacja prowadzi do tego, że &lt;strong&gt;kalendarz często jest zaśmiecony&lt;/strong&gt;. Na Facebooku ludzie często ustawiają czas trwania wydarzenia (np. festiwali) na kilka dni, co zajmuje ogromną przestrzeń w kalendarzu. Zadania z Todoist eksportowane są z długością "1 godziny" co rzadko odpowiada rzeczywistości. Zdarzenia się na siebie nakładają, chociaż nie jesteśmy w stanie być w dwóch miejscach równocześnie.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/CalendarProxy-example-screenshot.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/CalendarProxy-example-screenshot.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/CalendarProxy-example-screenshot.png' alt='Usługa CalendarProxy' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 2.  Narzędzie do filtrowania kalendarzy w formacie iCal.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Rozwiązanie, które stworzyłem odpowiada na te potrzeby i pozwala filtrować dane z kalendarza iCal wg własnych reguł. Nie będę wchodził w szczegóły, można o nich poczytać &lt;a href="https://github.com/taurit/CalendarProxy" target="_blank" rel="nofollow"&gt;na GitHubie&lt;/a&gt; :)&lt;/p&gt;
-&lt;h1 id="po-co-wiec-kolejne-narzedzie"&gt;Po co więc kolejne narzędzie?&lt;/h1&gt;
-&lt;p&gt;Stworzenie i używanie tych narzędzi poprawiło mój komfort zarządzania zadaniami i &lt;strong&gt;zmniejszyło czas potrzebny na ich rutynowy przegląd&lt;/strong&gt;. Dostrzegam jednak jeszcze kilka aspektów, które znacznie można usprawnić.&lt;/p&gt;
-&lt;p&gt;Lwią część zadań związanych z porządkowaniem listy &lt;strong&gt;nadal muszę wykonywać przy komputerze&lt;/strong&gt;. Siedzenie przy monitorze w skupieniu to dla mnie czasowy i energetyczny &lt;i&gt;bottleneck&lt;/i&gt;, bo robię to już dobre kilka godzin dziennie w związku z innymi zadaniami. Znacznie łatwiej znaleźć czas na przejrzenie czegoś na telefonie. W drodze tramwajem do pracy (na motocyklu przegląd niestety odpada), w kolejce w sklepie, podczas 3-minutowej przerwy między seriami na pustej siłowni.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-4 col-md-offset-4'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/drawer.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/drawer.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/drawer.jpg' alt='' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 3. Obrazowe przedstawienie szuflady. Choć może rack w serwerowni byłby bardziej trafioną wizualizacją.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Widzę też zaletę &lt;strong&gt;robienia przeglądu częściej&lt;/strong&gt; i mniejszymi nakładami czasowymi. Po pierwsze, dużo zadań na liście powinno być wykonanych w czasie krótszym niż tygodnia (a &lt;em&gt;weekly review&lt;/em&gt; znany z GTD w pesymistycznym przypadku zostawi takie zadania zapomniane na kilka dni). Nie zawsze też łatwo zobowiązać się wewnętrznie do rozpoczęcia godzinnego przeglądu. Jeśli coś można zrobić w pięć minut i uzyskać obserwowalny efekt, &lt;strong&gt;psychologicznie powinno być znacznie łatwiej rozpocząć taki przegląd&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Narzędzie, którym chcę rozwiązać powyższe problemy nosi nazwę &lt;strong&gt;Revisionist&lt;/strong&gt; i o nim będzie następny wpis, bo koncepcja na nie już w dużej mierze mi się wyklarowała. Zapraszam do śledzenia bloga kanałami RSS/Atom i dziękuję za odwiedziny!&lt;/p&gt;
-&lt;p&gt;Jeśli masz pomysły na to jak jeszcze można usprawnić swój przegląd zadań, zachęcam do podzielenia się nimi w komentarzu. Jestem pewien, że nie wszystkie dobre pomysły udało mi się odkryć, a obecnie czas najbardziej sprzyja planowaniu funkcjonalności dla powstającego projektu :)&lt;/p&gt;
 </content:encoded>
 		</item>
 	</channel>
