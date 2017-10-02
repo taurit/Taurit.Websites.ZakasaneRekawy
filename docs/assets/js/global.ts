@@ -8,7 +8,9 @@ var toggleNav = function () {
     }
 
 };
-document.getElementById("navbar-button").addEventListener("click", toggleNav);
+
+let navbarButton = document.getElementById("navbar-button");
+navbarButton.addEventListener("click", toggleNav, false);
 
 //google analytics
 (function (i, s, o, g, r, a, m) {

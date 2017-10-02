@@ -5,13 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="manifest" href="/manifest.json">
-  
     <title>Revisionist 0.0.1 wydany! - Zakasane rękawy</title>
-
-    <meta name="description" content="Pierwsze wydanie aplikacji do przeglądu zadań w Todoist na zakończenie trzeciego miesiąca prac." />    
-
+    <meta name="description" content="Pierwsze wydanie aplikacji do przeglądu zadań w Todoist na zakończenie trzeciego miesiąca prac." />
+    <!--[if IE 8]><script
+                      src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.6.0/ie8.js"
+                  ></script><![endif]--
     <link rel="index" href="https://zakasanerekawy.pl/">
-
     <link type="application/rss+xml" rel="alternate" title="Zakasane rękawy" href="/feed.rss" />
         <link type="application/atom+xml" rel="alternate" title="Zakasane rękawy" href="/feed.atom" />
     <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
@@ -20,8 +19,7 @@
     <!-- styles to allow render most useful content quickly, and load the rest of styles asynchronously -->
     <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
     <style type="text/css">
-    nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;};
-   
+    nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;}
     </style>
     <link href="/assets/css/bundle.min.css?v=50e98" rel="stylesheet" />
 
@@ -74,6 +72,14 @@
     <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
     <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
     <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
+    
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-sham.min.js"></script>
+    <![endif]-->
+
 </head>
 <body>
 <a class="skip-to-main-content" href="#content">Przejdź do treści</a> 
@@ -318,7 +324,7 @@ var d = document, s = d.createElement('script');
 </footer>
 
 <script>
-var toggleNav=function(){var n=document.getElementById("navbar-collapse").classList;n.contains("collapse")?n.remove("collapse"):n.add("collapse")};document.getElementById("navbar-button").addEventListener("click",toggleNav),function(n,t,i,r,u,f,e){n.GoogleAnalyticsObject=u;n[u]=n[u]||function(){(n[u].q=n[u].q||[]).push(arguments)};n[u].l=1*new Date;f=t.createElement(i);e=t.getElementsByTagName(i)[0];f.async=1;f.src=r;e.parentNode.insertBefore(f,e)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-92769796-1","auto");ga("send","pageview");;
+var toggleNav=function(){var n=document.getElementById("navbar-collapse").classList;n.contains("collapse")?n.remove("collapse"):n.add("collapse")},navbarButton=document.getElementById("navbar-button");navbarButton.addEventListener("click",toggleNav,!1),function(n,t,i,r,u,f,e){n.GoogleAnalyticsObject=u;n[u]=n[u]||function(){(n[u].q=n[u].q||[]).push(arguments)};n[u].l=1*new Date;f=t.createElement(i);e=t.getElementsByTagName(i)[0];f.async=1;f.src=r;e.parentNode.insertBefore(f,e)}(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-92769796-1","auto");ga("send","pageview");
 </script>
 
 <link href="/assets/css/fontello.min.css" rel="stylesheet" type="text/css">

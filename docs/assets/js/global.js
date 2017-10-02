@@ -8,7 +8,8 @@ var toggleNav = function () {
         navMenuClasses.add("collapse");
     }
 };
-document.getElementById("navbar-button").addEventListener("click", toggleNav);
+var navbarButton = document.getElementById("navbar-button");
+navbarButton.addEventListener("click", toggleNav, false);
 //google analytics
 (function (i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
