@@ -3,10 +3,10 @@
 	<channel>
 		<title>Zakasane rękawy</title>
 		<link>https://zakasanerekawy.pl/</link>
-		<description>Blog o tym, jak rozprawić się z wrażeniem braku czasu i odważnie realizować nasze pomysły</description>
+		<description>Eksperymenty z przedsiębiorczością po godzinach pracy na etacie</description>
 		<copyright>2017</copyright>
-		<pubDate>Tue, 03 Oct 2017 09:59:18 GMT</pubDate>
-		<lastBuildDate>Tue, 03 Oct 2017 09:59:18 GMT</lastBuildDate>
+		<pubDate>Tue, 10 Oct 2017 09:06:18 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Oct 2017 09:06:18 GMT</lastBuildDate>
 		<item>
 			<title>Spam telefoniczny: jak zablokować telefony marketingowe?</title>
 			<link>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</link>
@@ -40,12 +40,12 @@
 &lt;h2 id="czy-odbieranie-telefonu-jest-obowiazkiem"&gt;Czy odbieranie telefonu jest obowiązkiem?&lt;/h2&gt;
 &lt;p&gt;Telefony, podobnie jak e-maile, potrafią nas wybić ze stanu skupienia i przerwać naszą pracę. Rozumie to Donald Knuth, profestor Stanforda i autor m.in. słynnej książki &lt;i&gt;The Art of Computer Programming&lt;/i&gt; który od 1990 roku &lt;a href="http://www-cs-faculty.stanford.edu/~knuth/email.html" target="_blank"&gt;nie używa nawet poczty email&lt;/a&gt; &lt;reference url="http://www-cs-faculty.stanford.edu/~knuth/email.html" author="Donald Knuth" title="Donald Knuth, FAQ, When did you stop using email?" date="2017-09-13" /&gt;. Na swojej stronie pisze:&lt;/p&gt;
 &lt;blockquote lang="en"&gt;Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration. I try to learn certain areas of computer science exhaustively; then I try to digest that knowledge into a form that is accessible to people who don't have time for such study. (...)&lt;/blockquote&gt;
-&lt;p&gt;Muszę przyznać, że tego rozumowanie bardzo dobrze do mnie trafia. Dodam więc jeszcze fragment z &lt;i&gt;Deep Work&lt;/i&gt; &lt;reference author="Cal Newport" title="Deep Work" publisher='Piatkus' place='London' isbn='978-0-349-41191-0' date='2016' edition="1" /&gt;, który doskonale uzupełnia powyższe rozważania.&lt;/p&gt;
+&lt;p&gt;Muszę przyznać, że tego typu rozumowanie bardzo dobrze do mnie trafia. Dodam więc jeszcze fragment z &lt;i&gt;Deep Work&lt;/i&gt; &lt;reference author="Cal Newport" title="Deep Work" publisher='Piatkus' place='London' isbn='978-0-349-41191-0' date='2016' edition="1" /&gt;, który doskonale uzupełnia powyższe rozważania.&lt;/p&gt;
 &lt;blockquote lang="en"&gt;To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.
 &lt;br /&gt;
 If you’re comfortable going deep, you’ll be comfortable mastering the increasingly complex systems and skills needed to thrive in our economy.
 &lt;br /&gt;If you instead remain one of the many for whom depth is uncomfortable and distraction ubiquitous, you shouldn’t expect these systems and skills to come easily to you. (...)&lt;/blockquote&gt;
-&lt;p&gt;Biorąc pod uwagę sam ten kontekst wybijania nas przez telefony z koncentracji, osobiście mam bardzo mocne poczucie, że odbieranie nadchodzących połączeń lub wiadomości od nieznanych mi osób i firm nie jest moim &lt;b&gt;obowiązkiem&lt;/b&gt;. Tym samym daję sobie pozwolenie na ignorowanie ich, kiedy wiem że by mi przeszkadzały. Czyli zawsze ;)&lt;/p&gt;
+&lt;p&gt;Biorąc pod uwagę sam ten kontekst wybijania nas przez telefony z koncentracji, osobiście mam bardzo mocne poczucie, że odbieranie nadchodzących połączeń lub wiadomości od nieznanych mi osób i firm nie jest moim &lt;b&gt;obowiązkiem&lt;/b&gt;. Tym samym daję sobie pozwolenie na ignorowanie ich, kiedy wiem, że by mi przeszkadzały. Czyli zawsze ;)&lt;/p&gt;
 &lt;h2 id="jak-dowiedziec-sie-kto-dzwoni"&gt;Jak dowiedzieć się kto dzwoni?&lt;/h2&gt;
 &lt;p&gt;Jak często w takich przypadkach, z pomocą przychodzi odpowiednia aplikacja. W przypadku spamu telefonicznego &lt;b&gt;mój problem skutecznie rozwiązał &lt;a href="https://www.truecaller.com/"&gt;Truecaller&lt;/a&gt;&lt;/b&gt;.&lt;/p&gt;
 &lt;p&gt;Aplikacja spełnia swoje zadanie. Rozpoznaje dzwoniący numer prawie zawsze i dość szybko, wydaje mi się że zwykle przy pierwszym sygnale.&lt;/p&gt;
