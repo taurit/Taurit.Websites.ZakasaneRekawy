@@ -4,8 +4,64 @@
 	<id>https://zakasanerekawy.pl/</id>
 	<title>Zakasane rękawy</title>
 	<rights>2017</rights>
-	<updated>2017-10-10T09:06:18Z</updated>
+	<updated>2017-10-13T11:39:54Z</updated>
 	<subtitle>Eksperymenty z przedsiębiorczością po godzinach pracy na etacie</subtitle>
+	<entry>
+		<link href="https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia" />
+		<id>https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia</id>
+		<title>mBank: zmiana papierowych potwierdzeń transakcji TFI na elektroniczne</title>
+		<updated>2017-10-13T11:06:10Z</updated>
+		<content>&lt;h2 id="stop-makulaturze"&gt;Stop makulaturze!&lt;/h2&gt;
+&lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-12 col-md-offset-0'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/coins.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/coins.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/coins.jpg' alt='' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Ilustracja. Źródło: &lt;a href='https://www.pexels.com/photo/stack-white-business-market-41301/' rel='nofollow' target='_blank'&gt;Pexels&lt;/a&gt;
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;W tej krótkiej notce przedstawię sposoby jakimi udało mi się ograniczyć nieco ilość przychodzącej korespondencji. Czemu rezygnować z papierowych potwierdzeń na rzecz elektronicznych? Myślę że można znaleźć kilka dobrych powodów:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prywatność. Jeśli np. wynajmujemy mieszkanie i czasami zmieniamy lokal, potwierdzenia z wyciągiem z kont funduszy nadal mogą przychodzić na stary adres, do przypadkowych osób,&lt;/li&gt;
+&lt;li&gt;Ekologia - mniej papieru do wysłania i zbędnej poczty do dostarczenia,&lt;/li&gt;
+&lt;li&gt;Niepotrzebne koszty dla TFI,&lt;/li&gt;
+&lt;li&gt;Gromadzenie się w domu sterty papierów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="jak-zamienic-potwierdzenia-na-elektroniczne"&gt;Jak zamienić potwierdzenia na elektroniczne?&lt;/h2&gt;
+&lt;p&gt;Niestety od lat nie nie ma możliwości złożenia takiej dyspozycji po stronie banku, który jest tutaj jedynie pośrednikiem w transakcjach. Pozostaje próbować w samych towarzystwach. I tak:&lt;/p&gt;
+&lt;h3 id="investors-tfi"&gt;Investors TFI&lt;/h3&gt;
+&lt;p&gt;Ten fundusz sam wyszedł z inicjatywą, przesyłając mi wraz z potwierdzeniem transakcji formularz zgody na zmianę papierowych potwierdzeń na mailowe. Odesłana zgoda (w załączonej kopercie) sprawiła że kolejne potwierdzenia przychodzą już mailem - działa!&lt;/p&gt;
+&lt;h3 id="pko-tfi"&gt;PKO TFI&lt;/h3&gt;
+&lt;p&gt;Pierwszym krokiem jest rejestracja na &lt;a href="https://i-fundusze.pl/" target="_blank"&gt;stronie PKO TFI&lt;/a&gt;. Ponieważ nie mamy hasła, ale mamy już wykupione jednostki, musimy poprosić o PIN żeby uzyskać dostęp. To na szczęście jest bardzo proste i trwa 2 minuty. Należy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;zadzwonić na numer infolinii widoczny przy formularzu logowania (po stronie banku wszystko robi automat, bez czekania w kolejce),&lt;/li&gt;
+&lt;li&gt;wybrać w automacie opcję &amp;quot;zamów PIN&amp;quot;,&lt;/li&gt;
+&lt;li&gt;wpisać 8-cyfrowy numer uczestnika (jest wydrukowany na papierowym potwierdzeniu),&lt;/li&gt;
+&lt;li&gt;wpisać PESEL.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;PIN z dostępem do serwisu transakcyjnego zostanie wysłany pocztą na adres korespondencyjny widoczny na potwierdzeniu (otrzymany z mBanku). W procesie nie było możliwości zmiany tego adresu.&lt;/p&gt;
+&lt;p&gt;Ja jeszcze czekam na kopertę, ale regulamin &lt;reference url="https://www.pkotfi.pl/media_files/44e4999d-3a48-49da-9749-b5ecddca3ff2.pdf" title="Zasady 'Usługi email'" author="PKO Towarzystwo Funduszy Inwestycyjnych" date="2017-10-13" /&gt; i inne treści na stronie &lt;reference url="http://www.pkotfi.pl/bezpieczne-logowanie/" title="Bezpieczne logowanie" author="PKO Towarzystwo Funduszy Inwestycyjnych" date="2017-10-13" /&gt; wskazują, że zmiana sposobu dostarczania powiadomień na elektroniczne jest możliwa.&lt;/p&gt;
+&lt;h3 id="union-investment"&gt;Union Investment&lt;/h3&gt;
+&lt;p&gt;Jeśli mamy juz wykupione jednostki w tym towarzystwie, nie możemy skorzystać z formularza rejestracji (co mówi sam formularz). Rozmowa z konsultantem pokazała, że obecnie są dwie ścieżki umożliwiające rejestrację w systemie transakcyjnym:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;jeśli mamy kamerę internetową, możemy skorzystać z &lt;a href="https://wirtualnyoddzial.union-investment.pl/" target="_blank"&gt;Wirtualnego Oddziału Union Investment&lt;/a&gt;. Tam pracownik pomoże nam przygotować umowę rejestracji. Nie jestem pewien co dalej bo nie poszedłem tą ścieżką, więc być może będzie również potrzebne jej fizyczne podpisanie i dostarczenie.&lt;/li&gt;
+&lt;li&gt;obecnie jest jeden Punkt Obsługi Klienta (w Warszawie) gdzie można wybrać się osobiście i wykonać rejestrację.&lt;/li&gt;
+&lt;li&gt;po rejestracji w systemie transakcyjnym jest możliwość zmiany potwierdzeń na elektroniczne &lt;reference url="http://www.transakcje.union-investment.pl/mt-ui-demo/~/ui/pl/pliki/Badzmy_ekologiczni.pdf" title="Bądźmy ekologiczni!" author="Serwis Union Investment" date="2017-10-13" /&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="ipopema"&gt;Ipopema&lt;/h3&gt;
+&lt;p&gt;Teoretycznie możemy się zarejestrować w systemie transakcyjnym, gdzie być może znajduje się opcja rezygnacji z papierowych potwierdzeń.&lt;/p&gt;
+&lt;p&gt;Po wypełnieniu części formularza jednak zrezygnowałem. Przejście przez niego wymaga odhaczenia i zaakceptowania kolosalnej liczby regulaminów, oświadczeń, których nie mam czasu czytać (choć pewnie to te same co podczas kupna jednostek przez mBank).&lt;/p&gt;
+&lt;p&gt;System wygląda też na archaiczny i miałem wątpliwości czy w ogóle działa, w związku z czym nie miałem szczególnie ochoty wpłacać dodatkowych pieniędzy, co jest jednym z obowiązkowych punktów rejestracji.&lt;/p&gt;
+&lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
+&lt;p&gt;Nie każde towarzystwo umożliwia łatwą zamianę papierowych potwierdzeń na elektroniczne. Mimo to jeśli mamy jakieś cykliczne transakcje (np. odkładamy co miesiąc określoną kwotę), to warto spróbować, bo może firma zarządzająca funduszem na który odkładamy zainwestowała już w system informatyczny na miarę dzisiejszych czasów ;-)&lt;/p&gt;
+</content>
+		<summary>&lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<link href="https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac" />
 		<id>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</id>
@@ -586,7 +642,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 		<updated>2017-05-16T21:27:10Z</updated>
 		<content>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;
 &lt;h2 id="czy-brak-miejsca-na-dysku-jest-jeszcze-problemem"&gt;Czy brak miejsca na dysku jest jeszcze problemem?&lt;/h2&gt;
-&lt;p&gt;Żeby utrzymać w swoich dokumentach porządek, staram się &lt;strong&gt;digitalizować dosłownie wszystko, czego nie potrzebuję na papierze&lt;/strong&gt;: faktury, ręczne notatki, paragony i papierową korespondencję. Niedawno pisałem więcej o motywacjach stojących za trzymaniem takiego porządku i &lt;a href="/posts/zycie-bez-papieru" target="_blank"&gt;narzędziach do digitalizacji&lt;/a&gt; jakich w tym celu używam.&lt;/p&gt;
+&lt;p&gt;Żeby utrzymać w swoich dokumentach porządek, staram się &lt;strong&gt;digitalizować dosłownie wszystko, czego nie potrzebuję na papierze&lt;/strong&gt;: faktury, ręczne notatki, paragony i papierową korespondencję. Niedawno pisałem więcej o motywacjach stojących za trzymaniem takiego porządku i &lt;a href="/posts/paperless" target="_blank"&gt;narzędziach do digitalizacji&lt;/a&gt; jakich w tym celu używam.&lt;/p&gt;
 &lt;p&gt;Stanąłem ostatnio przed mikro-dylematem: &lt;strong&gt;w jakim formacie przechowywać takie dokumenty?&lt;/strong&gt; Skany czy zdjęcia potrafią zająć sporo miejsca na dysku. Zdjęcie niezbyt bogatej w treść ręcznie zrobionej notatki  wykonane moim smartfonem potrafi zajmować 1-2 megabajty.&lt;/p&gt;
 &lt;p&gt;Przestrzeń na dyskach talerzowych jest niby tania, ale &lt;b&gt;rozrzutność ma swoje wady&lt;/b&gt;. Gdy kolekcja zdjęć zaczęła u mnie osiągać rozmiary powyżej 100 GB, zaczęło się to robić niewygodne. Skończyło się miejsce na SSD, zaczęło go brakować na dysku backupowym, przestałem łapać się na darmowe plany dysków w chmurze, a synchronizacja OneDrive na innych moich maszynach zwolniła.&lt;/p&gt;
 &lt;p&gt;Postanowiłem więc trochę zoptymalizować składowanie danych.&lt;/p&gt;
@@ -820,7 +876,7 @@ magick convert input.jpg -quality 20 output.jpg
                     &lt;/div&gt;
                 &lt;/figure&gt;
             &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;To podejście &lt;strong&gt;przypomina mi inne solidne projekty tworzone w ostatnim czasie przez Microsoft&lt;/strong&gt;. &lt;i&gt;Visual Studio Code&lt;/i&gt; również od pierwszej wersji było publicznie dostępne i wdrażało feedback od użytkowników. &lt;i&gt;OneNote&lt;/i&gt; czy &lt;i lang="en"&gt;Office Lens&lt;/i&gt; o których pisałem w artykule &lt;a href="/posts/zycie-bez-papieru" target="_blank"&gt;'Paperless', czyli jak pozbyć się z domu papieru&lt;/a&gt; są minimalistyczne, zintegrowane z chmurą, dostępne w tej samej świetnej jakości na wszystkich platformach. &lt;i&gt;To-Do&lt;/i&gt; świetnie wpasowuje się w ten krajobraz.&lt;/p&gt;
+&lt;p&gt;To podejście &lt;strong&gt;przypomina mi inne solidne projekty tworzone w ostatnim czasie przez Microsoft&lt;/strong&gt;. &lt;i&gt;Visual Studio Code&lt;/i&gt; również od pierwszej wersji było publicznie dostępne i wdrażało feedback od użytkowników. &lt;i&gt;OneNote&lt;/i&gt; czy &lt;i lang="en"&gt;Office Lens&lt;/i&gt; o których pisałem w artykule &lt;a href="/posts/paperless" target="_blank"&gt;'Paperless', czyli jak pozbyć się z domu papieru&lt;/a&gt; są minimalistyczne, zintegrowane z chmurą, dostępne w tej samej świetnej jakości na wszystkich platformach. &lt;i&gt;To-Do&lt;/i&gt; świetnie wpasowuje się w ten krajobraz.&lt;/p&gt;
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Nowa aplikacja od globalnego giganta to dopiero zalążek prawdziwego systemu do zarządzania zadaniami. Myślę natomiast, że podstawa aplikacji jaką widzimy jest dobra i przyjemnie będzie obserwować jak projekt się rozwinie.&lt;/p&gt;
 &lt;p&gt;W tej chwili &lt;i&gt;To-Do&lt;/i&gt; &lt;strong&gt;nie implementuje rewolucyjnych pomysłów&lt;/strong&gt;. Nie ma na ten moment żadnego ukłonu w stronę sposobu zarządzania zadaniami proponowanego np. przez GTD. Nie ma i raczej nigdy nie będzie większej uwagi skupionej prywatności (nadal czekam, aż ktoś opracuję listę zadań wierną zasadzie &lt;i&gt;zero-knowledge encryption&lt;/i&gt;). Jest natomiast prosta, darmowa aplikacja &lt;strong&gt;budząca zaufanie w to, że dane nie zostaną utracone&lt;/strong&gt;, będą poprawnie synchronizowane, i będziemy mieli do nich wygodny dostęp z każdego miejsca.&lt;/p&gt;
@@ -948,8 +1004,8 @@ magick convert input.jpg -quality 20 output.jpg
 		<summary>&lt;p&gt;Jak niektórzy z was wiedzą, chcę stworzyć aplikację &lt;strong&gt;ułatwiającą nam przegląd zadań trzymanych w aplikacji Todoist&lt;/strong&gt;. Aby się zbytnio nie powtarzać w stosunku do poprzednich wpisów, nowym czytelnikom podsunę artykuły opisujące motywację stojącą za projektem w formie linków:&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/zycie-bez-papieru" />
-		<id>https://zakasanerekawy.pl/posts/zycie-bez-papieru</id>
+		<link href="https://zakasanerekawy.pl/posts/paperless" />
+		<id>https://zakasanerekawy.pl/posts/paperless</id>
 		<title>'Paperless', czyli jak pozbyć się z domu papieru</title>
 		<updated>2017-08-22T07:27:18Z</updated>
 		<content>&lt;h2 id="gdzie-trzymac-papiery-jesli-nie-w-domu"&gt;Gdzie trzymać papiery, jeśli nie w domu?&lt;/h2&gt;
@@ -1343,41 +1399,5 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Może przychodzą Ci do głowy inne aplikacje, wtyczki do edytora kodu lub miejsca w cyfrowym (lub analogowym) świecie gdzie używasz kolorów do kategoryzowania informacji? Zachęcam do komentowania i &lt;strong&gt;dzielenia się własnymi trickami&lt;/strong&gt; na wykorzystanie &lt;i&gt;color code&lt;/i&gt; :) Dzięki za odwiedziny i do usłyszenia!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;Edytor kodu, który nie ma kolorowania albo chociaż pogrubienia elementów składni języka nie mógłby być dziś uznany za dobry. Dostrzegamy różnicę w pracy na czytelnie sformatowanym kodzie w &lt;i&gt;Visual Studio&lt;/i&gt; czy &lt;i&gt;Eclipse&lt;/i&gt;, a ścianą zminifikowanego JavaScriptu otworzoną w notatniku. Kiedy ktoś nam zastępuje kolorowe ikonki w Visual Studio szarymi jak to kiedyś miało miejsce, to &lt;a href="https://blogs.msdn.microsoft.com/visualstudio/2013/06/27/designing-the-visual-studio-2013-user-experience/" target="_blank" rel="nofollow"&gt;protestujemy&lt;/a&gt;.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/koncepcja-revisionist" />
-		<id>https://zakasanerekawy.pl/posts/koncepcja-revisionist</id>
-		<title>Koncepcja projektu wspomagającego przegląd zadań</title>
-		<updated>2017-03-19T19:30:00Z</updated>
-		<content>&lt;h2 id="pisanie-projektu-bez-bata-nad-soba"&gt;Pisanie projektu bez bata nad sobą&lt;/h2&gt;
-&lt;p&gt;Niedziela, ostatni dzień astronomicznej zimy. Doskonały dzień, żeby w końcu trochę pokodować ;)&lt;/p&gt;
-&lt;p&gt;Przyznam, że research i prototypowanie bawią mnie już chyba bardziej niż samo programowanie rozwiązania. Jednak docelowo ważniejsze jest dla mnie &lt;strong&gt;stworzenie narzędzia realnie wspomagającego przegląd zadań&lt;/strong&gt;. Co najmniej moich własnych. Jednak dorzucam też sobie nieco pracy żeby rozwiązanie które wdrożę i wystawię w Internecie było użyteczne także dla innych w tym samym stopniu co dla mnie.&lt;/p&gt;
-&lt;p&gt;W poście &lt;a href="/posts/lista-zadan-narzedzie-do-wyrzucenia-czy-usprawnienia" target="_blank"&gt;Lista zadań: narzędzie do wyrzucenia?&lt;/a&gt; pokazuję jeszcze na obrazku plan, w którym chciałem prowadzić prace uporządkowanymi etapami. W tej chwili odchodzę od tej koncepcji w kierunku bardziej &lt;i&gt;zwinnego&lt;/i&gt; rozwiązania. Odczuwam, że lepiej będzie doprowadzić aplikację możliwie szybko do stanu &lt;i&gt;minimum viable product&lt;/i&gt; i potem iteracyjnie ją usprawniać na bieżąco widząc wyniki i postęp.&lt;/p&gt;
-&lt;p&gt;Pracując nad działającym produkcyjnie produktem jest jakoś łatwiej. Widać już lepiej co przeszkadza, czy coś można zrobić lepiej. Mając pusty projekt, gdzie można zrobić wszystko nagle decyzje stają się trudniejsze. Dlatego też cieszę się, że udało mi się dziś przebrnąć przez kilka takich jednorazowych decyzji i mogę zaprezentować pewien szkic rozwiązania, które zamierzam stworzyć.&lt;/p&gt;
-&lt;h2 id="revisionist-pomys-na-produkt"&gt;Revisionist: pomysł na produkt&lt;/h2&gt;
-&lt;p&gt;Cele jakie stawiam przed tworzonym projektem &lt;strong&gt;Revisionist&lt;/strong&gt; opisałem w kontekście istniejących rozwiązań w dzisiejszym wpisie &lt;a href="/posts/co-chowam-w-szufladzie" target="_blank"&gt;Wspomaganie przeglądu zadań: co chowam w szufladzie?&lt;/a&gt;. W skrócie, zadaniem nowej aplikacji będzie:&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;sprowadzenie przeglądu zadań do serii &lt;strong&gt;prostych pytań decyzyjnych&lt;/strong&gt; na ich temat&lt;/li&gt;
-    &lt;li&gt;umożliwienie &lt;strong&gt;wygodnej pracy na urządzeniu mobilnym&lt;/strong&gt;, z minimalną liczbą tapnięć potrzebnych do przejścia przez proces&lt;/li&gt;
-    &lt;li&gt;zapewnienie pewnej &lt;strong&gt;elastyczności konfiguracji&lt;/strong&gt; pozwalającej dopasować przebieg &lt;i&gt;przeglądu zadań&lt;/i&gt; do sposobu zarządzania zadaniami stosowanego przez użytkownika&lt;/li&gt;
-    &lt;li&gt;wynikiem przeglądu ma być lista zadań z &lt;strong&gt;lepiej określonymi zadaniami i uporządkowanymi projektami&lt;/strong&gt;. Pozwoli to na filtrowanie zadań i zapewni że o zadaniach do wykonania przypomnimy sobie we właściwym momencie, a nie np. wtedy &lt;a href="/posts/jaki-priorytet-ma-podlanie-kwiatkow" target="_blank"&gt;gdy nic nie możemy z nimi zrobić&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Na ten moment to dość ogólna koncepcja. Najciekawszy problem do rozwiązania jaki widzę to zaprojektowanie tego &lt;strong&gt;jakie pytania zadawać użytkownikowi&lt;/strong&gt;, aby przechodząc przez niewielką ilość prostych ekranów uzyskać od niego użyteczne informacje o priorytetach jakie posiada. O pomysłach będę pisał na tym blogu, w związku z czym zachęcam do subskrybowania kanału RSS :) Link do niego znajduje się na dole strony.&lt;/p&gt;
-&lt;p&gt;Rysunek 2 przedstawia stworzony dziś przeze mnie szkic strony głównej projektu (&lt;i&gt;landing page&lt;/i&gt;). W trakcie prac na pewno ta strona jeszcze się zmieni, ale myślę, że już teraz oddaje wizję projektu jaki chce stworzyć.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-12 col-md-offset-0'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/2017-03-19-revisionist-landing-page.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/2017-03-19-revisionist-landing-page.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/img/posts/png/2017-03-19-revisionist-landing-page.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/2017-03-19-revisionist-landing-page.jpg' alt='Szkic strony startowej aplikacji Revisionist' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Szkic strony startowej aplikacji Revisionist. Widok z perspektywy użytkownika przeglądarki desktopowej.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Na koniec mam do Ciebie pytanie, jeśli stosujesz &lt;acronym title="Getting Things Done"&gt;GTD&lt;/acronym&gt; lub zarządzasz zadaniami w inny sposób. &lt;strong&gt;Czy wykonujuesz cyklicznie przegląd zadań?&lt;/strong&gt; Jakich narzędzi do tego używasz i co w tym sposobie Ci się podoba lub drażni? Dziękuję za Twój czas i do usłyszenia następnym razem :)&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Niedziela, ostatni dzień astronomicznej zimy. Doskonały dzień, żeby w końcu trochę pokodować ;)&lt;/p&gt;</summary>
 	</entry>
 </feed>
