@@ -5566,3 +5566,10 @@ p.lead, .lead {
     margin-left: 10px; }
   #about-top1-image {
     width: 500px; } }
+
+#show-reference-list {
+  font-size: 12px;
+  text-transform: uppercase;
+  cursor: default; }
+  #show-reference-list:hover {
+    text-decoration: underline; }

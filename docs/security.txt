@@ -1,0 +1,3 @@
+Contact: security@taurit.pl
+Encryption: https://taurit.pl/res/security-pub-2017.asc
+Acknowledgements: https://taurit.pl/res/acknowledgements.html
