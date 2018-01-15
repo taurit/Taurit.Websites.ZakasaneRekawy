@@ -5,8 +5,8 @@
 		<link>https://zakasanerekawy.pl/</link>
 		<description>O dobrych nawykach sprzyjających nauce i pracy</description>
 		<copyright>2018</copyright>
-		<pubDate>Thu, 04 Jan 2018 20:17:43 GMT</pubDate>
-		<lastBuildDate>Thu, 04 Jan 2018 20:17:43 GMT</lastBuildDate>
+		<pubDate>Mon, 15 Jan 2018 18:19:02 GMT</pubDate>
+		<lastBuildDate>Mon, 15 Jan 2018 18:19:02 GMT</lastBuildDate>
 		<item>
 			<title>mBank: zmiana papierowych potwierdzeń transakcji TFI na elektroniczne</title>
 			<link>https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia</link>
@@ -452,18 +452,13 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 			<content:encoded>&lt;h2 id="szybki-blog-pozwala-nie-stracic-czytelnikow"&gt;Szybki blog pozwala nie stracić czytelników&lt;/h2&gt;
 &lt;p class="lead"&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Warto nie tylko z próżności i chęci zmian dla samych zmian, ale także po to, by upewnić się, że wszyscy czytelnicy odwiedzający naszą witrynę są w stanie zobaczyć nasze treści bez przeszkód. Jedną z największych wydaje się dzisiaj &lt;strong&gt;wolne ładowanie się strony&lt;/strong&gt;, co odczuwają szczególnie osoby trafiające na nasze treści na smartfonach. A tych od pewnego czasu &lt;a href="https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets" target="_blank" rel="nofollow"&gt;jest już więcej&lt;/a&gt; niż użytkowników surfujących na dużych monitorach.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-6 col-md-offset-3'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/jpeg/traffic-car-vehicle-black.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/traffic-car-vehicle-black.jpg' alt='' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Ilustracja. Źródło: &lt;a href='https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/' rel='nofollow' target='_blank'&gt;Pexels&lt;/a&gt;
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;&lt;fig-hidden width="6"
+src="/assets/img/posts/traffic-car-vehicle-black.jpg"
+alt=""
+caption="Ilustracja"
+source="Pexels"
+source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
+/&gt;&lt;/p&gt;
 &lt;p&gt;Amazon w 2008 roku policzył, że &lt;b&gt;każde 100ms podczas ładowania strony kosztuje ich 1% przychodu&lt;/b&gt;. To ledwie 1/10 sekundy. Skoro tak niewielki czas ma wpływ na decyzje o zakupie lub jej braku, ma również na pewno wpływ na ogólny odbiór strony.&lt;/p&gt;
 &lt;p&gt;Google w narzędziu dla twórców stron internetowych &lt;a href="https://developers.google.com/speed/pagespeed/" rel="nofollow" target="_blank"&gt;Page Speed&lt;/a&gt; uwzględnia czas ładowania strony jako istotny czynnik wpływający na jej końcową ocenę punktową. Niektórzy spekulują, że ten parametr ma duży wpływ na pozycję naszej strony w wynikach wyszukiwania, na której na pewno wielu z nas należy.&lt;/p&gt;
 &lt;h2 id="jak-szybko-powinien-adowac-sie-blog"&gt;Jak szybko powinien ładować się blog?&lt;/h2&gt;
@@ -475,7 +470,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
                     &lt;div class='thumbnail'&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/blog-loading-time-user-perception.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/blog-loading-time-user-perception.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/blog-loading-time-user-perception.png' alt='' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 2. Czas ładowania się strony internetowej i jego postrzeganie przez użytkowników. Źródło: &lt;a href='https://blog.radware.com/applicationdelivery/wpo/2014/07/eight-tricks-improve-perceived-web-performance/' rel='nofollow' target='_blank'&gt;Web Performance Today&lt;/a&gt;
+                            &lt;figcaption&gt;Rys. 1. Czas ładowania się strony internetowej i jego postrzeganie przez użytkowników. Źródło: &lt;a href='https://blog.radware.com/applicationdelivery/wpo/2014/07/eight-tricks-improve-perceived-web-performance/' rel='nofollow' target='_blank'&gt;Web Performance Today&lt;/a&gt;
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -500,7 +495,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
                     &lt;div class='thumbnail'&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/cloudflare-model-by-troy-hunt.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/cloudflare-model-by-troy-hunt.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/cloudflare-model-by-troy-hunt.png' alt='Model działania usługi Cloudflare' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 3. Model działania usługi Cloudflare. Źródło: &lt;a href='https://www.troyhunt.com/get-started-with-cloudflare-security-on/' rel='nofollow' target='_blank'&gt;Troy Hunt&lt;/a&gt;
+                            &lt;figcaption&gt;Rys. 2. Model działania usługi Cloudflare. Źródło: &lt;a href='https://www.troyhunt.com/get-started-with-cloudflare-security-on/' rel='nofollow' target='_blank'&gt;Troy Hunt&lt;/a&gt;
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
