@@ -318,3 +318,5 @@ docs/assets/img/posts/webp/*.fullsize.webp
 docs/assets/img/thumbnails/*.hq.*
 docs/assets/img/thumbnails/1200x627/*.hq.*
 docs/input.vsspell
+docs/input.proj.DotSettings
+docs/packages.config

@@ -5545,6 +5545,19 @@ p.lead, .lead {
 .img-generated {
   margin: 0 auto 0 auto; }
 
+.podcast-list-cover {
+  width: 130px;
+  height: 130px;
+  border: 1px solid #a2a2a2; }
+
+.podcast-metadata {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 0.8em; }
+
+.podcast-description {
+  margin-top: 3px; }
+
 #about-top1 {
   text-align: center;
   font-style: italic;
@@ -5572,6 +5585,85 @@ p.lead, .lead {
   cursor: default; }
   #show-reference-list:hover {
     text-decoration: underline; }
+
+.podcast-actions {
+  margin-top: 10px; }
+
+.podcast-actions-button {
+  width: 100%; }
+
+.media-object-podcast-details-cover {
+  width: 100%;
+  border: 1px solid #a2a2a2; }
+
+.header-podcast {
+  background-image: url("/assets/img/podcast/programowanie-na-sniadanie/podcast-banner-image.jpg"); }
+
+.media-object-podcast-details-cover {
+  background-image: url("../img/podcast/programowanie-na-sniadanie/podcast-cover-206.jpg");
+  width: 206px;
+  height: 206px; }
+
+.media-object-podcast-details-cover-responsive {
+  display: none; }
+
+/* On smaller screens than 768, podcast episode page must be displayed differently */
+@media only screen and (max-width: 768px) {
+  .media-podcast-details .media-object-podcast-details-cover {
+    display: none; }
+  .media-podcast-details .media-object-podcast-details-cover-responsive {
+    display: block; }
+  .media-podcast-details .media-left, .media-podcast-details .media-top {
+    display: block; }
+  .media-podcast-details .media-heading-podcast {
+    margin-top: 15px; }
+  #podcast-index-page-image {
+    display: none; } }
+
+.site-heading a {
+  color: #ffffff; }
+  .site-heading a :hover {
+    color: #ffffff; }
+
+.podcast-listen-online {
+  width: 100%; }
+
+.podcast-subscription-form {
+  margin-top: 20px;
+  background-image: url("/assets/img/podcast/programowanie-na-sniadanie/subscribe-form-background.jpg");
+  max-width: 1140px;
+  width: 100%;
+  background-size: cover cover;
+  color: #fff; }
+  .podcast-subscription-form #mc_embed_signup {
+    padding: 40px; }
+    .podcast-subscription-form #mc_embed_signup .subscription-form-header {
+      font-family: "Segoe UI",sans-serif;
+      font-size: 30px;
+      font-weight: 300;
+      margin-top: 0; }
+    .podcast-subscription-form #mc_embed_signup input[type=email], .podcast-subscription-form #mc_embed_signup input[type=text] {
+      font-size: 18px;
+      font-family: "Segoe UI",sans-serif;
+      font-weight: 300;
+      margin-bottom: 3px;
+      height: 39px;
+      vertical-align: top; }
+    .podcast-subscription-form #mc_embed_signup .btn {
+      height: 39px;
+      line-height: 15px;
+      vertical-align: top; }
+    .podcast-subscription-form #mc_embed_signup .follow-external-button:hover {
+      opacity: 0.96; }
+
+.podcast-transcript-jingle {
+  color: #777;
+  text-align: center;
+  font-style: italic; }
+  .podcast-transcript-jingle:before {
+    content: '= '; }
+  .podcast-transcript-jingle:after {
+    content: ' ='; }
 
 #show-newsletter-form {
   padding: 0 23px; }

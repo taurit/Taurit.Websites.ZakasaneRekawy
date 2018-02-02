@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://developers.google.com/search/docs/data-types/podcasts" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>Programowanie na śniadanie</title>
+    <description>Blog o programowaniu w przystępnej formie audio. Poruszam tematy, które mogą zainteresować nas wszystkich, niezależnie od stosu technologicznego w którym pracuje.</description>
+    <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie</link>
+    <language>pl</language>
+    <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+    <lastBuildDate>Fri, 02 Feb 2018 16:59:43 GMT</lastBuildDate>
+    <ttl>4320</ttl>
+    <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
+    <itunes:author>Paweł Bulwan</itunes:author>
+    <googleplay:author>Paweł Bulwan</googleplay:author>
+    <itunes:subtitle>Pierwszy polski blog o programowaniu w formie audio.</itunes:subtitle>
+    <itunes:summary>Blog o programowaniu w przystępnej formie audio. Poruszam tematy, które mogą zainteresować nas wszystkich, niezależnie od stosu technologicznego w którym pracuje.</itunes:summary>
+    <itunes:keywords>programowanie, it, praca, microsoft, net, development, web, produktywność, programista, kariera</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Business">
+      <itunes:category text="Careers" />
+    </itunes:category>
+    <itunes:owner>
+      <itunes:name>Paweł Bulwan</itunes:name>
+      <itunes:email>itunes-podcast@taurit.pl</itunes:email>
+    </itunes:owner>
+    <image>
+      <url>https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-144.jpg</url>
+      <title>Programowanie na śniadanie</title>
+      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie</link>
+    </image>
+    <itunes:image href="https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
+    <googleplay:image href="https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
+  </channel>
+</rss>
