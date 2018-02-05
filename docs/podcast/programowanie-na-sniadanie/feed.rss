@@ -7,7 +7,7 @@
     <language>pl</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <lastBuildDate>Mon, 05 Feb 2018 07:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 08:04:51 GMT</lastBuildDate>
     <ttl>4320</ttl>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
@@ -119,73 +119,77 @@
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
       <itunes:summary><![CDATA[
-<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
+<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu
+    której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
 
 <ul>
     <li>Hit Refresh - przedstawienie książki</li>
-    <li>Wybrane wątki</li>
-    <ol>
-        <li>Microsoft = zepsuta korporacja?</li>
-        <li>Po co Microsoft istnieje?</li>
-        <li>Prywatność i chmura</li>
-    </ol>
+    <li>Wybrane wątki
+        <ol>
+            <li>Microsoft = zepsuta korporacja?</li>
+            <li>Po co Microsoft istnieje?</li>
+            <li>Prywatność i chmura</li>
+        </ol>
+    </li>
     <li>Podsumowanie</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
-<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
+<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu
+    której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
 
 <ul>
     <li>Hit Refresh - przedstawienie książki</li>
-    <li>Wybrane wątki</li>
-    <ol>
-        <li>Microsoft = zepsuta korporacja?</li>
-        <li>Po co Microsoft istnieje?</li>
-        <li>Prywatność i chmura</li>
-    </ol>
+    <li>Wybrane wątki
+        <ol>
+            <li>Microsoft = zepsuta korporacja?</li>
+            <li>Po co Microsoft istnieje?</li>
+            <li>Prywatność i chmura</li>
+        </ol>
+    </li>
     <li>Podsumowanie</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
       <description><![CDATA[
-<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
+<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu
+    której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
 
 <ul>
     <li>Hit Refresh - przedstawienie książki</li>
-    <li>Wybrane wątki</li>
-    <ol>
-        <li>Microsoft = zepsuta korporacja?</li>
-        <li>Po co Microsoft istnieje?</li>
-        <li>Prywatność i chmura</li>
-    </ol>
+    <li>Wybrane wątki
+        <ol>
+            <li>Microsoft = zepsuta korporacja?</li>
+            <li>Po co Microsoft istnieje?</li>
+            <li>Prywatność i chmura</li>
+        </ol>
+    </li>
     <li>Podsumowanie</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
       <content:encoded><![CDATA[
-<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
+<p>Odcinek o niedawnej książce CEO Microsoftu Satya Nadelli &ldquo;Hit Refresh&rdquo;, w której pisze o transformacji Microsoftu
+    której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p>
 
 <ul>
     <li>Hit Refresh - przedstawienie książki</li>
-    <li>Wybrane wątki</li>
-    <ol>
-        <li>Microsoft = zepsuta korporacja?</li>
-        <li>Po co Microsoft istnieje?</li>
-        <li>Prywatność i chmura</li>
-    </ol>
+    <li>Wybrane wątki
+        <ol>
+            <li>Microsoft = zepsuta korporacja?</li>
+            <li>Po co Microsoft istnieje?</li>
+            <li>Prywatność i chmura</li>
+        </ol>
+    </li>
     <li>Podsumowanie</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
@@ -214,81 +218,85 @@
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
       <itunes:summary><![CDATA[
-<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p>
+<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić
+    ich bezpieczeństwo. Zawartość odcinka:</p>
 
 <ul>
     <li>Dla kogo jest ten odcinek?</li>
     <li>Wstęp: dlaczego pozostając przy opcji domyślnej NIE jesteśmy bezpieczni</li>
-    <li>Przykładowe ataki klasy code-injection</li>
-    <ol>
-        <li>Cross Site Scripting (XSS)</li>
-        <li>Cross Site Styling (the "other" XSS)</li>
-        <li>Clickjacking</li>
-    </ol>
+    <li>Przykładowe ataki klasy code-injection
+        <ol>
+            <li>Cross Site Scripting (XSS)</li>
+            <li>Cross Site Styling (the "other" XSS)</li>
+            <li>Clickjacking</li>
+        </ol>
+    </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
-<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p>
+<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić
+    ich bezpieczeństwo. Zawartość odcinka:</p>
 
 <ul>
     <li>Dla kogo jest ten odcinek?</li>
     <li>Wstęp: dlaczego pozostając przy opcji domyślnej NIE jesteśmy bezpieczni</li>
-    <li>Przykładowe ataki klasy code-injection</li>
-    <ol>
-        <li>Cross Site Scripting (XSS)</li>
-        <li>Cross Site Styling (the "other" XSS)</li>
-        <li>Clickjacking</li>
-    </ol>
+    <li>Przykładowe ataki klasy code-injection
+        <ol>
+            <li>Cross Site Scripting (XSS)</li>
+            <li>Cross Site Styling (the "other" XSS)</li>
+            <li>Clickjacking</li>
+        </ol>
+    </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
       <description><![CDATA[
-<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p>
+<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić
+    ich bezpieczeństwo. Zawartość odcinka:</p>
 
 <ul>
     <li>Dla kogo jest ten odcinek?</li>
     <li>Wstęp: dlaczego pozostając przy opcji domyślnej NIE jesteśmy bezpieczni</li>
-    <li>Przykładowe ataki klasy code-injection</li>
-    <ol>
-        <li>Cross Site Scripting (XSS)</li>
-        <li>Cross Site Styling (the "other" XSS)</li>
-        <li>Clickjacking</li>
-    </ol>
+    <li>Przykładowe ataki klasy code-injection
+        <ol>
+            <li>Cross Site Scripting (XSS)</li>
+            <li>Cross Site Styling (the "other" XSS)</li>
+            <li>Clickjacking</li>
+        </ol>
+    </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
       <content:encoded><![CDATA[
-<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p>
+<p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić
+    ich bezpieczeństwo. Zawartość odcinka:</p>
 
 <ul>
     <li>Dla kogo jest ten odcinek?</li>
     <li>Wstęp: dlaczego pozostając przy opcji domyślnej NIE jesteśmy bezpieczni</li>
-    <li>Przykładowe ataki klasy code-injection</li>
-    <ol>
-        <li>Cross Site Scripting (XSS)</li>
-        <li>Cross Site Styling (the "other" XSS)</li>
-        <li>Clickjacking</li>
-    </ol>
+    <li>Przykładowe ataki klasy code-injection
+        <ol>
+            <li>Cross Site Scripting (XSS)</li>
+            <li>Cross Site Styling (the "other" XSS)</li>
+            <li>Clickjacking</li>
+        </ol>
+    </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul>
-<p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
     <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
