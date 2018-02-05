@@ -8,8 +8,50 @@
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
   <rights>2018</rights>
-  <updated>2018-02-03T06:29:43Z</updated>
+  <updated>2018-02-05T20:38:00Z</updated>
   <subtitle>O dobrych nawykach sprzyjających nauce i pracy</subtitle>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu" />
+    <id>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</id>
+    <title>Startuje nowy podcast o programowaniu!</title>
+    <updated>2018-02-05T08:01:10Z</updated>
+    <content>&lt;h2 id="polskie-podcasty-o-programowaniu"&gt;Polskie podcasty o programowaniu&lt;/h2&gt;
+&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;
+&lt;p&gt;Jako słuchacz najbardziej doceniam tę formę audycji w trakcie dojazdu do pracy albo przejażdżki rowerowej. Sprawdzają się też podczas długiej jazdy pociągiem.&lt;/p&gt;
+&lt;p&gt;Na swojej liście audycji mam oczywiście podcasty o programowaniu i szczególnie te &lt;strong&gt;prowadzone w języku polskim&lt;/strong&gt; wydają się często bliskie codziennej pracy i doświadczeniom. Warto wiedzieć jakie mamy opcje, i tak na pewno warte uwagi są:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="http://devtalk.pl/" target="_blank" class="bg-success text-success"&gt;DevTalk&lt;/a&gt; Maćka Aniserowicza, do którego regularnie zaprasza wielu ciekawych gości. Godna podziwu systematyczność i ciekawe tematy.&lt;/li&gt;
+    &lt;li&gt;Podcast &lt;a href="https://www.facebook.com/ostrapila/" target="_blank" class="bg-success text-success"&gt;Ostra Piła&lt;/a&gt; gdzie Paweł Łukasik i Jarek Stadnicki rozmawiają o IT. Słuchając można zestawić swoje doświadczenia z tym, co dzieje się w innych firmach, nawet na drugim krańcu Polski :)&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://startupmyway.com/smw-podcast-1-andrzej-krzywda/" class="bg-success text-success"&gt;Startup My Way&lt;/a&gt; Bogusza Pękalskiego - pierwszy odcinek w formie wywiadu wyszedł zaledwie kilka dni temu, ale zapowiada się ciekawie i jak najbardziej w temacie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kojarzę też co najmniej dwa, które po pierwszych 2-3 odcinkach wstrzymały działanie. W katalogu &amp;quot;Polskie Podcasty&amp;quot; jest kilka innych audycji w kategorii &lt;a href="https://polskiepodcasty.pl/category/podcasty/technologia/" target="_blank"&gt;Technologia&lt;/a&gt;, jednak żadna z nich nie jest bezpośrednio skupiona na programowaniu, a najczęściej dotyczy nowinek ze świata technologii.&lt;/p&gt;
+&lt;p&gt;Jak widać jako programiści i programistki mamy już kilka fajnych opcji. Myślę jednak, że jest tu pole żeby dorzucić coś od siebie ;)&lt;/p&gt;
+&lt;h2 id="nowy-podcast-programowanie-na-sniadanie"&gt;Nowy podcast: &amp;quot;Programowanie na śniadanie&amp;quot;&lt;/h2&gt;
+&lt;p&gt;Dziś do tej puli dorzucam swoje trzy grosze, a konkretnie &lt;strong&gt;trzy odcinki nowego podcastu&lt;/strong&gt; dedykowanego programistom i programistkom. Nazwałem go &lt;em&gt;Programowanie na śniadanie&lt;/em&gt;, aby keyword &lt;em&gt;programowanie&lt;/em&gt; znalazł się w tytule ;) Z tej pragmatycznej decyzji jestem dumny. Z odcinków miejscami mniej, ale trzeba czasami pójść na kompromis i wypuścić coś co ma błędy, ale pozwala ruszyć z miejsca.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://jakoszczedzacpieniadze.pl/jak-zaczac-nagrywac-podcast-marek-jankowski" target="_blank"&gt;Doświadczeni podcasterzy&lt;/a&gt; słusznie zwrócili uwagę, że mówienie do siebie (nawet w obecności mikrofonu) nie każdemu przychodzi łatwo. Robię chyba wszystkie błędy początkującego, włączając w to czytanie z kartki, okazjonalne &amp;quot;mmm&amp;quot;, i drobne potknięcia merytoryczne (które przy dobrej woli można uznać za skróty myślowe). Tak czy inaczej, od czegoś trzeba zacząć i pracuję nad tym żeby poprawiać błędy ;)&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-8 col-md-offset-2'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/podcast-o-programowaniu.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/podcast-o-programowaniu.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/podcast-o-programowaniu.jpg' alt='Podcast 'Programowanie na śniadanie'' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Grafika promująca podcast.
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Zapraszam do &lt;a href="/podcast/programowanie-na-sniadanie/"&gt;słuchania i subskrypcji&lt;/a&gt; i dziękuję, że tu wpadłeś lub wpadłaś! Jeśli posłuchasz, zostaw też konieczne feedback! Odcinki na początek:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/0" target="_blank"&gt;PNŚ 0: "Programowanie na śniadanie"&lt;/a&gt; - o pomyśle na podcast&lt;/li&gt;
+&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/1" target="_blank"&gt;PNŚ 1: "Hit Refresh". Jak naprawić korporację? - wg CEO Microsoftu&lt;/a&gt; - recenzja ksiązki wydanej jesienią ubiegłego roku&lt;/li&gt;
+&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/2" target="_blank"&gt;PNŚ 2: Jak poprawić bezpieczeństwo strony jednym meta-tagiem - Content-Security-Policy&lt;/a&gt; - odcinek techniczny, dla web-developerów&lt;/li&gt;
+&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/" target="_blank"&gt;Zobacz listę wszystkich odcinków...&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Możesz &lt;strong&gt;wesprzeć mnie na starcie&lt;/strong&gt; i poprawić widoczność podcastu &lt;a href="https://www.facebook.com/programowanienasniadanie/" target="_blank" class="bg-success text-success"&gt;&lt;strong&gt;lajkując jego stronę na Facebooku&lt;/strong&gt;&lt;/a&gt;. Dziękuję :)&lt;/p&gt;
+</content>
+    <summary>&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac" />
     <id>https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac</id>
@@ -1298,80 +1340,5 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Czy Ty również stosujesz w zarządzaniu pocztą e-mail jakieś triki? Może znasz jeszcze inne metody, aby regularnie osiągnąć &lt;i lang="en"&gt;Inbox Zero&lt;/i&gt;? ;) Zachęcam do podzielenia się swoimi sposobami i dziękuję za odwiedziny!&lt;/p&gt;
 </content>
     <summary>&lt;p class="lead"&gt;Czy gdy dostajesz powiadomienie na telefon &lt;strong&gt;cieszysz się, czy odczuwasz raczej impuls irytacji&lt;/strong&gt;? Zapewne &lt;i&gt;to zależy&lt;/i&gt;. Jeśli czekaliśmy na wiadomość, powiadomienie może nam sprawić przyjemność. Jeśli dostajemy kolejny sygnał od stalkera albo prośbę o ocenę niedawnego zakupu, będziemy zapewne obojętni, jeśli nie zirytowani.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <link href="https://zakasanerekawy.pl/posts/jak-przyspieszyc-przeglad-zadan" />
-    <id>https://zakasanerekawy.pl/posts/jak-przyspieszyc-przeglad-zadan</id>
-    <title>Jak usprawnić przegląd zadań: projekt aplikacji Revisionist</title>
-    <updated>2017-03-29T22:08:01Z</updated>
-    <content>&lt;h2 id="peny-przeglad-nie-mamy-na-to-czasu"&gt;Pełny przegląd: nie mamy na to czasu&lt;/h2&gt;
-&lt;p&gt;W projekcie &lt;a href="https://github.com/taurit/revisionist" target="_blank"&gt;Revisionist&lt;/a&gt; chcę umożliwić przegląd zadań na liście zadań Todoist w sposób, który pozwoli nam zaoszczędzić czas.&lt;br /&gt;
-Żeby móc mówić o oszczędności czasu, wyjdźmy od punktu startowego, którym jest wykonanie &lt;strong&gt;pełnego przeglądu zadań&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Przez pełny przegląd zadań rozumiem &lt;strong&gt;przejście przez wszystkie elementy na liście todo&lt;/strong&gt; oraz wykonanie dla każdego z nich analizy. W zależności od tego jakie konwencje przyjęliśmy w naszym osobistym systemie zarządzania zadaniami, analiza może mieć inny przebieg u innych osób. Przykładowe kroki to:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;ocena czy pozycja na liście &lt;strong&gt;jeszcze nas interesuje&lt;/strong&gt;,&lt;/li&gt;
-	&lt;li&gt;ocena czy pozycja jest &lt;strong&gt;zadaniem czy projektem&lt;/strong&gt; składającym się z wielu zadań,&lt;/li&gt;
-	&lt;li&gt;określenie metadanych takich jak &lt;strong&gt;deadline&lt;/strong&gt;, &lt;strong&gt;konteksty&lt;/strong&gt; gdzie można wykonać zadanie (pomagające nam później w filtrowaniu zadań), &lt;strong&gt;czas wykonania&lt;/strong&gt; (jeśli dla zadania lepiej jest z wyprzedzeniem ustalić czas), &lt;strong&gt;długość trwania&lt;/strong&gt; (pomaga wyświetlić zadania w kalendarzu),&lt;/li&gt;
-    &lt;li&gt;określenie jakie &lt;strong&gt;przypomnienia&lt;/strong&gt; o zadaniach chcemy dostać (np. powiadomienie w określonym czasie przed deadlinem, lub gdy znajdziemy się w określonej geolokalizacji).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wymienione kwestie to przykłady tego, co możemy chcieć &lt;strong&gt;doprecyzować&lt;/strong&gt; w tematach które już zapisaliśmy na liście todo. Nie rozpatruję na razie tematu dodawania do listy nowych zadań ("zrzucania" chodzących nam po głowie pomysłów na listę), ani planowania nowych celów. Jedynie utrzymanie porządku na liście.&lt;/p&gt;
-&lt;p&gt;Jak kiedyś przytaczałem we wpisie &lt;a href="/posts/lista-zadan-narzedzie-do-wyrzucenia-czy-usprawnienia"&gt;Lista zadań: narzędzie do wyrzucenia, czy usprawnienia?&lt;/a&gt;, &lt;strong&gt;typowo na naszych listach znajduje się 150-200 pozycji&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Przejrzenie wszystkich tych zadań na liście i wykonanie wyżej wymienionych akcji niewątpliwie zagwarantują nam &lt;strong&gt;solidny przegląd wszystkiego co mamy w kolejce&lt;/strong&gt;. Pytanie tylko, ile czasu nam to zajmie? Godzinę, dwie? A jeśli tak to jak często usiądziemy do tego zadania?&lt;/p&gt;
-&lt;p&gt;GTD daje odpowiedź: &lt;a href="http://gettingthingsdone.com/2015/07/podcast-07-guided-gtd-weekly-review/" target="_blank"&gt;róbmy przegląd co 1 tydzień&lt;/a&gt;. To nieźle dobrany interwał, ale wciąż okazuje się, że bardzo dużo osób taki przegląd zadań pomija, albo przekładając go w czasie, albo całkowicie zaniedbując. Jestem niestety jedną z takich osób, którym ciężko jest usiąść o zaplanowanej godzinie do czegoś co nie jest dramatycznie pilne albo ekscytujące. Wrzucenie przeglądu do kalendarza nie wystarcza.&lt;/p&gt;
-&lt;h2 id="alternatywna-czesciowy-przeglad"&gt;Alternatywna: częściowy przegląd&lt;/h2&gt;
-&lt;p&gt;Patrząc na &lt;strong&gt;pojedyncze wykonanie&lt;/strong&gt; pełnego przeglądu zadań, z algorytmicznego punktu widzenia nie mamy za dużego pola do optymalizacji i skrócenia jego czasu. Wszystkie elementy na liście przeglądamy dokładnie raz. Jeśli chcielibyśmy przyspieszyć przegląd, trzeba byłoby niektóre z nich pominąć.&lt;/p&gt;
-&lt;p&gt;Jednak w rzeczywistości przeglądu nie chcemy robić jednorazowo, a &lt;strong&gt;cyklicznie&lt;/strong&gt;. Niektórzy być może co tydzień, ja chciałbym codziennie, a może nawet co kilka godzin, wplatając krótsze przeglądy w rytm codziennego dnia. Przy takich wymaganiach nie możemy sobie pozwolić na przegląd wszystkich zadań za każdym razem. Ale też nie musimy! W końcu większość listy została już w przeszłości przejrzana, uporządkowana i z wysokim prawdopodobieństwem informacje o niej są aktualne.&lt;/p&gt;
-&lt;p&gt;Podjąłem kiedyś próby realizacji takiego częściowego przeglądu. Do zarządzania zadaniami korzystam z aplikacji Todoist. W poście &lt;a href="/posts/co-chowam-w-szufladzie" target="_blank"&gt;Wspomaganie przeglądu zadań: co chowam w szufladzie?&lt;/a&gt; opisuję aplikacje, które napisałem kiedyś, żeby rozwiązać u siebie problem &lt;strong&gt;szybszego nadawania kontekstu zadaniom&lt;/strong&gt;. W kolejnym z artykułów, &lt;a href="/posts/koncepcja-revisionist" target="_blank"&gt;Koncepcja projektu wspomagającego przegląd zadań&lt;/a&gt;, opisuję ogólną wizję aplikacji webowej &lt;em&gt;Revisionist&lt;/em&gt;, który uogólnia to rozwiązanie.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-6 col-md-offset-3'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/todoist-review-app-screenshot-300.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/todoist-review-app-screenshot-300.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/todoist-review-app-screenshot-300.png' alt='Aplikacja TodoistReview' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Poprzednik projektu Revisionist: moja aplikacja TodoistReview. Źródło: &lt;a href='https://github.com/taurit/TodoistReview' rel='nofollow' target='_blank'&gt;GitHub&lt;/a&gt;
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Dziś, jako istotny krok w kierunku realizacji projektu &lt;em&gt;Revisionist&lt;/em&gt;, opiszę szczegółowo jakie rozwiązanie chcę w nadchodzących tygodniach stworzyć.&lt;/p&gt;
-&lt;h2 id="revisionist-projekt-rozwiazania"&gt;Revisionist: projekt rozwiązania&lt;/h2&gt;
-&lt;h3 id="zaozenia-funkcjonalne"&gt;Założenia funkcjonalne&lt;/h3&gt;
-&lt;p&gt;Aplikacja jest &lt;strong&gt;rozszerzeniem dla systemu zarządzania zadaniami Todoist&lt;/strong&gt;. Umożliwia &lt;strong&gt;uporządkowanie listy zadań&lt;/strong&gt; bez konieczności wykonywania pełnego przeglądu listy zadań przez użytkownika. Celem jest rozwiązanie typowych problemów, na które napotykają osoby zarządzające dużymi lub dynamicznie zmieniającymi się listami zadań.&lt;/p&gt;
-&lt;p&gt;Aplikacja sprowadza przegląd zadań na liście todo do serii &lt;strong&gt;prostych pytań decyzyjnych&lt;/strong&gt; na ich temat. Pozwala to opisać zadania przy pomocy metadanych o ściśle określonym znaczeniu. Dzięki temu system będzie w stanie przypomnieć użytkownikowi o najważniejszych zadaniach jakie może wykonać w danym kontekście i lepiej podpowiadać najważniejsze zadania prowadzące go do jego celów.&lt;/p&gt;
-&lt;h3 id="technologie"&gt;Technologie&lt;/h3&gt;
-&lt;p&gt;Projekt &lt;em&gt;Revisionist&lt;/em&gt; będzie &lt;strong&gt;aplikacją webową&lt;/strong&gt;. Umożliwi to dostęp z wielu platform, w szczególności smartfonów, które w założeniu są głównym kanałem dostępu do aplikacji. Aplikacja będzie zoptymalizowana do wyświetlania na małych ekranach. Połączenie z Internetem będzie wymagane, ale komunikacja z back-endem będzie możliwie rzadka. Dane, na które zapotrzebowanie można przewidzieć, będą pobierane na starcie aplikacji, aby minimalizować opóźnienia w trakcie samego przeglądu zadań.&lt;/p&gt;
-&lt;p&gt;Aplikacja będzie bazować na frameworku &lt;a href="https://angular.io/" target="_blank" rel="nofollow"&gt;Angular&lt;/a&gt; (obecnie w wersji 4), aby umożliwić implementację przeglądu w postaci &lt;em&gt;single page app&lt;/em&gt;, z minimalnymi opóźnieniami podczas przechodzenia między ekranami.&lt;/p&gt;
-&lt;p&gt;Po stronie back-endu zostanie użyte &lt;a href="https://www.asp.net/web-api" target="_blank" rel="nofollow"&gt;ASP .NET Web API&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Aplikacja będzie hostowana jako &lt;a href="https://azure.microsoft.com/pl-pl/services/app-service/web/" target="_blank" rel="nofollow"&gt;Azure App Service&lt;/a&gt;. Podczas prac, na wczesnym etapie zostanie skonfigurowany Continuous Deployment, aby bieżąca wersja kodu znajdującego się na GitHub była łatwo dostępna w formie działającej aplikacji po kliknięciu w link.&lt;/p&gt;
-&lt;p&gt;Dane konfiguracyjne będą przechowywane z użyciem usługi &lt;a href="https://azure.microsoft.com/pl-pl/services/storage/tables/" target="_blank" rel="nofollow"&gt;Magazyn tabel (Table Storage) w Azure&lt;/a&gt;. Pozwoli to uniknąć kosztów utrzymywania pełnej relacyjnej bazy danych takiej jak Microsoft SQL Server, a jednocześnie dostarczy API, które jest wygodne, dobrze udokumentowane i łatwe w użyciu z poziomu aplikacji ASP.NET.&lt;/p&gt;
-&lt;h2 id="architektura"&gt;&lt;span id="architektura"&gt;Architektura&lt;/a&gt;&lt;/h2&gt;
-&lt;p&gt;Aplikacja będzie w miarę możliwości trzymać się konwencji przyjętych we frameworkach &lt;em&gt;Angular&lt;/em&gt; oraz &lt;em&gt;ASP .NET Web API&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;W ramach aplikacji funkcjonować będą plug-iny realizujące elementarne funkcjonalności przeglądu. Przykładem plug-ina może być &lt;em&gt;Nadanie zadaniu kontekstu wykonania&lt;/em&gt;, albo &lt;em&gt;Określenie szacowanego czasu wykonania dla zadania&lt;/em&gt;. Plug-iny &lt;strong&gt;na wejściu otrzymają listę zadań, na wyjściu zwrócą przetworzoną listę zadań&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Użytkownik w ramach konfiguracji będzie mógł wybrać zestaw plug-inów używanych w swoim przeglądzie. Każdy plug-in będzie konfigurowalny. Przykładowo, dla plug-inu &lt;em&gt;Nadanie zadaniu kontekstu wykonania&lt;/em&gt; można będzie skonfigurować opcje takie jak "maksymalna ilość zadań na wejściu", lub "przejrzyj tylko zadania bez kontekstu".&lt;/p&gt;
-&lt;h2 id="sposob-uzycia-aplikacji"&gt;Sposób użycia aplikacji&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Rejestracja i konfiguracja&lt;/strong&gt; (preferowane urządzenie z dużym ekranem): użytkownik loguje się na stronę poprzez konto Todoist, używając mechamizmu &lt;a href="https://developer.todoist.com/#authorization" target="_blank" rel="nofollow" title="Dokumentacja dla uwierzytelniania metodą OAuth w systemie Todoist"&gt;OAuth&lt;/a&gt;. Na starcie jego konfiguracja jest pusta. Konfigurację może rozpocząć od skomponowania swojego przeglądu poprzez wybranie bloczków odpowiadających plug-inom i ułożenie ich w odpowiadającej mu kolejności &lt;a href="https://luckylooke.github.io/dragular/#/docs/exampleBasic" target="_blank" rel="nofollow"&gt;metodą drag&amp;amp;drop&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Przegląd zadań&lt;/strong&gt; (np. smartfon): użytkownik wchodzi na stronę aplikacji. Loguje się, lub korzysta z faktu że zalogował się w przeszłości. Podczas pierwszego użycia jest zachęcany, aby dodać ikonę do aplikacji do głównego ekranu smartfona, dla szybkiego dostępu. Nie licząc tego przypadku, &lt;strong&gt;aplikacja przechodzi bezpośrednio do przeglądu zadań&lt;/strong&gt; który skonfigurował.&lt;/p&gt;
-&lt;p&gt;Aplikacja zadaje pytania wyświetlane na kolejnych ekranach, dając kilka możliwości wyboru odpowiedzi na każde z nich. Po wybraniu odpowiedzi aplikacja automatycznie przechodzi do następnego ekranu (z następnym pytaniem). Użytkownik ma możliwość powrotu do poprzedniego ekranu (np. w razie pomyłki).&lt;/p&gt;
-&lt;p&gt;Użytkownik może kontynuować przegląd tak długo, jak długo ma ochotę lub czas i w dowolnej chwili zakończyć przegląd.&lt;/p&gt;
-&lt;p&gt;Pytania, realizowane przez plug-iny (patrz: &lt;a href="#architektura"&gt;architektura&lt;/a&gt;) mają na celu:&lt;/p&gt;
-&lt;ul&gt;
-	&lt;li&gt;Spisanie problemów i zadań których nie mamy na liście, a o których myślimy&lt;/li&gt;
-	&lt;li&gt;Wyrzucenie nieaktualnych zadań&lt;/li&gt;
-	&lt;li&gt;Wyrzucenie nieaktualnych projektów&lt;/li&gt;
-	&lt;li&gt;Przeniesienie wstrzymanych projektów do listy &lt;i&gt;Someday/maybe&lt;/i&gt; lub ich przywrócenie&lt;/li&gt;
-	&lt;li&gt;Odhaczenie wykonanych zadań&lt;/li&gt;
-	&lt;li&gt;Rozbicie projektów (czegoś co wymaga wielu kroków wykonania) na zadania&lt;/li&gt;
-	&lt;li&gt;Określenie dla zadań kontekstu w którym chcemy dostać o nich przypomnienie&lt;/li&gt;
-	&lt;li&gt;Określenie dla zadań szacowanego czasu wykonania&lt;/li&gt;
-	&lt;li&gt;Weryfikacja, czy częstotliwość dla zadań cyklicznych jest prawidłowa&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Wybór plug-inów do zaimplementowania w pierwszej kolejności będzie arbitralny i dopasowany do moich potrzeb. Być może będę jedynym użytkownikiem aplikacji, więc dobrze żeby choć mi służyła ;)&lt;/p&gt;
-&lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
-&lt;p&gt;W artykule przedstawiłem projekt realizowanej przeze mnie aplikacji &lt;em&gt;Revisionist&lt;/em&gt;. &lt;em&gt;&amp;quot;Pamiętaj abyś zawsze wiedział jasno czego pragniesz&amp;quot;&lt;/em&gt;, pisał Paulo Coelho. Ten post służy mi właśnie po to, aby określić co dokładnie jest do wykonania i jak się do tego zabrać. Być może także dla przypomnienia sobie motywacji stojących za decyzjami w przyszłości, lub jako materiał wprowadzający w projekt inną osobę.&lt;/p&gt;
-&lt;p&gt;Jeśli mimo to udało Ci się przebrnąć przez tekst, lub chociaż przeskanować go na szybko wzrokiem, to dzięki za odwiedziny i zainteresowanie :) Jak zwykle, wszelkie przemyślenia i uwagi, jeśli zechcesz takie zostawić, będą dla mnie bardzo cenne. Do usłyszenia!&lt;/p&gt;
-</content>
-    <summary>&lt;p&gt;W projekcie &lt;a href="https://github.com/taurit/revisionist" target="_blank"&gt;Revisionist&lt;/a&gt; chcę umożliwić przegląd zadań na liście zadań Todoist w sposób, który pozwoli nam zaoszczędzić czas.&lt;br&gt;
-Żeby móc mówić o oszczędności czasu, wyjdźmy od punktu startowego, którym jest wykonanie &lt;strong&gt;pełnego przeglądu zadań&lt;/strong&gt;.&lt;/p&gt;</summary>
   </entry>
 </feed>
