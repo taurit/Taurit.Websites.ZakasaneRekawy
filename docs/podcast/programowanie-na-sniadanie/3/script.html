@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="manifest" href="/manifest.json">
+    <title>PNŚ3: Programowanie defensywne - skrypt</title>
+    <meta name="description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?" />
+    <!--[if IE 8]>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.6.0/ie8.js"></script>
+    <![endif]-->
+    <link rel="index" href="https://zakasanerekawy.pl/">
+
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+    <!-- styles to allow render most useful content quickly, and load the rest of styles asynchronously -->
+    <!-- especially on slow mobile connections it should give some indication that the content WILL load -->
+    <style type="text/css">
+    nav.navbar,#intro-header,div.media-left,hr,div.sidebar,.hidden,.hidden-overridable{display:none;}.outline-header{position:absolute;clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);padding:0;border:0;height:1px;width:1px;overflow:hidden;}
+    </style>
+    <link href="/assets/css/bundle.min.css?v=e9c51" rel="stylesheet" />
+
+    <meta name="application-name" content="Zakasane rękawy" />
+    <meta name="apple-mobile-web-app-title" content="Zakasane rękawy">
+    <meta name="msapplication-tooltip" content="Zakasane rękawy" />
+    <meta name="msapplication-starturl" content="/" />
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="msapplication-navbutton-color" content="#558eaf">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#558eaf"> 
+
+    <meta name="twitter:site" content="@pawelbulwan" />
+    <meta name="twitter:creator" content="@pawelbulwan" />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:url" content="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3/script" />
+    <meta name="twitter:title" content="Podcast" />
+    <meta name="twitter:description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?" />
+    <meta name="twitter:image" content="https://zakasanerekawy.pl/assets/img/icon.png" />
+
+    <meta property="fb:app_id" content="1768845453415639" /> 
+    <meta property="og:title" content="PNŚ3: Programowanie defensywne - skrypt" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3/script" />
+    <meta property="og:description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?" />
+
+
+    <meta property="og:image" content="https://zakasanerekawy.pl/assets/img/icon.png" />
+    <meta property="og:image:type" content="image/jpeg" />
+    <meta property="og:image:width" content="445" />
+    <meta property="og:image:height" content="445" />
+    <meta property="og:image:alt" content="Podcast" />
+
+    <meta property="og:type" content="website" />
+    <meta property="article:author" content="https://www.facebook.com/pawel.bulwan" />
+    <meta property="profile:first_name" content="Paweł" />
+    <meta property="profile:last_name" content="Bulwan" />
+    <meta property="profile:gender" content="male" />
+
+    
+    <link rel="canonical" href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3/script"> 
+    <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
+    <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
+
+    
+        <link type="application/rss+xml" rel="alternate" title='Programowanie na śniadanie' href="/podcast/programowanie-na-sniadanie/feed.rss" />
+
+    <link rel="icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
+    <link rel="icon" type="image/png" sizes="128x128" href="/assets/img/icon-128x128.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/img/icon-96x96.png">
+    <link rel="icon" type="image/png" sizes="72x72" href="/assets/img/icon-72x72.png">
+    <link rel="icon" type="image/png" sizes="64x64" href="/assets/img/icon-64x64.png">
+    <link rel="apple-touch-icon" type="image/png" sizes="512x512" href="/assets/img/icon-512x512.png">
+
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-shim.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/es5-shim/4.5.7/es5-sham.min.js"></script>
+    <![endif]-->
+
+</head>
+<body>
+<a class="skip-to-main-content" href="#content">Przejdź do treści</a> 
+<h1 class="outline-header">Blog &ldquo;Prosto do celu&rdquo;</h1>
+
+<!-- Navigation -->
+<nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+    <div class="container-fluid">
+        <h1 class="outline-header">Menu główne</h1>
+
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header page-scroll">
+            <button type="button" id="navbar-button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" rel="home" href="/" tabindex="-1">Zakasane rękawy</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+            <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/" rel="home">Start</a></li>
+    <li><a href="/posts/" rel="toc">Spis treści</a></li>
+    <li><a href="/podcast/programowanie-na-sniadanie/">Podcast</a></li>
+    <li><a href="/about">O blogu</a></li>
+
+            </ul>
+        </div>
+    </div>
+</nav>
+
+
+
+<!-- Page Header -->
+<header class="intro-header header-podcast" id="intro-header">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+<div class="site-heading">
+    <h1>Podcast</h1>
+        <h2>Audycje » <a href='/podcast/programowanie-na-sniadanie/'>Programowanie na śniadanie</a> » <a href='/podcast/programowanie-na-sniadanie/3'>Odcinek #3</a> » <a href='/podcast/programowanie-na-sniadanie/3/script'>Skrypt</a></h2>
+</div>                </div>
+        </div>
+    </div>
+</header>
+
+<!-- Main Content -->
+<div class="container">
+    <div class="row">
+        <div id="content" class="col-md-12">
+            
+
+<h2>PNŚ #3. Programowanie defensywne</h2>
+<div class="podcast-subscription-form">
+    <!-- Begin MailChimp Signup Form -->
+    <div id="mc_embed_signup">
+        <form action="https://taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=0bdc5f15d2" method="post"
+            id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form form-inline" target="_blank"
+            novalidate>
+            <p class="subscription-form-header">Otrzymaj powiadomienie o nowych odcinkach</p>
+            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Twój adres email">
+            <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Twoje imię">
+            <input type="submit" value="Zapisz" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-normal">
+
+            <a href="https://www.facebook.com/programowanienasniadanie/" target="blank" class="follow-external-button"><img id="facebookFollow" src="/assets/img/like-button.png" alt="Śledź stronę podcastu na Facebooku" width="90" height="39"></a>
+
+            <a href="https://feedly.com/i/subscription/feed/https%3A%2F%2Fzakasanerekawy.pl%2Fpodcast%2Fprogramowanie-na-sniadanie%2Ffeed.rss" target="blank" class="follow-external-button"><img id="feedlyFollow" src='/assets/img/follow-blog-on-feedly.png' alt="Śledź nowe odcinki na feedly" width="100" height="39"></a>
+
+            <a href="https://twitter.com/pawelbulwan" target="blank" class="follow-external-button"><img id="twitterFollow" src="/assets/img/follow-blog-on-twitter.png" alt="Śledź nowe odcinki na Twitterze" width="131" height="39"></a>
+
+            <div id="mce-responses">
+                <div class="response" id="mce-error-response" style="display:none"></div>
+                <div class="response" id="mce-success-response" style="display:none"></div>
+            </div>
+
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+                <input type="text" name="b_330f3c8a4e6aab69c57478e23_0bdc5f15d2" tabindex="-1" value="">
+            </div>
+        </form>
+    </div>
+    <!--End mc_embed_signup-->
+</div>
+<p>To jest podcast "Programowanie na śniadanie". Słuchasz odcinka numer 3, w którym mowa będzie o <strong>programowaniu defensywnym</strong>.</p>
+
+<p class="podcast-transcript-jingle">intro</p>
+
+
+<h2>Wstęp ogólny</h2>
+
+<p>Cześć, z tej strony Paweł, witam Cię w trzecim odcinku podcastu "Programowanie na śniadanie". Jeśli subskrybujesz ten podcast mimo jego młodego stażu, to chcę Ci z tego miejsca podziękować za zaufanie i mam nadzieję, że dzisiejszy odcinek uznasz za ciekawy. Jeśli to Twój pierwszy raz, to oczywiście mam nadzieję, że zostaniesz na dłużej :)</p>
+
+<p>Dzisiaj chciałbym poruszyć temat programowania defensywnego. To pojęcie kojarzyło mi się zwykle z zestawem kilku dobrych praktyk pozwalających robić mniej błędów przy pisaniu kodu i zaciekawiło mnie niedawno gdy spostrzegłem, że niektórzy rozumieją ten termin na całkiem inny sposób, a więc jako rodzaj antywzorca i zbioru złych nawyków które trzeba jak najszybciej wyplenić.</p>
+
+<p>Trochę zdezorientowany ale i zaciekawiony poszedłem więc za tropem i udałem się do zaufanego źródła wiedzy jakim jest dla mnie biblioteka Pluralsight. Znalazłem tam dwa kursy w temacie, mianowicie <em>Defensive Coding in C#</em> oraz <em>Advanced Defensive Programming Techniques</em>. Pierwszy z nich wymieniał garść praktyk pozwalających pisać lepszy kod. Drugi z kursów, już innego autora, polecił pierwszy kurs jako zestaw klasycznych technik programowania defensywnego, natomiast przez kolejne 6 godzin w zasadzie zrównywał te wszystkie praktyki z ziemią, mottem kursu czyniąc frazę że "kiedy musisz się bronić, to już przegrałeś".</p>
+
+<p>Tym dezorientującym wstępem chciałbym więc zaprosić Cię do krótkiego przeglądu tematu, w którym postaram się spojrzeć w miarę obiektywnym okiem na te różne zdania i ocenić czy mamy tu faktycznie jakiś konstruktywny spór, czy po prostu samo pojęcie jest tak niejasne że każdy rozumie je na swój sposób, ale w gruncie rzeczy wszyscy zgadzają się ze sobą.</p>
+
+<h2>Czym jest programowanie defensywne?</h2>
+
+<h3>Skąd wzięła się nazwa?</h3>
+
+<p>Zacznijmy więc może od tego skąd w ogóle nazwa <em>defensive programming</em>. Mamy więc defense czyli po angielsku "obrona", etymologia sięga łaciny gdzie słowo znaczy to samo. Po polsku mówi się "programowanie defensywne" i wydaje się że nie podjęto do tej pory innych i bardziej kreatywnych sposobów tłumaczenia tego zwrotu.</p>
+
+<p>Wikipedia polska ani angielska nie tłumaczy nigdzie pochodzenia frazy, ale np. w książce Kod Doskonały (Code Complete) Steve'a McConnela jeden z rozdziałów jest poświęcony właśnie technikom programowania defensywnego i tam nazwa jest wywodzona od pojęcia "defensive driving", co brzmi sensownie więc tego się będę trzymał.</p>
+
+<p><em>Defensive driving</em>, czyli jazda defensywna, to sposób myślenia podczas prowadzenia naszego ulubionego pojazdu, w którym staramy się przewidywać wszelkie niebezpieczeństwa które mogą wystąpić i być na nie przygotowani.</p>
+
+<p>W polskim kodeksie drogowym mamy zapisaną zasadę ograniczonego zaufania, która mówi że inni kierowcy i uczestnicy ruchu będą zwykle stosować się do przepisów, ale nie mamy takiej gwarancji i musimy zachować ostrożność. Możemy wyobrazić sobie inne strategie na drodze, np. strategię bezwzględnego zaufania w to że wszyscy zawsze stosują przepisy drogowe. Inną skrajnością jest założenie, że nikt nie przestrzega przepisów ruchu drogowego, w związku z czym musimy jeździć skrajnie ostrożnie i nie możemy ani trochę ufać znakom pierwszeństwa na drodze albo kierunkowskazom włączanym przez innych.</p>
+
+<p>Na drodze obie te skrajności, czyli kompletne zaufanie do innych uczestników ruchu, oraz w kontraście do niego zupełny brak zaufania, wydają się niepraktyczne. Kiedy jednak spróbujemy szukać analogii w świecie programowania, może się okazać że takie skrajne opcje zaczną wyglądać kusząco.</p>
+
+<p>Mogę więc teraz Tobie zadać pytanie: czy Twoim zdaniem jako programisty piszącego aplikację, powinniśmy ufać w dobre intencje użytkowników i niezawodność środowiska w 100%, czy może ufać, ale w ograniczonym zakresie, czy może nie ufać ani trochę i nawet założyć złe intencje użytkowników? Jeśli chcesz, to spróbuj zająć w tej sprawie jakieś stanowisko, a ja wrócę jeszcze do tego tematu pod koniec odcinka ;)</p>
+
+<h3>Definicja programowania defensywnego</h3>
+
+<p>Mając w głowie wcześniejszą analogię do jazdy defensywnej, pewnie każdy z nas mógłby już wyjść z własną definicją programowania defensywnego i pomysłem na reguły, które pozwolą zmniejszyć ryzyko wypadków na produkcji spowodowanych naszym kodem.</p>
+
+<p>Ja zacytuje dwie definicje, jedną trochę szerszą z Wikipedii i drugą autorstwa doświadczonego programisty Zorana Horvata, która to samo ujmuje w jednym zdaniu.</p>
+
+<p>Wikipedia definiuje <em>programowanie defensywne</em> jako "podejście przy projektowaniu oprogramowania, które zapewni jego działanie w nieprzewidzianych sytuacjach (...)". Podejście to, jak kontynuuje Wikipedia, "jest szczególnie użyteczne kiedy od programu oczekiwana jest wysoka niezawodność albo wysoki poziom bezpieczeństwa (...)". Celem technik programowania defensywnego jest "zmniejszenie liczby błędów i problemów", "sprawienie żeby kod był czytelny i łatwiejszy w audycie" oraz "zachowywał się przewidywalnie nawet w przypadku nietypowych danych wejściowych oraz akcji użytkownika".</p>
+
+<p>Druga - krótsza - definicja jest zaczerpnięta z kursu <em>Advanced Defensive Programming Techniques</em> w bibliotece Pluralsight, i mówi, że w programowaniu defensywnym chodzi o "utrzymanie stabilności programu w warunkach niepewności i błędów w danych".</p>
+
+<p>Tak zdefiniowane cele wydają mi się łatwe do zaakceptowania przez chyba wszystkich. Nie spotkałem nigdy firmy, która chciałaby, żeby jej oprogramowanie było zawodne i niebezpieczne i zaskakiwało użytkownika nieprzewidzianymi wyjątkami.</p>
+
+<p>Oczywiście potrafię wyobrazić sobie odstępstwa od reguły, jeśli czasem piszemy drobne narzędzia na swój użytek, to bardziej nas interesuje zakodowanie w 15 minut <i>happy path</i> które da nam wynik i wygeneruje na szybko jakąś CSV-kę, zamiast ostrożnego projektowania i dbania o obsługę przypadków brzegowych. Ale w większych projektach to sama ekonomia powinna nas skłaniać do tego żeby programować ostrożniej i ponosić mniejsze koszty utrzymania w przyszłości.</p>
+
+<p>To, co wydaje się różnić sporo osób, to pomysł na to JAK pisać ten odporny kod i próba kodyfikacji tego do zestawu kilku reguł. Nie jestem tu w stanie w ramach odcinka zrelacjonować wszystkich dyskusji które w ostatnich dniach przeczytałem na ten temat, bo same kursy o których wspomniałem to 10h solidnej wiedzy.</p>
+
+<p>Zamiast tego postaram się znaleźć wspólny mianownik tej wiedzy i zwrócić uwagę na kilka obszarów które wydają się szczególnie często powodować błędy. Z pragmatycznego punktu widzenia, te obszary wydają się warte szczególnej uwagi kiedy projektujemy nowe klasy albo kiedy robimy code review i mamy szanse coś poprawić w kodzie, który za chwile wejdzie gdzieś na ważną gałąź.</p>
+
+<h2>Techniki programowania defensywnego</h2>
+
+<p>Możemy w takim razie zacząć przegląd technik programowania defensywnego.</p>
+
+<h3>Ochrona przed nieprawidłowymi danymi wejściowymi</h3>
+
+<p>Tematem, który jest chyba zawsze omawiany w kontekście <em>programowania defensywnego</em> jest <strong>ochrona przed nieprawidłowymi danymi wejściowymi</strong>.</p>
+
+<p>Weźmy pod uwagę przykład, w którym chcemy napisać metodę, która na podstawie numeru PESEL zwraca datę urodzenia osoby. Operacja wydaje się w miarę sensowna i wykonalna, PESEL w swoim kodowaniu przewiduje że można w nim zapisać lata urodzenia od 1800 do 2299.</p>
+
+<p>Rok urodzenia jest zakodowany w pierwszych 6 cyfrach numeru PESEL, co każdy z nas kto ma nadany PESEL już pewnie zauważył, natomiast cały numer ma zawsze 11 cyfr. Co w takim razie powinna zrobić metoda, która dostanie np. 12-cyfrowy PESEL zamiast 11-cyfrowego?</p>
+
+<p>Autorzy kursów, książek i blogów zgadzają się tu na pewno w jednym: <b>metoda nie powinna nawet próbować przetwarzać takiego numeru</b>, bo jest nieprawidłowy. Najgorszym wyjściem w tej sytuacji jest więc zastosowanie zasady "garbage in, garbage out" i próba pozyskania daty z pierwszych 6 cyfr, mimo że numer na pewno nie jest prawidłowym PESELem.</p>
+
+<p>Co w takim razie powinniśmy zrobić, kiedy na wejściu pojawią się nieprawidłowe dane? Tutaj można rozpocząć długą dyskusję, bo dużo zależy od języka programowania i kontekstu, ale upraszczając: jeśli wywołujący naszą metodę kod naruszył kontrakt przekazując błędne dane wejściowe, to możemy rzucić wyjątek, albo zwrócić błąd w jakiejś innej formie. Więc zamiast "garbage in, garbage out" lepiej przyjąć zasadę "garbage in, error out" albo "no garbage allowed in".</p>
+
+<h3>Asercje</h3>
+
+<p>Drugim tematem często wiązanym z programowaniem defensywnym jest użycie asercji, czyli kodu który upewnia się że coś jest prawdą, a jeśli okaże się że nie jest, przerywa działanie programu błędem. Asercje mają nieco inny charakter niż wyjątki. Sprawdzają raczej poprawność samego kodu który napisaliśmy, a nie danych wejściowych od użytkownika. Typowo też nie wchodzą do kodu produkcyjnego, a jedynie mają pomagać nam programistom w fazie developmentu i być może jeszcze testów.</p>
+
+<p>Asercje to taka startupowa reguła <i>fail fast, fail cheap</i>, tylko że zastosowana w kodzie programu. Użyteczność bierze się z obserwacji, że jeśli popełnimy błąd pisząc program, to w najlepszym interesie naszym i projektu jest znalezienie go możliwie szybko. Jeśli zaobserwujemy jakąś anomalię w naszym nowym kodzie już podczas developmentu, to wtedy łatwo poprawiamy ją od ręki i oszczędzamy czas testerów i unikamy błędu na produkcji.</p>
+
+<p>Przykładowo, gdybym ja miał przepisać do programu jakiś długi wzór matematyczny z książki, który ma zawsze dawać wynik z zakresu 0-1, to tuż po nim napisał bym asercję, żeby w przypadku gdy wynik wyjdzie poza ten zakres mieć tę sytuację złapaną w debuggerze i gotową do analizy. Ostatnio na blogu 'Low Level Design' Sebastiana Solnicy widziałem właśnie artykuł o asercjach w .NET, gdzie m.in. pokazał konkretne użycia tych konstrukcji w kodzie .NET Core, np. w popularnej klasie StringBuilder. Można oczywiście dyskutować sobie filozoficznie, czy asercji może być za dużo, czy też nigdy ich nie jest za wiele, ale najważniejsze to wiedzieć kiedy warto je zastosować.</p>
+
+<p>Ogólna reguła na podstawie wielu dobrych źródeł byłaby tu więc taka, że jeśli jeszcze nie używamy asercji w kodzie, to pewnie czas zacząć.</p>
+
+<h3>Obsługa błędów</h3>
+
+<p>Trzecim obszarem, który powinien znaleźć się pod lupą kiedy chcemy stworzyć odporną aplikację, jest wybór sposobu w jaki obsługujemy błędy. W przypadku problemu z wykonaniem typowej ścieżki kodu, mamy zawsze wybór czy np. rzucić wyjątek, czy zwrócić kod błędu, a możemy zwrócić jakiś bardziej złożony obiekt.</p>
+
+<p>Możliwości jest kilka i autorzy potrafią się w tej kwestii mocno różnić opiniami. Myślę że nie ma jednego słusznego sposobu, sporo zależy od kontekstu w jakim działamy, więc wymienię tylko kilka ogólniejszych wniosków ze swojej lektury.</p>
+
+<p>Rzucanie wyjątków jest przez wielu autorów krytykowane i jest kilka dobrych argumentów, które za tym stoją. Najbardziej przemawia do mnie to, że przynajmniej w C# sygnatura metody nie mówi nic o wyjątkach jakie ta może rzucić. Ktoś, kto pracuje z interfejsem i nie interesuje go implementacja pod spodem, chce po prostu żeby wywołana metoda zwróciła to co obiecuje, czyli wynik takiego typu jaki deklaruje, nie robiąc nic nieprzewidzianego w międzyczasie. Programista może nie mieć pojęcia, że metoda czasami rzuca wyjątek określonego typu i że musi go obsłużyć, czasem przekonuje się o tym dopiero kiedy wyjątek poleci po raz pierwszy na produkcji. Można więc patrzyć na rzucanie wyjątków trochę jak na rodzaj cieknącej abstrakcji i raczej unikać ich rzucania w kodzie biznesowym.</p>
+
+<p>Alternatywą dla rzucania wyjątków może być zwracanie wartości w postaci jakiejś struktury opakowującej wynik LUB informację o błędzie. Można to zrobić używając typu takiego jak Either zapożyczonego z języków funkcyjnych, albo konstruując jakąś własną strukturę na taki wynik.
+Są też alternatywy postrzegane przez prawie wszystkich negatywnie, takie jak zwracanie wartości domyślnej albo nulla, zwracanie kodu błędu albo flagi boolowskiej mówiącej o tym czy operacja się udała czy nie. 
+Inną reakcją na błąd może być natychmiastowe wyłączenie programu, co może mieć sens np. jeśli program steruje choćby naświetlaniem pacjentów przy radioterapii.</p>
+
+<p>Tak jak mówiłem, obsługa błędów to trochę temat rzeka i trudno o jednozdaniową konkluzję. W code review na pewno warto zatrzymać próbę owinięcia całego kodu w blok try-catch po to żeby zalogować i zignorować błąd, co do tego chyba wszyscy autorzy się zgadzają i my wszyscy się zgadzamy. Miejsca gdzie w przypadku błędu zwracany jest null to drugi przykład kodu, na który nie powinniśmy zgadzać. No i w końcu, powinniśmy unikać rzucania wyjątków bez dobrego uzasadnienia, bo nie mamy żadnej gwarancji od języka takiego jak np. C#, że kod który jest wyżej w stosie wywołań złapie taki wyjątek. Wtedy zamiast asekuracyjnego podejścia które chcemy mieć w programowaniu defensywnym, tworzymy raczej problem który może objawić się w przyszłości.</p>
+
+<h3>Inne techniki defensywne</h3>
+
+<p>Na koniec wymienię już tylko dwie inne techniki, które same w sobie są obszernymi tematami.</p>
+
+<p>Pierwszą jest <strong>tworzenie testów automatycznych</strong> dla kodu, które bywa niekiedy określane techniką programowania defensywnego i faktycznie wydaje się pasować do definicji, bo pozwala zmniejszyć ilość błędów i zwiększa przewidywalność kodu, dzięki temu że testujemy zwykle różne nietypowe dane wejściowe.</p>
+
+<p>Druga techniką jest <strong>utrzymywanie czystego kodu</strong>, co również pozwala zmniejszyć ryzyko błędów. Temat rzeka, można by napisać książkę, no i oczywiście niejedna na ten temat powstała z <em>Clean Code</em> Uncle Boba na czele.</p>
+
+<p>Jeśli coś z tych punktów Cię zdziwiło albo zaintrygowało, to polecam w szczególności wspomniany kurs zaawansowanego programowania defensywnego w C# na Pluralsight, do którego link znajdziesz w notatkach. Tam oprócz szerokiego omówienia tych technik programowania defensywnego znajdziesz też sporo różnych technik zapożyczonych z języków funkcyjnych, w szczególności pomysły na to jak pisać kod w którym nie ma if-ów, nie ma enumów, nie ma rzucania wyjątków, co jest naprawdę ciekawym sposobem myślenia i nieźle wpisuje się w nasz dzisiejszy temat.</p>
+
+<p>Na początku odcinka zadałem Ci pytanie o to, czy Twoim zdaniem jako programiści powinniśmy raczej ufać użytkownikom, czy jednak bronić naszego oprogramowania przed złośliwymi albo bezsensownymi danymi wejściowymi i akcjami.</p>
+
+<p>Na drodze zasada ograniczonego zaufania, czyli bycie gdzieś po środku, wydaje się rozsądna. W świecie programowania, myślę że znacznie częściej zahaczamy o skrajności, bo możemy na szybko pisać happy path, a możemy w paranoicznym stylu próbować budować żelazne security i bardzo defensywny kod.</p>
+
+<p>Nie sądzę, że istnieje jedna słuszna odpowiedź, Joel Spolsky na swoim blogu <em>Joel on Software</em> w artykule <a href="https://www.joelonsoftware.com/2002/05/06/five-worlds/" target="_blank">Five Worlds</a>, czyli "Pięć światów" pokazuje fajną perspektywę na to, że jako programiści mamy tak naprawdę bardzo różne cele i że to co dla jednych z nas jest dobrą praktyką, nie musi być uzyteczne dla innych. Te 5 światów z tytułu to światy w których tworzy się oprogramowanie albo na szeroki rynek kliencki, albo oprogramowanie wewnętrzne dla korporacji, oprogramowanie typu embedded czyli związane ze sprzętem, gry, albo oprogramowanie tworzone do jakiegoś jednorazowego celu, które następnego dnia wyrzucamy.</p>
+
+<p>Z tej perspektywy widać, że są sytuacje, gdzie nie musi nam w ogóle zależeć na defensywnym podejściu. Są też sytuacje w których wolimy dojechać do celu szybciej niż bezpieczniej. Ale w ogólnym przypadku, szczególnie w długoterminowych projektach, myślę że defensywne podejście pomaga nam robić lepszy software.</p>
+
+<!--* w językach silnie typowanych czasami możemy zmienić kontrakt metody tak, żeby nie pozwoliła przyjąć błędnych danych. W opisanej sytuacji zamiast typu prostego jak <code>string</code> albo <code>int</code> powinniśmy przyjąć obiekt klasy nazwanej np. <code>Pesel</code>, który zagwarantuje że dane w nim są prawidłowe.-->
+
+<h2>Zakończenie i podziękowania</h2>
+
+<p>To koniec na dziś. Dzięki Ci za Twoją obecność. Dziękuję również tym z Was, którzy po pierwszych odcinkach napisali kilka zdań żeby dodać trochę motywacji. Szczególne podziękowania dla Alka, który doradził mi w kwestiach audio i tego jak poprawić jakość dźwięku, jeszcze nie wiem jak to ostatecznie wyjdzie, bo dopiero za chwilę będę montował, ale dzisiaj nagrywam już innym programem i też trochę popracuję nad lepszą zrozumiałością i głośnością nagrania.</p>
+
+<p>Podcast możesz zasubskrybować w swojej ulubionej aplikacji do podcastów, na moim blogu zakasanerekawy.pl znajdziesz też linki do podcastu w iTunes, do kanału RSS, oraz skrypty odcinków w formie tekstowej. Zachęcam do śledzenia podcastu Programowanie na śniadanie na Facebooku, albo do zapisu na listę mailingową, gdzie komu wygodniej. Dzięki raz jeszcze i do usłyszenia!</p>
+
+        </div>
+    </div>
+</div>
+<hr>
+
+<!-- Footer -->
+<footer id="page-footer">
+    <div class="container">
+        <div class="row">
+                <div class="col-md-12 text-center">
+                    <p class="copyright text-muted">
+                        Copyright © 2018 <a rel="author" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" target="_blank">Paweł Bulwan</a>
+                        <br />
+                            <i class="fa fa-rss icon-rss"></i> <a href="/feed.rss">RSS</a>
+                        |
+                            <i class="fa fa-rss icon-rss"></i> <a href="/feed.atom">Atom</a>
+                    </p>
+                </div>
+        </div>
+</div>
+
+</footer>
+
+<script>
+var toggleNav=function(){var n=document.getElementById("navbar-collapse").classList;n.contains("collapse")?n.remove("collapse"):n.add("collapse")},navbarButton=document.getElementById("navbar-button"),refListHeader,refListContent,refListButton,inTextReferences,i,inTextReference;if(navbarButton.addEventListener("click",toggleNav,!1),refListHeader=document.getElementById("reference-list"),refListContent=document.getElementById("reference-list-content"),refListHeader!==null&&refListContent!==null){refListContent.style.display="none";refListHeader.innerHTML="<span id='show-reference-list'>Rozwiń listę odniesień ▾<\/button>";function showReferenceList(){var n=document.getElementById("reference-list"),t=document.getElementById("reference-list-content");n.innerHTML="Lista odniesień";t.style.display="block"}for(refListButton=document.getElementById("show-reference-list"),refListButton.onclick=showReferenceList,inTextReferences=document.getElementsByClassName?document.getElementsByClassName("resource-reference"):document.querySelectorAll(".resource-reference"),i=0;i<inTextReferences.length;++i)inTextReference=inTextReferences[i],inTextReference.onclick=showReferenceList}(function(n,t,i,r,u,f,e){n.GoogleAnalyticsObject=u;n[u]=n[u]||function(){(n[u].q=n[u].q||[]).push(arguments)};n[u].l=1*new Date;f=t.createElement(i);e=t.getElementsByTagName(i)[0];f.async=1;f.src=r;e.parentNode.insertBefore(f,e)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create","UA-92769796-1","auto");ga("send","pageview");
+</script>
+
+<link href="/assets/css/fontello.min.css" rel="stylesheet" type="text/css">
+
+</body>
+</html>
