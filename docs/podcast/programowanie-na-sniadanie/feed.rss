@@ -7,7 +7,7 @@
     <language>pl</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <lastBuildDate>Tue, 13 Feb 2018 14:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Feb 2018 16:09:30 GMT</lastBuildDate>
     <ttl>4320</ttl>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
@@ -196,8 +196,8 @@
 ]]></content:encoded>
       <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/1</guid>
       <itunes:duration>0:10:32</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" length="7688726" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" fileSize="7688726" type="audio/mpeg" medium="audio">
+      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" length="7569777" type="audio/mpeg" />
+      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" fileSize="7569777" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 1: "Hit Refresh". Jak naprawić korporację? - wg CEO Microsoftu</media:title>
         <media:description type="plain">O niedawnej książce CEO Microsoftu Satya Nadelli "Hit Refresh", w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy.</media:description>
         <media:keywords>programowanie, net, microsoft, it, satya, nadella, praca, korporacja</media:keywords>
@@ -303,8 +303,8 @@
 ]]></content:encoded>
       <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/2</guid>
       <itunes:duration>0:27:10</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" length="19658802" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" fileSize="19658802" type="audio/mpeg" medium="audio">
+      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" length="19556959" type="audio/mpeg" />
+      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" fileSize="19556959" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 2: Jak poprawić bezpieczeństwo strony jednym meta-tagiem - Content-Security-Policy</media:title>
         <media:description type="plain">Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo.</media:description>
         <media:keywords>web development, http, programowanie, bezpieczeństwo, przeglądarki, sieć, www</media:keywords>
@@ -490,8 +490,8 @@
 ]]></content:encoded>
       <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3</guid>
       <itunes:duration>0:18:13</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" length="13116491" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" fileSize="13116491" type="audio/mpeg" medium="audio">
+      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" length="13118784" type="audio/mpeg" />
+      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" fileSize="13118784" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 3: Programowanie defensywne</media:title>
         <media:description type="plain">Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?</media:description>
         <media:keywords>programowanie, bezpieczeństwo, dobre praktyki, kodowanie, wyjątki, błędy, testy</media:keywords>
