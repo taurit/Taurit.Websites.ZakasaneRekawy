@@ -1,38 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="https://zakasanerekawy.pl/" />
-	<id>https://zakasanerekawy.pl/</id>
-	<title>Zakasane rękawy</title>
-	<rights>2018</rights>
-	<updated>2018-02-14T08:53:56Z</updated>
-	<subtitle>O dobrych nawykach sprzyjających nauce i pracy</subtitle>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
-		<id>https://zakasanerekawy.pl/posts/programowanie-defensywne</id>
-		<title>PNŚ #3: Programowanie defensywne</title>
-		<updated>2018-02-13T21:00:00Z</updated>
-		<content>&lt;!-- This file is auto-generated, do not edit here --&gt;
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
+  <webfeeds:accentColor>558eaf</webfeeds:accentColor>
+  <webfeeds:logo>https://zakasanerekawy.pl/assets/img/icon-512x512.png</webfeeds:logo>
+  <webfeeds:icon>https://zakasanerekawy.pl/assets/img/icon-512x512.png</webfeeds:icon>
+  <webfeeds:cover image="https://zakasanerekawy.pl/assets/img/icon-512x512.png" />
+  <link rel="self" href="https://zakasanerekawy.pl/" />
+  <id>https://zakasanerekawy.pl/</id>
+  <title>Zakasane rękawy</title>
+  <rights>2018</rights>
+  <updated>2018-02-17T12:09:54Z</updated>
+  <subtitle>O dobrych nawykach sprzyjających nauce i pracy</subtitle>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
+    <id>https://zakasanerekawy.pl/posts/programowanie-defensywne</id>
+    <title>PNŚ #3: Programowanie defensywne</title>
+    <updated>2018-02-13T21:00:00Z</updated>
+    <content>&lt;!-- This file is auto-generated, do not edit here --&gt;
 &lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;
-&lt;p&gt;Zapraszam do słuchania kolejnego odcinka podcastu &lt;em&gt;Programowanie na śniadanie&lt;/em&gt;, w którym jak zwykle pojawiają się tematy związane z programowaniem oraz zawodem programisty.&lt;/p&gt;
-&lt;p&gt;&lt;h2&gt;Gdzie znaleźć odcinek?&lt;/h2&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3'&gt;&lt;strong&gt;Strona odcinka numer 3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3/script'&gt;Skrypt odcinka numer 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/'&gt;Lista wszystkich odcinków podcastu &amp;ldquo;Programowanie na śniadanie&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-12 col-md-offset-0'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/programowanie-defensywne.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/programowanie-defensywne.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/programowanie-defensywne.jpg' alt='' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Krak des Chevaliers (Twierdza Rycerzy), Syria. Źródło: &lt;a href='https://www.flickr.com/photos/martimcfly/1800397638/' rel='nofollow' target='_blank'&gt;Marti McFly&lt;/a&gt;
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;
-&lt;p&gt;&lt;h2&gt;O czym usłyszysz w odcinku?&lt;/h2&gt;&lt;/p&gt;
+&lt;p&gt;W odcinku jak zwykle pojawiają się tematy związane z programowaniem oraz zawodem programisty. Spis treści na dziś:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Programowanie defensywne - różne postrzeganie tematu&lt;/li&gt;
 &lt;li&gt;Czym jest programowanie defensywne?
@@ -51,16 +36,34 @@
 &lt;/li&gt;
 &lt;li&gt;Zakończenie i podziękowania&lt;/li&gt;
 &lt;/ul&gt;
+
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-12 col-md-offset-0'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' alt='' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Jak pisać kod, żeby później nie gasić pożarów? Źródło: &lt;a href='https://pixabay.com/en/firefighters-fire-flames-outside-115800/' rel='nofollow' target='_blank'&gt;Pixabay&lt;/a&gt;
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;
+&lt;p&gt;&lt;h2&gt;Gdzie znaleźć odcinek?&lt;/h2&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3'&gt;&lt;strong&gt;Strona odcinka numer 3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3/script'&gt;Skrypt odcinka numer 3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/'&gt;Lista wszystkich odcinków podcastu &amp;ldquo;Programowanie na śniadanie&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;Do usłyszenia! :)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu" />
-		<id>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</id>
-		<title>Startuje nowy podcast o programowaniu!</title>
-		<updated>2018-02-05T08:01:10Z</updated>
-		<content>&lt;h2 id="polskie-podcasty-o-programowaniu"&gt;Polskie podcasty o programowaniu&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu" />
+    <id>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</id>
+    <title>Startuje nowy podcast o programowaniu!</title>
+    <updated>2018-02-05T08:01:10Z</updated>
+    <content>&lt;h2 id="polskie-podcasty-o-programowaniu"&gt;Polskie podcasty o programowaniu&lt;/h2&gt;
 &lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;
 &lt;p&gt;Jako słuchacz najbardziej doceniam tę formę audycji w trakcie dojazdu do pracy albo przejażdżki rowerowej. Sprawdzają się też podczas długiej jazdy pociągiem.&lt;/p&gt;
 &lt;p&gt;Na swojej liście audycji mam oczywiście podcasty o programowaniu i szczególnie te &lt;strong&gt;prowadzone w języku polskim&lt;/strong&gt; wydają się często bliskie codziennej pracy i doświadczeniom. Warto wiedzieć jakie mamy opcje, i tak na pewno warte uwagi są:&lt;/p&gt;
@@ -95,14 +98,14 @@
 &lt;/ul&gt;
 &lt;p&gt;Możesz &lt;strong&gt;wesprzeć mnie na starcie&lt;/strong&gt; i poprawić widoczność podcastu &lt;a href="https://www.facebook.com/programowanienasniadanie/" target="_blank" class="bg-success text-success"&gt;&lt;strong&gt;lajkując jego stronę na Facebooku&lt;/strong&gt;&lt;/a&gt;. Dziękuję :)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac" />
-		<id>https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac</id>
-		<title>Przysłowia angielskie: jak zapamiętać 300 przysłów w miesiąc?</title>
-		<updated>2018-02-03T07:18:01Z</updated>
-		<content>&lt;h2 id="dlaczego-warto-poznac-przysowia-uczac-sie-jezyka"&gt;Dlaczego warto poznać przysłowia ucząc się języka?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac" />
+    <id>https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac</id>
+    <title>Przysłowia angielskie: jak zapamiętać 300 przysłów w miesiąc?</title>
+    <updated>2018-02-03T07:18:01Z</updated>
+    <content>&lt;h2 id="dlaczego-warto-poznac-przysowia-uczac-sie-jezyka"&gt;Dlaczego warto poznać przysłowia ucząc się języka?&lt;/h2&gt;
 &lt;p class="lead"&gt;
     Przysłowia są wdzięcznym materiałem podczas nauki języka. Można je zwykle dość łatwo zapamiętać. Czasem się rymują (&lt;i lang="en"&gt;"An apple a day keeps the doctor away"&lt;/i&gt;), czasem bywają obrazowe (&lt;i lang="en"&gt;"The squeaky wheel gets the grease"&lt;/i&gt;). Poza tym są często powtarzane, więc łatwo się z nimi osłuchać i je sobie utrwalić.
 &lt;/p&gt;
@@ -174,16 +177,16 @@
 &lt;p&gt;Nauka przysłów może być przyjemna i naprawdę szybka jeśli poświęcimy chwilę na zorganizowanie sobie nauki i przemyślenie systemu w jaki powtarzamy wiedzę. W ciągu miesiąca bez dużego wysiłku możemy poznać setki przysłów i korzystać z tej wiedzy przez lata (jeśli nie zaprzestaniemy powtórek od czasu do czasu).&lt;/p&gt;
 &lt;p&gt;Może próbowałeś lub próbowałaś nauki przez SuperMemo lub Anki? Jakie masz zdanie na temat ich skuteczności?&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;
+    <summary>&lt;p class="lead"&gt;
     Przysłowia są wdzięcznym materiałem podczas nauki języka. Można je zwykle dość łatwo zapamiętać. Czasem się rymują (&lt;i lang="en"&gt;"An apple a day keeps the doctor away"&lt;/i&gt;), czasem bywają obrazowe (&lt;i lang="en"&gt;"The squeaky wheel gets the grease"&lt;/i&gt;). Poza tym są często powtarzane, więc łatwo się z nimi osłuchać i je sobie utrwalić.
 &lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym" />
-		<id>https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym</id>
-		<title>Jak wykorzystać czas w transporcie publicznym?</title>
-		<updated>2018-02-02T07:17:01Z</updated>
-		<content>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym" />
+    <id>https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym</id>
+    <title>Jak wykorzystać czas w transporcie publicznym?</title>
+    <updated>2018-02-02T07:17:01Z</updated>
+    <content>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;
 &lt;p&gt;Jeśli dojeżdżamy codziennie np. do biura, to czas spędzany na dojazdach może sumować się do setek godzin rocznie. To masa czasu, którą moim zdaniem szkoda zmarnować na słuchanie muzyki.&lt;/p&gt;
 &lt;p&gt;Jak jednak wykorzystać czas spędzany w podróży, kiedy miejsce nie sprzyja pracy i nie pozwala komfortowo robić notatek ani rozłożyć laptopa? Dzisiaj wypiszę kilka sposobów, które sam stosuję lub dawniej stosowałem. Być może potrafisz dorzucić do nich coś jeszcze? ;)&lt;/p&gt;
 &lt;p&gt;
@@ -233,14 +236,14 @@ The goal of productive meditation is to take a period in which you’re occupied
 &lt;p&gt;Jeśli irytuje Cię stanie w korku na Plater, albo marnowanie dwóch godzin dziennie na dojazdy, powyższe rozwiązania mogą się przydać ;) Podczas dojazdów raczej nigdy nie skupimy się tak dobrze jak w bibliotece albo cichym biurze, ale mimo to można sprawić że to będzie stosunkowo dobrze wykorzystany czas dnia.&lt;/p&gt;
 &lt;p&gt;Lista wyszła mi dość długa, tym niemniej jestem ciekaw czy czegoś nie przeoczyłem. Może masz własne sposoby na urozmaicenie dojazdów do pracy i innych podróży? Zachęcam do podzielenia się w komentarzu :)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia" />
-		<id>https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia</id>
-		<title>mBank: zmiana papierowych potwierdzeń transakcji TFI na elektroniczne</title>
-		<updated>2017-10-13T11:06:10Z</updated>
-		<content>&lt;h2 id="stop-makulaturze"&gt;Stop makulaturze!&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia" />
+    <id>https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia</id>
+    <title>mBank: zmiana papierowych potwierdzeń transakcji TFI na elektroniczne</title>
+    <updated>2017-10-13T11:06:10Z</updated>
+    <content>&lt;h2 id="stop-makulaturze"&gt;Stop makulaturze!&lt;/h2&gt;
 &lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
@@ -289,14 +292,14 @@ The goal of productive meditation is to take a period in which you’re occupied
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Nie każde towarzystwo umożliwia łatwą zamianę papierowych potwierdzeń na elektroniczne. Mimo to jeśli mamy jakieś cykliczne transakcje (np. odkładamy co miesiąc określoną kwotę), to warto spróbować, bo może firma zarządzająca funduszem na który odkładamy zainwestowała już w system informatyczny na miarę dzisiejszych czasów ;-)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac" />
-		<id>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</id>
-		<title>Spam telefoniczny: jak zablokować telefony marketingowe?</title>
-		<updated>2017-09-26T08:14:10Z</updated>
-		<content>&lt;h2 id="czy-rozmawiam-z-panem-pawe-bulwan"&gt;Czy rozmawiam z Panem &amp;quot;Paweł Bulwan&amp;quot;?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac" />
+    <id>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</id>
+    <title>Spam telefoniczny: jak zablokować telefony marketingowe?</title>
+    <updated>2017-09-26T08:14:10Z</updated>
+    <content>&lt;h2 id="czy-rozmawiam-z-panem-pawe-bulwan"&gt;Czy rozmawiam z Panem &amp;quot;Paweł Bulwan&amp;quot;?&lt;/h2&gt;
 &lt;p class="lead"&gt;&amp;ldquo;- Halo? (...) Tak, to ja.&lt;br /&gt;
 - (...)&lt;br /&gt;
 - Dziękuję, nie jestem zainteresowany.&lt;br /&gt;
@@ -332,18 +335,18 @@ If you’re comfortable going deep, you’ll be comfortable mastering the increa
 &lt;p&gt;Etyczność takich działań może budzić zastrzeżenia. Serwis gromadzi nie tylko informacje o użytkownikach którzy zaakceptowali zapisy umowy licencyjnej, ale także o miliardach ludzi którzy nigdy takiej zgody nie wyrażali. Trudno mi się jednoznacznie opowiedzieć po którejś ze stron, bo rozumiem że stworzenie tego typu skutecznej aplikacji wymaga zgromadzenia solidnej bazy danych osobowych i nie da się tego celu osiągnąć inaczej. Jednocześnie trudno nie uznać głosów osób oburzonych tym, że ich dane znalazły się w bazie.&lt;/p&gt;
 &lt;p&gt;Ja mimo opisanych dylematów korzystam z usług firmy i mam do niej na tyle zaufania, żeby uruchamiać aplikację na swoim telefonie. A Ty, odbierasz telefony od nieznajomych? ;)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;“- Halo? (...) Tak, to ja.&lt;br&gt;
+    <summary>&lt;p class="lead"&gt;“- Halo? (...) Tak, to ja.&lt;br&gt;
 - (...)&lt;br&gt;
 - Dziękuję, nie jestem zainteresowany.&lt;br&gt;
 - (...)&lt;br&gt;
 - Ale naprawdę nie mam teraz czasu, do widzenia.“&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube" />
-		<id>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
-		<title>Jak próbuję ograć nawyk oglądania YouTube</title>
-		<updated>2017-09-16T07:21:10Z</updated>
-		<content>&lt;h2 id="filmiki-uzalezniaja-jak-papierosy"&gt;Filmiki uzależniają jak papierosy?&lt;/h2&gt;
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube" />
+    <id>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
+    <title>Jak próbuję ograć nawyk oglądania YouTube</title>
+    <updated>2017-09-16T07:21:10Z</updated>
+    <content>&lt;h2 id="filmiki-uzalezniaja-jak-papierosy"&gt;Filmiki uzależniają jak papierosy?&lt;/h2&gt;
 &lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;
 &lt;p&gt;Prawdę mówiąc YouTube nie jest pierwszy. Nawykowe wchodzenie na takie czy inne portale przytrafiało mi się od bardzo dawna. Wszelkiego rodzaju demotywatory, wykopy, portale społecznościowe i polityczne miały swój czas. Podejrzewam że wszyscy czasem łapiemy się na podobnych czynnościach w czasie kiedy przydałoby się robić coś ważniejszego.&lt;/p&gt;
 &lt;p&gt;&lt;fig-removed width="6"
@@ -417,14 +420,14 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;p&gt;Każde z rozwiązań można obejść jeśli mamy wystarczającą wiedzę techniczną. Na szczęście nie tu musimy ograć swojej inteligencji, a jedynie swoje nawyki, a te są znacznie łatwiejszym przeciwnikiem do pokonania.&lt;/p&gt;
 &lt;p&gt;A Ty próbujesz jakoś walczyć ze złymi nawykami przy monitorze? ;)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
-		<id>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</id>
-		<title>Gadżet dla produktywnych za mniej niż 20 zł</title>
-		<updated>2017-08-21T22:54:00Z</updated>
-		<content>&lt;h2 id="czy-produktywnosc-wymaga-gadzetow"&gt;Czy produktywność wymaga gadżetów?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
+    <id>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</id>
+    <title>Gadżet dla produktywnych za mniej niż 20 zł</title>
+    <updated>2017-08-21T22:54:00Z</updated>
+    <content>&lt;h2 id="czy-produktywnosc-wymaga-gadzetow"&gt;Czy produktywność wymaga gadżetów?&lt;/h2&gt;
 &lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;W słynnych eksperymentach laureata nagrody Nobla Iwana Pawłowa udało się wytrenować psy tak, aby na dźwięk dzwonka lub sygnał świetlny zaczynały się ślinić w oczekiwaniu na jedzenie które zwykle potem nadchodziło (kilka zdjęć z prawdziwych eksperymentów można obejrzeć na stronie &lt;a href="http://www.gettyimages.com/photos/pavlov%27s-dogs" rel="nofollow" target="_blank"&gt;GettyImages&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;
@@ -487,14 +490,14 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;p&gt;Myślę, że tyle wystarczy. Chyba zresztą nic więcej o minutnikach już nie wiem ;)&lt;/p&gt;
 &lt;p&gt;A może znasz też inne gadżety, które mogą nam pomóc z produktywnością? Zachęcam do dzielenia się w komentarzach :)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy" />
-		<id>https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy</id>
-		<title>Jak zmusić się do pracy?</title>
-		<updated>2017-07-16T18:33:10Z</updated>
-		<content>&lt;h2 id="chec-do-pracy-nie-zawsze-przychodzi-naturalnie"&gt;Chęć do pracy nie zawsze przychodzi naturalnie&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy" />
+    <id>https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy</id>
+    <title>Jak zmusić się do pracy?</title>
+    <updated>2017-07-16T18:33:10Z</updated>
+    <content>&lt;h2 id="chec-do-pracy-nie-zawsze-przychodzi-naturalnie"&gt;Chęć do pracy nie zawsze przychodzi naturalnie&lt;/h2&gt;
 &lt;p class="lead"&gt;Nawet jeśli lubimy swoją pracę, nasza motywacja ma kapryśną naturę. Jak w chwilach kryzysu zmusić się, lub raczej zmotywować, do pracy? Chciałbym się z Tobą podzielić jednym trikiem, który pozwolił mi skończyć studia mimo ogromnych pokus do robienia ciekawszych rzeczy, a od tego czasu pomaga mi w pracy nad innymi zadaniami :)&lt;/p&gt;
 &lt;p&gt;Wszyscy mamy w szufladzie jakieś &lt;strong&gt;niedokończone projekty i pomysły na nowe działania&lt;/strong&gt;. Nawet jeśli pracujemy nad czymś z własnej, zupełnie nieprzymuszonej woli, często tracimy systematyczność i wydaje się nam brakować motywacji do pracy. Nawet do pracy nad czymś, co lubimy!&lt;/p&gt;
 &lt;p&gt;
@@ -542,14 +545,14 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;h2 id="a-ty-do-czego-starasz-sie-zmusic"&gt;A Ty do czego starasz się zmusić? ;)&lt;/h2&gt;
 &lt;p&gt;Opisana technika pomaga mi czasem wychodzić z niedużych kryzysów. Jestem ciekawy do jakiego rodzaju pracy Ty próbujesz się zmusić skoro tu trafiłeś i dlaczego? Jeśli dotarłeś do tego miejsca, zachęcam Cię do zostawienia komentarza i podzielenia się swoimi bieżącymi zmaganiami :) Dzięki!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Nawet jeśli lubimy swoją pracę, nasza motywacja ma kapryśną naturę. Jak w chwilach kryzysu zmusić się, lub raczej zmotywować, do pracy? Chciałbym się z Tobą podzielić jednym trikiem, który pozwolił mi skończyć studia mimo ogromnych pokus do robienia ciekawszych rzeczy, a od tego czasu pomaga mi w pracy nad innymi zadaniami :)&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow" />
-		<id>https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow</id>
-		<title>Aplikacja dla kierowców, która wyręcza nas w pamiętaniu</title>
-		<updated>2017-06-25T21:06:10Z</updated>
-		<content>&lt;h2 id="zarzadzanie-pojazdem-czy-to-dla-mnie"&gt;Zarządzanie pojazdem - czy to dla mnie?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Nawet jeśli lubimy swoją pracę, nasza motywacja ma kapryśną naturę. Jak w chwilach kryzysu zmusić się, lub raczej zmotywować, do pracy? Chciałbym się z Tobą podzielić jednym trikiem, który pozwolił mi skończyć studia mimo ogromnych pokus do robienia ciekawszych rzeczy, a od tego czasu pomaga mi w pracy nad innymi zadaniami :)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow" />
+    <id>https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow</id>
+    <title>Aplikacja dla kierowców, która wyręcza nas w pamiętaniu</title>
+    <updated>2017-06-25T21:06:10Z</updated>
+    <content>&lt;h2 id="zarzadzanie-pojazdem-czy-to-dla-mnie"&gt;Zarządzanie pojazdem - czy to dla mnie?&lt;/h2&gt;
 &lt;p class="lead"&gt;Własny pojazd może być przydatny, ale też wymaga poświęcenia mu sporej uwagi i czasu. Na szczęście &lt;strong&gt;nie musimy sami pamiętać o wszystkich obowiązkach&lt;/strong&gt; kierowcy i posiadacza pojazdu, bo może to za nas robić solidnie napisana aplikacja.&lt;/p&gt;
 &lt;p&gt;Najpopularniejszym dzisiaj programem dla kierowców w Polsce (nie licząc może systemów nawigacji) jest &lt;em&gt;Yanosik&lt;/em&gt;. Wprowadza punktowo w życie przepisy dotyczące prędkości na drogach poprzez uprzedzanie o zbliżającej się kontroli drogówki lub radarze.&lt;/p&gt;
 &lt;p&gt;Dziś chciałbym jednak napisać o innej, mniej znanej aplikacji która znalazła się w moim przyborniku przydatnych aplikacji mobilnych. Mowa o &lt;strong&gt;&lt;a href="https://play.google.com/store/apps/details?id=br.com.ctncardoso.ctncar&amp;hl=pl" target="_blank"&gt;Drivvo&lt;/a&gt;&lt;/strong&gt;, aplikacji która pozwala, jak autorzy to określają, &lt;em&gt;zarządzać pojazdami&lt;/em&gt;.&lt;/p&gt;
@@ -608,14 +611,14 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;p&gt;I niestety większość z nas zauważy, że potwierdza się to co Michał Szafrański pisał kiedyś w artykule o &lt;a href="http://jakoszczedzacpieniadze.pl/nowe-auto-z-salonu-calkowity-koszt-eksploatacji" rel="nofollow" target="_blank"&gt;koszcie eksploatacji auta&lt;/a&gt;. Mianowicie, że jak się to wszystko policzy, to korzystanie z taksówek okazuje się tańszym rozwiązaniem ;)&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.drivvo.com/en/" target="_blank" rel="nofollow"&gt;Aplikacja Drivvo&lt;/a&gt; jest dostępna w sklepach &lt;em&gt;Google Play&lt;/em&gt; i &lt;em&gt;iTunes&lt;/em&gt;. Roczna subskrypcja kosztuje &lt;b&gt;12 zł&lt;/b&gt; (Android) lub ok. &lt;b&gt;22,60 zł&lt;/b&gt; (iPhone).&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Własny pojazd może być przydatny, ale też wymaga poświęcenia mu sporej uwagi i czasu. Na szczęście &lt;strong&gt;nie musimy sami pamiętać o wszystkich obowiązkach&lt;/strong&gt; kierowcy i posiadacza pojazdu, bo może to za nas robić solidnie napisana aplikacja.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany" />
-		<id>https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany</id>
-		<title>Revisionist 0.0.1 wydany!</title>
-		<updated>2017-05-31T23:28:00Z</updated>
-		<content>&lt;h2 id="co-zawiera-pierwsze-wydanie-projektu"&gt;Co zawiera pierwsze wydanie projektu?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Własny pojazd może być przydatny, ale też wymaga poświęcenia mu sporej uwagi i czasu. Na szczęście &lt;strong&gt;nie musimy sami pamiętać o wszystkich obowiązkach&lt;/strong&gt; kierowcy i posiadacza pojazdu, bo może to za nas robić solidnie napisana aplikacja.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany" />
+    <id>https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany</id>
+    <title>Revisionist 0.0.1 wydany!</title>
+    <updated>2017-05-31T23:28:00Z</updated>
+    <content>&lt;h2 id="co-zawiera-pierwsze-wydanie-projektu"&gt;Co zawiera pierwsze wydanie projektu?&lt;/h2&gt;
 &lt;p&gt;Tytuł tego artykułu miał zgodnie z planem sprzed trzech miesięcy nosić dumny tytuł &lt;strong&gt;Revisionist 1.0.0 wydany!&lt;/strong&gt;. Drobna różnica jaką widać w tytule w stosunku do tego planu pokazuje, że czasami priorytety się zmieniają i nie wszystko co zaplanowane wychodzi dokładnie tak jak to przewidzieliśmy.&lt;/p&gt;
 &lt;p&gt;Pomysł &lt;a href="https://revisionist.taurit.pl" target="_blank"&gt;pozostał jedynie pomysłem&lt;/a&gt; i listą życzeń względem aplikacji którą sam chciałbym mieć. Dziś dorzuciłem do niego jeszcze formularz pozwalający zapisać się na &lt;a href="https://revisionist.taurit.pl/get-notified"&gt;listę mailingową&lt;/a&gt;, co pozwoli mi śledzić ewentualne zainteresowanie i zostawić sobie drogę powrotu do tematu w przyszłości.
 &lt;p&gt;
@@ -669,14 +672,14 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;p&gt;Dziękuję wszystkim z Was, którzy tu choć raz zajrzeli z tej okazji. A jeśli nawet nie zajrzeli, to naprawdę &lt;b&gt;fajnie było móc z wami chwilę podyskutować&lt;/b&gt; w komentarzach na Waszych blogach. Mam nadzieję, że choć kilka z nich przetrwa próbę czasu i jeszcze nieraz będzie można na nie zajrzeć i wymienić się swoja perspektywą na różne tematy :)&lt;/p&gt;
 &lt;p&gt;Do zobaczenia!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Tytuł tego artykułu miał zgodnie z planem sprzed trzech miesięcy nosić dumny tytuł &lt;strong&gt;Revisionist 1.0.0 wydany!&lt;/strong&gt;. Drobna różnica jaką widać w tytule w stosunku do tego planu pokazuje, że czasami priorytety się zmieniają i nie wszystko co zaplanowane wychodzi dokładnie tak jak to przewidzieliśmy.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare" />
-		<id>https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare</id>
-		<title>Jak przyspieszyć bloga z Cloudflare (za darmo)</title>
-		<updated>2017-08-21T23:34:01Z</updated>
-		<content>&lt;h2 id="szybki-blog-pozwala-nie-stracic-czytelnikow"&gt;Szybki blog pozwala nie stracić czytelników&lt;/h2&gt;
+    <summary>&lt;p&gt;Tytuł tego artykułu miał zgodnie z planem sprzed trzech miesięcy nosić dumny tytuł &lt;strong&gt;Revisionist 1.0.0 wydany!&lt;/strong&gt;. Drobna różnica jaką widać w tytule w stosunku do tego planu pokazuje, że czasami priorytety się zmieniają i nie wszystko co zaplanowane wychodzi dokładnie tak jak to przewidzieliśmy.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare" />
+    <id>https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare</id>
+    <title>Jak przyspieszyć bloga z Cloudflare (za darmo)</title>
+    <updated>2017-08-21T23:34:01Z</updated>
+    <content>&lt;h2 id="szybki-blog-pozwala-nie-stracic-czytelnikow"&gt;Szybki blog pozwala nie stracić czytelników&lt;/h2&gt;
 &lt;p class="lead"&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Warto nie tylko z próżności i chęci zmian dla samych zmian, ale także po to, by upewnić się, że wszyscy czytelnicy odwiedzający naszą witrynę są w stanie zobaczyć nasze treści bez przeszkód. Jedną z największych wydaje się dzisiaj &lt;strong&gt;wolne ładowanie się strony&lt;/strong&gt;, co odczuwają szczególnie osoby trafiające na nasze treści na smartfonach. A tych od pewnego czasu &lt;a href="https://www.theguardian.com/technology/2016/nov/02/mobile-web-browsing-desktop-smartphones-tablets" target="_blank" rel="nofollow"&gt;jest już więcej&lt;/a&gt; niż użytkowników surfujących na dużych monitorach.&lt;/p&gt;
 &lt;p&gt;&lt;fig-hidden width="6"
@@ -750,14 +753,14 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 &lt;p&gt;I to wszystko w ramach darmowej usługi świetnej jakości. Jak tu nie polecić takiego rozwiązania? W związku z tym polecam &lt;a href="https://www.cloudflare.com/" target="_blank"&gt;skorzystanie z tych możliwości&lt;/a&gt;, gdy tylko znajdziecie chwilę czasu i ochotę na to by podłubać przy swoim projekcie.&lt;/p&gt;
 &lt;p&gt;Dzięki za odwiedziny, powodzenia z Waszymi blogami i do zobaczenia!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/the-freedom-journal" />
-		<id>https://zakasanerekawy.pl/posts/the-freedom-journal</id>
-		<title>The Freedom Journal: algorytm na osiągnięcie celu?</title>
-		<updated>2017-05-25T21:41:01Z</updated>
-		<content>&lt;h2 id="cel-w-100-dni"&gt;Cel w 100 dni&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/the-freedom-journal" />
+    <id>https://zakasanerekawy.pl/posts/the-freedom-journal</id>
+    <title>The Freedom Journal: algorytm na osiągnięcie celu?</title>
+    <updated>2017-05-25T21:41:01Z</updated>
+    <content>&lt;h2 id="cel-w-100-dni"&gt;Cel w 100 dni&lt;/h2&gt;
 &lt;p class="lead"&gt;Ile czasu potrzebujesz, żeby osiągnąć &lt;strong&gt;najważniejszy dla Ciebie obecnie cel&lt;/strong&gt;? To pewnie dla większości z nas trudne pytanie, bo im horyzont czasowy dłuższy, tym więcej niepewności. W dodatku jeśli jesteśmy na początku drogi, np. myślimy o rozkręceniu nowego projektu, to może nam brakować perspektywy albo doświadczenia żeby w ogóle zaplanować swoje działania.&lt;/p&gt;
 &lt;p&gt;&lt;em lang="en"&gt;The Freedom Journal&lt;/em&gt; to projekt, który ma nam pomóc &lt;strong&gt;osiągnąć cel w 100 dni&lt;/strong&gt;. Projekt &lt;a href="https://www.kickstarter.com/projects/eofire/the-freedom-journal-accomplish-your-1-goal-in-100" rel="nofollow" target="_blank"&gt;zebrał na portalu Kickstarter&lt;/a&gt; ponad $450,000 i od czasu jego pojawienia się na rynku zdążył zaskarbić sobie wielu fanów. Póki co głównie w Stanach Zjednoczonych i Kanadzie, bo jedynie tam jest dystrybuowany. Są też jednak opcje dla ludzi z naszego kontynentu, o czym później.&lt;/p&gt;
 &lt;h2 id="the-freedom-journal-dziennik-dla-leniwych"&gt;&lt;span lang="en"&gt;The Freedom Journal&lt;/span&gt;: dziennik dla leniwych?&lt;/h2&gt;
@@ -795,14 +798,14 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 &lt;p class="text-warning bg-warning"&gt;Aktualizacja, 22.08.2017 r.: mimo mojej ciekawości, pomysł się u mnie jednak nie sprawdził. Zapisałem 5 stron, potem zacząłem robić przerwy aż przestałem całkiem. Z rana brakowało czasu, przed spaniem mi się nie chciało, nie wkręciłem się.&lt;br /&gt;
 &lt;br /&gt;Być może wybrałem nieodpowiedni cel: postępy na siłowni. Plan każdego dnia był podobny: trzymanie diety, zrobienie treningu, zrobienie zakupów żeby nie wypaść z rytmu itp. Może z bardziej kreatywnym celem (np. rozwój własnego produktu) byłoby lepiej?&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Ile czasu potrzebujesz, żeby osiągnąć &lt;strong&gt;najważniejszy dla Ciebie obecnie cel&lt;/strong&gt;? To pewnie dla większości z nas trudne pytanie, bo im horyzont czasowy dłuższy, tym więcej niepewności. W dodatku jeśli jesteśmy na początku drogi, np. myślimy o rozkręceniu nowego projektu, to może nam brakować perspektywy albo doświadczenia żeby w ogóle zaplanować swoje działania.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/flux" />
-		<id>https://zakasanerekawy.pl/posts/flux</id>
-		<title>Po co nam f.lux?</title>
-		<updated>2017-05-22T20:38:10Z</updated>
-		<content>&lt;h2 id="czy-f.lux-dziaa"&gt;Czy f.lux działa?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Ile czasu potrzebujesz, żeby osiągnąć &lt;strong&gt;najważniejszy dla Ciebie obecnie cel&lt;/strong&gt;? To pewnie dla większości z nas trudne pytanie, bo im horyzont czasowy dłuższy, tym więcej niepewności. W dodatku jeśli jesteśmy na początku drogi, np. myślimy o rozkręceniu nowego projektu, to może nam brakować perspektywy albo doświadczenia żeby w ogóle zaplanować swoje działania.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/flux" />
+    <id>https://zakasanerekawy.pl/posts/flux</id>
+    <title>Po co nam f.lux?</title>
+    <updated>2017-05-22T20:38:10Z</updated>
+    <content>&lt;h2 id="czy-f.lux-dziaa"&gt;Czy f.lux działa?&lt;/h2&gt;
 &lt;p class="lead"&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;
 &lt;p&gt;Ta aplikacja, która niegdyś wydawała się niszową ciekawostką dla nerdów, zdobyła już całkiem sporą popularność. W niedawnej aktualizacji dla &lt;i&gt;Windows 10&lt;/i&gt; Microsoft wprowadził nawet na poziomie systemu operacyjnego funkcję &lt;em&gt;Night Light&lt;/em&gt;, która w analogiczny sposób modyfikuje wyświetlany na ekranie obraz (o ile ją włączymy).&lt;/p&gt;
 &lt;p&gt;Czy takie profilaktyczne działania mają sens? Badania i eksperymenty, których w tym temacie &lt;a href="https://en.wikipedia.org/wiki/Effects_of_blue_lights_technology" target="_blank"&gt;jest już sporo&lt;/a&gt;, pokazują że tak. Jednak &lt;b&gt;aplikacja to tylko część rozwiązania&lt;/b&gt;, którego możemy potrzebowaći o tym dziś chciałem głównie napisać.&lt;/p&gt;
@@ -857,14 +860,14 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 &lt;p&gt;Jestem natomiast ciekawy, czy jako użytkownik f.luxa &lt;b&gt;obserwujesz faktycznie jego wpływ na swój sen&lt;/b&gt;? Osobiście do tej pory nie zauważyłem dużej zmiany, ale też moje użytkowanie było do tego tygodnia dość nieprzemyślane. Nowymi obserwacjami będę mógł się za to podzielić za kilka tygodni.&lt;/p&gt;
 &lt;p&gt;Dziękuję za odwiedziny na blogu!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych" />
-		<id>https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych</id>
-		<title>Jpeg2000: ciekawy format do archiwizacji skanów i zdjęć dokumentów</title>
-		<updated>2017-05-16T21:27:10Z</updated>
-		<content>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;
+    <summary>&lt;p class="lead"&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych" />
+    <id>https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych</id>
+    <title>Jpeg2000: ciekawy format do archiwizacji skanów i zdjęć dokumentów</title>
+    <updated>2017-05-16T21:27:10Z</updated>
+    <content>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;
 &lt;h2 id="czy-brak-miejsca-na-dysku-jest-jeszcze-problemem"&gt;Czy brak miejsca na dysku jest jeszcze problemem?&lt;/h2&gt;
 &lt;p&gt;Żeby utrzymać w swoich dokumentach porządek, staram się &lt;strong&gt;digitalizować dosłownie wszystko, czego nie potrzebuję na papierze&lt;/strong&gt;: faktury, ręczne notatki, paragony i papierową korespondencję. Niedawno pisałem więcej o motywacjach stojących za trzymaniem takiego porządku i &lt;a href="/posts/paperless" target="_blank"&gt;narzędziach do digitalizacji&lt;/a&gt; jakich w tym celu używam.&lt;/p&gt;
 &lt;p&gt;Stanąłem ostatnio przed mikro-dylematem: &lt;strong&gt;w jakim formacie przechowywać takie dokumenty?&lt;/strong&gt; Skany czy zdjęcia potrafią zająć sporo miejsca na dysku. Zdjęcie niezbyt bogatej w treść ręcznie zrobionej notatki  wykonane moim smartfonem potrafi zajmować 1-2 megabajty.&lt;/p&gt;
@@ -936,14 +939,14 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;/ul&gt;
 &lt;p&gt;Dziękuję za odwiedziny na blogu! A może Ty znasz jakąś &lt;strong&gt;inną dobrą alternatywę dla JPEG-a&lt;/strong&gt;?&lt;/p&gt;
 </content>
-		<summary>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/schowek-windows-narz%C4%99dzia" />
-		<id>https://zakasanerekawy.pl/posts/schowek-windows-narz%C4%99dzia</id>
-		<title>Schowek w Windows: narzędzia dla produktywnych</title>
-		<updated>2017-05-15T21:20:10Z</updated>
-		<content>&lt;h2 id="sztuka-kopiowania"&gt;Sztuka kopiowania&lt;/h2&gt;
+    <summary>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/schowek-windows-narzedzia" />
+    <id>https://zakasanerekawy.pl/posts/schowek-windows-narzedzia</id>
+    <title>Schowek w Windows: narzędzia dla produktywnych</title>
+    <updated>2017-05-15T21:20:10Z</updated>
+    <content>&lt;h2 id="sztuka-kopiowania"&gt;Sztuka kopiowania&lt;/h2&gt;
 &lt;p class="lead"&gt;Skróty &lt;em&gt;Ctrl+C&lt;/em&gt; i &lt;em&gt;Ctrl+V&lt;/em&gt; które mamy zakodowane w palcach lewej dłoni są w dzisiejszym szybkim świecie &lt;strong&gt;niezbędne do przetrwania&lt;/strong&gt;. Nie tylko ułatwiają pracę z komputerem, ale pozwalają nam szybko stworzyć pracę magisterską, wierszyk z życzeniami urodzinowymi czy kod źródłowy programu.&lt;/p&gt;
 &lt;p&gt;Schowek może być też źródłem niepokoju. Może nachodząca nas osoba czegoś nie dociśnie przy kopiowaniu i wklei coś co nie było przeznaczone dla jej oczu? Niby nic tajnego tam zwykle nie ma, a jednak. Faktem jest, że złośliwe oprogramowanie często monitoruje schowek przez który czasem przechodzą nasze hasła, wiadomości, linki.&lt;/p&gt;
 &lt;p&gt;Choć wielu z nas opanowało sztukę korzystania z tych magicznych skrótów, w czasach kryzysu lub znudzenia możemy dodatkowo pomyśleć o &lt;b&gt;optymalizacji tej czynności&lt;/b&gt; ;)&lt;/p&gt;
@@ -1024,14 +1027,14 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Schowek jaki jest każdy widzi. Jeśli zastosował opisane wyżej narzędzia to widzi nawet znacznie wyraźniej ;)&lt;/p&gt;
 &lt;p&gt;A czy Ty stosujesz jakieś programy do wspomagania schowka? Zachęcam do podzielenia się wszelkimi alternatywnymi aplikacjami lub pomysłami. Dziękuję za odwiedziny!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Skróty &lt;em&gt;Ctrl+C&lt;/em&gt; i &lt;em&gt;Ctrl+V&lt;/em&gt; które mamy zakodowane w palcach lewej dłoni są w dzisiejszym szybkim świecie &lt;strong&gt;niezbędne do przetrwania&lt;/strong&gt;. Nie tylko ułatwiają pracę z komputerem, ale pozwalają nam szybko stworzyć pracę magisterską, wierszyk z życzeniami urodzinowymi czy kod źródłowy programu.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/microsoft-to-do-recenzja" />
-		<id>https://zakasanerekawy.pl/posts/microsoft-to-do-recenzja</id>
-		<title>Microsoft To-Do: czy nowa aplikacja namiesza na rynku?</title>
-		<updated>2017-04-21T20:31:01Z</updated>
-		<content>&lt;h2 id="czym-jest-microsoft-to-do"&gt;Czym jest Microsoft To-Do?&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;Skróty &lt;em&gt;Ctrl+C&lt;/em&gt; i &lt;em&gt;Ctrl+V&lt;/em&gt; które mamy zakodowane w palcach lewej dłoni są w dzisiejszym szybkim świecie &lt;strong&gt;niezbędne do przetrwania&lt;/strong&gt;. Nie tylko ułatwiają pracę z komputerem, ale pozwalają nam szybko stworzyć pracę magisterską, wierszyk z życzeniami urodzinowymi czy kod źródłowy programu.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/microsoft-to-do-recenzja" />
+    <id>https://zakasanerekawy.pl/posts/microsoft-to-do-recenzja</id>
+    <title>Microsoft To-Do: czy nowa aplikacja namiesza na rynku?</title>
+    <updated>2017-04-21T20:31:01Z</updated>
+    <content>&lt;h2 id="czym-jest-microsoft-to-do"&gt;Czym jest Microsoft To-Do?&lt;/h2&gt;
 &lt;p class="lead"&gt;W ostatnich dniach &lt;strong&gt;Microsoft wydał nową aplikację do zarządzania zadaniami&lt;/strong&gt; o krótkiej, lecz treściwej nazwie &lt;em&gt;To-Do&lt;/em&gt;. Choć w tej chwili raczej nie skłoni nas ona do przesiadki ze względu na skromną funkcjonalność, warto śledzić jej rozwój, bo zapowiada się ciekawie.&lt;/p&gt;
 &lt;p&gt;Użytkownicy aplikacji Wunderlist, którą Microsoft przejął w 2015 roku, widzą w nowym narzędziu &amp;quot;okrojonego następcę Wunderlista&amp;quot;. Taki ton przebija się z artykułów np. na Spider's Web (“&lt;a href="http://www.spidersweb.pl/2017/04/microsoft-to-do.html" target="_blank"&gt;A więc tak wygląda następca Wunderlista. Choć na razie to prototyp&lt;/a&gt;” lub Antyweb (“&lt;a href="http://antyweb.pl/microsoft-todo-zamiast-wunderlist/" target="_blank"&gt;Microsoft ToDo zastąpi świetnego Wunderlist&lt;/a&gt;”).&lt;/p&gt;
 &lt;p&gt;Obawy są pewnie słuszne, bo obie aplikacje rozwiązują ten sam problem w bardzo podobny sposób. &lt;em&gt;To-Do&lt;/em&gt; jest w tej chwili jednak jeszcze jedynie czymś w rodzaju niedojrzałego &lt;i&gt;minimum viable product&lt;/i&gt;, który &lt;strong&gt;ma na celu zebranie feedbacku od użytkowników&lt;/strong&gt; i dostosowaniu tego produktu do potrzeb rynku.&lt;/p&gt;
@@ -1106,14 +1109,14 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;W tej chwili &lt;i&gt;To-Do&lt;/i&gt; &lt;strong&gt;nie implementuje rewolucyjnych pomysłów&lt;/strong&gt;. Nie ma na ten moment żadnego ukłonu w stronę sposobu zarządzania zadaniami proponowanego np. przez GTD. Nie ma i raczej nigdy nie będzie większej uwagi skupionej prywatności (nadal czekam, aż ktoś opracuję listę zadań wierną zasadzie &lt;i&gt;zero-knowledge encryption&lt;/i&gt;). Jest natomiast prosta, darmowa aplikacja &lt;strong&gt;budząca zaufanie w to, że dane nie zostaną utracone&lt;/strong&gt;, będą poprawnie synchronizowane, i będziemy mieli do nich wygodny dostęp z każdego miejsca.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A czy Ty zostajesz ze swoją aplikacją do listy zadań na dobre&lt;/strong&gt;, czy wciąż szukasz tej jedynej? :) Zachęcam Cię do podzielenia się swoim zdaniem w komentarzu i dziękuję za odwiedziny!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;W ostatnich dniach &lt;strong&gt;Microsoft wydał nową aplikację do zarządzania zadaniami&lt;/strong&gt; o krótkiej, lecz treściwej nazwie &lt;em&gt;To-Do&lt;/em&gt;. Choć w tej chwili raczej nie skłoni nas ona do przesiadki ze względu na skromną funkcjonalność, warto śledzić jej rozwój, bo zapowiada się ciekawie.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git" />
-		<id>https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git</id>
-		<title>Jak narobić sobie (i innym) problemów w Git</title>
-		<updated>2017-04-20T20:52:18Z</updated>
-		<content>&lt;h2 id="teoria-w-git-trudno-jest-cos-zepsuc"&gt;Teoria: w Git trudno jest coś zepsuć&lt;/h2&gt;
+    <summary>&lt;p class="lead"&gt;W ostatnich dniach &lt;strong&gt;Microsoft wydał nową aplikację do zarządzania zadaniami&lt;/strong&gt; o krótkiej, lecz treściwej nazwie &lt;em&gt;To-Do&lt;/em&gt;. Choć w tej chwili raczej nie skłoni nas ona do przesiadki ze względu na skromną funkcjonalność, warto śledzić jej rozwój, bo zapowiada się ciekawie.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git" />
+    <id>https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git</id>
+    <title>Jak narobić sobie (i innym) problemów w Git</title>
+    <updated>2017-04-20T20:52:18Z</updated>
+    <content>&lt;h2 id="teoria-w-git-trudno-jest-cos-zepsuc"&gt;Teoria: w Git trudno jest coś zepsuć&lt;/h2&gt;
 &lt;p&gt;Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale &lt;code&gt;git&lt;/code&gt; stał się w ostatnich latach właściwie &lt;strong&gt;podstawowym narzędziem używanym w IT&lt;/strong&gt;. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.&lt;/p&gt;
 &lt;p&gt;W tym artykule zakładam znajomość podstaw tego narzędzia, rozważania wychodzą trochę poza podstawy. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że &lt;strong&gt;raz scommitowany kod nie zostanie utracony&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi &lt;code&gt;--force&lt;/code&gt; lub odhaczenia w GUI pola wyboru typu &amp;quot;wiem co robię&amp;quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.&lt;/p&gt;
@@ -1183,14 +1186,14 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;h2 id="czy-to-koniec-puapek"&gt;Czy to koniec pułapek?&lt;/h2&gt;
 &lt;p&gt;Zapewne nie. Może Ty masz jakieś doświadczenia z gitem, przez które musiałeś lub musiałaś się wstydzić, albo robić nadgodziny? ;-) Jeśli tak, to zachęcam do dzielenia się nimi w komentarzach - w roli przestrogi dla nas wszystkich. Dzięki za odwiedziny!&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale &lt;code&gt;git&lt;/code&gt; stał się w ostatnich latach właściwie &lt;strong&gt;podstawowym narzędziem używanym w IT&lt;/strong&gt;. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/revisionist-wersja-pogladowa" />
-		<id>https://zakasanerekawy.pl/posts/revisionist-wersja-pogladowa</id>
-		<title>Revisionist: wersja poglądowa</title>
-		<updated>2017-04-09T22:51:18Z</updated>
-		<content>&lt;h2 id="projekt-revisionist-przypomnienie"&gt;Projekt Revisionist: przypomnienie&lt;/h2&gt;
+    <summary>&lt;p&gt;Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale &lt;code&gt;git&lt;/code&gt; stał się w ostatnich latach właściwie &lt;strong&gt;podstawowym narzędziem używanym w IT&lt;/strong&gt;. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/revisionist-wersja-pogladowa" />
+    <id>https://zakasanerekawy.pl/posts/revisionist-wersja-pogladowa</id>
+    <title>Revisionist: wersja poglądowa</title>
+    <updated>2017-04-09T22:51:18Z</updated>
+    <content>&lt;h2 id="projekt-revisionist-przypomnienie"&gt;Projekt Revisionist: przypomnienie&lt;/h2&gt;
 &lt;p&gt;Jak niektórzy z was wiedzą, chcę stworzyć aplikację &lt;strong&gt;ułatwiającą nam przegląd zadań trzymanych w aplikacji Todoist&lt;/strong&gt;. Aby się zbytnio nie powtarzać w stosunku do poprzednich wpisów, nowym czytelnikom podsunę artykuły opisujące motywację stojącą za projektem w formie linków:&lt;/p&gt;
 &lt;ol&gt;
     &lt;li&gt;&lt;em&gt;&lt;a href="/posts/lista-zadan-narzedzie-do-wyrzucenia-czy-usprawnienia" target="_blank"&gt;Lista zadań: narzędzie do wyrzucenia, czy usprawnienia?&lt;/a&gt;&lt;/em&gt;: o problemach, jakie chcę rozwiązać tą aplikacją,&lt;/li&gt;
@@ -1225,14 +1228,14 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Spróbuję tak jeszcze przez jakiś czas. Tematy na bloga pewnie się nie wyczerpią, bo ciągle rodzą się pomysły na nowe. Sam projekt natomiast ma szansę się zakończyć jeszcze tej wiosny, kiedy tylko osiągnie zamierzony kształt (chyba że faktycznie ktoś oprócz mnie się nim zainteresuje i warto go będzie rozwinąć).&lt;/p&gt;
 &lt;p&gt;Dzięki za odwiedziny na blogu! Ciekawy jestem, czy Ciebie, jeśli również startujesz w DSP, nie dopadły podobne rozterki na temat tego czy warto w takim tempie? :) O swoich postępach i przemyśleniach będę na pewno informował w kolejnych postach.&lt;/p&gt;
 </content>
-		<summary>&lt;p&gt;Jak niektórzy z was wiedzą, chcę stworzyć aplikację &lt;strong&gt;ułatwiającą nam przegląd zadań trzymanych w aplikacji Todoist&lt;/strong&gt;. Aby się zbytnio nie powtarzać w stosunku do poprzednich wpisów, nowym czytelnikom podsunę artykuły opisujące motywację stojącą za projektem w formie linków:&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/paperless" />
-		<id>https://zakasanerekawy.pl/posts/paperless</id>
-		<title>'Paperless', czyli jak pozbyć się z domu papieru</title>
-		<updated>2017-08-22T07:27:18Z</updated>
-		<content>&lt;h2 id="gdzie-trzymac-papiery-jesli-nie-w-domu"&gt;Gdzie trzymać papiery, jeśli nie w domu?&lt;/h2&gt;
+    <summary>&lt;p&gt;Jak niektórzy z was wiedzą, chcę stworzyć aplikację &lt;strong&gt;ułatwiającą nam przegląd zadań trzymanych w aplikacji Todoist&lt;/strong&gt;. Aby się zbytnio nie powtarzać w stosunku do poprzednich wpisów, nowym czytelnikom podsunę artykuły opisujące motywację stojącą za projektem w formie linków:&lt;/p&gt;</summary>
+  </entry>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/paperless" />
+    <id>https://zakasanerekawy.pl/posts/paperless</id>
+    <title>'Paperless', czyli jak pozbyć się z domu papieru</title>
+    <updated>2017-08-22T07:27:18Z</updated>
+    <content>&lt;h2 id="gdzie-trzymac-papiery-jesli-nie-w-domu"&gt;Gdzie trzymać papiery, jeśli nie w domu?&lt;/h2&gt;
 &lt;p class="lead"&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że więcej nie znaczy lepiej. &lt;b&gt;Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony&lt;/b&gt;. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;
 &lt;p&gt;Jednocześnie same &lt;i&gt;informacje&lt;/i&gt; które na tych papierowych nośnikach posiadamy, praktycznie nic nie ważą (choć fani Lema mogą znaleźć przykłady przeczące tej tezie). Nośniki danych są już mikroskopijnie małe. W dodatku usługi dysku w chmurze takie jak &lt;i lang="en"&gt;OneDrive&lt;/i&gt;, &lt;i&gt;Google Drive&lt;/i&gt; czy &lt;i&gt;Dropbox&lt;/i&gt; dostarczają tyle przestrzeni, że możemy w nich spokojnie przechować całość posiadanych przez nas notatek, książek, faktur, paragonów czy innych rzeczy które tradycyjnie gromadziliśmy na papierze.&lt;/p&gt;
 &lt;h2 id="strategia-rozwiazania-problemu"&gt;Strategia rozwiązania problemu&lt;/h2&gt;
@@ -1324,6 +1327,6 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;W moim pokoju jedna półka wciąż straszy stertą papierów, o których losie muszę zdecydować. Kilka książek czeka w kolejce na to żeby się ich pozbyć, kilka starych segregatorów na przejrzenie. Na szczęście kolejka jest coraz mniejsza i już prawie nie rośnie. Jeśli nowej książki nie mogę dostać w formie audiobooka lub e-booka, to raczej jej nie kupię ;)&lt;/p&gt;
 &lt;p&gt;A Ty jak radzisz sobie ze stertami dokumentów, wizytówek, notatek i książek? &lt;strong&gt;Zachęcam do dzielenia się swoimi sztuczkami i sposobami i komentowania&lt;/strong&gt; i dziękuję za odwiedziny na blogu!&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że więcej nie znaczy lepiej. &lt;b&gt;Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony&lt;/b&gt;. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;</summary>
-	</entry>
+    <summary>&lt;p class="lead"&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że więcej nie znaczy lepiej. &lt;b&gt;Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony&lt;/b&gt;. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;</summary>
+  </entry>
 </feed>
