@@ -8,7 +8,7 @@
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
   <rights>2018</rights>
-  <updated>2018-02-17T12:09:54Z</updated>
+  <updated>2018-02-19T11:50:01Z</updated>
   <subtitle>O dobrych nawykach sprzyjających nauce i pracy</subtitle>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
@@ -344,10 +344,9 @@ If you’re comfortable going deep, you’ll be comfortable mastering the increa
   <entry>
     <link href="https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube" />
     <id>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
-    <title>Jak próbuję ograć nawyk oglądania YouTube</title>
-    <updated>2017-09-16T07:21:10Z</updated>
-    <content>&lt;h2 id="filmiki-uzalezniaja-jak-papierosy"&gt;Filmiki uzależniają jak papierosy?&lt;/h2&gt;
-&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;
+    <title>Jak nie dać się wciągnąć w oglądanie YouTube</title>
+    <updated>2017-02-19T12:21:10Z</updated>
+    <content>&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;
 &lt;p&gt;Prawdę mówiąc YouTube nie jest pierwszy. Nawykowe wchodzenie na takie czy inne portale przytrafiało mi się od bardzo dawna. Wszelkiego rodzaju demotywatory, wykopy, portale społecznościowe i polityczne miały swój czas. Podejrzewam że wszyscy czasem łapiemy się na podobnych czynnościach w czasie kiedy przydałoby się robić coś ważniejszego.&lt;/p&gt;
 &lt;p&gt;&lt;fig-removed width="6"
 src="/assets/img/posts/128-000-dominoes-falling-youtube.jpg"
@@ -357,7 +356,7 @@ source="YouTube"
 source-link="https://www.youtube.com/watch?v=dLRjiiAawGg"
 /&gt;&lt;/p&gt;
 &lt;p&gt;Dawno zrobiłem wewnętrzne postanowienie żeby tego unikać i liczyłem na to że silna wola wystarczy. Jak się pewnie domyślacie, nie wystarczyła na długo ;)&lt;/p&gt;
-&lt;h2 id="jak-przestac-wchodzic-na-strony-pozerajace-czas"&gt;Jak przestać wchodzić na strony pożerające czas?&lt;/h2&gt;
+&lt;h2 id="jak-nie-wchodzic-na-strony-zjadajace-nam-czas"&gt;Jak nie wchodzić na strony zjadające nam czas?&lt;/h2&gt;
 &lt;p&gt;Mam w głowie od czasu przesłuchania "Siły nawyku" &lt;reference id="ref-sila-nawyku" Author="Charles Duhigg" url="http://audioteka.com/pl/audiobook/sila-nawyku" source="Audioteka" title="Siła nawyku" date="2012" publisher="Dom Wydawniczy PWN Sp.z o.o." place="Warszawa" /&gt; pewien model tego czym są i jak nabywamy nowe nawyki. Możemy je postrzegać jako "automatyczne" zachowania, które wykonujemy pod wpływem różnych wskazówek. Są wzmacniane przez nagrody. Możemy je tworzyć lub niszczyć odpowiednio kontrolując nasze otoczenie.&lt;/p&gt;
 &lt;p&gt;Gdy reagujemy nawykowo, to nie wkładamy wysiłku w podjęcie decyzji czy coś zrobić czy nie, bo mamy ją już niejako podjętą. Podążamy za "domyślnym" zachowaniem, które jest sprawdzone i gwarantuje otrzymanie nagrody. Nagrodą może być obejrzenie strony internetowej z chwytliwą treścią.&lt;/p&gt;
 &lt;p&gt;Jak można więc przerwać nawyk wpisywania adresu strony internetowej i wchodzenia na nią? Rozwiązaniem, które od dłuższego czasu sprawdzam jest &lt;strong&gt;blokowanie stron&lt;/strong&gt;, na które nie chcę wchodzić. Z moich dotychczasowych doświadczeń wynika że blokowanie jest dość skuteczne. Myślę, że dzieje się tak dlatego, że:&lt;/p&gt;
@@ -375,6 +374,8 @@ source-link="https://www.youtube.com/watch?v=dLRjiiAawGg"
     &lt;li&gt;&lt;span class="bg-danger text-danger"&gt;płatność w modelu abonamentu,&lt;/span&gt;&lt;/li&gt;
     &lt;li&gt;&lt;span class="bg-danger text-danger"&gt;reguły blokowania które możemy tworzyć są dość proste i brakuje mi możliwości znanych z &lt;i&gt;LeechBlock&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p class="text-warning bg-warning update-text"&gt;Aktualizacja, 19.02.2018 r.: Freedom okazał się zbyt niepraktyczny, ze względu na sposób działania i musiałem go porzucić. Aplikacja działa jako proxy połączenia internetowego, niektóry programy nie radzą sobie z taką konfiguracją - blokuje to synchronizację OneNote, nie działa np iTunes czy niektóre inne aplikacje.&lt;br /&gt;
+Na ten moment trochę pomaga mi Spotify, dzięki któremu nie daję YouTube szansy na skuszenie mnie filmami ;) Do tego mam włączone opisane niżej lżejsze rozwiązania przeglądarkowe.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
                 &lt;figure class='col-md-10 col-md-offset-1'&gt;
@@ -425,8 +426,8 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
   <entry>
     <link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
     <id>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</id>
-    <title>Gadżet dla produktywnych za mniej niż 20 zł</title>
-    <updated>2017-08-21T22:54:00Z</updated>
+    <title>Produktywny gadżet za kilka złotych</title>
+    <updated>2017-02-19T11:54:00Z</updated>
     <content>&lt;h2 id="czy-produktywnosc-wymaga-gadzetow"&gt;Czy produktywność wymaga gadżetów?&lt;/h2&gt;
 &lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;W słynnych eksperymentach laureata nagrody Nobla Iwana Pawłowa udało się wytrenować psy tak, aby na dźwięk dzwonka lub sygnał świetlny zaczynały się ślinić w oczekiwaniu na jedzenie które zwykle potem nadchodziło (kilka zdjęć z prawdziwych eksperymentów można obejrzeć na stronie &lt;a href="http://www.gettyimages.com/photos/pavlov%27s-dogs" rel="nofollow" target="_blank"&gt;GettyImages&lt;/a&gt;).&lt;/p&gt;
