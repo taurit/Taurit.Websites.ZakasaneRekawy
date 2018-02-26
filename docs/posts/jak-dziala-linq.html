@@ -5,8 +5,8 @@
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="manifest" href="/manifest.json">
-<title>PNŚ #3: Programowanie defensywne - Zakasane rękawy</title>
-<meta name="description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?" />
+<title>PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć - Zakasane rękawy</title>
+<meta name="description" content="Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)" />
 <!--[if IE 8]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/ie8/0.6.0/ie8.js"></script>
 <![endif]-->
@@ -36,28 +36,28 @@
 <meta name="twitter:creator" content="@pawelbulwan" />
 
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:url" content="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
-<meta name="twitter:title" content="PNŚ #3: Programowanie defensywne" />
-<meta name="twitter:description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?" />
-<meta name="twitter:image" content="https://zakasanerekawy.pl/assets/posts/programowanie-defensywne/programowanie-defensywne.600x600.jpg" />
+<meta name="twitter:url" content="https://zakasanerekawy.pl/posts/jak-dziala-linq" />
+<meta name="twitter:title" content="PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć" />
+<meta name="twitter:description" content="Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)" />
+<meta name="twitter:image" content="https://zakasanerekawy.pl/assets/posts/jak-dziala-linq/jak-dziala-linq.600x600.jpg" />
 
 <meta property="fb:app_id" content="1768845453415639" /> 
-<meta property="og:title" content="PNŚ #3: Programowanie defensywne" />
+<meta property="og:title" content="PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
-<meta property="og:description" content="Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?" />
+<meta property="og:url" content="https://zakasanerekawy.pl/posts/jak-dziala-linq" />
+<meta property="og:description" content="Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)" />
 
-        <meta property="og:image" content="https://zakasanerekawy.pl/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg" />
-        <meta property="og:image:alt" content="PNŚ #3: Programowanie defensywne" />
+        <meta property="og:image" content="https://zakasanerekawy.pl/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg" />
+        <meta property="og:image:alt" content="PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="627" />
 
 
-        <meta property="og:image" content="https://zakasanerekawy.pl/assets/posts/programowanie-defensywne/programowanie-defensywne.600x600.jpg" />
+        <meta property="og:image" content="https://zakasanerekawy.pl/assets/posts/jak-dziala-linq/jak-dziala-linq.600x600.jpg" />
         <meta property="og:image:type" content="image/jpeg" />
         <meta property="og:image:width" content="600" />
         <meta property="og:image:height" content="600" />
-        <meta property="og:image:alt" content="PNŚ #3: Programowanie defensywne" />
+        <meta property="og:image:alt" content="PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć" />
 
 <meta property="og:type" content="website" />
 <meta property="article:author" content="https://www.facebook.com/pawel.bulwan" />
@@ -66,7 +66,7 @@
 <meta property="profile:gender" content="male" />
 
 
-<link rel="canonical" href="https://zakasanerekawy.pl/posts/programowanie-defensywne"> 
+<link rel="canonical" href="https://zakasanerekawy.pl/posts/jak-dziala-linq"> 
 <link rel="me" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan" type="text/html">
 <link rel="publisher" href="https://plus.google.com/u/0/+Pawe%C5%82Bulwan">
 
@@ -132,10 +132,10 @@
             <div class="col-md-12">
 
     <div class="post-heading">
-    <h1 itemprop="name headline"><a itemprop="mainEntityOfPage" href="https://zakasanerekawy.pl/posts/programowanie-defensywne" rel="bookmark">PNŚ #3: Programowanie defensywne</a></h1>
+    <h1 itemprop="name headline"><a itemprop="mainEntityOfPage" href="https://zakasanerekawy.pl/posts/jak-dziala-linq" rel="bookmark">PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</a></h1>
          
     <div class="meta">        
-<meta itemprop="author" content="Paweł Bulwan"/><b>Data publikacji</b>: <time itemprop="datePublished" datetime="2018-02-13T21:00:00&#x2B;01:00">wtorek, 13 lutego 2018 r.</time><!--
+<meta itemprop="author" content="Paweł Bulwan"/><b>Data publikacji</b>: <time itemprop="datePublished" datetime="2018-02-26T17:54:00&#x2B;01:00">poniedziałek, 26 lutego 2018 r.</time><!--
                                            
               -->
                 <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
@@ -148,7 +148,7 @@
                     <meta itemprop="name" content="Taurit">
                 </span>
                 <span itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-                    <meta itemprop="url" content="https://zakasanerekawy.pl/assets/img/thumbnails/programowanie-defensywne.jpg" />
+                    <meta itemprop="url" content="https://zakasanerekawy.pl/assets/img/thumbnails/jak-dziala-linq.jpg" />
                     <meta itemprop="width" content="150"/>
                     <meta itemprop="height" content="150"/>
                 </span>        
@@ -170,33 +170,30 @@
             
 
 <!-- This file is auto-generated, do not edit here -->
-<p class='lead'>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?</p>
+<p class='lead'>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)</p>
 <p>W odcinku jak zwykle pojawia się małe co nieco dla fanów programowania w technologiach .NET. Spis treści na dziś:</p>
 <ul>
-<li>Programowanie defensywne - różne postrzeganie tematu</li>
-<li>Czym jest programowanie defensywne?
+<li>Wstęp</li>
+<li>Czego ja nie wiedziałem o LINQ?
 <ol>
-<li>Skąd wzięła się nazwa? </li>
-<li>Definicja programowania defensywnego</li>
+<li>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</li>
+<li>Czym jest LINQ-to-XML?</li>
+<li>Którą składnię wybrać, query syntax czy method syntax?</li>
+<li>Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</li>
+<li>Jak jest zaimplementowane sortowanie na IEnumerable?</li>
+<li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?</li>
+<li>Czym jest Parallel Linq?</li>
 </ol>
 </li>
-<li>Techniki programowania defensywnego
-<ol>
-<li>Ochrona przed nieprawidłowymi danymi wejściowymi</li>
-<li>Asercje</li>
-<li>Wybór strategii obsługi błędów</li>
-<li>Inne techniki defensywne</li>
-</ol>
-</li>
-<li>Zakończenie i podziękowania</li>
+<li>Podsumowanie</li>
 </ul>
 
             <div class='row' aria-hidden='true'>
                 <figure class='col-md-12 col-md-offset-0'>
                     <div class='thumbnail'>
-                        <picture>  <source srcset='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' type='image/jpeg' />  <source srcset='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/posts/programowanie-defensywne/programowanie-defensywne.1200x627.jpg' alt='' /></picture>
+                        <picture>  <source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' />  <source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' />  <img class='img-responsive img-generated' src='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' alt='' /></picture>
                         <div class='caption'>
-                            <figcaption>Rys. 1. Jak pisać kod, żeby później nie gasić pożarów? Źródło: <a href='https://pixabay.com/en/firefighters-fire-flames-outside-115800/' rel='nofollow' target='_blank'>Pixabay</a>
+                            <figcaption>Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: <a href='https://unsplash.com/photos/fnHLSwXcEUM' rel='nofollow' target='_blank'>Paul Bence</a>
                             </figcaption>
                         </div>
                     </div>
@@ -204,8 +201,8 @@
             </div>
 <p><h2>Gdzie znaleźć odcinek?</h2></p>
 <ul>
-<li><a href='/podcast/programowanie-na-sniadanie/3'><strong>Strona odcinka numer 3</strong></a></li>
-<li><a href='/podcast/programowanie-na-sniadanie/3/script'>Skrypt odcinka numer 3</a></li>
+<li><a href='/podcast/programowanie-na-sniadanie/4'><strong>Strona odcinka numer 4</strong></a></li>
+<li><a href='/podcast/programowanie-na-sniadanie/4/script'>Skrypt odcinka numer 4</a></li>
 <li><a href='/podcast/programowanie-na-sniadanie/'>Lista wszystkich odcinków podcastu &ldquo;Programowanie na śniadanie&rdquo;</a>. Zawiera także linki do iTunes i kanału RSS podcastu</li>
 </ul>
 <p>Do usłyszenia! :)</p>
@@ -268,8 +265,8 @@
 
     <script>
         var disqus_config = function() {
-            this.page.url = 'https://zakasanerekawy.pl/posts/programowanie-defensywne';
-            this.page.identifier = 'programowanie-defensywne';
+            this.page.url = 'https://zakasanerekawy.pl/posts/jak-dziala-linq';
+            this.page.identifier = 'jak-dziala-linq';
         };
 
         (function() { // DON'T EDIT BELOW THIS LINE

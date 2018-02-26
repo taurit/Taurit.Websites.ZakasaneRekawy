@@ -320,3 +320,4 @@ docs/assets/img/thumbnails/1200x627/*.hq.*
 docs/input.vsspell
 docs/input.proj.DotSettings
 docs/packages.config
+docs/assets/posts/**/*.hq.jpg

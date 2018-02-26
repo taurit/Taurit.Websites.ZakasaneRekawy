@@ -8,8 +8,53 @@
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
   <rights>2018</rights>
-  <updated>2018-02-26T09:37:09Z</updated>
+  <updated>2018-02-26T18:47:22Z</updated>
   <subtitle>Jak efektywniej uczyć się i pracować</subtitle>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/jak-dziala-linq" />
+    <id>https://zakasanerekawy.pl/posts/jak-dziala-linq</id>
+    <title>PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</title>
+    <updated>2018-02-26T17:54:00Z</updated>
+    <content>&lt;!-- This file is auto-generated, do not edit here --&gt;
+&lt;p class='lead'&gt;Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)&lt;/p&gt;
+&lt;p&gt;W odcinku jak zwykle pojawia się małe co nieco dla fanów programowania w technologiach .NET. Spis treści na dziś:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Wstęp&lt;/li&gt;
+&lt;li&gt;Czego ja nie wiedziałem o LINQ?
+&lt;ol&gt;
+&lt;li&gt;Czym jest LINQ to Objects i jak się ma do LINQ to Entities?&lt;/li&gt;
+&lt;li&gt;Czym jest LINQ-to-XML?&lt;/li&gt;
+&lt;li&gt;Którą składnię wybrać, query syntax czy method syntax?&lt;/li&gt;
+&lt;li&gt;Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?&lt;/li&gt;
+&lt;li&gt;Jak jest zaimplementowane sortowanie na IEnumerable?&lt;/li&gt;
+&lt;li&gt;Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?&lt;/li&gt;
+&lt;li&gt;Czym jest Parallel Linq?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;Podsumowanie&lt;/li&gt;
+&lt;/ul&gt;
+
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-12 col-md-offset-0'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' alt='' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: &lt;a href='https://unsplash.com/photos/fnHLSwXcEUM' rel='nofollow' target='_blank'&gt;Paul Bence&lt;/a&gt;
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;
+&lt;p&gt;&lt;h2&gt;Gdzie znaleźć odcinek?&lt;/h2&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/4'&gt;&lt;strong&gt;Strona odcinka numer 4&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/4/script'&gt;Skrypt odcinka numer 4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/'&gt;Lista wszystkich odcinków podcastu &amp;ldquo;Programowanie na śniadanie&amp;rdquo;&lt;/a&gt;. Zawiera także linki do iTunes i kanału RSS podcastu&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Do usłyszenia! :)&lt;/p&gt;
+</content>
+    <summary>&lt;p class="lead"&gt;Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
     <id>https://zakasanerekawy.pl/posts/programowanie-defensywne</id>
@@ -17,7 +62,7 @@
     <updated>2018-02-13T21:00:00Z</updated>
     <content>&lt;!-- This file is auto-generated, do not edit here --&gt;
 &lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;
-&lt;p&gt;W odcinku jak zwykle pojawiają się tematy związane z programowaniem oraz zawodem programisty. Spis treści na dziś:&lt;/p&gt;
+&lt;p&gt;W odcinku jak zwykle pojawia się małe co nieco dla fanów programowania w technologiach .NET. Spis treści na dziś:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Programowanie defensywne - różne postrzeganie tematu&lt;/li&gt;
 &lt;li&gt;Czym jest programowanie defensywne?
@@ -52,7 +97,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3'&gt;&lt;strong&gt;Strona odcinka numer 3&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/3/script'&gt;Skrypt odcinka numer 3&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/'&gt;Lista wszystkich odcinków podcastu &amp;ldquo;Programowanie na śniadanie&amp;rdquo;&lt;/a&gt;, zawiera także linki do iTunes i kanału RSS podcastu&lt;/li&gt;
+&lt;li&gt;&lt;a href='/podcast/programowanie-na-sniadanie/'&gt;Lista wszystkich odcinków podcastu &amp;ldquo;Programowanie na śniadanie&amp;rdquo;&lt;/a&gt;. Zawiera także linki do iTunes i kanału RSS podcastu&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Do usłyszenia! :)&lt;/p&gt;
 </content>
@@ -1230,104 +1275,5 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;Dzięki za odwiedziny na blogu! Ciekawy jestem, czy Ciebie, jeśli również startujesz w DSP, nie dopadły podobne rozterki na temat tego czy warto w takim tempie? :) O swoich postępach i przemyśleniach będę na pewno informował w kolejnych postach.&lt;/p&gt;
 </content>
     <summary>&lt;p&gt;Jak niektórzy z was wiedzą, chcę stworzyć aplikację &lt;strong&gt;ułatwiającą nam przegląd zadań trzymanych w aplikacji Todoist&lt;/strong&gt;. Aby się zbytnio nie powtarzać w stosunku do poprzednich wpisów, nowym czytelnikom podsunę artykuły opisujące motywację stojącą za projektem w formie linków:&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <link href="https://zakasanerekawy.pl/posts/paperless" />
-    <id>https://zakasanerekawy.pl/posts/paperless</id>
-    <title>'Paperless', czyli jak pozbyć się z domu papieru</title>
-    <updated>2017-08-22T07:27:18Z</updated>
-    <content>&lt;h2 id="gdzie-trzymac-papiery-jesli-nie-w-domu"&gt;Gdzie trzymać papiery, jeśli nie w domu?&lt;/h2&gt;
-&lt;p class="lead"&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że więcej nie znaczy lepiej. &lt;b&gt;Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony&lt;/b&gt;. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;
-&lt;p&gt;Jednocześnie same &lt;i&gt;informacje&lt;/i&gt; które na tych papierowych nośnikach posiadamy, praktycznie nic nie ważą (choć fani Lema mogą znaleźć przykłady przeczące tej tezie). Nośniki danych są już mikroskopijnie małe. W dodatku usługi dysku w chmurze takie jak &lt;i lang="en"&gt;OneDrive&lt;/i&gt;, &lt;i&gt;Google Drive&lt;/i&gt; czy &lt;i&gt;Dropbox&lt;/i&gt; dostarczają tyle przestrzeni, że możemy w nich spokojnie przechować całość posiadanych przez nas notatek, książek, faktur, paragonów czy innych rzeczy które tradycyjnie gromadziliśmy na papierze.&lt;/p&gt;
-&lt;h2 id="strategia-rozwiazania-problemu"&gt;Strategia rozwiązania problemu&lt;/h2&gt;
-&lt;p&gt;Osobiście staram się utrzymać rygor, w którym &lt;i&gt;digitalizuję&lt;/i&gt; wszystkie dokumenty które posiadam i pozbywam się papierowych odpowiedników zawsze, kiedy to tylko możliwe.&lt;/p&gt;
-&lt;p&gt;Zauważyłem, że niektóre &amp;quot;papiery&amp;quot; mógłbym wyrzucić nawet bez tworzenia ich cyfrowej kopii, bo nie będą już nigdy potrzebne. Jeśli jednak trzyma nas przy nich np. sentyment, to ich digitalizacja jest sprytnym trikiem, żeby &lt;i&gt;zjeść ciastko i mieć ciastko&lt;/i&gt;. Papiery znikają z półki, a jednocześnie jeśli zapragniemy, to mamy do nich dostęp.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/book.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/book.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/book.jpg' alt='Książka' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Książka. Źródło: Pexels
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Przy takim podejściu problemami do rozwiązania pozostają jedynie:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;opracowanie praktycznego systemu katalogowania informacji po ich digitalizacji, oraz&lt;/li&gt;
-&lt;li&gt;określenie wyjątków, które muszą pozostać na papierze.&lt;/i&gt;
-&lt;/ul&gt;
-&lt;p&gt;Przyjrzyjmy się obu tym punktom.&lt;/p&gt;
-&lt;h2 id="czego-nie-mozemy-wyrzucic"&gt;Czego nie możemy wyrzucić?&lt;/h2&gt;
-&lt;p&gt;Digitalizacja starych notatek ze studiów powinna przyjść nam łatwo, bo zwykle ani nie jesteśmy do nich przywiązani, ani nie sądzimy że kiedykolwiek nam się przydadzą.&lt;/p&gt;
-&lt;p&gt;Są jednak papierowe rzeczy, z których wyrzuceniem możemy mieć problem formalny lub sentymentalny. Mogą nimi być np.:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;książki&lt;/strong&gt; (sprzedać? spalić? nie pali się książek. oddać na makulaturę?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;umowy&lt;/strong&gt; (czy umowa o dzieło sprzed 5 lat jest mi do czegoś potrzebna?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;dokumenty otrzymane z banków&lt;/strong&gt; (tyle drobnego druku, nie czytałem, a może coś ważnego? te potwierdzenia nabycia funduszy w sumie niepotrzebne, ale jak mi się coś stanie to rodzina się nie dowie gdzie i co miałem)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;dokumenty otrzymane z urzędów&lt;/strong&gt; (może ZUS za 50 lat będzie mnie o nie prosił?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;gwarancje&lt;/strong&gt; (w sumie jak zepsuje mi się ten czajnik, to kupię nowy za 50 zł, ale z drugiej strony gwarancja jeszcze nie wygasła)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;dokumentacja działalności gospodarczej&lt;/strong&gt; (lepiej mieć segregatory gotowe do kontroli, czy drukować przez 2 tygodnie dopiero w razie zapowiedzi?)&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;pamiątki sentymentalne&lt;/strong&gt; (kartka z życzeniami na 12-te urodziny, stary bilet na mecz reprezentacji Polski - może jak będę stary to będzie warty miliony?)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Niestety nie mam odpowiedzi na wszystkie te pytania i sporo rzeczy w segregatorach zalega z tego właśnie powodu, że brakuje mi wiedzy na temat tego czy jakiś dokument jest potrzebny, czy nie. Na pewno jednak pomaga iteracyjne przeglądanie papierów od czasu do czasu - z każdym przebiegiem udaje się trochę dokształcić i coś wyrzucić.&lt;/p&gt;
-&lt;h2 id="narzedzia-do-katalogowania-papierow"&gt;Narzędzia do katalogowania &amp;quot;papierów&amp;quot;&lt;/h2&gt;
-&lt;p&gt;Zapewne masz już jakiś system przechowywania danych na komputerze, mniej lub bardziej przemyślany. Na pewno też najlepiej potrafisz go zaprojektować pod swoje potrzeby.&lt;/p&gt;
-&lt;p&gt;Ze swojej strony mogę natomiast podsunąć kilka narzędzi, które zrewolucjonizowały u mnie na różnych etapach katalogowanie cyfrowych informacji.&lt;/p&gt;
-&lt;h3 id="onenote-wersja-desktop"&gt;OneNote (wersja desktop)&lt;/h3&gt;
-&lt;p&gt;&lt;a href="https://www.onenote.com" target="_blank" lang="en"&gt;OneNote&lt;/a&gt;, moja ulubiona aplikacja pakietu Microsoft Office, od jakiegoś czasu jest dostępna dla wszystkich za darmo.&lt;/p&gt;
-&lt;p&gt;W wersji desktopowej (bardziej dojrzałej niż wariant mobilny dostarczany z Windows 10) to świetnie dopracowane narzędzie do tworzenia notatek i współdzielenia ich z innymi, lub zachowywania ich jako prywatnych. Notesy &lt;strong&gt;mogą być szyfrowane&lt;/strong&gt; silnym algorytmem AES128, dzięki czemu pozostają dostępne tylko dla nas, mimo przechowywania w publicznej chmurze.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/onenote-2016-haslo-szyfrowanie.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/onenote-2016-haslo-szyfrowanie.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/onenote-2016-haslo-szyfrowanie.png' alt='OneNote 2016, wersja desktop' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 2. OneNote 2016, wersja desktop.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;h3 id="boxcryptor"&gt;BoxCryptor&lt;/h3&gt;
-&lt;p&gt;Doświadczenia minionych lat pokazują, że wrzucanie prywatnych danych do chmury jest... no troszkę głupie. Jeśli mówimy o skatalogowaniu całej swojej dokumentacji (umowy, dokumenty związane ze zdrowiem, kopie korespondencji, dowody &lt;del&gt;na przekręty&lt;/del&gt; finansowe), to tym bardziej warto się postarać o trochę prywatności.&lt;/p&gt;
-&lt;p&gt;BoxCryptor to aplikacja dokładająca warstwę szyfrowania do naszego dysku w chmurze (takiego jako OneDrive, Google Drive czy Dropbox).&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/boxcryptor-settings.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/boxcryptor-settings.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/boxcryptor-settings.jpg' alt='Boxcryptor' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 3. Boxcryptor.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Aplikacja stosuje podejście &lt;i lang="en"&gt;zero knowledge&lt;/i&gt; i nie przechowuje żadnych kluczy dostępu u siebie. Wszystkie dane są szyfrowane na naszej maszynie przed wysłaniem do chmury. W tej sytuacji nawet w razie wycieku danych od dostawcy dysku w chmurze mamy pewność, że nikt inny nie będzie się w stanie do nich dostać.&lt;/p&gt;
-&lt;h3 id="microsoft-office-lens"&gt;Microsoft Office Lens&lt;/h3&gt;
-&lt;p&gt;Stacjonarny skaner to dla codziennych zastosowań przeżytek. Smartfony radzą dziś sobie z zadaniem digitalizacji dokumentów wystarczająco dobrze, dzięki aparatom o naprawdę dobrych parametrach.&lt;/p&gt;
-&lt;p&gt;Sam aparat to jednak dopiero połowa rozwiązania. Istnieją dedykowane aplikacje, które potrafią znacznie więcej: wykryją krawędzie papieru na zdjęciu, wyprostują obraz, poprawią oświetlenie i czytelność tekstu, a nawet rozpoznają tekst i wrzucą go w odpowiednie miejsce.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-6 col-md-offset-3'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/office-lens-screenshot-dkms.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/office-lens-screenshot-dkms.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/office-lens-screenshot-dkms.jpg' alt='Office Lens' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 4. Office Lens.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Sam używam na Androidzie &lt;a href="https://play.google.com/store/apps/details?id=com.microsoft.office.officelens&amp;hl=pl" target="_blank" lang="en"&gt;Office Lens&lt;/a&gt; od Microsoft. Jest minimalistyczny, integruje się dobrze ze światem Microsoftu (OneDrive, OneNote), spełnia swoje zadanie.&lt;/p&gt;
-&lt;p&gt;Wśród polecanych aplikacji tego typu mówi się również często o &lt;a href="https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&amp;hl=pl" target="_blank" lang="en"&gt;Genius Scan&lt;/a&gt; oraz &lt;a href="https://play.google.com/store/apps/details?id=com.google.android.apps.docs&amp;hl=pl" target="_blank" lang="en"&gt;Google Drive&lt;/a&gt;, które posiada opcję skanowania. Osobiście jeszcze nie próbowałem, choć jestem ciekawy jakie funkcjonalności proponują oprócz tych, które znam z &lt;i&gt;Office Lens&lt;/i&gt;.&lt;/p&gt;
-&lt;h2 id="a-czy-ty-uzywasz-jeszcze-papieru"&gt;A czy Ty używasz jeszcze papieru?&lt;/h2&gt;
-&lt;p&gt;W moim pokoju jedna półka wciąż straszy stertą papierów, o których losie muszę zdecydować. Kilka książek czeka w kolejce na to żeby się ich pozbyć, kilka starych segregatorów na przejrzenie. Na szczęście kolejka jest coraz mniejsza i już prawie nie rośnie. Jeśli nowej książki nie mogę dostać w formie audiobooka lub e-booka, to raczej jej nie kupię ;)&lt;/p&gt;
-&lt;p&gt;A Ty jak radzisz sobie ze stertami dokumentów, wizytówek, notatek i książek? &lt;strong&gt;Zachęcam do dzielenia się swoimi sztuczkami i sposobami i komentowania&lt;/strong&gt; i dziękuję za odwiedziny na blogu!&lt;/p&gt;
-</content>
-    <summary>&lt;p class="lead"&gt;Każdy, komu zdarza się czasem przeprowadzać albo sprzątać wie, że więcej nie znaczy lepiej. &lt;b&gt;Książki, zeszyty czy segregatory z wydrukami mogą być jednymi z najcięższych przedmiotów, którymi wypełniamy kartony&lt;/b&gt;. Do wielu z nich nigdy nie zajrzymy.&lt;/p&gt;</summary>
   </entry>
 </feed>

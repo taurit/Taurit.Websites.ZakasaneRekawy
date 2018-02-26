@@ -7,7 +7,7 @@
     <language>pl</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <lastBuildDate>Mon, 26 Feb 2018 09:33:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 18:44:27 GMT</lastBuildDate>
     <ttl>4320</ttl>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
@@ -427,6 +427,105 @@ czytelnego i bezbłędnego kodu.</li>
         <media:title type="plain">PNŚ 3: Programowanie defensywne</media:title>
         <media:description type="plain">Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?</media:description>
         <media:keywords>programowanie, bezpieczeństwo, dobre praktyki, kodowanie, wyjątki, błędy, testy</media:keywords>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <media:rating scheme="urn:v-chip">tv-g</media:rating>
+        <media:credit role="anchor person">Paweł Bulwan</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>PNŚ 4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</title>
+      <itunes:title>Kilka rzeczy o LINQ, których możesz nie wiedzieć</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <pubDate>Mon, 26 Feb 2018 14:54:00 GMT</pubDate>
+      <itunes:episode>4</itunes:episode>
+      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</link>
+      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</comments>
+      <itunes:author>Paweł Bulwan</itunes:author>
+      <itunes:explicit>clean</itunes:explicit>
+      <googleplay:explicit>no</googleplay:explicit>
+      <itunes:summary><![CDATA[
+<p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
+<li>Wstęp</li>
+<li>Czego ja nie wiedziałem o LINQ?
+<ol>
+<li>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</li>
+<li>Czym jest LINQ-to-XML?</li>
+<li>Którą składnię wybrać, query syntax czy method syntax?</li>
+<li>Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</li>
+<li>Jak jest zaimplementowane sortowanie na IEnumerable?</li>
+<li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?</li>
+<li>Czym jest Parallel Linq?</li>
+</ol>
+</li>
+<li>Podsumowanie</li>
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
+
+]]></itunes:summary>
+      <googleplay:description><![CDATA[
+<p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
+<li>Wstęp</li>
+<li>Czego ja nie wiedziałem o LINQ?
+<ol>
+<li>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</li>
+<li>Czym jest LINQ-to-XML?</li>
+<li>Którą składnię wybrać, query syntax czy method syntax?</li>
+<li>Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</li>
+<li>Jak jest zaimplementowane sortowanie na IEnumerable?</li>
+<li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?</li>
+<li>Czym jest Parallel Linq?</li>
+</ol>
+</li>
+<li>Podsumowanie</li>
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
+
+]]></googleplay:description>
+      <description><![CDATA[
+<p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
+<li>Wstęp</li>
+<li>Czego ja nie wiedziałem o LINQ?
+<ol>
+<li>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</li>
+<li>Czym jest LINQ-to-XML?</li>
+<li>Którą składnię wybrać, query syntax czy method syntax?</li>
+<li>Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</li>
+<li>Jak jest zaimplementowane sortowanie na IEnumerable?</li>
+<li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?</li>
+<li>Czym jest Parallel Linq?</li>
+</ol>
+</li>
+<li>Podsumowanie</li>
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
+
+]]></description>
+      <content:encoded><![CDATA[
+<p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
+<li>Wstęp</li>
+<li>Czego ja nie wiedziałem o LINQ?
+<ol>
+<li>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</li>
+<li>Czym jest LINQ-to-XML?</li>
+<li>Którą składnię wybrać, query syntax czy method syntax?</li>
+<li>Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</li>
+<li>Jak jest zaimplementowane sortowanie na IEnumerable?</li>
+<li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty?</li>
+<li>Czym jest Parallel Linq?</li>
+</ol>
+</li>
+<li>Podsumowanie</li>
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
+
+]]></content:encoded>
+      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</guid>
+      <itunes:duration>0:21:30</itunes:duration>
+      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" length="15578101" type="audio/mpeg" />
+      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" fileSize="15578101" type="audio/mpeg" medium="audio">
+        <media:title type="plain">PNŚ 4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</media:title>
+        <media:description type="plain">Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)</media:description>
+        <media:keywords>csharp, c#, cs, linq, microsoft, entities, sql, xml, .net, dotnet</media:keywords>
         <media:rating scheme="urn:simple">nonadult</media:rating>
         <media:rating scheme="urn:v-chip">tv-g</media:rating>
         <media:credit role="anchor person">Paweł Bulwan</media:credit>
