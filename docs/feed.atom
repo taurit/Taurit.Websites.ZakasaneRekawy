@@ -8,15 +8,15 @@
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
   <rights>2018</rights>
-  <updated>2018-02-19T11:50:01Z</updated>
-  <subtitle>O dobrych nawykach sprzyjających nauce i pracy</subtitle>
+  <updated>2018-02-26T09:29:46Z</updated>
+  <subtitle>Jak efektywniej uczyć się i pracować</subtitle>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
     <id>https://zakasanerekawy.pl/posts/programowanie-defensywne</id>
     <title>PNŚ #3: Programowanie defensywne</title>
     <updated>2018-02-13T21:00:00Z</updated>
     <content>&lt;!-- This file is auto-generated, do not edit here --&gt;
-&lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;
+&lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;
 &lt;p&gt;W odcinku jak zwykle pojawiają się tematy związane z programowaniem oraz zawodem programisty. Spis treści na dziś:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Programowanie defensywne - różne postrzeganie tematu&lt;/li&gt;
@@ -56,7 +56,7 @@
 &lt;/ul&gt;
 &lt;p&gt;Do usłyszenia! :)&lt;/p&gt;
 </content>
-    <summary>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;</summary>
+    <summary>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;</summary>
   </entry>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu" />

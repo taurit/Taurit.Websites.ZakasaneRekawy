@@ -7,18 +7,18 @@
     <webfeeds:cover image="https://zakasanerekawy.pl/assets/img/icon-512x512.png" />
     <title>Zakasane rękawy</title>
     <link>https://zakasanerekawy.pl/</link>
-    <description>O dobrych nawykach sprzyjających nauce i pracy</description>
+    <description>Jak efektywniej uczyć się i pracować</description>
     <copyright>2018</copyright>
-    <pubDate>Mon, 19 Feb 2018 11:50:01 GMT</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2018 11:50:01 GMT</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2018 09:29:46 GMT</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2018 09:29:46 GMT</lastBuildDate>
     <item>
       <title>PNŚ #3: Programowanie defensywne</title>
       <link>https://zakasanerekawy.pl/posts/programowanie-defensywne</link>
-      <description>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;</description>
+      <description>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;</description>
       <guid>https://zakasanerekawy.pl/posts/programowanie-defensywne</guid>
       <pubDate>Tue, 13 Feb 2018 21:00:00 GMT</pubDate>
       <content:encoded>&lt;!-- This file is auto-generated, do not edit here --&gt;
-&lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?&lt;/p&gt;
+&lt;p class='lead'&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;
 &lt;p&gt;W odcinku jak zwykle pojawiają się tematy związane z programowaniem oraz zawodem programisty. Spis treści na dziś:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Programowanie defensywne - różne postrzeganie tematu&lt;/li&gt;

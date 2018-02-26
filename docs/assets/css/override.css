@@ -407,3 +407,10 @@ p.lead, .lead {
 .mailchimp-sidebar #show-newsletter-form {
   padding: 10px 15px; }
 
+.fb-like {
+  width: 100%;
+  text-align: center;
+  border: 1px solid #f4f4f4;
+  padding: 11px 0;
+  margin-top: 5px; }
+

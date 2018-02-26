@@ -2,19 +2,19 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="https://developers.google.com/search/docs/data-types/podcasts" xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>Programowanie na śniadanie</title>
-    <description>Blog o programowaniu w przystępnej formie audio. Poruszam tematy, które mogą zainteresować nas wszystkich, niezależnie od stosu technologicznego w którym pracuje.</description>
+    <description>Podcast, który przybliża platformę Microsoft .NET, zahaczając też o bardziej uniwersalną wiedzę wartościową dla każdego programisty i programistki.</description>
     <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie</link>
     <language>pl</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <lastBuildDate>Sat, 17 Feb 2018 10:25:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2018 09:03:47 GMT</lastBuildDate>
     <ttl>4320</ttl>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
     <itunes:author>Paweł Bulwan</itunes:author>
     <googleplay:author>Paweł Bulwan</googleplay:author>
-    <itunes:subtitle>Pierwszy polski blog o programowaniu w formie audio.</itunes:subtitle>
-    <itunes:summary>Blog o programowaniu w przystępnej formie audio. Poruszam tematy, które mogą zainteresować nas wszystkich, niezależnie od stosu technologicznego w którym pracuje.</itunes:summary>
+    <itunes:subtitle>Łatwy do przełknięcia podcast o programowaniu</itunes:subtitle>
+    <itunes:summary>Podcast, który przybliża platformę Microsoft .NET, zahaczając też o bardziej uniwersalną wiedzę wartościową dla każdego programisty i programistki.</itunes:summary>
     <itunes:keywords>programowanie, it, praca, microsoft, net, development, web, produktywność, programista, kariera</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
     <itunes:block>no</itunes:block>
@@ -48,8 +48,7 @@
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
@@ -58,8 +57,7 @@
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
@@ -68,8 +66,7 @@
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
@@ -78,8 +75,7 @@
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></content:encoded>
@@ -117,8 +113,7 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
@@ -133,8 +128,7 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
@@ -149,8 +143,7 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
@@ -165,8 +158,7 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></content:encoded>
@@ -206,8 +198,7 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
@@ -224,8 +215,7 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
@@ -242,8 +232,7 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
@@ -260,8 +249,7 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></content:encoded>
@@ -289,7 +277,7 @@
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
       <itunes:summary><![CDATA[
-<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami? Zawartość odcinka:</p><ul>
+<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
 <li>Programowanie defensywne - różne postrzeganie tematu</li>
 <li>Czym jest programowanie defensywne?
 <ol>
@@ -320,13 +308,12 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
-<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami? Zawartość odcinka:</p><ul>
+<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
 <li>Programowanie defensywne - różne postrzeganie tematu</li>
 <li>Czym jest programowanie defensywne?
 <ol>
@@ -357,13 +344,12 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></googleplay:description>
       <description><![CDATA[
-<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami? Zawartość odcinka:</p><ul>
+<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
 <li>Programowanie defensywne - różne postrzeganie tematu</li>
 <li>Czym jest programowanie defensywne?
 <ol>
@@ -394,13 +380,12 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></description>
       <content:encoded><![CDATA[
-<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami? Zawartość odcinka:</p><ul>
+<p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
 <li>Programowanie defensywne - różne postrzeganie tematu</li>
 <li>Czym jest programowanie defensywne?
 <ol>
@@ -431,8 +416,7 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Jeśli wolisz, to nowymi odcinkami chwalę się też na
-    <a href="https://twitter.com/pawelbulwan" target="_blank">Twitterze</a>. Podcast znajdziesz też po nazwie
+</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
     <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 
 ]]></content:encoded>
@@ -441,7 +425,7 @@ czytelnego i bezbłędnego kodu.</li>
       <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" length="13118784" type="audio/mpeg" />
       <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" fileSize="13118784" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 3: Programowanie defensywne</media:title>
-        <media:description type="plain">Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i użytkownikami?</media:description>
+        <media:description type="plain">Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?</media:description>
         <media:keywords>programowanie, bezpieczeństwo, dobre praktyki, kodowanie, wyjątki, błędy, testy</media:keywords>
         <media:rating scheme="urn:simple">nonadult</media:rating>
         <media:rating scheme="urn:v-chip">tv-g</media:rating>
