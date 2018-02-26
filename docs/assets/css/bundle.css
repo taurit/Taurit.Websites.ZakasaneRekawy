@@ -5683,4 +5683,6 @@ p.lead, .lead {
   text-align: center;
   border: 1px solid #f4f4f4;
   padding: 11px 0;
-  margin-top: 5px; }
+  margin-top: 5px;
+  overflow: hidden;
+  /* on smaller screens it won't fit */ }
