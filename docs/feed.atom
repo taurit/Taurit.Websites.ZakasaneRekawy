@@ -7,8 +7,8 @@
   <link rel="self" href="https://zakasanerekawy.pl/" />
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
-  <rights>2018</rights>
-  <updated>2018-02-26T18:47:22Z</updated>
+  <rights>2019</rights>
+  <updated>2019-01-01T13:03:16Z</updated>
   <subtitle>Jak efektywniej uczyć się i pracować</subtitle>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/jak-dziala-linq" />
@@ -39,7 +39,7 @@
                     &lt;div class='thumbnail'&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' alt='' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: &lt;a href='https://unsplash.com/photos/fnHLSwXcEUM' rel='nofollow' target='_blank'&gt;Paul Bence&lt;/a&gt;
+                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: Paul Bence
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;

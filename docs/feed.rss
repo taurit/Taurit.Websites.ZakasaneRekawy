@@ -8,9 +8,9 @@
     <title>Zakasane rękawy</title>
     <link>https://zakasanerekawy.pl/</link>
     <description>Jak efektywniej uczyć się i pracować</description>
-    <copyright>2018</copyright>
-    <pubDate>Mon, 26 Feb 2018 18:47:22 GMT</pubDate>
-    <lastBuildDate>Mon, 26 Feb 2018 18:47:22 GMT</lastBuildDate>
+    <copyright>2019</copyright>
+    <pubDate>Tue, 01 Jan 2019 13:03:16 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Jan 2019 13:03:16 GMT</lastBuildDate>
     <item>
       <title>PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</title>
       <link>https://zakasanerekawy.pl/posts/jak-dziala-linq</link>
@@ -41,7 +41,7 @@
                     &lt;div class='thumbnail'&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' alt='' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: &lt;a href='https://unsplash.com/photos/fnHLSwXcEUM' rel='nofollow' target='_blank'&gt;Paul Bence&lt;/a&gt;
+                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: Paul Bence
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
