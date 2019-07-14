@@ -321,3 +321,4 @@ docs/input.vsspell
 docs/input.proj.DotSettings
 docs/packages.config
 docs/assets/posts/**/*.hq.jpg
+docs/posts/.vscode/spellright.dict

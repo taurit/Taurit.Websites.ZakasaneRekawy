@@ -9,8 +9,8 @@
     <link>https://zakasanerekawy.pl/</link>
     <description>Jak efektywniej uczyć się i pracować</description>
     <copyright>2019</copyright>
-    <pubDate>Tue, 01 Jan 2019 13:12:16 GMT</pubDate>
-    <lastBuildDate>Tue, 01 Jan 2019 13:12:16 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jul 2019 09:23:57 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jul 2019 09:23:57 GMT</lastBuildDate>
     <item>
       <title>PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</title>
       <link>https://zakasanerekawy.pl/posts/jak-dziala-linq</link>
@@ -109,20 +109,24 @@
       <link>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</link>
       <description>&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;</description>
       <guid>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</guid>
-      <pubDate>Mon, 05 Feb 2018 08:01:10 GMT</pubDate>
+      <pubDate>Sun, 14 Jul 2019 12:46:00 GMT</pubDate>
       <content:encoded>&lt;h2 id="polskie-podcasty-o-programowaniu"&gt;Polskie podcasty o programowaniu&lt;/h2&gt;
 &lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;
 &lt;p&gt;Jako słuchacz najbardziej doceniam tę formę audycji w trakcie dojazdu do pracy albo przejażdżki rowerowej. Sprawdzają się też podczas długiej jazdy pociągiem.&lt;/p&gt;
-&lt;p&gt;Na swojej liście audycji mam oczywiście podcasty o programowaniu i szczególnie te &lt;strong&gt;prowadzone w języku polskim&lt;/strong&gt; wydają się często bliskie codziennej pracy i doświadczeniom. Warto wiedzieć jakie mamy opcje, i tak na pewno warte uwagi są:&lt;/p&gt;
+&lt;p&gt;Na swojej liście audycji mam oczywiście podcasty o programowaniu i szczególnie te &lt;strong&gt;prowadzone w języku polskim&lt;/strong&gt; wydają się często bliskie codziennej pracy i doświadczeniom. Warto wiedzieć jakie mamy opcje. U mnie przez ostatnie lata przewinęło się ich już kilka (w kolejności alfabetycznej):&lt;/p&gt;
 &lt;ul&gt;
-    &lt;li&gt;&lt;a href="http://devtalk.pl/" target="_blank" class="bg-success text-success"&gt;DevTalk&lt;/a&gt; Maćka Aniserowicza, do którego regularnie zaprasza wielu ciekawych gości. Godna podziwu systematyczność i ciekawe tematy.&lt;/li&gt;
-    &lt;li&gt;Podcast &lt;a href="https://www.facebook.com/ostrapila/" target="_blank" class="bg-success text-success"&gt;Ostra Piła&lt;/a&gt; gdzie Paweł Łukasik i Jarek Stadnicki rozmawiają o IT. Słuchając można zestawić swoje doświadczenia z tym, co dzieje się w innych firmach, nawet na drugim krańcu Polski :)&lt;/li&gt;
-    &lt;li&gt;&lt;a href="http://startupmyway.com/smw-podcast-1-andrzej-krzywda/" class="bg-success text-success"&gt;Startup My Way&lt;/a&gt; Bogusza Pękalskiego - pierwszy odcinek w formie wywiadu wyszedł zaledwie kilka dni temu, ale zapowiada się ciekawie i jak najbardziej w temacie.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://devenv.pl/devcast-podcast-it/" target="_blank" class="bg-success text-success"&gt;Dev:Cast&lt;/a&gt; jest nagrywany drużynowo, odcinki trwają nie więcej niż 30 minut (w sama raz np. na dojazd do biura) i powstaje z godną podziwu regularnością.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://devtalk.pl/" target="_blank" class="bg-success text-success"&gt;DevTalk&lt;/a&gt; Maćka Aniserowicza, to w mojej głowie prekursor polskich podcastów IT. Czy był pierwszy nie wiem, ale wciąż jest nagrywany - dużo ciekawych gości i tematów.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://anchor.fm/jakub-cywka" target="_blank" class="bg-success text-success"&gt;Open Sourced&lt;/a&gt; Jakuba Cywki to niejako "blog w formie audio". Odcinków jest już naprawdę sporo więc każdy ma szansę znaleźć temat dla siebie :)&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.facebook.com/ostrapila/" target="_blank" class="bg-success text-success"&gt;Ostra Piła&lt;/a&gt; gdzie Paweł Łukasik i Jarek Stadnicki rozmawiają o IT. Słuchając można zestawić swoje doświadczenia z tym, co dzieje się w innych firmach, nawet na drugim krańcu Polski. Można też współtworzyć podcast przez dorzucenie swoich trzech groszy na Trello (link na &lt;a href="https://ostrapila.pl/" target="_blank"&gt;oficjalnej stronie podcastu&lt;/a&gt;) przez nagraniem, co fajnie się sprawdza.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://porozmawiajmyoit.pl/" target="_blank" class="bg-success text-success"&gt;Porozmawiajmy o IT&lt;/a&gt; Krzysztofa Kempińskiego porusza dużo ciekawych tematów dookoła tego co robimy w branży IT, a multum zapraszanych gości daje na pewno szeroką perspektywę.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="http://startupmyway.com/smw-podcast-1-andrzej-krzywda/" class="bg-success text-success"&gt;Startup My Way&lt;/a&gt; Bogusza Pękalskiego - z perspektywy czasu widać już, że faktycznie nie jest to podcast o tworzeniu oprogramowania, często jednak zahacza o temat nowych technologii. Przez podcast przewinęło się już wiele ciekawych gości.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Kojarzę też co najmniej dwa, które po pierwszych 2-3 odcinkach wstrzymały działanie. W katalogu &amp;quot;Polskie Podcasty&amp;quot; jest kilka innych audycji w kategorii &lt;a href="https://polskiepodcasty.pl/category/podcasty/technologia/" target="_blank"&gt;Technologia&lt;/a&gt;, jednak żadna z nich nie jest bezpośrednio skupiona na programowaniu, a najczęściej dotyczy nowinek ze świata technologii.&lt;/p&gt;
-&lt;p&gt;Jak widać jako programiści i programistki mamy już kilka fajnych opcji. Myślę jednak, że jest tu pole żeby dorzucić coś od siebie ;)&lt;/p&gt;
+&lt;p&gt;Jak widać jako programiści i programistki mamy już kilka fajnych opcji. Myślę jednak, że wciąż jest tu pole żeby dorzucić coś od siebie ;)&lt;/p&gt;
 &lt;h2 id="nowy-podcast-programowanie-na-sniadanie"&gt;Nowy podcast: &amp;quot;Programowanie na śniadanie&amp;quot;&lt;/h2&gt;
-&lt;p&gt;Dziś do tej puli dorzucam swoje trzy grosze, a konkretnie &lt;strong&gt;trzy odcinki nowego podcastu&lt;/strong&gt; dedykowanego programistom i programistkom. Nazwałem go &lt;em&gt;Programowanie na śniadanie&lt;/em&gt;, aby keyword &lt;em&gt;programowanie&lt;/em&gt; znalazł się w tytule ;) Z tej pragmatycznej decyzji jestem dumny. Z odcinków miejscami mniej, ale trzeba czasami pójść na kompromis i wypuścić coś co ma błędy, ale pozwala ruszyć z miejsca.&lt;/p&gt;
+&lt;p class="text-warning bg-warning update-text"&gt;&lt;strong&gt;Aktualizacja, 14.07.2019 r.&lt;/strong&gt;: mój podcast został zarzucony i z perspektywy czasu widzę, że raczej nie wróci na listę moich priorytetów. Tekst niżej ma więc już jedynie wartość archiwalną, a ja zachęcam do sprawdzenia pozycji wypisanych powyżej :)&lt;/p&gt;
+&lt;p&gt;Dziś do tej puli dorzucam swoje trzy grosze, a konkretnie &lt;strong&gt;trzy odcinki nowego podcastu&lt;/strong&gt; dedykowanego programistom i programistkom. Nazwałem go &lt;em&gt;Programowanie na śniadanie&lt;/em&gt;, aby słowo kluczowe &lt;em&gt;programowanie&lt;/em&gt; znalazło się w tytule ;) Z tej pragmatycznej decyzji jestem dumny. Z odcinków miejscami mniej, ale trzeba czasami pójść na kompromis i wypuścić coś co ma błędy, ale pozwala ruszyć z miejsca.&lt;/p&gt;
 &lt;p&gt;&lt;a href="https://jakoszczedzacpieniadze.pl/jak-zaczac-nagrywac-podcast-marek-jankowski" target="_blank"&gt;Doświadczeni podcasterzy&lt;/a&gt; słusznie zwrócili uwagę, że mówienie do siebie (nawet w obecności mikrofonu) nie każdemu przychodzi łatwo. Robię chyba wszystkie błędy początkującego, włączając w to czytanie z kartki, okazjonalne &amp;quot;mmm&amp;quot;, i drobne potknięcia merytoryczne (które przy dobrej woli można uznać za skróty myślowe). Tak czy inaczej, od czegoś trzeba zacząć i pracuję nad tym żeby poprawiać błędy ;)&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
@@ -139,11 +143,11 @@
 &lt;p&gt;Zapraszam do &lt;a href="/podcast/programowanie-na-sniadanie/"&gt;słuchania i subskrypcji&lt;/a&gt; i dziękuję, że tu wpadłeś lub wpadłaś! Jeśli posłuchasz, zostaw też konieczne feedback! Odcinki na początek:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/0" target="_blank"&gt;PNŚ 0: "Programowanie na śniadanie"&lt;/a&gt; - o pomyśle na podcast&lt;/li&gt;
-&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/1" target="_blank"&gt;PNŚ 1: "Hit Refresh". Jak naprawić korporację? - wg CEO Microsoftu&lt;/a&gt; - recenzja ksiązki wydanej jesienią ubiegłego roku&lt;/li&gt;
+&lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/1" target="_blank"&gt;PNŚ 1: "Hit Refresh". Jak naprawić korporację? - wg CEO Microsoftu&lt;/a&gt; - recenzja książki wydanej jesienią ubiegłego roku&lt;/li&gt;
 &lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/2" target="_blank"&gt;PNŚ 2: Jak poprawić bezpieczeństwo strony jednym meta-tagiem - Content-Security-Policy&lt;/a&gt; - odcinek techniczny, dla web-developerów&lt;/li&gt;
 &lt;li&gt;&lt;a href="/podcast/programowanie-na-sniadanie/" target="_blank"&gt;Zobacz listę wszystkich odcinków...&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Możesz &lt;strong&gt;wesprzeć mnie na starcie&lt;/strong&gt; i poprawić widoczność podcastu &lt;a href="https://www.facebook.com/programowanienasniadanie/" target="_blank" class="bg-success text-success"&gt;&lt;strong&gt;lajkując jego stronę na Facebooku&lt;/strong&gt;&lt;/a&gt;. Dziękuję :)&lt;/p&gt;
+&lt;p&gt;A może znacie jeszcze inne polskie pozycje warte polecenia?&lt;/p&gt;
 </content:encoded>
     </item>
     <item>
@@ -262,7 +266,7 @@ The goal of productive meditation is to take a period in which you’re occupied
 &lt;h2 id="nauka-sowek"&gt;2. Nauka słówek&lt;/h2&gt;
 &lt;p&gt;Codzienne dojazdy są całkiem dobrą okazją do nauki lub powtórek słówek w języku obcym. 20-30 minutowe dojazdy koleją albo autobusem świetnie nadają się do pracy z aplikacjami takimi jak &lt;a href="https://www.supermemo.com/en/apps" target="_blank"&gt;SuperMemo&lt;/a&gt; albo &lt;a href="https://www.ankiapp.com/" target="_blank"&gt;Anki&lt;/a&gt; prezentującego nam &amp;quot;fiszki&amp;quot; ze słówkami języka obcego, bo:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;potrzebujemy przy sobie jedynie smartfona i słuchawek,&lt;/li&gt;
+&lt;li&gt;potrzebujemy przy sobie jedynie smartfonu i słuchawek,&lt;/li&gt;
 &lt;li&gt;regularność działa cuda. Jeśli w dni robocze podczas dojazdów do pracy będziemy uczyć się ledwie 5 nowych słówek i robić powtórki poprzednich (co powinno zająć może 10 minut dziennie), to po roku będziemy dzięki temu pamiętać ponad 1200 słówek. To już jest zauważalny postęp w nauce albo szlifowaniu języka,&lt;/li&gt;
 &lt;li&gt;jeśli nie wyrobimy się z powtórkami w trakcie krótkiej podróży, możemy w dowolnej chwili przerwać naukę. Nauka pojedynczych słówek albo zwrotów nie wymaga wielkiego skupienia, łatwo ją rozpocząć i łatwo przerwać,&lt;/li&gt;
 &lt;li&gt;łatwo wyrobić sobie nawyk, w którym po wejściu do pojazdu rozpoczynamy naukę.&lt;/li&gt;
@@ -326,7 +330,7 @@ The goal of productive meditation is to take a period in which you’re occupied
 &lt;p&gt;PIN z dostępem do serwisu transakcyjnego zostanie wysłany pocztą na adres korespondencyjny widoczny na potwierdzeniu (otrzymany z mBanku). W procesie nie było możliwości zmiany tego adresu.&lt;/p&gt;
 &lt;p&gt;Ja jeszcze czekam na kopertę, ale regulamin &lt;reference url="https://www.pkotfi.pl/media_files/44e4999d-3a48-49da-9749-b5ecddca3ff2.pdf" title="Zasady 'Usługi email'" author="PKO Towarzystwo Funduszy Inwestycyjnych" date="2017-10-13" /&gt; i inne treści na stronie &lt;reference url="http://www.pkotfi.pl/bezpieczne-logowanie/" title="Bezpieczne logowanie" author="PKO Towarzystwo Funduszy Inwestycyjnych" date="2017-10-13" /&gt; wskazują, że zmiana sposobu dostarczania powiadomień na elektroniczne jest możliwa.&lt;/p&gt;
 &lt;h3 id="union-investment"&gt;Union Investment&lt;/h3&gt;
-&lt;p&gt;Jeśli mamy juz wykupione jednostki w tym towarzystwie, nie możemy skorzystać z formularza rejestracji (co mówi sam formularz). Rozmowa z konsultantem pokazała, że obecnie są dwie ścieżki umożliwiające rejestrację w systemie transakcyjnym:&lt;/p&gt;
+&lt;p&gt;Jeśli mamy już wykupione jednostki w tym towarzystwie, nie możemy skorzystać z formularza rejestracji (co mówi sam formularz). Rozmowa z konsultantem pokazała, że obecnie są dwie ścieżki umożliwiające rejestrację w systemie transakcyjnym:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;jeśli mamy kamerę internetową, możemy skorzystać z &lt;a href="https://wirtualnyoddzial.union-investment.pl/" target="_blank"&gt;Wirtualnego Oddziału Union Investment&lt;/a&gt;. Tam pracownik pomoże nam przygotować umowę rejestracji. Nie jestem pewien co dalej bo nie poszedłem tą ścieżką, więc być może będzie również potrzebne jej fizyczne podpisanie i dostarczenie.&lt;/li&gt;
 &lt;li&gt;obecnie jest jeden Punkt Obsługi Klienta (w Warszawie) gdzie można wybrać się osobiście i wykonać rejestrację.&lt;/li&gt;
@@ -371,7 +375,7 @@ The goal of productive meditation is to take a period in which you’re occupied
             &lt;/div&gt;
 &lt;p&gt;&lt;b&gt;Czy powinniśmy czuć się źle ignorując połączenie przychodzące z nieznanego numeru?&lt;/b&gt; Podzielę się dziś swoimi przemyśleniami w tym temacie.&lt;/p&gt;
 &lt;h2 id="czy-odbieranie-telefonu-jest-obowiazkiem"&gt;Czy odbieranie telefonu jest obowiązkiem?&lt;/h2&gt;
-&lt;p&gt;Telefony, podobnie jak e-maile, potrafią nas wybić ze stanu skupienia i przerwać naszą pracę. Rozumie to Donald Knuth, profestor Stanforda i autor m.in. słynnej książki &lt;i&gt;The Art of Computer Programming&lt;/i&gt; który od 1990 roku &lt;a href="http://www-cs-faculty.stanford.edu/~knuth/email.html" target="_blank"&gt;nie używa nawet poczty email&lt;/a&gt; &lt;reference url="http://www-cs-faculty.stanford.edu/~knuth/email.html" author="Donald Knuth" title="Donald Knuth, FAQ, When did you stop using email?" date="2017-09-13" /&gt;. Na swojej stronie pisze:&lt;/p&gt;
+&lt;p&gt;Telefony, podobnie jak e-maile, potrafią nas wybić ze stanu skupienia i przerwać naszą pracę. Rozumie to Donald Knuth, profesor Stanforda i autor m.in. słynnej książki &lt;i&gt;The Art of Computer Programming&lt;/i&gt; który od 1990 roku &lt;a href="http://www-cs-faculty.stanford.edu/~knuth/email.html" target="_blank"&gt;nie używa nawet poczty email&lt;/a&gt; &lt;reference url="http://www-cs-faculty.stanford.edu/~knuth/email.html" author="Donald Knuth" title="Donald Knuth, FAQ, When did you stop using email?" date="2017-09-13" /&gt;. Na swojej stronie pisze:&lt;/p&gt;
 &lt;blockquote lang="en"&gt;Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration. I try to learn certain areas of computer science exhaustively; then I try to digest that knowledge into a form that is accessible to people who don't have time for such study. (...)&lt;/blockquote&gt;
 &lt;p&gt;Muszę przyznać, że tego typu rozumowanie bardzo dobrze do mnie trafia. Dodam więc jeszcze fragment z &lt;i&gt;Deep Work&lt;/i&gt; &lt;reference author="Cal Newport" title="Deep Work" publisher='Piatkus' place='London' isbn='978-0-349-41191-0' date='2016' edition="1" /&gt;, który doskonale uzupełnia powyższe rozważania.&lt;/p&gt;
 &lt;blockquote lang="en"&gt;To learn hard things quickly, you must focus intensely without distraction. To learn, in other words, is an act of deep work.
@@ -421,7 +425,7 @@ source-link="https://www.youtube.com/watch?v=dLRjiiAawGg"
     &lt;li&gt;&lt;span class="bg-danger text-danger"&gt;płatność w modelu abonamentu,&lt;/span&gt;&lt;/li&gt;
     &lt;li&gt;&lt;span class="bg-danger text-danger"&gt;reguły blokowania które możemy tworzyć są dość proste i brakuje mi możliwości znanych z &lt;i&gt;LeechBlock&lt;/i&gt;.&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p class="text-warning bg-warning update-text"&gt;Aktualizacja, 19.02.2018 r.: Freedom okazał się zbyt niepraktyczny, ze względu na sposób działania i musiałem go porzucić. Aplikacja działa jako proxy połączenia internetowego, niektóry programy nie radzą sobie z taką konfiguracją - blokuje to synchronizację OneNote, nie działa np iTunes czy niektóre inne aplikacje.&lt;br /&gt;
+&lt;p class="text-warning bg-warning update-text"&gt;Aktualizacja, 19.02.2018 r.: Freedom okazał się zbyt niepraktyczny, ze względu na sposób działania i musiałem go porzucić. Aplikacja działa jako proxy połączenia internetowego, niektóry programy nie radzą sobie z taką konfiguracją - blokuje to synchronizację OneNote, nie działa np. iTunes czy niektóre inne aplikacje.&lt;br /&gt;
 Na ten moment trochę pomaga mi Spotify, dzięki któremu nie daję YouTube szansy na skuszenie mnie filmami ;) Do tego mam włączone opisane niżej lżejsze rozwiązania przeglądarkowe.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
@@ -582,7 +586,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
     &lt;li&gt;&lt;b&gt;Pomyślnie ukończone bloki pracy notuję&lt;/b&gt; z krótkim komentarzem co udało się osiągnąć (aby wzmocnić satysfakcję i pozytywne skojarzenia z pracą w blokach),&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Technikę warto oczywiście dostosować do swoich upodobań, aby sprawiała nam frajdę i zachęcała do rozpoczynania kolejnych bloków.&lt;/p&gt;
-&lt;p&gt;Jeśli kojarzysz działalność Damiana Redmera, a w szczególności kurs &lt;a href="http://www.easyworksystem.pl/" target="_blank"&gt;Easy Work System&lt;/a&gt;, to łatwo skojarzysz że tam takie bloki pracy nazywane są &lt;em&gt;złotymi godzinami&lt;/em&gt;. Szczerze polecam ów kurs, a także kanał Youtube Damiana &lt;a href="https://www.youtube.com/channel/UCyiAABk3RD-njRwITkNFMlA" rel="nofollow" target="_blank"&gt;“Rozwojowiec”&lt;/a&gt;, można tam znaleźć wiele pokrewnych technik które sprawią że nasz system pracy będzie niezawodny.&lt;/p&gt;
+&lt;p&gt;Jeśli kojarzysz działalność Damiana Redmera, a w szczególności kurs &lt;a href="http://www.easyworksystem.pl/" target="_blank"&gt;Easy Work System&lt;/a&gt;, to łatwo skojarzysz że tam takie bloki pracy nazywane są &lt;em&gt;złotymi godzinami&lt;/em&gt;. Szczerze polecam ów kurs, a także kanał YouTube Damiana &lt;a href="https://www.youtube.com/channel/UCyiAABk3RD-njRwITkNFMlA" rel="nofollow" target="_blank"&gt;“Rozwojowiec”&lt;/a&gt;, można tam znaleźć wiele pokrewnych technik które sprawią że nasz system pracy będzie niezawodny.&lt;/p&gt;
 &lt;h2 id="dlaczego-warto-pracowac-w-blokach-czasowych"&gt;Dlaczego warto pracować w blokach czasowych?&lt;/h2&gt;
 &lt;p&gt;Co dzięki temu zyskujemy, oprócz tego że trochę sobie udziwniamy życie? Sądzę z doświadczeń które mam z tym systemem, że kilka bardzo istotnych zalet:&lt;/p&gt;
 &lt;ol&gt;
@@ -638,7 +642,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;h2 id="kalendarz-i-todo-lista-nie-rozwiazuja-problemu"&gt;Kalendarz i todo-lista nie rozwiązują problemu&lt;/h2&gt;
 &lt;p&gt;&lt;b&gt;Kalendarz&lt;/b&gt; albo &lt;b&gt;lista todo&lt;/b&gt; mogą nam przypomnieć o niektórych zadaniach. Tych narzędzi zapewne używacie na co dzień i w zupełności wystarczą do przypominania sobie o ważnych powtarzających się cyklicznie obowiązkach. W zupełności wystarczą, by zaplanować coroczne badanie techniczne pojazdu.&lt;/p&gt;
 &lt;p&gt;Jednak wiele z opisanych czynności powinniśmy wykonywać &lt;strong&gt;co pewien przejechany dystans&lt;/strong&gt;, np. co 400 km, 6000 km lub 15 000 km. Nie wiem jak Wy, ale ja zdecydowanie nie planuję zaprzątać sobie głowy pamiętaniem kilku stanów licznika.&lt;/p&gt;
-&lt;p&gt;Moim pierwszym podejściem żeby śledzić te wartości był arkusz w Excelu z liczbą przejechanych kilometrów oraz cykliczne zadanie na liście w którym miałem ocenić czy zbliżam się dodystansu gdzie potrzebna jest moja akcja. To rozwiązania się nie sprawdziło, a w dodatku było bardzo niewygodne.&lt;/p&gt;
+&lt;p&gt;Moim pierwszym podejściem żeby śledzić te wartości był arkusz w Excelu z liczbą przejechanych kilometrów oraz cykliczne zadanie na liście w którym miałem ocenić czy zbliżam się do dystansu gdzie potrzebna jest moja akcja. To rozwiązania się nie sprawdziło, a w dodatku było bardzo niewygodne.&lt;/p&gt;
 &lt;h2 id="drivvo-na-ratunek"&gt;Drivvo na ratunek&lt;/h2&gt;
 &lt;p&gt;Aplikacja &lt;em&gt;Drivvo&lt;/em&gt; rozwiązała dokładnie ten problem. Pozwala nam zdefiniować jakiego rodzaju powiadomienia chcemy otrzymywać i co jaką liczbę przejechanych kilometrów, lub co jaki czas.&lt;/p&gt;
 &lt;p&gt;Wystarczy więc wyrobić &lt;strong&gt;jeden prosty nawyk&lt;/strong&gt;: po każdym tankowaniu &lt;strong&gt;wpisać do aplikacji informację&lt;/strong&gt; o tankowaniu &lt;strong&gt;wraz z aktualnym stanem licznika&lt;/strong&gt;. Możemy też oczywiście aktualizować stan licznika częściej, np. na zakończenie dłuższej podróży, albo nawet zawsze gdy włączymy zapłon.&lt;/p&gt;
@@ -655,7 +659,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
                 &lt;/figure&gt;
             &lt;/div&gt;&lt;/p&gt;
 &lt;p&gt;Notowanie zdarzeń dotyczących pojazdu daje też kilka dodatkowych korzyści. Po pewnym czasie możemy zgromadzić naprawdę solidne źródło informacji na temat rzeczywistych kosztów utrzymania pojazdu.&lt;/p&gt;
-&lt;p&gt;Program gromadzi informacje o wydatkach, częstotliwości tankowań i trasach. Na ich podstawie możemy dowiedzieć się precyzyjnie jakie jest średnie spalanie, koszty napraw czy wręcz &lt;strong&gt;średni koszt przejechania jednego kilometra&lt;/strong&gt; z uwzględnieniem wszystkich opłat.&lt;/p&gt;
+&lt;p&gt;Program gromadzi informacje o wydatkach, częstotliwości tankowania i trasach. Na ich podstawie możemy dowiedzieć się precyzyjnie jakie jest średnie spalanie, koszty napraw czy wręcz &lt;strong&gt;średni koszt przejechania jednego kilometra&lt;/strong&gt; z uwzględnieniem wszystkich opłat.&lt;/p&gt;
 &lt;p&gt;I niestety większość z nas zauważy, że potwierdza się to co Michał Szafrański pisał kiedyś w artykule o &lt;a href="http://jakoszczedzacpieniadze.pl/nowe-auto-z-salonu-calkowity-koszt-eksploatacji" rel="nofollow" target="_blank"&gt;koszcie eksploatacji auta&lt;/a&gt;. Mianowicie, że jak się to wszystko policzy, to korzystanie z taksówek okazuje się tańszym rozwiązaniem ;)&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.drivvo.com/en/" target="_blank" rel="nofollow"&gt;Aplikacja Drivvo&lt;/a&gt; jest dostępna w sklepach &lt;em&gt;Google Play&lt;/em&gt; i &lt;em&gt;iTunes&lt;/em&gt;. Roczna subskrypcja kosztuje &lt;b&gt;12 zł&lt;/b&gt; (Android) lub ok. &lt;b&gt;22,60 zł&lt;/b&gt; (iPhone).&lt;/p&gt;
 </content:encoded>
@@ -683,7 +687,7 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
             &lt;/div&gt;&lt;/p&gt;
 &lt;h2 id="sukces-czy-porazka"&gt;Sukces czy porażka?&lt;/h2&gt;
 &lt;p&gt;Projekt do wspomagania przeglądu zadań miał powstawać przez ostatnie trzy miesiące. W tym czasie z niejasnej wizji aplikacji która mogłaby mi pomóc &lt;a href="/tags/revisionist" target="_blank"&gt;powstały teksty&lt;/a&gt; określające wizję takiego narzędzia. Narzędzie to nie doczekało się jednak implementacji.&lt;/p&gt;
-&lt;p&gt;W tym czasie próbowałem również wybadać rynek i jego potrzeby i tutaj spotkało mnie raczej rozczarowanie. Osoby szukające aplikacji takich jak ta można policzyć na palcach. Oczywiście zdawałem sobie sprawę, że plug-in do Todoista to nisza, ale w zderzeniu z danymi o rynku nie zdecydowałem się na poświęcenie kilkudziesięciu godzin na pełną realizację projektu.&lt;/p&gt;
+&lt;p&gt;W tym czasie próbowałem również wybadać rynek i jego potrzeby i tutaj spotkało mnie raczej rozczarowanie. Osoby szukające aplikacji takich jak ta można policzyć na palcach. Oczywiście zdawałem sobie sprawę, że plug-in do Todoist to nisza, ale w zderzeniu z danymi o rynku nie zdecydowałem się na poświęcenie kilkudziesięciu godzin na pełną realizację projektu.&lt;/p&gt;
 &lt;p&gt;&lt;b&gt;Ale może to właśnie sukces&lt;/b&gt;? Metodyka &lt;i&gt;lean startup&lt;/i&gt; i wiele innych współczesnych znanych mi źródeł nt. przedsiębiorczości kładą mocny nacisk na to, żeby badać rynek, a nie ładować się w ciemno w realizację nikomu niepotrzebnych projektów.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
@@ -856,7 +860,7 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
       <content:encoded>&lt;h2 id="czy-f.lux-dziaa"&gt;Czy f.lux działa?&lt;/h2&gt;
 &lt;p class="lead"&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;
 &lt;p&gt;Ta aplikacja, która niegdyś wydawała się niszową ciekawostką dla nerdów, zdobyła już całkiem sporą popularność. W niedawnej aktualizacji dla &lt;i&gt;Windows 10&lt;/i&gt; Microsoft wprowadził nawet na poziomie systemu operacyjnego funkcję &lt;em&gt;Night Light&lt;/em&gt;, która w analogiczny sposób modyfikuje wyświetlany na ekranie obraz (o ile ją włączymy).&lt;/p&gt;
-&lt;p&gt;Czy takie profilaktyczne działania mają sens? Badania i eksperymenty, których w tym temacie &lt;a href="https://en.wikipedia.org/wiki/Effects_of_blue_lights_technology" target="_blank"&gt;jest już sporo&lt;/a&gt;, pokazują że tak. Jednak &lt;b&gt;aplikacja to tylko część rozwiązania&lt;/b&gt;, którego możemy potrzebowaći o tym dziś chciałem głównie napisać.&lt;/p&gt;
+&lt;p&gt;Czy takie profilaktyczne działania mają sens? Badania i eksperymenty, których w tym temacie &lt;a href="https://en.wikipedia.org/wiki/Effects_of_blue_lights_technology" target="_blank"&gt;jest już sporo&lt;/a&gt;, pokazują że tak. Jednak &lt;b&gt;aplikacja to tylko część rozwiązania&lt;/b&gt;, którego możemy potrzebować i o tym dziś chciałem głównie napisać.&lt;/p&gt;
 &lt;p&gt;F.lux jest jak umycie pach, gdy tak naprawdę potrzebujemy prysznica. Jeśli chcemy skorzystać z tego co oferuje, musimy do pewnego stopnia zrozumieć problem.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
@@ -936,9 +940,9 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
                         &lt;div class='caption'&gt;
                             &lt;figcaption&gt;Rys. 1. Porównanie wyniku kompresji z użyciem standardów JPEG i JPEG2000 dla zdjęcia. Zastosowano &lt;strong&gt;wysokie współczynniki kompresji&lt;/strong&gt;, dające &lt;b&gt;taki sam rozmiar plików&lt;/b&gt; dla obu plików wyjściowych.&lt;br&gt;&lt;br&gt;
 Od lewej:&lt;br&gt;
-1) plik wejściowy JPG (JPEG, &lt;b&gt;324 kb&lt;/b&gt;),&lt;br&gt;
-2) plik JP2 po kompresji (JPEG2000, &lt;b&gt;36 kb&lt;/b&gt;),&lt;br&gt;
-3) plik JPG po kompresji (JPEG, &lt;b&gt;36 kb&lt;/b&gt;).
+1) plik wejściowy JPG (JPEG, &lt;b&gt;324 kB&lt;/b&gt;),&lt;br&gt;
+2) plik JP2 po kompresji (JPEG2000, &lt;b&gt;36 kB&lt;/b&gt;),&lt;br&gt;
+3) plik JPG po kompresji (JPEG, &lt;b&gt;36 kB&lt;/b&gt;).
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -952,9 +956,9 @@ Od lewej:&lt;br&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/img/posts/jpeg/porownanie-jpeg-jpeg2000-tekst.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/porownanie-jpeg-jpeg2000-tekst.jpg' alt='Porównanie formatów JPEG i JPEG2000 przy wysokim stopniu kompresji' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
                             &lt;figcaption&gt;Rys. 2. Rys. 1. Porównanie wyniku kompresji z użyciem standardów JPEG i JPEG2000 dla tekstu. Od góry:&lt;br&gt;
-1) plik wejściowy JPG (JPEG, &lt;b&gt;142 kb&lt;/b&gt;),&lt;br&gt;
-2) plik JP2 (JPEG2000, &lt;b&gt;8 kb&lt;/b&gt;),&lt;br&gt;
-3) plik JPG (JPEG, &lt;b&gt;8 kb&lt;/b&gt;).
+1) plik wejściowy JPG (JPEG, &lt;b&gt;142 kB&lt;/b&gt;),&lt;br&gt;
+2) plik JP2 (JPEG2000, &lt;b&gt;8 kB&lt;/b&gt;),&lt;br&gt;
+3) plik JPG (JPEG, &lt;b&gt;8 kB&lt;/b&gt;).
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;
@@ -1069,7 +1073,7 @@ magick convert input.jpg -quality 20 output.jpg
     &lt;li&gt;Tekst skopiowany z przeglądarki internetowej możemy wkleić do notatnika jako czysty tekst, a do Worda z zachowaniem formatowania?&lt;/li&gt;
     &lt;li&gt;Jak w schowku jest reprezentowany fragment strony internetowej zawierający obrazki?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Kluczem do tego jest fakt, że dane w schowku są równocześnie przechowywane w różnych formatach, np. czystego tekstu, html albo tekstu sformatowanego (ang. &lt;i lang="en"&gt;rich text&lt;/i&gt;).&lt;/p&gt;
+&lt;p&gt;Kluczem do tego jest fakt, że dane w schowku są równocześnie przechowywane w różnych formatach, np. czystego tekstu, HTML albo tekstu sformatowanego (ang. &lt;i lang="en"&gt;rich text&lt;/i&gt;).&lt;/p&gt;
 &lt;p&gt;Program mieści się w zaledwie 46 kilobajtach. Jeśli jesteś developerem, warto choć na chwilę się mu przyjrzeć w działaniu, żeby wyrobić sobie wyobraźnię na temat tego jak działa tak podstawowe narzędzie jak schowek.&lt;/p&gt;
 &lt;h2 id="podsumowanie"&gt;Podsumowanie&lt;/h2&gt;
 &lt;p&gt;Schowek jaki jest każdy widzi. Jeśli zastosował opisane wyżej narzędzia to widzi nawet znacznie wyraźniej ;)&lt;/p&gt;
@@ -1251,7 +1255,7 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;h2 id="status-projektu"&gt;Status projektu&lt;/h2&gt;
 &lt;p&gt;Kod projektu ciągle jest w powijakach. Jednocześnie sama wizja już mi się dość mocno &amp;quot;uleżała&amp;quot;, staram się w tym dostrzec jakiś postęp ;) Udało mi się pójść do przodu z samą organizacją środowiska pracy, co powinno mi teraz pozwolić na przyspieszenie tempa.&lt;/p&gt;
 &lt;p&gt;Zgodnie z &lt;a href="/posts/jak-przyspieszyc-przeglad-zadan" target="_blank"&gt;planem działań który sobie określiłem&lt;/a&gt; jednym z początkowych działań miała być konfiguracja &lt;em&gt;Continuous Deployment&lt;/em&gt; kodu z GitHuba. &lt;strong&gt;I udało się!&lt;/strong&gt; Aplikacja od teraz jest zawsze dostępna w najnowszej wersji na &lt;a href="https://revisionist.azurewebsites.net" target="_blank" class="bg-success text-success" rel="nofollow"&gt;https://revisionist.azurewebsites.net&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Sam jeszcze nie wiem, czy publikacja wersji &amp;quot;nightly&amp;quot; ma więcej zalet czy wad, ale słowo się rzekło i trzeba spróbować. Z jednej strony upraszcza to mój workflow i pozwoli mi korzystać z najnowszego builda aplikacji na co dzień (w ramach testów). Z drugiej może budować wizerunek aplikacji jako niedopracowanej, bo deployowany jest każdy budujący się commit, który wypchnę na repozytorium.&lt;/p&gt;
+&lt;p&gt;Sam jeszcze nie wiem, czy publikacja wersji &amp;quot;nightly&amp;quot; ma więcej zalet czy wad, ale słowo się rzekło i trzeba spróbować. Z jednej strony upraszcza to mój workflow i pozwoli mi korzystać z najnowszego builda aplikacji na co dzień (w ramach testów). Z drugiej może budować wizerunek aplikacji jako niedopracowanej, bo wdrażany jest każdy budujący się commit, który wypchnę na repozytorium.&lt;/p&gt;
 &lt;p&gt;
             &lt;div class='row' aria-hidden='true'&gt;
                 &lt;figure class='col-md-10 col-md-offset-1'&gt;
