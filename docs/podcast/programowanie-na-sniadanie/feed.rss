@@ -13,6 +13,7 @@
     <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
     <itunes:author>Paweł Bulwan</itunes:author>
     <googleplay:author>Paweł Bulwan</googleplay:author>
+    <itunes:complete>Yes<itunes:complete>
     <itunes:subtitle>Łatwy do przełknięcia podcast o programowaniu</itunes:subtitle>
     <itunes:summary>Podcast, który przybliża platformę Microsoft .NET, zahaczając też o bardziej uniwersalną wiedzę wartościową dla każdego programisty i programistki.</itunes:summary>
     <itunes:keywords>programowanie, it, praca, microsoft, net, development, web, produktywność, programista, kariera</itunes:keywords>
