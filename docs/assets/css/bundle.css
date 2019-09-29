@@ -5558,26 +5558,26 @@ p.lead, .lead {
 .podcast-description {
   margin-top: 3px; }
 
-#about-top1 {
+#about-profile-photo {
   text-align: center;
   font-style: italic;
   font-size: 0.8em;
   padding: 3px;
   border: 1px solid #d7d7d7; }
 
-#about-top1-image {
+#about-profile-photo-image {
   margin-bottom: 3px; }
 
 @media screen and (max-width: 991px) {
-  #about-top1-image {
+  #about-profile-photo-image {
     width: 100%; } }
 
 @media screen and (min-width: 991px) {
-  #about-top1 {
+  #about-profile-photo {
     float: right;
     margin-left: 10px; }
-  #about-top1-image {
-    width: 460px; } }
+  #about-profile-photo-image {
+    width: 300px; } }
 
 #show-reference-list {
   font-size: 12px;

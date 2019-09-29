@@ -8,8 +8,65 @@
   <id>https://zakasanerekawy.pl/</id>
   <title>Zakasane rękawy</title>
   <rights>2019</rights>
-  <updated>2019-07-18T16:17:23Z</updated>
+  <updated>2019-09-29T15:25:23Z</updated>
   <subtitle>Jak efektywniej uczyć się i pracować</subtitle>
+  <entry>
+    <link href="https://zakasanerekawy.pl/posts/the-checklist-manifesto" />
+    <id>https://zakasanerekawy.pl/posts/the-checklist-manifesto</id>
+    <title>The Checklist Manifesto, czyli o zmaganiach ze złożonością</title>
+    <updated>2019-09-29T17:22:01Z</updated>
+    <content>&lt;h1 id="the-checklist-manifesto-czyli-o-zmaganiach-ze-zozonoscia"&gt;The Checklist Manifesto, czyli o zmaganiach ze złożonością&lt;/h1&gt;
+&lt;h2 id="co-ma-wspolnego-medycyna-i-lotnictwo"&gt;Co ma wspólnego medycyna i lotnictwo?&lt;/h2&gt;
+&lt;p&gt;&amp;quot;The Checklist Manifesto&amp;quot; &lt;reference title="The Checklist Manifesto: How to Get Things Right" author="Atul Gawande" isbn="0805091742" date="2009-12-22" edition="1" /&gt; to pozycja, której temat (oraz krzycząco czerwona okładka) od razu mnie zaintrygowały i zachęciły do przeczytania. Atul Gawande, chirurg z Bostonu i autor, pisze w tym tytule o wyzwaniach w pracy intelektualnej i naszych ograniczeniach, które możemy jednak w pewnym stopniu kompensować narzędziami takimi jak tytułowa &lt;i&gt;checklista&lt;/i&gt;.&lt;/p&gt;
+&lt;p&gt;Na pierwszy rzut oka sądziłem, że książka będzie traktować o listach zadań, które często tworzymy sobie na własne potrzeby. Jednak listy wokół których kręci się tematyka książki to raczej coś, co po polsku można nazwać &amp;quot;listami kontrolnymi&amp;quot;. Lepszym skojarzeniem byłoby więc lotnictwo, gdzie taka lista pozwala upewnić się, że wszystkie niezbędne kroki procedury (np. startowej samolotu) zostają wykonane.&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-6 col-md-offset-3'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/jpeg/aircraft-checklist-fragment-example.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/aircraft-checklist-fragment-example.jpg' alt='Fragment checklisty stosowanej przez pilotów' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 1. Fragment checklisty stosowanej przez pilotów. Źródło: &lt;a href='https://aviation.stackexchange.com/questions/14933/is-there-a-best-practice-method-to-work-through-a-checklist' rel='nofollow' target='_blank'&gt;StachExchange - Aviation Community&lt;/a&gt;
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Ale co właściwie można napisać o takich listach? Okazuje się, że całkiem sporo i całkiem interesująco.&lt;/p&gt;
+&lt;h2 id="wyzwanie-dzisiejszych-czasow-aplikowanie-wiedzy-do-ktorej-juz-mamy-dostep"&gt;Wyzwanie dzisiejszych czasów: aplikowanie wiedzy, do której już mamy dostęp&lt;/h2&gt;
+&lt;p&gt;Książka rozpoczyna się ciekawie, szczególnie jeśli ktoś spodziewał się powtórek banałów o produktywności. Autor od pierwszej strony wrzuca nas w historie z oddziału ratunkowego w szpitalu w którym operuje, a te szybko wciągają niczym odcinki Dr House'a ;)&lt;/p&gt;
+&lt;p&gt;Historie te mają jednak mocne przesłanie. Pokazują, że sama wiedza nie wystarcza nam do tego, aby nie popełniać błędów. W sali pełnej wykształconych lekarzy nikt może nie rozpoznać sytuacji o której wielokrotnie uczył się w teorii na studiach. W rutynowych operacjach mamy wysoki odsetek powikłań wynikających często z banalnych i łatwych do popełnienia błędów.&lt;/p&gt;
+&lt;p&gt;Jeśli znasz książkę Stulecie Chirurgów &lt;reference title="Stulecie chirurgów" author="Jurgen Thorwald" isbn="978-83-240-1021-9" date="1956"/&gt;, to może pamiętasz lekarzy w XIX wieku, którzy nie wierzyli w nowe szalone teorie o zarazkach i np. uparcie odmawiali mycia narzędzi po pracy w prosektorium sądząc, że wytarcie ich w fartuch zupełnie wystarczy (nie wystarczało). Tamta historia pokazuje ludzki upór i arogancję, ale też ograniczenia jakie niósł za sobą ówczesny brak wiedzy naukowej, która wymagała masy ciężkiej i niedocenianej pracy aby przebić się do powszechnej świadomości.&lt;/p&gt;
+&lt;p&gt;W XXI wieku wiedza medyczna jest o lata świetlne do przodu. Półki bibliotek w siedzibie WHO uginają się pod stosem rekomendacji jak zapobiegać epidemiom, a w monografiach można znaleźć opisy leczenia skrajnie trudnych przypadków. W tym samym czasie wciąż mamy na świecie epidemie, którym można zapobiegać dystrybuując mydło kosztujące grosze i ucząc prostych reguł. Mamy też dziesiątki tysięcy operacji rocznie, w których można uniknąć poważnych komplikacji stosując &lt;i&gt;poprawnie&lt;/i&gt; współczesną wiedzę medyczną. Np. podając antybiotyk w odpowiednim czasie.&lt;/p&gt;
+&lt;p&gt;
+            &lt;div class='row' aria-hidden='true'&gt;
+                &lt;figure class='col-md-4 col-md-offset-4'&gt;
+                    &lt;div class='thumbnail'&gt;
+                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/jpeg/the-checklist-manifesto-okladka.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/the-checklist-manifesto-okladka.jpg' alt='Okładka książki The Checklist Manifesto' /&gt;&lt;/picture&gt;
+                        &lt;div class='caption'&gt;
+                            &lt;figcaption&gt;Rys. 2. Okładka książki The Checklist Manifesto. Źródło: &lt;a href='https://www.amazon.com/Checklist-Manifesto-How-Things-Right/dp/0312430000' rel='nofollow' target='_blank'&gt;Amazon&lt;/a&gt;
+                            &lt;/figcaption&gt;
+                        &lt;/div&gt;
+                    &lt;/div&gt;
+                &lt;/figure&gt;
+            &lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;To, co w tej książce do mnie trafiło, to właśnie spostrzeżenia na temat tego, że posiadanie dostępu do ogromnej ilości wiedzy nie wystarcza żeby ją skutecznie aplikować.&lt;/p&gt;
+&lt;blockquote&gt;
+Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolnością.
+&lt;p&gt;Przez niemal całą historię, na życie ludzi wpływ miał głównie brak wiedzy. Nigdzie nie było to widoczne bardziej, niż w przypadku chorób, które nas spotykały. Wiedzieliśmy mało na temat tego, co je powoduje i jak je leczyć.&lt;/p&gt;
+&lt;p&gt;Ale w ostatnich kilku dekadach nauka dostarczyła nam wystarczająco dużo wiedzy, żeby nieudolność [w jej stosowaniu] stała się tak samo dużym wyzwaniem jak sam brak wiedzy.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Checklist Manifesto&lt;/b&gt;, tłumaczenie własne&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="czy-to-tylko-problemy-medycyny"&gt;Czy to tylko problemy medycyny?&lt;/h2&gt;
+&lt;p&gt;Jeśli medycyna jest dla Ciebie zawodowo odległa, to na szczęście te same problemy znajdziemy też w innych dziedzinach!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pokaźne części tego, co robią inżynierowie oprogramowania, kierownicy finansowi, strażacy, policjanci, prawnicy, a na pewno lekarze, są już zbyt skomplikowane, aby mogli wykonywać je wyłącznie z pamięci.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Checklist Manifesto&lt;/b&gt;, tłumaczenie własne&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Przyznam, że książka mnie zarówno wciągnęła jak i zainspirowała do wprowadzenia zmian w tym jak organizuję swoją pracę. Polecam! :)&lt;/p&gt;
+&lt;p&gt;PS. A jeśli już znasz książkę i chcesz zobaczyć jak wygląda szpital w którym pracuje autor, to jako ciekawostkę linkuję do &lt;a href="https://www.pbs.org/wgbh/frontline/film/being-mortal/" target="_blank"&gt;filmu dokumentalnego&lt;/a&gt;, w którym Atul Gawande pokazuje najtrudniejsze aspekty swojej pracy.&lt;/p&gt;
+</content>
+    <summary>&lt;p&gt;"The Checklist Manifesto" &lt;reference title="The Checklist Manifesto: How to Get Things Right" author="Atul Gawande" isbn="0805091742" date="2009-12-22" edition="1"&gt; to pozycja, której temat (oraz krzycząco czerwona okładka) od razu mnie zaintrygowały i zachęciły do przeczytania. Atul Gawande, chirurg z Bostonu i autor, pisze w tym tytule o wyzwaniach w pracy intelektualnej i naszych ograniczeniach, które możemy jednak w pewnym stopniu kompensować narzędziami takimi jak tytułowa &lt;i&gt;checklista&lt;/i&gt;.&lt;/reference&gt;&lt;/p&gt;</summary>
+  </entry>
   <entry>
     <link href="https://zakasanerekawy.pl/posts/digital-minimalism" />
     <id>https://zakasanerekawy.pl/posts/digital-minimalism</id>
@@ -1212,82 +1269,5 @@ magick convert input.jpg -quality 20 output.jpg
 &lt;p&gt;&lt;strong&gt;A czy Ty zostajesz ze swoją aplikacją do listy zadań na dobre&lt;/strong&gt;, czy wciąż szukasz tej jedynej? :) Zachęcam Cię do podzielenia się swoim zdaniem w komentarzu i dziękuję za odwiedziny!&lt;/p&gt;
 </content>
     <summary>&lt;p class="lead"&gt;W ostatnich dniach &lt;strong&gt;Microsoft wydał nową aplikację do zarządzania zadaniami&lt;/strong&gt; o krótkiej, lecz treściwej nazwie &lt;em&gt;To-Do&lt;/em&gt;. Choć w tej chwili raczej nie skłoni nas ona do przesiadki ze względu na skromną funkcjonalność, warto śledzić jej rozwój, bo zapowiada się ciekawie.&lt;/p&gt;</summary>
-  </entry>
-  <entry>
-    <link href="https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git" />
-    <id>https://zakasanerekawy.pl/posts/jak-narobic-sobie-problemow-w-git</id>
-    <title>Jak narobić sobie (i innym) problemów w Git</title>
-    <updated>2017-04-20T20:52:18Z</updated>
-    <content>&lt;h2 id="teoria-w-git-trudno-jest-cos-zepsuc"&gt;Teoria: w Git trudno jest coś zepsuć&lt;/h2&gt;
-&lt;p&gt;Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale &lt;code&gt;git&lt;/code&gt; stał się w ostatnich latach właściwie &lt;strong&gt;podstawowym narzędziem używanym w IT&lt;/strong&gt;. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.&lt;/p&gt;
-&lt;p&gt;W tym artykule zakładam znajomość podstaw tego narzędzia, rozważania wychodzą trochę poza podstawy. Jeśli tak jest, to wiesz już pewnie że praca z gitem daje nam gwarancję, że &lt;strong&gt;raz scommitowany kod nie zostanie utracony&lt;/strong&gt;.&lt;/p&gt;
-&lt;p&gt;Oczywiście są i tutaj wyjątki. Jeśli się uprzemy, to możemy przepisać historię gita i utracić naszą pracę. Możemy też na współdzielonym repozytorium, jeśli mamy do tego uprawnienia, nadpisać pracę innych osób. Wymaga to jednak nieco zachodu, a także wpisania w poleceniu flagi &lt;code&gt;--force&lt;/code&gt; lub odhaczenia w GUI pola wyboru typu &amp;quot;wiem co robię&amp;quot;. To powinno dać nam zawsze do myślenia i pozwolić na wycofanie się w porę z niecnego zamiaru.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-6 col-md-offset-3'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/depression.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/jpeg/depression.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/jpeg/depression.jpg' alt='Depression' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Nadpisywanie historii w repozytorium źle się kończy. Źródło: &lt;a href='https://www.pexels.com/photo/black-and-white-man-young-lonely-48566/' rel='nofollow' target='_blank'&gt;Jim Jackson, Pexels&lt;/a&gt;
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Jeśli już jednak pracując w zespole zepsujemy coś w ten sposób, prawdopodobnie dowiemy się o tym w przeciągu 24 godzin od innej osoby. Przykładowo, jeśli złośliwie nadpiszemy historię dla gałęzi, to ktoś nie będzie mógł wypchnąć swoich zmian na tę gałąź (ale będzie miał lokalnie kopię całej pracy, więc dane nie zostaną utracone). Jeśli źle rozwiążemy konflikty, to kod się nie zbuduje albo dostrzeżemy to podczas testu po uruchomieniu aplikacji.&lt;/p&gt;
-&lt;h2 id="sa-jednak-puapki-ktore-nas-dotykaja-po-czasie"&gt;Są jednak pułapki, które nas dotykają po czasie&lt;/h2&gt;
-&lt;p&gt;I jest to zły dotyk. Pewnych problemów na pierwszy rzut oka możemy nie zauważyć, ale z czasem mogą stać się kosztowne.&lt;/p&gt;
-&lt;p&gt;Pewne przyzwyczajenia w zespole mogą powodować że &lt;strong&gt;jakość naszego repozytorium z czasem się pogarsza&lt;/strong&gt;. Oto dwa z nich, które widzę.&lt;/p&gt;
-&lt;h3 id="commitowanie-duzych-plikow-binarnych"&gt;1. Commitowanie dużych plików binarnych&lt;/h3&gt;
-&lt;p&gt;Prawdopodobnie większą częśc naszych repozytoriów stanowią rodzaju &lt;strong&gt;pliki tekstowe&lt;/strong&gt;. Przez &lt;i&gt;pliki tekstowe&lt;/i&gt; rozumiem takie, które w odróżnieniu od &lt;i&gt;binarnych&lt;/i&gt; dają się otworzyć i sensownie edytować w notatniku. Pliki takie składają się z tekstu rozdzielonego znakami nowej linii, łatwo możemy je też automatycznymi narzędziami porównywać i wskazywać fragmenty które się różnią. Pliki binarne natomiast zawierają dane, dla których porównywanie danych &amp;quot;linia po linii&amp;quot; nie ma sensu. Są to na przykład obrazki, pliki wykonywalne, spakowane pliki, ikony.&lt;/p&gt;
-&lt;p&gt;Jeśli ta definicja wydaje Ci się nieścisła, masz rację. To rozróżnienie jest bardziej umowne. Systemy kontroli wersji &lt;a href="https://stackoverflow.com/questions/7110750/how-do-popular-source-control-systems-differentiate-binary-files-from-text-files" target="_blank"&gt;używają heurystyk&lt;/a&gt; aby ocenić czy coś jest plikiem tekstowym, czy binarnym, bo muszą je traktować inaczej. Możemy im trochę pomóc, np. w &lt;code&gt;git&lt;/code&gt; dodając podpowiedzi w pliku &lt;code&gt;.gitattributes&lt;/code&gt;. Pewnie wszyscy mamy jednak wyrobioną pewną intuicję na temat tego, co jest plikiem tekstowym, a co binarnym i powinna nam ona na co dzień wystarczyć.&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/git-repository-large-files.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/git-repository-large-files.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/git-repository-large-files.png' alt='Git: large files stored in repository' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 2. Największe pliki kiedykolwiek scommitowane i nadal obecne w kazdej kopii repozytorium mojego bloga. Skrypt listujący takie pliki stworzył raphinesse. Źródło: &lt;a href='http://stackoverflow.com/a/42544963/889779' rel='nofollow' target='_blank'&gt;StackOverflow&lt;/a&gt;
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Pliki binarne w praktyce mają też pewną częstą cechę - są &lt;b&gt;duże&lt;/b&gt;. Co to znaczy duże? Pomyślmy o przykładowych plikach, które można czasem znaleźć na repozytoriach git:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;pliki Worda z dokumentacją biznesową,&lt;/li&gt;
-&lt;li&gt;pliki Excela z wymaganiami,&lt;/li&gt;
-&lt;li&gt;obrazki jpeg, png&lt;/li&gt;
-&lt;li&gt;pliki instalacyjne wtyczek Visual Studio potrzebnych do pracy z projektem,&lt;/li&gt;
-&lt;li&gt;programy (exe-ki, dll-ki) będące zależnościami dla naszej aplikacji.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Można by pewnie wymienić jeszcze trochę.&lt;/p&gt;
-&lt;p&gt;Nie posunąłbym się może do tak rygorystycznego stwierdzenia jak “&lt;a href="https://robinwinslow.uk/2013/06/11/dont-ever-commit-binary-files-to-git/" target="_blank"&gt;Don't ever commit binary files to Git&lt;/a&gt;”, ale kierowany doświadczeniem zacząłem sam zwracać uwagę, aby ograniczać pliki binarne do minimum.&lt;/p&gt;
-&lt;p&gt;Pamiętajmy bowiem, że &lt;strong&gt;wszystko co commitujemy, zostaje w historii repozytorium już na zawsze&lt;/strong&gt;. Jeśli więc na starcie projektu webowego dużo sobie prototypujemy i używamy do tego grafik w rozmiarze &lt;b&gt;4000 x 3000&lt;/b&gt;, a do tego często commitujemy zmiany jako &amp;quot;checkpointy&amp;quot; naszej pracy (co jest właściwie dobrą praktyką), to nasze repozytorium będzie szybko puchło.&lt;/p&gt;
-&lt;p&gt;Każda osoba, która w przyszłości ściągnie repozytorium, będzie musiała ściągnąć również te obrazki, &lt;strong&gt;choć w bieżącej wersji kodu może ich od dawna nie być&lt;/strong&gt;. To nie tylko wolniejsza praca z gitem dla wszystkich członków zespołu, ale też więcej miejsca na dysku zajmowanego przez repozytorium (czasem wiele gigabajtów), oraz np.  trudniejszy backup takich danych.&lt;/p&gt;
-&lt;p&gt;Na koniec, jeśli chcesz, to w ramach krótkiego warsztatu zerknij na folder projektu nad którym pracujesz najdłużej ;) Sprawdź ile miejsca na dysku zajmuje. Możesz potem zestawić tę liczbę z &lt;a href="https://confluence.atlassian.com/bitbucket/reduce-repository-size-321848262.html" target="_blank"&gt;rekomendacją od firmy Atlassian&lt;/a&gt;:&lt;/p&gt;
-&lt;blockquote&gt;Ideally, you should keep your repository size to between 100MB and 300MB. To give you some examples: Git itself is 222MB, Mercurial itself is 64MB, and Apache is 225MB. You can check out these open source repositories here: https://bitbucket.org/mirror/ &lt;/blockquote&gt;
-&lt;h3 id="commitowanie-hase"&gt;2. Commitowanie haseł&lt;/h3&gt;
-&lt;p&gt;Fakt, że repozytorium gita &amp;quot;nie zapomina&amp;quot; ma też swoje konsekwencje, jeśli zdarzy nam się wrzucić plik, który zawiera hasło (lub np. &lt;i&gt;connection string&lt;/i&gt; do bazy danych).&lt;/p&gt;
-&lt;p&gt;Jedną z takich historii, zakończoną sporymi stratami finansowymi &lt;a href="https://niebezpiecznik.pl/post/jak-blad-w-visual-studio-w-kilka-godzin-wygenerowal-firmie-straty-na-25-tys-pln-historia-z-amazonem-i-githubem-w-tle/" target="_blank"&gt;opisuje Niebezpiecznik&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;Bitcoinowi kopacze stale skanują źródła na GitHubie w poszukiwaniu kluczy Amazonu, a kiedy je zdobywają zakładają za ich pomocą potężne instancje, które wykorzystują do kopania wirtualnej waluty na czyjś rachunek.&lt;/blockquote&gt;
-&lt;p&gt;Jeśli chcesz zobaczyć jak łatwo znaleźć hasło w historii repozytorium, wpisz w wyszukiwarce commitów GitHub frazę &lt;a href="https://github.com/search?q=remove+password&amp;type=Commits&amp;utf8=%E2%9C%93" target="_blank" rel="nofollow"&gt;&amp;quot;remove password&amp;quot;&lt;/a&gt; - to zawsze poprawia humor ;)&lt;/p&gt;
-&lt;p&gt;
-            &lt;div class='row' aria-hidden='true'&gt;
-                &lt;figure class='col-md-8 col-md-offset-2'&gt;
-                    &lt;div class='thumbnail'&gt;
-                        &lt;picture&gt;  &lt;source srcset='/assets/img/posts/webp/github-result-search-remove-password.webp' type='image/webp' /&gt;  &lt;source srcset='/assets/img/posts/png/github-result-search-remove-password.png' type='image/png' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/img/posts/png/github-result-search-remove-password.png' alt='GitHub: wyniki wyszukiwania dla frazy 'usunięto hasło'' /&gt;&lt;/picture&gt;
-                        &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 3. Wyniki wyszukiwania dla frazy &lt;i&gt;remove password&lt;/i&gt; w tytule commita w publicznych repozytoriach na portalu GitHub.
-                            &lt;/figcaption&gt;
-                        &lt;/div&gt;
-                    &lt;/div&gt;
-                &lt;/figure&gt;
-            &lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Pamiętajmy więc, aby przed commitem &lt;strong&gt;zawsze przejrzeć dokładnie wszystko co zmieniliśmy, plik po pliku i linia po linii&lt;/strong&gt;. Jeśli już &amp;quot;mleko się wylało&amp;quot; i wcisnęliśmy przycisk &amp;quot;Commit&amp;quot;, ale nie wypchnęliśmy jeszcze zmian na współdzielone repozytorium, to usuńmy lub zmodyfikujmy zmianę z hasłem, zamiast tworzyć kolejną usuwającą hasło (bo to nic nie da i obie będą dostępne w historii, jak na rys. 3).&lt;/p&gt;
-&lt;h2 id="czy-to-koniec-puapek"&gt;Czy to koniec pułapek?&lt;/h2&gt;
-&lt;p&gt;Zapewne nie. Może Ty masz jakieś doświadczenia z gitem, przez które musiałeś lub musiałaś się wstydzić, albo robić nadgodziny? ;-) Jeśli tak, to zachęcam do dzielenia się nimi w komentarzach - w roli przestrogi dla nas wszystkich. Dzięki za odwiedziny!&lt;/p&gt;
-</content>
-    <summary>&lt;p&gt;Dzisiejszy temat może się wydać nieco bardziej techniczny od poprzednich, ale &lt;code&gt;git&lt;/code&gt; stał się w ostatnich latach właściwie &lt;strong&gt;podstawowym narzędziem używanym w IT&lt;/strong&gt;. Korzystamy z niego zarówno w firmach, jak i w projektach tworzonych “po godzinach”, o czym świadczy np. popularność GitHuba.&lt;/p&gt;</summary>
   </entry>
 </feed>
