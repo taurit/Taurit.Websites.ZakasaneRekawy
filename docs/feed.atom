@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<link rel="self" href="https://zakasanerekawy.pl/" />
-	<id>https://zakasanerekawy.pl/</id>
+	<link rel="self" href="https://zakasanerekawy.taurit.pl/" />
+	<id>https://zakasanerekawy.taurit.pl/</id>
 	<title>Zakasane rękawy</title>
 	<rights>2020</rights>
-	<updated>2020-08-31T16:05:23Z</updated>
+	<updated>2020-08-31T16:46:17Z</updated>
 	<subtitle>Jak efektywniej uczyć się i pracować</subtitle>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/koniec" />
-		<id>https://zakasanerekawy.pl/posts/koniec</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/koniec" />
+		<id>https://zakasanerekawy.taurit.pl/posts/koniec</id>
 		<title>Tu kończy się ten blog</title>
 		<updated>2020-08-31T17:00:10Z</updated>
 		<content>&lt;p class="lead"&gt;Ostatni tekst opublikowałem tu rok temu i już jest dla mnie jasne, że nie wrócę do regularnego prowadzenia tego bloga. Ale lubię zamykać rzeczy i dlatego wrzucam jeszcze kilka słów na koniec.&lt;/p&gt;
@@ -78,8 +78,8 @@
 		<summary>&lt;p class="lead"&gt;Ostatni tekst opublikowałem tu rok temu i już jest dla mnie jasne, że nie wrócę do regularnego prowadzenia tego bloga. Ale lubię zamykać rzeczy i dlatego wrzucam jeszcze kilka słów na koniec.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/the-checklist-manifesto" />
-		<id>https://zakasanerekawy.pl/posts/the-checklist-manifesto</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/the-checklist-manifesto" />
+		<id>https://zakasanerekawy.taurit.pl/posts/the-checklist-manifesto</id>
 		<title>The Checklist Manifesto, czyli o zmaganiach ze złożonością</title>
 		<updated>2019-09-29T17:22:01Z</updated>
 		<content>&lt;h1 id="the-checklist-manifesto-czyli-o-zmaganiach-ze-zozonoscia"&gt;The Checklist Manifesto, czyli o zmaganiach ze złożonością&lt;/h1&gt;
@@ -135,8 +135,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 		<summary>&lt;p&gt;"The Checklist Manifesto" &lt;reference title="The Checklist Manifesto: How to Get Things Right" author="Atul Gawande" isbn="0805091742" date="2009-12-22" edition="1"&gt; to pozycja, której temat (oraz krzycząco czerwona okładka) od razu mnie zaintrygowały i zachęciły do przeczytania. Atul Gawande, chirurg z Bostonu i autor, pisze w tym tytule o wyzwaniach w pracy intelektualnej i naszych ograniczeniach, które możemy jednak w pewnym stopniu kompensować narzędziami takimi jak tytułowa &lt;i&gt;checklista&lt;/i&gt;.&lt;/reference&gt;&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/digital-minimalism" />
-		<id>https://zakasanerekawy.pl/posts/digital-minimalism</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/digital-minimalism" />
+		<id>https://zakasanerekawy.taurit.pl/posts/digital-minimalism</id>
 		<title>Digital Minimalism - ile naprawdę kosztuje nas korzystanie z sieci</title>
 		<updated>2019-07-18T17:00:10Z</updated>
 		<content>&lt;h2 id="bajzel-kosztuje.takze-w-swiecie-cyfrowym"&gt;Bajzel kosztuje. Także w świecie cyfrowym.&lt;/h2&gt;
@@ -187,8 +187,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 		<summary>&lt;p class="lead"&gt;Minimalizm w ostatnich latach ma wielu fanów i nie dziwię się temu, bo mi również raczej po drodze z wartościami które za nim stoją - na przykład pragmatyzmem, ograniczaniem konsumpcji i nie łapaniem się zbyt łatwo na różnego rodzaju gadżeciarstwo.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-dziala-linq" />
-		<id>https://zakasanerekawy.pl/posts/jak-dziala-linq</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jak-dziala-linq" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jak-dziala-linq</id>
 		<title>PNŚ #4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</title>
 		<updated>2018-02-26T17:54:00Z</updated>
 		<content>&lt;!-- This file is auto-generated, do not edit here --&gt;
@@ -232,8 +232,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 		<summary>&lt;p class="lead"&gt;Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/programowanie-defensywne" />
-		<id>https://zakasanerekawy.pl/posts/programowanie-defensywne</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/programowanie-defensywne" />
+		<id>https://zakasanerekawy.taurit.pl/posts/programowanie-defensywne</id>
 		<title>PNŚ #3: Programowanie defensywne</title>
 		<updated>2018-02-13T21:00:00Z</updated>
 		<content>&lt;!-- This file is auto-generated, do not edit here --&gt;
@@ -280,8 +280,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 		<summary>&lt;p class="lead"&gt;Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu" />
-		<id>https://zakasanerekawy.pl/posts/nowy-podcast-o-programowaniu</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/nowy-podcast-o-programowaniu" />
+		<id>https://zakasanerekawy.taurit.pl/posts/nowy-podcast-o-programowaniu</id>
 		<title>Startuje nowy podcast o programowaniu!</title>
 		<updated>2019-07-14T12:46:00Z</updated>
 		<content>&lt;h2 id="polskie-podcasty-o-programowaniu"&gt;Polskie podcasty o programowaniu&lt;/h2&gt;
@@ -326,8 +326,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 		<summary>&lt;p class="lead"&gt;Polska scena podcastowa ma się dobrze i myślę, że będzie miała coraz lepiej. Dziś szczególną uwagą chcę obdarzyć &lt;strong&gt;podcasty o programowaniu&lt;/strong&gt;, a w szczególności zwrócić uwagę na jeden, który właśnie się pojawił ;)&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac" />
-		<id>https://zakasanerekawy.pl/posts/przyslowia-angielskie-w-miesiac</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/przyslowia-angielskie-w-miesiac" />
+		<id>https://zakasanerekawy.taurit.pl/posts/przyslowia-angielskie-w-miesiac</id>
 		<title>Przysłowia angielskie: jak zapamiętać 300 przysłów w miesiąc?</title>
 		<updated>2018-02-03T07:18:01Z</updated>
 		<content>&lt;h2 id="dlaczego-warto-poznac-przysowia-uczac-sie-jezyka"&gt;Dlaczego warto poznać przysłowia ucząc się języka?&lt;/h2&gt;
@@ -407,8 +407,8 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
 &lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym" />
-		<id>https://zakasanerekawy.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jak-wykorzystac-czas-w-transporcie-publicznym</id>
 		<title>Jak wykorzystać czas w transporcie publicznym?</title>
 		<updated>2018-02-02T07:17:01Z</updated>
 		<content>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;
@@ -464,8 +464,8 @@ The goal of productive meditation is to take a period in which you’re occupied
 		<summary>&lt;p class="lead"&gt;Od czasu do czasu prawie wszyscy korzystamy z transportu publicznego. Nawet jeśli na co dzień jeździmy samochodem, w okresach takich jak niedawne ferie czy wcześniejsze święta wielu z nas spędza dziesiątki godzin w pociągach czy autobusach dalekobieżnych.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia" />
-		<id>https://zakasanerekawy.pl/posts/mbank-papierowe-potwierdzenia</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/mbank-papierowe-potwierdzenia" />
+		<id>https://zakasanerekawy.taurit.pl/posts/mbank-papierowe-potwierdzenia</id>
 		<title>mBank: zmiana papierowych potwierdzeń transakcji TFI na elektroniczne</title>
 		<updated>2017-10-13T11:06:10Z</updated>
 		<content>&lt;h2 id="stop-makulaturze"&gt;Stop makulaturze!&lt;/h2&gt;
@@ -520,8 +520,8 @@ The goal of productive meditation is to take a period in which you’re occupied
 		<summary>&lt;p class="lead"&gt;Jeśli podobnie jak ja posiadasz konto w mBanku i korzystasz z usługi &lt;em&gt;Supermarket Funduszy Inwestycyjnych&lt;/em&gt; do odkładania oszczędności, to pewnie równie chętnie pozbędziesz się papierowych potwierdzeń wysyłanych pocztą po każdej operacji.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac" />
-		<id>https://zakasanerekawy.pl/posts/spam-telefoniczny-jak-zablokowac</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/spam-telefoniczny-jak-zablokowac" />
+		<id>https://zakasanerekawy.taurit.pl/posts/spam-telefoniczny-jak-zablokowac</id>
 		<title>Spam telefoniczny: jak zablokować telefony marketingowe?</title>
 		<updated>2017-09-26T08:14:10Z</updated>
 		<content>&lt;h2 id="czy-rozmawiam-z-panem-pawe-bulwan"&gt;Czy rozmawiam z Panem &amp;quot;Paweł Bulwan&amp;quot;?&lt;/h2&gt;
@@ -567,8 +567,8 @@ If you’re comfortable going deep, you’ll be comfortable mastering the increa
 - Ale naprawdę nie mam teraz czasu, do widzenia.“&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube" />
-		<id>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jak-odzwyczajam-sie-od-youtube" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
 		<title>Jak nie dać się wciągnąć w oglądanie YouTube</title>
 		<updated>2020-08-31T13:21:10Z</updated>
 		<content>&lt;p class="bg-success text-success" style="padding: 10px;"&gt;Aktualizacja z 2020:&lt;br /&gt;
@@ -660,8 +660,8 @@ Użytkownicy Chrome mogą natomiast sprawdzić analogiczną wtyczkę - &lt;a hre
 &lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
-		<id>https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/gadzet-dla-produktywnych" />
+		<id>https://zakasanerekawy.taurit.pl/posts/gadzet-dla-produktywnych</id>
 		<title>Produktywny gadżet za kilka złotych</title>
 		<updated>2017-02-19T11:54:00Z</updated>
 		<content>&lt;h2 id="czy-produktywnosc-wymaga-gadzetow"&gt;Czy produktywność wymaga gadżetów?&lt;/h2&gt;
@@ -730,8 +730,60 @@ Użytkownicy Chrome mogą natomiast sprawdzić analogiczną wtyczkę - &lt;a hre
 		<summary>&lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/praca-w-blokach" />
-		<id>https://zakasanerekawy.pl/posts/praca-w-blokach</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jak-zmusic-sie-do-pracy" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jak-zmusic-sie-do-pracy</id>
+		<title>Jak zmusić się do pracy</title>
+		<updated>2017-07-16T18:33:10Z</updated>
+		<content>&lt;aside class="alert-success" style="padding: 2px 25px 2px 25px;"&gt;
+&lt;h3&gt;To druga wersja artykułu&lt;/h3&gt;
+&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;
+&lt;p&gt;Mam poczucie, że &lt;a href="/posts/praca-w-blokach"&gt;oryginalny tekst&lt;/a&gt; nie trafił w potrzeby gości bloga, którzy w większości odbili się od długiej i wyrafinowanej porady. Dlatego uprościłem i odświeżyłem tekst.&lt;/p&gt;
+&lt;/aside&gt;
+&lt;h2 id="jak-zmusic-sie-do-pracy"&gt;Jak zmusić się do pracy&lt;/h2&gt;
+&lt;p&gt;A do czego się zmuszasz i z jakiego powodu? Tu kilka moich patentów:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Do zadania narzuconego pracy w korporacji lub firmie&lt;/dt&gt;
+&lt;dd&gt;W każdej firmie trzeba się w jakimś stopniu bronić przed zadaniami, które są dla nas demotywujące - np. takich w których nie widzimy sensu, albo nie wykorzystujemy swoich najlepszych umiejętności.&lt;br /&gt;
+&lt;br /&gt;
+Jako motywator polecam książkę &lt;i&gt;"Esencjalista"&lt;/i&gt; która pokazuje że nie ma sensu robić rzeczy, w których nie widzimy sensu. A do tych, które są dla nas osobiście sensowne jest się dużo łatwiej zabrać.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;„Jeżeli sam nie ustalisz priorytetów w swoim życiu, ktoś zrobi to za ciebie”.&lt;/p&gt;
+    &lt;footer&gt;
+        &lt;cite&gt;Esencjalista. Mniej, ale lepiej (Greg McKeown)&lt;/cite&gt;
+    &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Do wysiłku fizycznego&lt;/dt&gt;
+&lt;dd&gt;Jeśli chcesz poczytać coś motywacyjnego, co sprawi że po paru stronach wstaniesz i ruszysz na siłownię, to mi nieźle sprawdziła się książka &lt;i&gt;&lt;a href="https://www.goodreads.com/book/show/40801835-the-little-black-book-of-workout-motivation"&gt;The Black Book of Workout Motivation&lt;/a&gt;&lt;/i&gt;. Mike Matthews, który ją napisał, jest tytanem pracy, a jego filozofia może dać kopa.&lt;br /&gt;&lt;br /&gt;
+Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
+&lt;ul&gt;
+&lt;li&gt;musimy mieć plan treningowy w który wierzymy i który lubimy&lt;/li&gt;
+&lt;li&gt;musimy czasem uśpić laptopa, spakować strój sportowy do plecaka i wyjść z domu. Potem już pójdzie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oh, you’re afraid of messing it up? Of quitting like all the other losers? Welcome to being human. Nobody wants to face-plant. It might leave a scar. People might hiss at us. We might hiss at ourselves. But everyone stumbles and falls. The strong ones get back up a little wiser. A little less likely to fall again.&lt;/p&gt;
+    &lt;footer&gt;
+        &lt;cite&gt;Michael Matthews, The Little Black Book of Workout Motivation&lt;/cite&gt;
+    &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;br /&gt;
+&lt;dt&gt;Do nauki&lt;/dt&gt;
+&lt;dd&gt;Moim patentem jest zmiana otoczenia i wyjście do biblioteki (w Warszawie lubię BUW i bibliotekę PW). Takie wyjście potrafi zdziałać cuda dla koncentracji i motywacji, jeśli odetniemy się od elektroniki i innych rozpraszaczy.&lt;/dd&gt;
+&lt;br /&gt;
+&lt;dt&gt;Do pracy nad własnymi projektami&lt;/dt&gt;
+&lt;dd&gt;Tu nie mam złotej rady, sam jeszcze wyrabiam sobie nawyki. Ale wydaje się, że największą skuteczność ma u mnie rozpoczynanie dnia od zadań które są kluczowe żeby zrobić postępy.&lt;/p&gt;
+&lt;p&gt;Trudnością jest pozwolenie sobie na poświecenie godziny na własne projekty, zanim zaczniemy pracę dla innych. Za dnia większość z nas pracuje zawodowo, a wieczorem może brakować energii albo może nam coś wypaść. Ale warto się przełamać.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Dodacie coś do tej listy?&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="https://zakasanerekawy.taurit.pl/posts/praca-w-blokach" />
+		<id>https://zakasanerekawy.taurit.pl/posts/praca-w-blokach</id>
 		<title>Praca w blokach czasowych</title>
 		<updated>2017-07-16T18:33:10Z</updated>
 		<content>&lt;h2 id="chec-do-pracy-nie-zawsze-przychodzi-naturalnie"&gt;Chęć do pracy nie zawsze przychodzi naturalnie&lt;/h2&gt;
@@ -785,60 +837,8 @@ Użytkownicy Chrome mogą natomiast sprawdzić analogiczną wtyczkę - &lt;a hre
 		<summary>&lt;p class="lead"&gt;Nawet jeśli lubimy swoją pracę, nasza motywacja ma kapryśną naturę. Jak w chwilach kryzysu zmusić się, lub raczej zmotywować, do pracy? Chciałbym się z Tobą podzielić jednym trikiem, który pozwolił mi skończyć studia mimo ogromnych pokus do robienia ciekawszych rzeczy, a od tego czasu pomaga mi w pracy nad innymi zadaniami :)&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy" />
-		<id>https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy</id>
-		<title>Jak zmusić się do pracy</title>
-		<updated>2017-07-16T18:33:10Z</updated>
-		<content>&lt;aside class="alert-success" style="padding: 2px 25px 2px 25px;"&gt;
-&lt;h3&gt;To druga wersja artykułu&lt;/h3&gt;
-&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;
-&lt;p&gt;Mam poczucie, że &lt;a href="/posts/praca-w-blokach"&gt;oryginalny tekst&lt;/a&gt; nie trafił w potrzeby gości bloga, którzy w większości odbili się od długiej i wyrafinowanej porady. Dlatego uprościłem i odświeżyłem tekst.&lt;/p&gt;
-&lt;/aside&gt;
-&lt;h2 id="jak-zmusic-sie-do-pracy"&gt;Jak zmusić się do pracy&lt;/h2&gt;
-&lt;p&gt;A do czego się zmuszasz i z jakiego powodu? Tu kilka moich patentów:&lt;/p&gt;
-&lt;dl&gt;
-&lt;dt&gt;Do zadania narzuconego pracy w korporacji lub firmie&lt;/dt&gt;
-&lt;dd&gt;W każdej firmie trzeba się w jakimś stopniu bronić przed zadaniami, które są dla nas demotywujące - np. takich w których nie widzimy sensu, albo nie wykorzystujemy swoich najlepszych umiejętności.&lt;br /&gt;
-&lt;br /&gt;
-Jako motywator polecam książkę &lt;i&gt;"Esencjalista"&lt;/i&gt; która pokazuje że nie ma sensu robić rzeczy, w których nie widzimy sensu. A do tych, które są dla nas osobiście sensowne jest się dużo łatwiej zabrać.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;blockquote&gt;
-&lt;p&gt;„Jeżeli sam nie ustalisz priorytetów w swoim życiu, ktoś zrobi to za ciebie”.&lt;/p&gt;
-    &lt;footer&gt;
-        &lt;cite&gt;Esencjalista. Mniej, ale lepiej (Greg McKeown)&lt;/cite&gt;
-    &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/dd&gt;
-&lt;dt&gt;Do wysiłku fizycznego&lt;/dt&gt;
-&lt;dd&gt;Jeśli chcesz poczytać coś motywacyjnego, co sprawi że po paru stronach wstaniesz i ruszysz na siłownię, to mi nieźle sprawdziła się książka &lt;i&gt;&lt;a href="https://www.goodreads.com/book/show/40801835-the-little-black-book-of-workout-motivation"&gt;The Black Book of Workout Motivation&lt;/a&gt;&lt;/i&gt;. Mike Matthews, który ją napisał, jest tytanem pracy, a jego filozofia może dać kopa.&lt;br /&gt;&lt;br /&gt;
-Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
-&lt;ul&gt;
-&lt;li&gt;musimy mieć plan treningowy w który wierzymy i który lubimy&lt;/li&gt;
-&lt;li&gt;musimy czasem uśpić laptopa, spakować strój sportowy do plecaka i wyjść z domu. Potem już pójdzie.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Oh, you’re afraid of messing it up? Of quitting like all the other losers? Welcome to being human. Nobody wants to face-plant. It might leave a scar. People might hiss at us. We might hiss at ourselves. But everyone stumbles and falls. The strong ones get back up a little wiser. A little less likely to fall again.&lt;/p&gt;
-    &lt;footer&gt;
-        &lt;cite&gt;Michael Matthews, The Little Black Book of Workout Motivation&lt;/cite&gt;
-    &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/dd&gt;
-&lt;br /&gt;
-&lt;dt&gt;Do nauki&lt;/dt&gt;
-&lt;dd&gt;Moim patentem jest zmiana otoczenia i wyjście do biblioteki (w Warszawie lubię BUW i bibliotekę PW). Takie wyjście potrafi zdziałać cuda dla koncentracji i motywacji, jeśli odetniemy się od elektroniki i innych rozpraszaczy.&lt;/dd&gt;
-&lt;br /&gt;
-&lt;dt&gt;Do pracy nad własnymi projektami&lt;/dt&gt;
-&lt;dd&gt;Tu nie mam złotej rady, sam jeszcze wyrabiam sobie nawyki. Ale wydaje się, że największą skuteczność ma u mnie rozpoczynanie dnia od zadań które są kluczowe żeby zrobić postępy.&lt;/p&gt;
-&lt;p&gt;Trudnością jest pozwolenie sobie na poświecenie godziny na własne projekty, zanim zaczniemy pracę dla innych. Za dnia większość z nas pracuje zawodowo, a wieczorem może brakować energii albo może nam coś wypaść. Ale warto się przełamać.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;Dodacie coś do tej listy?&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
-		<link href="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow" />
-		<id>https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow" />
+		<id>https://zakasanerekawy.taurit.pl/posts/drivvo-aplikacja-dla-kierowcow</id>
 		<title>Aplikacja dla kierowców, która wyręcza nas w pamiętaniu</title>
 		<updated>2017-06-25T21:06:10Z</updated>
 		<content>&lt;h2 id="zarzadzanie-pojazdem-czy-to-dla-mnie"&gt;Zarządzanie pojazdem - czy to dla mnie?&lt;/h2&gt;
@@ -903,8 +903,8 @@ Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
 		<summary>&lt;p class="lead"&gt;Własny pojazd może być przydatny, ale też wymaga poświęcenia mu sporej uwagi i czasu. Na szczęście &lt;strong&gt;nie musimy sami pamiętać o wszystkich obowiązkach&lt;/strong&gt; kierowcy i posiadacza pojazdu, bo może to za nas robić solidnie napisana aplikacja.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany" />
-		<id>https://zakasanerekawy.pl/posts/revisionist-0.0.1-wydany</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/revisionist-0.0.1-wydany" />
+		<id>https://zakasanerekawy.taurit.pl/posts/revisionist-0.0.1-wydany</id>
 		<title>Revisionist 0.0.1 wydany!</title>
 		<updated>2017-05-31T23:28:00Z</updated>
 		<content>&lt;h2 id="co-zawiera-pierwsze-wydanie-projektu"&gt;Co zawiera pierwsze wydanie projektu?&lt;/h2&gt;
@@ -964,8 +964,8 @@ Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
 		<summary>&lt;p&gt;Tytuł tego artykułu miał zgodnie z planem sprzed trzech miesięcy nosić dumny tytuł &lt;strong&gt;Revisionist 1.0.0 wydany!&lt;/strong&gt;. Drobna różnica jaką widać w tytule w stosunku do tego planu pokazuje, że czasami priorytety się zmieniają i nie wszystko co zaplanowane wychodzi dokładnie tak jak to przewidzieliśmy.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare" />
-		<id>https://zakasanerekawy.pl/posts/jak-przyspieszyc-bloga-cloudflare</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jak-przyspieszyc-bloga-cloudflare</id>
 		<title>Jak przyspieszyć bloga z Cloudflare (za darmo)</title>
 		<updated>2017-08-21T23:34:01Z</updated>
 		<content>&lt;h2 id="szybki-blog-pozwala-nie-stracic-czytelnikow"&gt;Szybki blog pozwala nie stracić czytelników&lt;/h2&gt;
@@ -1045,8 +1045,8 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 		<summary>&lt;p class="lead"&gt;Jeśli prowadzisz bloga, to &lt;strong&gt;treści które tworzysz&lt;/strong&gt; są najprawdopodobniej jego największą wartością dla innych. Od czasu do czasu jednak warto przyjrzeć się także &lt;strong&gt;aspektom technicznym&lt;/strong&gt;.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/the-freedom-journal" />
-		<id>https://zakasanerekawy.pl/posts/the-freedom-journal</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/the-freedom-journal" />
+		<id>https://zakasanerekawy.taurit.pl/posts/the-freedom-journal</id>
 		<title>The Freedom Journal: algorytm na osiągnięcie celu?</title>
 		<updated>2017-05-25T21:41:01Z</updated>
 		<content>&lt;h2 id="cel-w-100-dni"&gt;Cel w 100 dni&lt;/h2&gt;
@@ -1090,8 +1090,8 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 		<summary>&lt;p class="lead"&gt;Ile czasu potrzebujesz, żeby osiągnąć &lt;strong&gt;najważniejszy dla Ciebie obecnie cel&lt;/strong&gt;? To pewnie dla większości z nas trudne pytanie, bo im horyzont czasowy dłuższy, tym więcej niepewności. W dodatku jeśli jesteśmy na początku drogi, np. myślimy o rozkręceniu nowego projektu, to może nam brakować perspektywy albo doświadczenia żeby w ogóle zaplanować swoje działania.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/flux" />
-		<id>https://zakasanerekawy.pl/posts/flux</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/flux" />
+		<id>https://zakasanerekawy.taurit.pl/posts/flux</id>
 		<title>Po co nam f.lux?</title>
 		<updated>2017-05-22T20:38:10Z</updated>
 		<content>&lt;h2 id="czy-f.lux-dziaa"&gt;Czy f.lux działa?&lt;/h2&gt;
@@ -1152,8 +1152,8 @@ source-link="https://www.pexels.com/photo/traffic-car-vehicle-speed-8775/"
 		<summary>&lt;p class="lead"&gt;&lt;a href="https://justgetflux.com/" target="_blank"&gt;F.lux&lt;/a&gt; to małe narzędzie pozwalające nam "ocieplić" kolory na ekranie po zachodzie słońca. Ma to pomóc zniwelować &lt;strong&gt;negatywny wpływ niebieskiego światła&lt;/strong&gt; na nasze zdrowie i lepiej spać.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych" />
-		<id>https://zakasanerekawy.pl/posts/jpeg2000-archiwizacja-danych</id>
+		<link href="https://zakasanerekawy.taurit.pl/posts/jpeg2000-archiwizacja-danych" />
+		<id>https://zakasanerekawy.taurit.pl/posts/jpeg2000-archiwizacja-danych</id>
 		<title>Jpeg2000: ciekawy format do archiwizacji skanów i zdjęć dokumentów</title>
 		<updated>2017-05-16T21:27:10Z</updated>
 		<content>&lt;p class="bg-warning text-warning"&gt;Aktualizacja, 22.08.2017: na ten moment przesiadłem się z opisywanego niżej formatu &lt;b&gt;JPEG 2000&lt;/b&gt; na &lt;b&gt;WebP&lt;/b&gt;. Przy bardzo podobnych wynikach kompresji i jakości ma obecnie większe wsparcie oprogramowania, w szczególności ze strony Google i przeglądarki Chrome. Wygląda, jakby miał przed sobą lepszą przyszłość :)&lt;/p&gt;
