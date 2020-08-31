@@ -4,7 +4,7 @@
 	<id>https://zakasanerekawy.pl/</id>
 	<title>Zakasane rękawy</title>
 	<rights>2020</rights>
-	<updated>2020-08-31T15:46:28Z</updated>
+	<updated>2020-08-31T16:05:23Z</updated>
 	<subtitle>Jak efektywniej uczyć się i pracować</subtitle>
 	<entry>
 		<link href="https://zakasanerekawy.pl/posts/koniec" />
@@ -570,8 +570,14 @@ If you’re comfortable going deep, you’ll be comfortable mastering the increa
 		<link href="https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube" />
 		<id>https://zakasanerekawy.pl/posts/jak-odzwyczajam-sie-od-youtube</id>
 		<title>Jak nie dać się wciągnąć w oglądanie YouTube</title>
-		<updated>2017-02-19T12:21:10Z</updated>
-		<content>&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;
+		<updated>2020-08-31T13:21:10Z</updated>
+		<content>&lt;p class="bg-success text-success" style="padding: 10px;"&gt;Aktualizacja z 2020:&lt;br /&gt;
+&lt;br /&gt;
+Sposobem, którym sobie ostatecznie poradziłem z problemem jest wtyczka &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/"&gt;Remove Youtube's suggestions&lt;/a&gt; dla Firefoksa. Okazuje się, że ukrycie sugestii wystarcza, żeby problem marnowania czasu zupełnie zniknął - a zaletą jest to, że nie ogranicza to korzystania z serwisu kiedy mamy potrzebę.&lt;br /&gt;
+&lt;br /&gt;
+Użytkownicy Chrome mogą natomiast sprawdzić analogiczną wtyczkę - &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/"&gt;Remove YouTube Recommended Videos and Comments&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;
 &lt;p&gt;Prawdę mówiąc YouTube nie jest pierwszy. Nawykowe wchodzenie na takie czy inne portale przytrafiało mi się od bardzo dawna. Wszelkiego rodzaju demotywatory, wykopy, portale społecznościowe i polityczne miały swój czas. Podejrzewam że wszyscy czasem łapiemy się na podobnych czynnościach w czasie kiedy przydałoby się robić coś ważniejszego.&lt;/p&gt;
 &lt;p&gt;&lt;fig-removed width="6"
 src="/assets/img/posts/128-000-dominoes-falling-youtube.jpg"
@@ -588,7 +594,7 @@ source-link="https://www.youtube.com/watch?v=dLRjiiAawGg"
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;unikamy dalszych pokus&lt;/strong&gt; w postaci clickbaitowych linków do artykułów czy filmów,&lt;/li&gt;
 &lt;li&gt;jest duża szansa, że &lt;strong&gt;nie będzie nam się chciało&lt;/strong&gt; wykonywać serii czynności żeby obejść blokadę, bo będzie to wymagać dodatkowego wysiłku. Ponieważ w chwilach gdy brakuje motywacji nie mamy przesadnie dużo determinacji do niczego, to podejście całkiem nieźle działa,&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;nie dostajemy oczekiwanej nagrody &lt;/strong&gt;  co sprawia że nasz nawyk szybko traci na wartości.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;nie dostajemy oczekiwanej nagrody &lt;/strong&gt; co sprawia że nasz nawyk szybko traci na wartości.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="aplikacja-do-blokowanie-stron-freedom"&gt;Aplikacja do blokowanie stron: Freedom&lt;/h2&gt;
 &lt;p&gt;Na ten moment używam płatnego rozwiązania &lt;strong&gt;&lt;a href="https://freedom.to?rfsn=770128.4cb65"&gt;Freedom&lt;/a&gt;&lt;/strong&gt; (za około 5,20 zł/miesiąc w pakiecie rocznym po przeliczeniu z USD). Tym co wyróżnia to rozwiązanie jest kompleksowość. Blokada działa &lt;b&gt;nie tylko w wybranej przeglądarce internetowej, ale w całym systemie operacyjnym&lt;/b&gt;. Tym samym nie obejdziemy jej uruchamiając po prostu inną przeglądarkę.&lt;/p&gt;
@@ -646,7 +652,12 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 &lt;p&gt;Każde z rozwiązań można obejść jeśli mamy wystarczającą wiedzę techniczną. Na szczęście nie tu musimy ograć swojej inteligencji, a jedynie swoje nawyki, a te są znacznie łatwiejszym przeciwnikiem do pokonania.&lt;/p&gt;
 &lt;p&gt;A Ty próbujesz jakoś walczyć ze złymi nawykami przy monitorze? ;)&lt;/p&gt;
 </content>
-		<summary>&lt;p class="lead"&gt;YouTube przyjął u mnie ostatnio rolę strony na którą wchodzę marnować czas, chociaż nie chcę. Nadszedł więc czas, żeby rozprawić się z nawykiem zaglądania tam i wychodzenia kilkadziesiąt minut później.&lt;/p&gt;</summary>
+		<summary>&lt;p class="bg-success text-success" style="padding: 10px;"&gt;Aktualizacja z 2020:&lt;br&gt;
+&lt;br&gt;
+Sposobem, którym sobie ostatecznie poradziłem z problemem jest wtyczka &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/"&gt;Remove Youtube's suggestions&lt;/a&gt; dla Firefoksa. Okazuje się, że ukrycie sugestii wystarcza, żeby problem marnowania czasu zupełnie zniknął - a zaletą jest to, że nie ogranicza to korzystania z serwisu kiedy mamy potrzebę.&lt;br&gt;
+&lt;br&gt;
+Użytkownicy Chrome mogą natomiast sprawdzić analogiczną wtyczkę - &lt;a href="https://addons.mozilla.org/en-US/firefox/addon/remove-youtube-s-suggestions/"&gt;Remove YouTube Recommended Videos and Comments&lt;/a&gt;.
+&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="https://zakasanerekawy.pl/posts/gadzet-dla-produktywnych" />
@@ -719,58 +730,6 @@ source-link="https://addons.mozilla.org/pl/firefox/addon/redirector/"
 		<summary>&lt;p class="lead"&gt;Produktywność wydaje się nie wymagać wielu gadżetów. Dla wielu z nas najlepszym środowiskiem do pracy w skupieniu jest duże, puste biurko i otoczenie które nas nie rozprasza. Jestem jednak przekonany, że różnego rodzaju gadżety mogą nam &lt;strong&gt;pomóc w wyrobieniu nawyków sprzyjających produktywności&lt;/strong&gt;.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<link href="https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy" />
-		<id>https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy</id>
-		<title>Jak zmusić się do pracy</title>
-		<updated>2017-07-16T18:33:10Z</updated>
-		<content>&lt;aside class="alert-success" style="padding: 2px 25px 2px 25px;"&gt;
-&lt;h3&gt;To druga wersja artykułu&lt;/h3&gt;
-&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;
-&lt;p&gt;Mam poczucie, że &lt;a href="/posts/praca-w-blokach"&gt;oryginalny tekst&lt;/a&gt; nie trafił w potrzeby gości bloga, którzy w większości odbili się od długiej i wyrafinowanej porady. Dlatego uprościłem i odświeżyłem tekst.&lt;/p&gt;
-&lt;/aside&gt;
-&lt;h2 id="jak-zmusic-sie-do-pracy"&gt;Jak zmusić się do pracy&lt;/h2&gt;
-&lt;p&gt;A do czego się zmuszasz i z jakiego powodu? Tu kilka moich patentów:&lt;/p&gt;
-&lt;dl&gt;
-&lt;dt&gt;Do zadania narzuconego pracy w korporacji lub firmie&lt;/dt&gt;
-&lt;dd&gt;W każdej firmie trzeba się w jakimś stopniu bronić przed zadaniami, które są dla nas demotywujące - np. takich w których nie widzimy sensu, albo nie wykorzystujemy swoich najlepszych umiejętności.&lt;br /&gt;
-&lt;br /&gt;
-Jako motywator polecam książkę &lt;i&gt;"Esencjalista"&lt;/i&gt; która pokazuje że nie ma sensu robić rzeczy, w których nie widzimy sensu. A do tych, które są dla nas osobiście sensowne jest się dużo łatwiej zabrać.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;blockquote&gt;
-&lt;p&gt;„Jeżeli sam nie ustalisz priorytetów w swoim życiu, ktoś zrobi to za ciebie”.&lt;/p&gt;
-    &lt;footer&gt;
-        &lt;cite&gt;Esencjalista. Mniej, ale lepiej (Greg McKeown)&lt;/cite&gt;
-    &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/dd&gt;
-&lt;dt&gt;Do wysiłku fizycznego&lt;/dt&gt;
-&lt;dd&gt;Jeśli chcesz poczytać coś motywacyjnego, co sprawi że po paru stronach wstaniesz i ruszysz na siłownię, to mi nieźle sprawdziła się książka &lt;i&gt;&lt;a href="https://www.goodreads.com/book/show/40801835-the-little-black-book-of-workout-motivation"&gt;The Black Book of Workout Motivation&lt;/a&gt;&lt;/i&gt;. Mike Matthews, który ją napisał, jest tytanem pracy, a jego filozofia może dać kopa.&lt;br /&gt;&lt;br /&gt;
-Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
-&lt;ul&gt;
-&lt;li&gt;musimy mieć plan treningowy w który wierzymy i który lubimy&lt;/li&gt;
-&lt;li&gt;musimy czasem uśpić laptopa, spakować strój sportowy do plecaka i wyjść z domu. Potem już pójdzie.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Oh, you’re afraid of messing it up? Of quitting like all the other losers? Welcome to being human. Nobody wants to face-plant. It might leave a scar. People might hiss at us. We might hiss at ourselves. But everyone stumbles and falls. The strong ones get back up a little wiser. A little less likely to fall again.&lt;/p&gt;
-    &lt;footer&gt;
-        &lt;cite&gt;Michael Matthews, The Little Black Book of Workout Motivation&lt;/cite&gt;
-    &lt;/footer&gt;
-&lt;/blockquote&gt;
-&lt;/dd&gt;
-&lt;br /&gt;
-&lt;dt&gt;Do nauki&lt;/dt&gt;
-&lt;dd&gt;Moim patentem jest zmiana otoczenia i wyjście do biblioteki (w Warszawie lubię BUW i bibliotekę PW). Takie wyjście potrafi zdziałać cuda dla koncentracji i motywacji, jeśli odetniemy się od elektroniki i innych rozpraszaczy.&lt;/dd&gt;
-&lt;br /&gt;
-&lt;dt&gt;Do pracy nad własnymi projektami&lt;/dt&gt;
-&lt;dd&gt;Tu nie mam złotej rady, sam jeszcze wyrabiam sobie nawyki. Ale wydaje się, że największą skuteczność ma u mnie rozpoczynanie dnia od zadań które są kluczowe żeby zrobić postępy.&lt;/p&gt;
-&lt;p&gt;Trudnością jest pozwolenie sobie na poświecenie godziny na własne projekty, zanim zaczniemy pracę dla innych. Za dnia większość z nas pracuje zawodowo, a wieczorem może brakować energii albo może nam coś wypaść. Ale warto się przełamać.&lt;/dd&gt;
-&lt;/dl&gt;
-&lt;p&gt;Dodacie coś do tej listy?&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
 		<link href="https://zakasanerekawy.pl/posts/praca-w-blokach" />
 		<id>https://zakasanerekawy.pl/posts/praca-w-blokach</id>
 		<title>Praca w blokach czasowych</title>
@@ -824,6 +783,58 @@ Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
 &lt;p&gt;Opisana technika pomaga mi czasem wychodzić z niedużych kryzysów. Jestem ciekawy do jakiego rodzaju pracy Ty próbujesz się zmusić skoro tu trafiłeś i dlaczego? Jeśli dotarłeś do tego miejsca, zachęcam Cię do zostawienia komentarza i podzielenia się swoimi bieżącymi zmaganiami :) Dzięki!&lt;/p&gt;
 </content>
 		<summary>&lt;p class="lead"&gt;Nawet jeśli lubimy swoją pracę, nasza motywacja ma kapryśną naturę. Jak w chwilach kryzysu zmusić się, lub raczej zmotywować, do pracy? Chciałbym się z Tobą podzielić jednym trikiem, który pozwolił mi skończyć studia mimo ogromnych pokus do robienia ciekawszych rzeczy, a od tego czasu pomaga mi w pracy nad innymi zadaniami :)&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<link href="https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy" />
+		<id>https://zakasanerekawy.pl/posts/jak-zmusic-sie-do-pracy</id>
+		<title>Jak zmusić się do pracy</title>
+		<updated>2017-07-16T18:33:10Z</updated>
+		<content>&lt;aside class="alert-success" style="padding: 2px 25px 2px 25px;"&gt;
+&lt;h3&gt;To druga wersja artykułu&lt;/h3&gt;
+&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;
+&lt;p&gt;Mam poczucie, że &lt;a href="/posts/praca-w-blokach"&gt;oryginalny tekst&lt;/a&gt; nie trafił w potrzeby gości bloga, którzy w większości odbili się od długiej i wyrafinowanej porady. Dlatego uprościłem i odświeżyłem tekst.&lt;/p&gt;
+&lt;/aside&gt;
+&lt;h2 id="jak-zmusic-sie-do-pracy"&gt;Jak zmusić się do pracy&lt;/h2&gt;
+&lt;p&gt;A do czego się zmuszasz i z jakiego powodu? Tu kilka moich patentów:&lt;/p&gt;
+&lt;dl&gt;
+&lt;dt&gt;Do zadania narzuconego pracy w korporacji lub firmie&lt;/dt&gt;
+&lt;dd&gt;W każdej firmie trzeba się w jakimś stopniu bronić przed zadaniami, które są dla nas demotywujące - np. takich w których nie widzimy sensu, albo nie wykorzystujemy swoich najlepszych umiejętności.&lt;br /&gt;
+&lt;br /&gt;
+Jako motywator polecam książkę &lt;i&gt;"Esencjalista"&lt;/i&gt; która pokazuje że nie ma sensu robić rzeczy, w których nie widzimy sensu. A do tych, które są dla nas osobiście sensowne jest się dużo łatwiej zabrać.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;„Jeżeli sam nie ustalisz priorytetów w swoim życiu, ktoś zrobi to za ciebie”.&lt;/p&gt;
+    &lt;footer&gt;
+        &lt;cite&gt;Esencjalista. Mniej, ale lepiej (Greg McKeown)&lt;/cite&gt;
+    &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;dt&gt;Do wysiłku fizycznego&lt;/dt&gt;
+&lt;dd&gt;Jeśli chcesz poczytać coś motywacyjnego, co sprawi że po paru stronach wstaniesz i ruszysz na siłownię, to mi nieźle sprawdziła się książka &lt;i&gt;&lt;a href="https://www.goodreads.com/book/show/40801835-the-little-black-book-of-workout-motivation"&gt;The Black Book of Workout Motivation&lt;/a&gt;&lt;/i&gt;. Mike Matthews, który ją napisał, jest tytanem pracy, a jego filozofia może dać kopa.&lt;br /&gt;&lt;br /&gt;
+Dodałbym jednak dwa warunki które są konieczne, żeby utrzymać motywację:
+&lt;ul&gt;
+&lt;li&gt;musimy mieć plan treningowy w który wierzymy i który lubimy&lt;/li&gt;
+&lt;li&gt;musimy czasem uśpić laptopa, spakować strój sportowy do plecaka i wyjść z domu. Potem już pójdzie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Oh, you’re afraid of messing it up? Of quitting like all the other losers? Welcome to being human. Nobody wants to face-plant. It might leave a scar. People might hiss at us. We might hiss at ourselves. But everyone stumbles and falls. The strong ones get back up a little wiser. A little less likely to fall again.&lt;/p&gt;
+    &lt;footer&gt;
+        &lt;cite&gt;Michael Matthews, The Little Black Book of Workout Motivation&lt;/cite&gt;
+    &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/dd&gt;
+&lt;br /&gt;
+&lt;dt&gt;Do nauki&lt;/dt&gt;
+&lt;dd&gt;Moim patentem jest zmiana otoczenia i wyjście do biblioteki (w Warszawie lubię BUW i bibliotekę PW). Takie wyjście potrafi zdziałać cuda dla koncentracji i motywacji, jeśli odetniemy się od elektroniki i innych rozpraszaczy.&lt;/dd&gt;
+&lt;br /&gt;
+&lt;dt&gt;Do pracy nad własnymi projektami&lt;/dt&gt;
+&lt;dd&gt;Tu nie mam złotej rady, sam jeszcze wyrabiam sobie nawyki. Ale wydaje się, że największą skuteczność ma u mnie rozpoczynanie dnia od zadań które są kluczowe żeby zrobić postępy.&lt;/p&gt;
+&lt;p&gt;Trudnością jest pozwolenie sobie na poświecenie godziny na własne projekty, zanim zaczniemy pracę dla innych. Za dnia większość z nas pracuje zawodowo, a wieczorem może brakować energii albo może nam coś wypaść. Ale warto się przełamać.&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;p&gt;Dodacie coś do tej listy?&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;Pisząc ten tekst nie spodziewałem się, że hasło &lt;strong&gt;"jak zmusić się do pracy"&lt;/strong&gt; wpisywane w Google przyciągnie tu tysiące osób.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
 		<link href="https://zakasanerekawy.pl/posts/drivvo-aplikacja-dla-kierowcow" />
