@@ -5,8 +5,8 @@
 		<link>https://zakasanerekawy.taurit.pl/</link>
 		<description>Jak efektywniej uczyć się i pracować</description>
 		<copyright>2020</copyright>
-		<pubDate>Mon, 31 Aug 2020 16:46:17 GMT</pubDate>
-		<lastBuildDate>Mon, 31 Aug 2020 16:46:17 GMT</lastBuildDate>
+		<pubDate>Mon, 31 Aug 2020 16:57:37 GMT</pubDate>
+		<lastBuildDate>Mon, 31 Aug 2020 16:57:37 GMT</lastBuildDate>
 		<item>
 			<title>Tu kończy się ten blog</title>
 			<link>https://zakasanerekawy.taurit.pl/posts/koniec</link>
@@ -217,7 +217,7 @@ Uderzyło mnie jak bardzo zmienił się balans pomiędzy niewiedzą a nieudolno�
                     &lt;div class='thumbnail'&gt;
                         &lt;picture&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;source srcset='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' type='image/jpeg' /&gt;  &lt;img class='img-responsive img-generated' src='/assets/posts/jak-dziala-linq/jak-dziala-linq.1200x627.jpg' alt='' /&gt;&lt;/picture&gt;
                         &lt;div class='caption'&gt;
-                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: Paul Bence
+                            &lt;figcaption&gt;Rys. 1. Musiałem połączyć sobie kilka kropek, żeby zrozumieć jak jest zaimplementowany LINQ. Źródło: &lt;a href='https://unsplash.com/photos/fnHLSwXcEUM' rel='nofollow' target='_blank'&gt;Paul Bence&lt;/a&gt;
                             &lt;/figcaption&gt;
                         &lt;/div&gt;
                     &lt;/div&gt;

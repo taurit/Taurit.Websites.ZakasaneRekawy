@@ -142,19 +142,15 @@
 <div class="podcast-subscription-form">
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">
-        <form action="https://taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=0bdc5f15d2" method="post"
-            id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form form-inline" target="_blank"
-            novalidate>
+        <form action="https://taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=0bdc5f15d2"
+            method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+            class="validate form form-inline" target="_blank" novalidate>
             <p class="subscription-form-header">Otrzymaj powiadomienie o nowych odcinkach</p>
-            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Twój adres email">
+            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL"
+                placeholder="Twój adres email">
             <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Twoje imię">
-            <input type="submit" value="Zapisz" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-normal">
-
-            <!--<a href="https://www.facebook.com/programowanienasniadanie/" target="blank" class="follow-external-button"><img id="facebookFollow" src="/assets/img/like-button.png" alt="Śledź stronę podcastu na Facebooku" width="90" height="39"></a>-->
-
-            <!--<a href="https://feedly.com/i/subscription/feed/https%3A%2F%2Fzakasanerekawy.pl%2Fpodcast%2Fprogramowanie-na-sniadanie%2Ffeed.rss" target="blank" class="follow-external-button"><img id="feedlyFollow" src='/assets/img/follow-blog-on-feedly.png' alt="Śledź nowe odcinki na feedly" width="100" height="39"></a>-->
-
-            <!--<a href="https://twitter.com/pawelbulwan" target="blank" class="follow-external-button"><img id="twitterFollow" src="/assets/img/follow-blog-on-twitter.png" alt="Śledź nowe odcinki na Twitterze" width="131" height="39"></a>-->
+            <input type="submit" value="Zapisz" name="subscribe" id="mc-embedded-subscribe"
+                class="btn btn-success btn-normal">
 
             <div id="mce-responses">
                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -169,37 +165,65 @@
     </div>
     <!--End mc_embed_signup-->
 </div>
-<p>To jest podcast "Programowanie na śniadanie". Słuchasz odcinka numer 4, który powędrował dziś w kierunku .NET-a i będzie o LINQ, czyli Language Integrated Query. To czy tematycznie podcast tam zostanie czy wróci na ogólniejsze terytorium może zależeć od Ciebie, więc pisz, dzwoń i dziel się refleksjami. A teraz zapraszam do odcinka!</p>
+<p>To jest podcast "Programowanie na śniadanie". Słuchasz odcinka numer 4, który powędrował dziś w kierunku .NET-a i
+    będzie o LINQ, czyli Language Integrated Query. To czy tematycznie podcast tam zostanie czy wróci na ogólniejsze
+    terytorium może zależeć od Ciebie, więc pisz, dzwoń i dziel się refleksjami. A teraz zapraszam do odcinka!</p>
 
 <p class="podcast-transcript-jingle">intro</p>
 
 <h2>Wstęp</h2>
 
-<p>Cześć! Z tej strony Paweł, witam Cię w czwartym odcinku podcastu "Programowanie na śniadanie". Ten odcinek jest trochę inny, bo w poprzednich starałem się wybierać tematy możliwie niezależne od stosu technologicznego, ten natomiast dotyczy wyłącznie platformy .NET.</p>
+<p>Cześć! Z tej strony Paweł, witam Cię w czwartym odcinku podcastu "Programowanie na śniadanie". Ten odcinek jest
+    trochę inny, bo w poprzednich starałem się wybierać tematy możliwie niezależne od stosu technologicznego, ten
+    natomiast dotyczy wyłącznie platformy .NET.</p>
 
-<p>Pozwalam sobie na taką odskocznię, żeby wyjść naprzeciw tym z Was, którzy programują w językach .NET-owych no i ponieważ sam również programuję w C#. Przyznam, że ciągle mam też różne dylematy na temat tego jak może i jak powinien wyglądać podcast i ile trwać. Chwilowo przede wszystkim eksperymentuję, próbując znaleźć jakiś obszar w którym dzielenie się wiedzą w formie audio będzie dla Ciebie jako słuchacza czy słuchaczki użyteczne. Dlatego też tak ciągle zachęcam do napisania wiadomości czy maila i szczerej opinii, bo to pozwala mi robić mniej niewypałów i daje szansę działać z czymś innym, bardziej wartościowym. Jeśli blogujesz albo coś nagrywasz to sam lub sama wiesz że nie wszystko wychodzi i że takie uwagi są cenne.</p>
+<p>Pozwalam sobie na taką odskocznię, żeby wyjść naprzeciw tym z Was, którzy programują w językach .NET-owych no i
+    ponieważ sam również programuję w C#. Przyznam, że ciągle mam też różne dylematy na temat tego jak może i jak
+    powinien wyglądać podcast i ile trwać. Chwilowo przede wszystkim eksperymentuję, próbując znaleźć jakiś obszar w
+    którym dzielenie się wiedzą w formie audio będzie dla Ciebie jako słuchacza czy słuchaczki użyteczne. Dlatego też
+    tak ciągle zachęcam do napisania wiadomości czy maila i szczerej opinii, bo to pozwala mi robić mniej niewypałów i
+    daje szansę działać z czymś innym, bardziej wartościowym. Jeśli blogujesz albo coś nagrywasz to sam lub sama wiesz
+    że nie wszystko wychodzi i że takie uwagi są cenne.</p>
 
-<p>Dzisiejszy odcinek spróbuję zrealizować w formie pytań i odpowiedzi, przy czym te pytania to są obszary w którym sam czułem ostatnio potrzebę uporządkowania sobie wiedzy i rozjaśnienia. LINQ jest fajną abstrakcją i można na co dzień z nim pracować nie rozumiejąc co się dzieje pod spodem, ale po jakimś czasie warto nadrobić podstawy i używać API bardziej świadomie. Jak kiedyś napisał Joel Spolsky na blogu w artykule "The Law of Leaky abstractions", "abstrakcje oszczędzają nam czas poświęcany na pracę, ale nie oszczędzają nam czasu poświęcanego na naukę". Dlatego mając okazję nauczyć się paru rzeczy o LINQ warto może skorzystać i zerknąć co dzieje się tam pod spodem.</p>
+<p>Dzisiejszy odcinek spróbuję zrealizować w formie pytań i odpowiedzi, przy czym te pytania to są obszary w którym sam
+    czułem ostatnio potrzebę uporządkowania sobie wiedzy i rozjaśnienia. LINQ jest fajną abstrakcją i można na co dzień
+    z nim pracować nie rozumiejąc co się dzieje pod spodem, ale po jakimś czasie warto nadrobić podstawy i używać API
+    bardziej świadomie. Jak kiedyś napisał Joel Spolsky na blogu w artykule "The Law of Leaky abstractions", "abstrakcje
+    oszczędzają nam czas poświęcany na pracę, ale nie oszczędzają nam czasu poświęcanego na naukę". Dlatego mając okazję
+    nauczyć się paru rzeczy o LINQ warto może skorzystać i zerknąć co dzieje się tam pod spodem.</p>
 
 <h2>Czego nie wiedziałem o LINQ - lista pytań</h2>
 
 <p>Zacznę więc od listy siedmiu pytań, które nasunęły mi się kiedy zastanawiałem się, jak działa LINQ.</p>
 
-<p>Myślę, że każdy z nas, kto programuje w C# dłużej niż tydzień spotkał się w kodzie z LINQ i pewnie sam użył przynajmniej raz metody <code>.Where()</code>, żeby przefiltrować jakąś listę albo inne źródło danych. Ale dla porządku zacznę od krótkiej definicji.</p>
+<p>Myślę, że każdy z nas, kto programuje w C# dłużej niż tydzień spotkał się w kodzie z LINQ i pewnie sam użył
+    przynajmniej raz metody <code>.Where()</code>, żeby przefiltrować jakąś listę albo inne źródło danych. Ale dla
+    porządku zacznę od krótkiej definicji.</p>
 
-<p>LINQ (z "Q" na końcu), czyli Language Integrated Query to komponent platformy .NET, który pozwala w językach takich jak np. C# pisać zapytania przypominające zapytania SQL w relacyjnych bazach danych.</p>
-<p>W użyciu LINQ jest prostą i przyjemną abstrakcją, która pozwala przekształcać zbiory danych np. poprzez ich filtrowanie, sortowanie, grupowanie. Można też wykonywać operacje agregujące takie jak wyciąganie ze zbioru minimum, maksimum albo średniej. Można też podobnie jak w SQLu używać złączeń, czyli joinów, pozwalających pracować w zapytaniu na więcej niż jednym zbiorze danych.</p>
+<p>LINQ (z "Q" na końcu), czyli Language Integrated Query to komponent platformy .NET, który pozwala w językach takich
+    jak np. C# pisać zapytania przypominające zapytania SQL w relacyjnych bazach danych.</p>
+<p>W użyciu LINQ jest prostą i przyjemną abstrakcją, która pozwala przekształcać zbiory danych np. poprzez ich
+    filtrowanie, sortowanie, grupowanie. Można też wykonywać operacje agregujące takie jak wyciąganie ze zbioru minimum,
+    maksimum albo średniej. Można też podobnie jak w SQLu używać złączeń, czyli joinów, pozwalających pracować w
+    zapytaniu na więcej niż jednym zbiorze danych.</p>
 
-<p>Zakładam tu, że składnia LINQ jest dla Ciebie znajoma i masz przynajmniej podstawowe doświadczenie z użyciem metod, więc przejdę do pytań które sobie spisałem i tak pyt. 1:</p>
+<p>Zakładam tu, że składnia LINQ jest dla Ciebie znajoma i masz przynajmniej podstawowe doświadczenie z użyciem metod,
+    więc przejdę do pytań które sobie spisałem i tak pyt. 1:</p>
 
 <ol>
-<li>Czym jest LINQ to Objects i jak się ma do Linq to Entities?</li>
-    <li>Czym jest LINQ-to-XML? Czy też pracuje na IEnumerablach, czy to już całkiem inne API, tylko z podobną nazwą?</li>
-    <li>Czy obie z dwóch dostępnych składni zapytań LINQ są równoważne, czy któraś ma większe możliwości? Czy wybór to jedynie kwestia preferencji, czy któraś jest wyraźnie lepsza i zalecana? </li>
-    <li>LINQ działa na typach IEnumerable, które mogą być nieskończone. Co się stanie, jeśli spróbujemy użyć np. operacji Reverse() albo OrderBy() na nieskończonym zbiorze?</li>
-    <li>Jeśli LINQ pracuje na IEnumerable&lt;T&gt;, to jakim cudem może zaimplementować sortowanie? Algorytmy sortowania nie pracują przecież na strumieniu, tylko raczej skaczą po całej tablicy danych, przesuwają elementy, więc IEnumerable wydaje się tu mocno ograniczające.</li>
-        <li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty jeśli rozpozna że obiekt jest np. typu List&lt;T&gt;?</li>
-            <li>Czym jest Parallel Linq, częścią LINQ czy niezależną biblioteką i do czego służy?</li>
+    <li>Czym jest LINQ to Objects i jak się ma do Linq to Entities?</li>
+    <li>Czym jest LINQ-to-XML? Czy też pracuje na IEnumerablach, czy to już całkiem inne API, tylko z podobną nazwą?
+    </li>
+    <li>Czy obie z dwóch dostępnych składni zapytań LINQ są równoważne, czy któraś ma większe możliwości? Czy wybór to
+        jedynie kwestia preferencji, czy któraś jest wyraźnie lepsza i zalecana? </li>
+    <li>LINQ działa na typach IEnumerable, które mogą być nieskończone. Co się stanie, jeśli spróbujemy użyć np.
+        operacji Reverse() albo OrderBy() na nieskończonym zbiorze?</li>
+    <li>Jeśli LINQ pracuje na IEnumerable&lt;T&gt;, to jakim cudem może zaimplementować sortowanie? Algorytmy sortowania
+        nie pracują przecież na strumieniu, tylko raczej skaczą po całej tablicy danych, przesuwają elementy, więc
+        IEnumerable wydaje się tu mocno ograniczające.</li>
+    <li>Czy pod spodem LINQ faktycznie pracuje na IEnumerable, czy potrafi iść na skróty jeśli rozpozna że obiekt jest
+        np. typu List&lt;T&gt;?</li>
+    <li>Czym jest Parallel Linq, częścią LINQ czy niezależną biblioteką i do czego służy?</li>
 </ol>
 <!--8) Do czego służą popularne narzędzia i biblioteki takie jak:
 - LinqPad (który wiele z nas zna),
@@ -212,97 +236,194 @@
 
 <p>Pytanie 1, czyli <em>Czym jest LINQ to Objects i jak się ma do LINQ to Entities?</em></p>
 
-<p><strong>Linq to Objects</strong>, to jest ten podstawowy LINQ, którego używamy na co dzień pracując z .NETowymi typami implementującymi <code>IEnumerable&lt;T&gt;</code>, czyli np. popularnymi <code>List&lt;T&gt;</code>, <code>Dictionary&lt;T&gt;</code>, <code>HashSet&lt;T&gt;</code> i masą innych typów. Od strony implementacji LINQ to Objects jest zestawem zwykłych extension methods napisanych w C# i umieszczonych w namespace <code>System.Linq</code>. Metody dostarczane przez LINQ są określone na interfejsie <code>IEnumerable&lt;T&gt;</code> i możemy ich używać na każdym obiekcie implementującym ten interfejs.</p>
+<p><strong>Linq to Objects</strong>, to jest ten podstawowy LINQ, którego używamy na co dzień pracując z .NETowymi
+    typami implementującymi <code>IEnumerable&lt;T&gt;</code>, czyli np. popularnymi <code>List&lt;T&gt;</code>,
+    <code>Dictionary&lt;T&gt;</code>, <code>HashSet&lt;T&gt;</code> i masą innych typów. Od strony implementacji LINQ to
+    Objects jest zestawem zwykłych extension methods napisanych w C# i umieszczonych w namespace
+    <code>System.Linq</code>. Metody dostarczane przez LINQ są określone na interfejsie
+    <code>IEnumerable&lt;T&gt;</code> i możemy ich używać na każdym obiekcie implementującym ten interfejs.</p>
 
-<p>Dla przypomnienia, <code>IEnumerable&lt;T&gt;</code> to bardzo prosty interfejs i dostarcza tylko jedną metodę. Ta metoda pozwala pobrać Enumerator, czyli obiekt który zawiera wskaźnik na jakiś pojedynczy element tej kolekcji i operacje pozwalające na przesunięcie wskaźnika wprzód oraz resetu wskaźnika na pozycję początkową.</p>
+<p>Dla przypomnienia, <code>IEnumerable&lt;T&gt;</code> to bardzo prosty interfejs i dostarcza tylko jedną metodę. Ta
+    metoda pozwala pobrać Enumerator, czyli obiekt który zawiera wskaźnik na jakiś pojedynczy element tej kolekcji i
+    operacje pozwalające na przesunięcie wskaźnika wprzód oraz resetu wskaźnika na pozycję początkową.</p>
 
-<p>Czyli łącząc to w całość, LINQ to Objects do działania wymaga jedynie możliwości poruszania się po kolekcji naprzód i pobrania elementu kolekcji na którym w danej chwili się zatrzymaliśmy.</p>
+<p>Czyli łącząc to w całość, LINQ to Objects do działania wymaga jedynie możliwości poruszania się po kolekcji naprzód i
+    pobrania elementu kolekcji na którym w danej chwili się zatrzymaliśmy.</p>
 
-<p><strong>Linq to Entities</strong> to również zestaw extension methods, ale już nie na <code>IEnumerable</code>, ale na <code>IQueryable</code>. Służy do tego, żeby budować zapytania ale już nie tyle do kolekcji w pamięci procesu jak LINQ-to-Objects, ale do bazy danych poprzez model Entity Framework. Jest więc ściśle związane z tym ORM-em, no i pewnie dla tych z Was którzy pracują na co dzień z Entity Framework to rozróżnienie jest naturalne, bardziej niż dla mnie jako że miałem dotąd przyjemność głównie z NHibernatem w roli ORM-a.</p>
+<p><strong>Linq to Entities</strong> to również zestaw extension methods, ale już nie na <code>IEnumerable</code>, ale
+    na <code>IQueryable</code>. Służy do tego, żeby budować zapytania ale już nie tyle do kolekcji w pamięci procesu jak
+    LINQ-to-Objects, ale do bazy danych poprzez model Entity Framework. Jest więc ściśle związane z tym ORM-em, no i
+    pewnie dla tych z Was którzy pracują na co dzień z Entity Framework to rozróżnienie jest naturalne, bardziej niż dla
+    mnie jako że miałem dotąd przyjemność głównie z NHibernatem w roli ORM-a.</p>
 
-<p>Implementacja metod takich jak <code>Where()</code> dla Linq to Entities to już całkiem inny kod niż w LINQ-to-Objects. O ile w LINQ-to-Objects kod zawiera napisaną normalnie w C# logikę która wykonuje te operacja na kolekcjach, to w przypadku LINQ-to-Entities dopisując wywołania metod LINQ, jedynie rozbudowujemy zapytanie przechowywane w obiektach <code>IQueryable&lt;T&gt;</code>. Ostatecznie odpowiedzialnością kodu jest wygenerowanie zapytania SQL, które będzie wykonane po stronie bazy danych.</p>
+<p>Implementacja metod takich jak <code>Where()</code> dla Linq to Entities to już całkiem inny kod niż w
+    LINQ-to-Objects. O ile w LINQ-to-Objects kod zawiera napisaną normalnie w C# logikę która wykonuje te operacja na
+    kolekcjach, to w przypadku LINQ-to-Entities dopisując wywołania metod LINQ, jedynie rozbudowujemy zapytanie
+    przechowywane w obiektach <code>IQueryable&lt;T&gt;</code>. Ostatecznie odpowiedzialnością kodu jest wygenerowanie
+    zapytania SQL, które będzie wykonane po stronie bazy danych.</p>
 
-<p>Podsumowując, LINQ-to-Objects pracuje na <code>IEnumerable&lt;T&gt;</code> i jest bardzo ogólnym mechanizmem, a LINQ-to-Entities pracuje na <code>IQueryable&lt;T&gt;</code> i jest ściśle związane z Entity Framework.</p>
+<p>Podsumowując, LINQ-to-Objects pracuje na <code>IEnumerable&lt;T&gt;</code> i jest bardzo ogólnym mechanizmem, a
+    LINQ-to-Entities pracuje na <code>IQueryable&lt;T&gt;</code> i jest ściśle związane z Entity Framework.</p>
 
-<p>Mam nadzieję, że niczego przesadnie nie przekręciłem i za bardzo nie uprościłem i że możemy przejść do drugiego pytania.</p>
+<p>Mam nadzieję, że niczego przesadnie nie przekręciłem i za bardzo nie uprościłem i że możemy przejść do drugiego
+    pytania.</p>
 
 <h3>2. Czym jest LINQ-to-XML?</h3>
 
-<p>Czym jest LINQ-to-XML? A konkretnie, czy też pracuje na IEnumerable&lt;T&gt;, czy to już całkiem inne API, tylko z podobną nazwą?</p>
+<p>Czym jest LINQ-to-XML? A konkretnie, czy też pracuje na IEnumerable&lt;T&gt;, czy to już całkiem inne API, tylko z
+    podobną nazwą?</p>
 
-<p>Nie używałem LINQ-to-XML, ale zastanawiało mnie jak w LINQ można pisać zapytania do XML-a, skoro XML może opisywać złożone obiekty, z rozbudowaną i nieregularną strukturą. Struktura listy jest tylko małym podzbiorem tego, co można wyrzeźbić w XML-u. Czym jest więc LINQ-to-XML, bo nie za bardzo widzę jak z pliku XML można zrobić <code>IEnumerable&lt;T&gt;</code> na którym mogłoby działać takie klasyczne LINQ-to-Objects?</p>
+<p>Nie używałem LINQ-to-XML, ale zastanawiało mnie jak w LINQ można pisać zapytania do XML-a, skoro XML może opisywać
+    złożone obiekty, z rozbudowaną i nieregularną strukturą. Struktura listy jest tylko małym podzbiorem tego, co można
+    wyrzeźbić w XML-u. Czym jest więc LINQ-to-XML, bo nie za bardzo widzę jak z pliku XML można zrobić
+    <code>IEnumerable&lt;T&gt;</code> na którym mogłoby działać takie klasyczne LINQ-to-Objects?</p>
 
-<p>LINQ-to-XML to API pozwalające na pracę z plikami XML, nie tylko na ich czytanie, ale też modyfikację. LINQ-to-XML siedzi w namespace <code>System.Xml.Linq</code>, więc to znów inny kod niż LINQ-to-Objects i dostarcza model pliku XML w postaci kilku klas reprezentujących np. dokument, tag xml-owy, atrybut czy komentarz.</p>
+<p>LINQ-to-XML to API pozwalające na pracę z plikami XML, nie tylko na ich czytanie, ale też modyfikację. LINQ-to-XML
+    siedzi w namespace <code>System.Xml.Linq</code>, więc to znów inny kod niż LINQ-to-Objects i dostarcza model pliku
+    XML w postaci kilku klas reprezentujących np. dokument, tag xml-owy, atrybut czy komentarz.</p>
 
-<p>W szczególności obiekty te dostarczają nam różnego rodzaju kolekcje: kolekcję atrybutów tagu, albo listę dzieci, albo listę przodków w strukturze XML-a. Te wszystkie zbiory danych są zwracane przez obiekty jako obiekty typu IEnumerable i można na nich wykonywać operacje z użyciem LINQ. W tym sensie zestaw klas LINQ-to-XML pozwala faktycznie pisać zapytania LINQ operujące na XML-ach.</p>
+<p>W szczególności obiekty te dostarczają nam różnego rodzaju kolekcje: kolekcję atrybutów tagu, albo listę dzieci, albo
+    listę przodków w strukturze XML-a. Te wszystkie zbiory danych są zwracane przez obiekty jako obiekty typu
+    IEnumerable i można na nich wykonywać operacje z użyciem LINQ. W tym sensie zestaw klas LINQ-to-XML pozwala
+    faktycznie pisać zapytania LINQ operujące na XML-ach.</p>
 
-<p>Nie wiem natomiast, czy nazewnictwo jest tutaj przesadnie fortunne, bo w zasadzie poza tym faktem LINQ-to-XML nie ma szczególnie wiele wspólnego z abstrakcją LINQ jaką znamy. W przeciwieństwie do LINQ-to-Entities, nie jest to żadna alternatywna implementacja metod takich jak <code>Where()</code> czy <code>OrderBy()</code>, a jedynie zestaw klas pozwalających pracować z XML-em.</p>
+<p>Nie wiem natomiast, czy nazewnictwo jest tutaj przesadnie fortunne, bo w zasadzie poza tym faktem LINQ-to-XML nie ma
+    szczególnie wiele wspólnego z abstrakcją LINQ jaką znamy. W przeciwieństwie do LINQ-to-Entities, nie jest to żadna
+    alternatywna implementacja metod takich jak <code>Where()</code> czy <code>OrderBy()</code>, a jedynie zestaw klas
+    pozwalających pracować z XML-em.</p>
 
 <h3>3. Którą składnię wybrać, query syntax czy method syntax?</h3>
 
 <p>Trzecie pytanie wzięło się z moich wątpliwości odnośnie do tego, którą składnię LINQ wybrać przy pisaniu kodu.</p>
 
-<p>LINQ pozwala na wybór jednego z dwóch podejść. W pierwszym podejściu wywołujemy po prostu metody na kolekcjach tak jak normalnie wywołujemy metody na obiektach, czyli piszemy <code>mojaLista.OrderBy()</code> i w parametrze określamy przez lambda expression po czym sortować.</p>
+<p>LINQ pozwala na wybór jednego z dwóch podejść. W pierwszym podejściu wywołujemy po prostu metody na kolekcjach tak
+    jak normalnie wywołujemy metody na obiektach, czyli piszemy <code>mojaLista.OrderBy()</code> i w parametrze
+    określamy przez lambda expression po czym sortować.</p>
 
-<p>Drugie podejście to użycie składni podobnej do SQL-owej, gdzie zaczynamy konstrukcję od słowa kluczowego <code>from</code> i jedziemy dalej z zapytaniem, które nie za bardzo wygląda jak kod w C#, ale ma wsparcie IDE, kompiluje się i działa.</p>
+<p>Drugie podejście to użycie składni podobnej do SQL-owej, gdzie zaczynamy konstrukcję od słowa kluczowego
+    <code>from</code> i jedziemy dalej z zapytaniem, które nie za bardzo wygląda jak kod w C#, ale ma wsparcie IDE,
+    kompiluje się i działa.</p>
 
-<p>Która z tych składni jest lepsza? W tutorialach powtarza się zwykle, że to kwestia preferencji i tego co nam wygodniej czytać, ale chwilę poczytałem i nie do końca bym się z tym zgodził. Query syntax, czyli składnia rozpoczynająca zapytanie od <code>from</code>, jest częścią języka C# i zgodnie z jego specyfikacją <reference url="https://blogs.msdn.microsoft.com/mapo/2010/04/29/download-the-c-4-0-language-specification/" /> przekształca potem taki kod na podstawie sztywnych reguł na drugą z form, czyli tą z wywołaniem metod i lambdami. Konkretnie w przekształconym kodzie używanych jest 11 metod, takich jak <code>Where</code>, <code>Select</code>, <code>SelectMany</code>, <code>Join</code> itd. więc sygnatury tych metod są niejako zahardkodowane w specyfikacji C#.</p>
+<p>Która z tych składni jest lepsza? W tutorialach powtarza się zwykle, że to kwestia preferencji i tego co nam
+    wygodniej czytać, ale chwilę poczytałem i nie do końca bym się z tym zgodził. Query syntax, czyli składnia
+    rozpoczynająca zapytanie od <code>from</code>, jest częścią języka C# i zgodnie z jego specyfikacją
+    <reference url="https://blogs.msdn.microsoft.com/mapo/2010/04/29/download-the-c-4-0-language-specification/" />
+    przekształca potem taki kod na podstawie sztywnych reguł na drugą z form, czyli tą z wywołaniem metod i lambdami.
+    Konkretnie w przekształconym kodzie używanych jest 11 metod, takich jak <code>Where</code>, <code>Select</code>,
+    <code>SelectMany</code>, <code>Join</code> itd. więc sygnatury tych metod są niejako zahardkodowane w specyfikacji
+    C#.</p>
 
-<p>Są metody które są dostępne TYLKO w method syntax, np. używane na co dzień <code>Count()</code> albo <code>Take()</code> albo Skip(). Nie uciekniemy więc przed składnią z lambdami, co najwyżej będziemy mieszać obie.</p>
+<p>Są metody które są dostępne TYLKO w method syntax, np. używane na co dzień <code>Count()</code> albo
+    <code>Take()</code> albo Skip(). Nie uciekniemy więc przed składnią z lambdami, co najwyżej będziemy mieszać obie.
+</p>
 
-<p>Prawdę mówiąc ja bardzo rzadko trafiam w kodzie na składnię SQLo-podobną, i w związku z tym że konkurencyjna wobec niej składnia z lambdami daje większe możliwości, przyjąłbym właśnie ją za standard.</p>
+<p>Prawdę mówiąc ja bardzo rzadko trafiam w kodzie na składnię SQLo-podobną, i w związku z tym że konkurencyjna wobec
+    niej składnia z lambdami daje większe możliwości, przyjąłbym właśnie ją za standard.</p>
 
 <h3>4. Jak zachowa się wywołanie OrderBy() lub Reverse() na nieskończonym zbiorze?</h3>
 
-<p>Kolejna wątpliwość, która przyszła mi do głowy związana jest z tym że IEnumerable&lt;T&gt; może nam dostarczyć coś, co nie jest kolekcją, a raczej jakimś szeregiem. Kolekcja w C# rozumiana jako coś co implementuje ICollection&lt;T&gt; ma property Count, a więc ma jakąś określoną liczbę elementów. Natomiast przez IEnumerable&lt;T&gt; możemy łatwo dostarczyć Enumerator który wygeneruje nam nieskończony ciąg np. liczb, np. dostarczając w kółko na zmianę liczby 5 i 10. Co w takim razie stanie się jeśli na takim nieskończonym szeregu wywołamy operację sortowania LINQ, czyli OrderBy? Albo np. Reverse(), która odwraca kolejność elementów otrzymanych na wejściu</p>
+<p>Kolejna wątpliwość, która przyszła mi do głowy związana jest z tym że IEnumerable&lt;T&gt; może nam dostarczyć coś,
+    co nie jest kolekcją, a raczej jakimś szeregiem. Kolekcja w C# rozumiana jako coś co implementuje
+    ICollection&lt;T&gt; ma property Count, a więc ma jakąś określoną liczbę elementów. Natomiast przez
+    IEnumerable&lt;T&gt; możemy łatwo dostarczyć Enumerator który wygeneruje nam nieskończony ciąg np. liczb, np.
+    dostarczając w kółko na zmianę liczby 5 i 10. Co w takim razie stanie się jeśli na takim nieskończonym szeregu
+    wywołamy operację sortowania LINQ, czyli OrderBy? Albo np. Reverse(), która odwraca kolejność elementów otrzymanych
+    na wejściu</p>
 
-<p>Łatwo sprawdzić odpowiedź, operacja taka jak sortowanie nieskończonego szeregu liczb nigdy się nie zakończy, program w końcu wyczerpie dostępną pamięć i zakończy się wyjątkiem. To w sumie intuicyjne, bo nie mogliśmy się spodziewać, że uda się posortować szereg nie mający końca.</p>
+<p>Łatwo sprawdzić odpowiedź, operacja taka jak sortowanie nieskończonego szeregu liczb nigdy się nie zakończy, program
+    w końcu wyczerpie dostępną pamięć i zakończy się wyjątkiem. To w sumie intuicyjne, bo nie mogliśmy się spodziewać,
+    że uda się posortować szereg nie mający końca.</p>
 
-<p>Żeby jednak trochę szerzej spojrzeć na zagadnienie, warto zauważyć że niektóre metody LINQ bez problemu mogą działać na nieskończonych szeregach. Jeśli np. złożymy dwie operacje takie jak filtrowanie przez <code>Where()</code>, a po nim nastąpi Take(), które pobiera z szeregu zadaną ilość elementów i ją zwraca, to nie wpadniemy w żadną nieskończoną pętlę tak jak to było w przypadku <code>OrderBy()</code>.</p>
+<p>Żeby jednak trochę szerzej spojrzeć na zagadnienie, warto zauważyć że niektóre metody LINQ bez problemu mogą działać
+    na nieskończonych szeregach. Jeśli np. złożymy dwie operacje takie jak filtrowanie przez <code>Where()</code>, a po
+    nim nastąpi Take(), które pobiera z szeregu zadaną ilość elementów i ją zwraca, to nie wpadniemy w żadną
+    nieskończoną pętlę tak jak to było w przypadku <code>OrderBy()</code>.</p>
 
-<p>To co różni operację <code>Where()</code> od operacji <code>OrderBy()</code> to to, że <code>Where()</code> do działania nie potrzebuje tak naprawdę całego zbioru danych, a jedynie pojedynczego elementu dla którego Where() podejmuje decyzję, czy ten element spełnia warunki filtrowania czy nie. Ujmując to inaczej, <code>Where()</code> może pracować na strumieniu danych, nawet nieskończonym i na raty zwracać wynik swojego działania. W kontraście do tego <code>OrderBy()</code> potrzebuje od razu całego zbioru danych żeby zwrócić sensowny wynik.</p>
+<p>To co różni operację <code>Where()</code> od operacji <code>OrderBy()</code> to to, że <code>Where()</code> do
+    działania nie potrzebuje tak naprawdę całego zbioru danych, a jedynie pojedynczego elementu dla którego Where()
+    podejmuje decyzję, czy ten element spełnia warunki filtrowania czy nie. Ujmując to inaczej, <code>Where()</code>
+    może pracować na strumieniu danych, nawet nieskończonym i na raty zwracać wynik swojego działania. W kontraście do
+    tego <code>OrderBy()</code> potrzebuje od razu całego zbioru danych żeby zwrócić sensowny wynik.</p>
 
-<p>I wszystkie operacje w LINQ można sklasyfikować na podstawie sposobu ich wykonania do jednej z trzech kategorii: operacji wykonywanych natychmiast, operacji wykonywanych leniwie strumieniowych i operacji wykonywanych leniwie niestrumieniowych.</p>
+<p>I wszystkie operacje w LINQ można sklasyfikować na podstawie sposobu ich wykonania do jednej z trzech kategorii:
+    operacji wykonywanych natychmiast, operacji wykonywanych leniwie strumieniowych i operacji wykonywanych leniwie
+    niestrumieniowych.</p>
 
-<p><code>OrderBy()</code> jest przykładem operacji wykonywanej leniwie, ale która nie jest strumieniowa. Tego typu operacja wymaga kompletu danych wejściowych żeby zwrócić cokolwiek na wyjściu. Innym przykładem może być <code>GroupBy()</code>.</p>
+<p><code>OrderBy()</code> jest przykładem operacji wykonywanej leniwie, ale która nie jest strumieniowa. Tego typu
+    operacja wymaga kompletu danych wejściowych żeby zwrócić cokolwiek na wyjściu. Innym przykładem może być
+    <code>GroupBy()</code>.</p>
 
-<p>Where() jest operacją wykonywaną również leniwie, ale na strumieniu danych, a więc nie potrzebuje całego zbioru danych żeby przetwarzać sobie kolejne, pojedyncze elementy. Podobnymi operacjami będą <code>Cast&lt;T&gt;()</code> pozwalająca rzutować typ na inny, Select(), albo Take().</p>
+<p>Where() jest operacją wykonywaną również leniwie, ale na strumieniu danych, a więc nie potrzebuje całego zbioru
+    danych żeby przetwarzać sobie kolejne, pojedyncze elementy. Podobnymi operacjami będą <code>Cast&lt;T&gt;()</code>
+    pozwalająca rzutować typ na inny, Select(), albo Take().</p>
 
-<p>Trzecim rodzajem operacji są operacje wykonywane natychmiast. Taką operacją jest np. <code>Average()</code>, <code>Any()</code>, <code>Single()</code> i wiele innych.</p>
+<p>Trzecim rodzajem operacji są operacje wykonywane natychmiast. Taką operacją jest np. <code>Average()</code>,
+    <code>Any()</code>, <code>Single()</code> i wiele innych.</p>
 
 <h3>5. Jak jest zaimplementowane sortowanie na <code>IEnumerable&lt;T&gt;</code>?</h3>
 
-<p>Piąte pytanie jakie sobie zadałem, to "jak można efektywnie zaimplementować sortowanie na czymś takim <code>IEnumerable&lt;T&gt;</code>?</p>
+<p>Piąte pytanie jakie sobie zadałem, to "jak można efektywnie zaimplementować sortowanie na czymś takim
+    <code>IEnumerable&lt;T&gt;</code>?</p>
 
-<p>Zadałem sobie to pytanie, bo IEnumerable&lt;T&gt; dostarcza tylko strumień danych wejściowych, a najszybsze algorytmy sortowania nie pracują na strumieniu przychodzących danych tylko lubią skakać po całej tablicy, przestawiać rzeczy itd.</p>
+<p>Zadałem sobie to pytanie, bo IEnumerable&lt;T&gt; dostarcza tylko strumień danych wejściowych, a najszybsze algorytmy
+    sortowania nie pracują na strumieniu przychodzących danych tylko lubią skakać po całej tablicy, przestawiać rzeczy
+    itd.</p>
 
-<p>Odpowiedź jest dość prosta, zerkając na implementację <code>OrderBy()</code> w Linq to Objects można zauważyć, że najpierw strumień danych wejściowych jest czytany i zachowywany w buforze typu <code>Array&lt;T&gt;</code>, a dopiero potem tablica jest sortowana Quicksortem.</p>
+<p>Odpowiedź jest dość prosta, zerkając na implementację <code>OrderBy()</code> w Linq to Objects można zauważyć, że
+    najpierw strumień danych wejściowych jest czytany i zachowywany w buforze typu <code>Array&lt;T&gt;</code>, a
+    dopiero potem tablica jest sortowana Quicksortem.</p>
 
-<p>Głębiej w temat sortowania na razie nie planuję wchodzić, ale dodam może tylko, że jeśli po <code>OrderBy()</code> użyjemy metody <code>ThenBy()</code>, żeby dodać więcej kluczy sortowania, to nie zwiększy to złożoności obliczeniowej bo sortowanie zostanie wykonane leniwie dopiero kiedy poprosimy o wynik całej operacji.</p>
+<p>Głębiej w temat sortowania na razie nie planuję wchodzić, ale dodam może tylko, że jeśli po <code>OrderBy()</code>
+    użyjemy metody <code>ThenBy()</code>, żeby dodać więcej kluczy sortowania, to nie zwiększy to złożoności
+    obliczeniowej bo sortowanie zostanie wykonane leniwie dopiero kiedy poprosimy o wynik całej operacji.</p>
 
 <h3>6. Czy pod spodem LINQ faktycznie pracuje na <code>IEnumerable</code>, czy potrafi iść na skróty?</h3>
 
-<p>Szóste pytanie z listy poddaje w wątpliwość to, czy LINQ uczciwie pracuje zawsze na IEnumerable tak jak wskazuje kontrakt metod LINQ, czy czasami idzie na skróty i próbuje wykryć że kolekcja którą dostał to np. powszechnie używany typ taki jak <code>List&lt;T&gt;</code>.</p>
+<p>Szóste pytanie z listy poddaje w wątpliwość to, czy LINQ uczciwie pracuje zawsze na IEnumerable tak jak wskazuje
+    kontrakt metod LINQ, czy czasami idzie na skróty i próbuje wykryć że kolekcja którą dostał to np. powszechnie
+    używany typ taki jak <code>List&lt;T&gt;</code>.</p>
 
-<p>I okazuje się, że faktycznie tak jest. Jeśli weźmiemy pod lupę np. metodę <code>Last()</code>, która zwraca ostatni element przekazanej kolekcji, to LINQ to Objects w swojej implementacji najpierw sprawdzi czy może przekazana referencja do <code>IEnumerable&lt;T&gt;</code> nie jest obiektem który implementuje też <code>IList&lt;T&gt;</code>. A jeśli implementuje, to nie ma sensu przedzierać się po całej kolekcji aż dojdziemy do ostatniego elementu, tylko można skorzystać z property <code>Count</code>, wybadać jaki jest indeks ostatniego elementu i poprosić o niego.</p>
+<p>I okazuje się, że faktycznie tak jest. Jeśli weźmiemy pod lupę np. metodę <code>Last()</code>, która zwraca ostatni
+    element przekazanej kolekcji, to LINQ to Objects w swojej implementacji najpierw sprawdzi czy może przekazana
+    referencja do <code>IEnumerable&lt;T&gt;</code> nie jest obiektem który implementuje też
+    <code>IList&lt;T&gt;</code>. A jeśli implementuje, to nie ma sensu przedzierać się po całej kolekcji aż dojdziemy do
+    ostatniego elementu, tylko można skorzystać z property <code>Count</code>, wybadać jaki jest indeks ostatniego
+    elementu i poprosić o niego.</p>
 
-<p>Pewnie takie rozpoznawanie typu obiektu łamie jakąś zasade programowania, ale możemy być wdzięczni, że LINQ dbając o wydajność implementacji ucieka się czasami do takich sztuczek i wykonuje operacje szybciej niż gdyby to robił pracując faktycznie zawsze na IEnumerable&lt;T&gt;.</p>
+<p>Pewnie takie rozpoznawanie typu obiektu łamie jakąś zasade programowania, ale możemy być wdzięczni, że LINQ dbając o
+    wydajność implementacji ucieka się czasami do takich sztuczek i wykonuje operacje szybciej niż gdyby to robił
+    pracując faktycznie zawsze na IEnumerable&lt;T&gt;.</p>
 
 <h3>7. Czym jest Parallel Linq, częścią LINQ czy niezależną biblioteką i do czego służy?</h3>
 
-<p>Ostatnie, ósme pytanie które mam na liście jest o technologię Parallel Linq, czyli "równoległy LINQ". A więc: czym właściwie jest, do czego służy, kto to zrobił i czy powinniśmy tego używać na co dzień.</p>
+<p>Ostatnie, ósme pytanie które mam na liście jest o technologię Parallel Linq, czyli "równoległy LINQ". A więc: czym
+    właściwie jest, do czego służy, kto to zrobił i czy powinniśmy tego używać na co dzień.</p>
 
-<p>Parallel Linq to implementacja Linq to Objects umożliwiająca zrównoleglanie niektórych operacji wykonywanych przez LINQ. Została wprowadzona w .NET 4.0, tak jak i Task Parallel Library rewolucjonizujący programowanie równoległe i asynchroniczne w .NET-cie.</p>
+<p>Parallel Linq to implementacja Linq to Objects umożliwiająca zrównoleglanie niektórych operacji wykonywanych przez
+    LINQ. Została wprowadzona w .NET 4.0, tak jak i Task Parallel Library rewolucjonizujący programowanie równoległe i
+    asynchroniczne w .NET-cie.</p>
 
-<p>Klasyczny LINQ-to-Objects pracuje na typie IEnumerable&lt;T&gt;. <em>Parallel Linq</em> pracuje na typie <code>ParallelEnumerable</code>. Przekształcenie <code>IEnumerable</code> w <code>ParallelEnumerable</code> jest proste, bo na <code>IEnumerable</code> wystarczy wywołać metodą <code>AsParallel()</code> i już mamy dostęp do wszystkich metod równoległego LINQ na tych samych obiektach, na których do tej pory wywoływaliśmy klasyczne metody LINQ.</p>
+<p>Klasyczny LINQ-to-Objects pracuje na typie IEnumerable&lt;T&gt;. <em>Parallel Linq</em> pracuje na typie
+    <code>ParallelEnumerable</code>. Przekształcenie <code>IEnumerable</code> w <code>ParallelEnumerable</code> jest
+    proste, bo na <code>IEnumerable</code> wystarczy wywołać metodą <code>AsParallel()</code> i już mamy dostęp do
+    wszystkich metod równoległego LINQ na tych samych obiektach, na których do tej pory wywoływaliśmy klasyczne metody
+    LINQ.</p>
 
-<p>Widać więc, że implementacja Parallel Linq nie zastąpiła LINQ-to-Objects, a zamiast tego mamy model opt-in, a więc żeby wykonać zapytanie LINQ w sposób równoległy musimy celowo zrobić ten dodatkowy krok i użyć metody <code>AsParallel()</code>.</p>
+<p>Widać więc, że implementacja Parallel Linq nie zastąpiła LINQ-to-Objects, a zamiast tego mamy model opt-in, a więc
+    żeby wykonać zapytanie LINQ w sposób równoległy musimy celowo zrobić ten dodatkowy krok i użyć metody
+    <code>AsParallel()</code>.</p>
 
-<p>Wykonanie zapytań równolegle może poprawić wydajność zapytania, może też pogorszyć wydajność zapytania, i może zmienić jego wynik w pewnych scenariuszach, więc dobrze jest to potraktować jako metodę optymalizacji, a z optymalizacją wiadomo - lepiej się na nią nie rzucać dopóki nie jest potrzebna.</p>
+<p>Wykonanie zapytań równolegle może poprawić wydajność zapytania, może też pogorszyć wydajność zapytania, i może
+    zmienić jego wynik w pewnych scenariuszach, więc dobrze jest to potraktować jako metodę optymalizacji, a z
+    optymalizacją wiadomo - lepiej się na nią nie rzucać dopóki nie jest potrzebna.</p>
 
 <h2>Podsumowanie</h2>
 
-<p>To koniec przeglądu na dziś, pytań dotyczących LINQ mam na liście mam jeszcze trochę, ale też biorąc pod uwagę feedback wiem, że powinienem robić raczej krótsze odcinki i w tym kierunku chcę zmierzać. Gratuluję Ci wytrwałości :) Jeśli masz pomysł co mógłbym zrobić, żeby ten podcast bardziej odpowiadał Twoim konkretnie potrzebom i był dla Ciebie ciekawszy, to daj znać. Na moim blogu zakasanerekawy.pl znajdziesz różne formy kontaktu, czytam maile, odpisuję i zawsze jestem wdzięczny za feedback.</p>
+<p>To koniec przeglądu na dziś, pytań dotyczących LINQ mam na liście mam jeszcze trochę, ale też biorąc pod uwagę
+    feedback wiem, że powinienem robić raczej krótsze odcinki i w tym kierunku chcę zmierzać. Gratuluję Ci wytrwałości
+    :) Jeśli masz pomysł co mógłbym zrobić, żeby ten podcast bardziej odpowiadał Twoim konkretnie potrzebom i był dla
+    Ciebie ciekawszy, to daj znać. Na moim blogu zakasanerekawy.taurit.pl znajdziesz różne formy kontaktu, czytam maile,
+    odpisuję i zawsze jestem wdzięczny za feedback.</p>
 
 <p>Raz jeszcze dzięki, życzę Ci jak zwykle udanego dnia i do usłyszenia!</p>
 

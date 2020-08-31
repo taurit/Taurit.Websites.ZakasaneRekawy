@@ -142,19 +142,15 @@
 <div class="podcast-subscription-form">
     <!-- Begin MailChimp Signup Form -->
     <div id="mc_embed_signup">
-        <form action="https://taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=0bdc5f15d2" method="post"
-            id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate form form-inline" target="_blank"
-            novalidate>
+        <form action="https://taurit.us16.list-manage.com/subscribe/post?u=330f3c8a4e6aab69c57478e23&amp;id=0bdc5f15d2"
+            method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form"
+            class="validate form form-inline" target="_blank" novalidate>
             <p class="subscription-form-header">Otrzymaj powiadomienie o nowych odcinkach</p>
-            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL" placeholder="Twój adres email">
+            <input type="email" value="" name="EMAIL" class="required email form-control" id="mce-EMAIL"
+                placeholder="Twój adres email">
             <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" placeholder="Twoje imię">
-            <input type="submit" value="Zapisz" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success btn-normal">
-
-            <!--<a href="https://www.facebook.com/programowanienasniadanie/" target="blank" class="follow-external-button"><img id="facebookFollow" src="/assets/img/like-button.png" alt="Śledź stronę podcastu na Facebooku" width="90" height="39"></a>-->
-
-            <!--<a href="https://feedly.com/i/subscription/feed/https%3A%2F%2Fzakasanerekawy.pl%2Fpodcast%2Fprogramowanie-na-sniadanie%2Ffeed.rss" target="blank" class="follow-external-button"><img id="feedlyFollow" src='/assets/img/follow-blog-on-feedly.png' alt="Śledź nowe odcinki na feedly" width="100" height="39"></a>-->
-
-            <!--<a href="https://twitter.com/pawelbulwan" target="blank" class="follow-external-button"><img id="twitterFollow" src="/assets/img/follow-blog-on-twitter.png" alt="Śledź nowe odcinki na Twitterze" width="131" height="39"></a>-->
+            <input type="submit" value="Zapisz" name="subscribe" id="mc-embedded-subscribe"
+                class="btn btn-success btn-normal">
 
             <div id="mce-responses">
                 <div class="response" id="mce-error-response" style="display:none"></div>
@@ -169,21 +165,37 @@
     </div>
     <!--End mc_embed_signup-->
 </div>
-<p>To jest podcast "Programowanie na śniadanie". Słuchasz odcinka numer 2. Dziś opowiem o mechanizmie <em>Content-Security-Policy</em>, który pozwala programistom aplikacji webowych takim jak my, poprawić bezpieczeństwo strony przy pomocy praktycznie jednej linijki konfiguracji.</p>
+<p>To jest podcast "Programowanie na śniadanie". Słuchasz odcinka numer 2. Dziś opowiem o mechanizmie
+    <em>Content-Security-Policy</em>, który pozwala programistom aplikacji webowych takim jak my, poprawić
+    bezpieczeństwo strony przy pomocy praktycznie jednej linijki konfiguracji.</p>
 
 <p class="podcast-transcript-jingle">intro</p>
 
 <h2>Dla kogo jest ten odcinek?</h2>
 
-<p>Cześć! Z tej strony Paweł, bardzo się cieszę że zechciałeś lub zechciałaś zajrzeć do tego odcinka podcastu. Na samym starcie chcę przekazać Ci w skrócie o czym będzie, żeby pozwolić Ci ocenić czy warto poświęcić na niego najbliższe kilkanaście minut. Po tym wstępie będzie jingiel i przejdziemy do konkretów i mam nadzieję, że zechcesz zostać do samego końca ;)</p>
+<p>Cześć! Z tej strony Paweł, bardzo się cieszę że zechciałeś lub zechciałaś zajrzeć do tego odcinka podcastu. Na samym
+    starcie chcę przekazać Ci w skrócie o czym będzie, żeby pozwolić Ci ocenić czy warto poświęcić na niego najbliższe
+    kilkanaście minut. Po tym wstępie będzie jingiel i przejdziemy do konkretów i mam nadzieję, że zechcesz zostać do
+    samego końca ;)</p>
 
-<p>W tej audycji opowiem o mechanizmie <em>Content-Security-Policy</em>, który jest związany z bezpieczeństwem aplikacji webowych i stron internetowych, czyli generalnie wszystkiego co tworzymy na przeglądarki internetowe. Jeśli więc interesuje Cię web development, a do tej pory nie spotkałeś albo nie spotkałaś się z tym mechanizmem, albo już nie pamiętasz dokładnie do czego służy, to zachęcam, żeby poświęcić kilka minut na przypomnienie sobie tego tematu.</p>
+<p>W tej audycji opowiem o mechanizmie <em>Content-Security-Policy</em>, który jest związany z bezpieczeństwem aplikacji
+    webowych i stron internetowych, czyli generalnie wszystkiego co tworzymy na przeglądarki internetowe. Jeśli więc
+    interesuje Cię web development, a do tej pory nie spotkałeś albo nie spotkałaś się z tym mechanizmem, albo już nie
+    pamiętasz dokładnie do czego służy, to zachęcam, żeby poświęcić kilka minut na przypomnienie sobie tego tematu.</p>
 
-<p>Ten mechanizm to tak naprawdę jedna linijka konfigurująca bezpieczeństwo naszej aplikacji i ta konfiguracja może siedzieć jako zwykły meta-tag w sekcji &lt;head&gt; strony, albo być przesyłana przez serwer jako nagłówek HTTP.</p>
+<p>Ten mechanizm to tak naprawdę jedna linijka konfigurująca bezpieczeństwo naszej aplikacji i ta konfiguracja może
+    siedzieć jako zwykły meta-tag w sekcji &lt;head&gt; strony, albo być przesyłana przez serwer jako nagłówek HTTP.</p>
 
-<p>Postaram się tu prowadzić narrację tak, żeby nie zgubić Twojej uwagi mimo że odcinek może wymagać trochę skupienia i przede wszystkim pokazać pewne problemy z platformą Web, które dziś mamy i które próbujemy rozwiązywać mechanizmami takimi jak właśnie <em>Content-Security-Policy</em>. Będzie też wniosek bardzo pragmatyczny, a mianowicie taki że w nowo stawianych projektach web warto odejść od domyślnego zachowania przeglądarki i określić taką politykę bezpieczeństwa aplikacji, co nałoży na nas trochę restrykcji przy programowaniu, ale w rezultacie pozwoli stworzyć bezpieczniejszą aplikację.</p>
+<p>Postaram się tu prowadzić narrację tak, żeby nie zgubić Twojej uwagi mimo że odcinek może wymagać trochę skupienia i
+    przede wszystkim pokazać pewne problemy z platformą Web, które dziś mamy i które próbujemy rozwiązywać mechanizmami
+    takimi jak właśnie <em>Content-Security-Policy</em>. Będzie też wniosek bardzo pragmatyczny, a mianowicie taki że w
+    nowo stawianych projektach web warto odejść od domyślnego zachowania przeglądarki i określić taką politykę
+    bezpieczeństwa aplikacji, co nałoży na nas trochę restrykcji przy programowaniu, ale w rezultacie pozwoli stworzyć
+    bezpieczniejszą aplikację.</p>
 
-<p>Żeby pokazać faktyczne korzyści dla bezpieczeństwa, w trakcie tego odcinka przedstawię m.in. trzy przykładowe klasy ataków, którym pozwala zapobiec Content-Security-Policy: atak <em>Cross Site Scripting</em>, <em>Cross-Site Styling</em> i <em>Clickjacking</em> i postaram się przystępnie wyjaśnić na czym polegają.</p>
+<p>Żeby pokazać faktyczne korzyści dla bezpieczeństwa, w trakcie tego odcinka przedstawię m.in. trzy przykładowe klasy
+    ataków, którym pozwala zapobiec Content-Security-Policy: atak <em>Cross Site Scripting</em>, <em>Cross-Site
+        Styling</em> i <em>Clickjacking</em> i postaram się przystępnie wyjaśnić na czym polegają.</p>
 
 <p>Mam nadzieję, że zachęciłem Cię do słuchania i zapraszam :)</p>
 
@@ -191,25 +203,55 @@
 
 <h2>Wstęp: dlaczego pozostając przy opcji domyślnej NIE jesteśmy bezpieczni</h2>
 
-<p>Przyznam, że jako użytkownik do niedawna postrzegałem aplikacje w przeglądarkach jako wyjątkowo bezpieczne w porównaniu z tymi tradycyjnie instalowanymi na naszych maszynach. Programistyczna intuicja może nam wszystkim dawać takie wrażenie, bo w końcu używamy nowoczesnych przeglądarek, które działają w różnego rodzaju sandboxach, od jakiegoś czasu nie mają już Flasha ani Javy, a jedynie JavaScript który nie daje bezpośredniego dostępu do naszego dysku ani innych uprawnień które by pozwoliły przejąć kontrolę nad naszym laptopem czy innym urządzeniem.</p>
+<p>Przyznam, że jako użytkownik do niedawna postrzegałem aplikacje w przeglądarkach jako wyjątkowo bezpieczne w
+    porównaniu z tymi tradycyjnie instalowanymi na naszych maszynach. Programistyczna intuicja może nam wszystkim dawać
+    takie wrażenie, bo w końcu używamy nowoczesnych przeglądarek, które działają w różnego rodzaju sandboxach, od
+    jakiegoś czasu nie mają już Flasha ani Javy, a jedynie JavaScript który nie daje bezpośredniego dostępu do naszego
+    dysku ani innych uprawnień które by pozwoliły przejąć kontrolę nad naszym laptopem czy innym urządzeniem.</p>
 
-<p>Platforma webowa jest też w centrum uwagi dużych firm technologicznych takich jak Google czy Microsoft i na co dzień widać jak dawne niedogodności i problemy są łatane. My jako programiści piszący aplikacje, możemy dziś załatwić jedną linią kodu CSS lub JavaScript coś, co kilka lat temu wymagało dziesiątek albo setek linijek. Hacki, jakie kilka lat temu za czasów Internet Explorera 8 trzeba było wdrożyć, żeby zgodnie z modą dodać zaokrąglone rogi do przycisku wydają się niedorzeczne dzisiaj, kiedy walczy się raczej o osiągnięcie większej liczby klatek na sekundę w animacjach.</p>
+<p>Platforma webowa jest też w centrum uwagi dużych firm technologicznych takich jak Google czy Microsoft i na co dzień
+    widać jak dawne niedogodności i problemy są łatane. My jako programiści piszący aplikacje, możemy dziś załatwić
+    jedną linią kodu CSS lub JavaScript coś, co kilka lat temu wymagało dziesiątek albo setek linijek. Hacki, jakie
+    kilka lat temu za czasów Internet Explorera 8 trzeba było wdrożyć, żeby zgodnie z modą dodać zaokrąglone rogi do
+    przycisku wydają się niedorzeczne dzisiaj, kiedy walczy się raczej o osiągnięcie większej liczby klatek na sekundę w
+    animacjach.</p>
 
-<p>Przy całym tym postępie w świecie aplikacji internetowych zdarzają się jednak sytuacje, kiedy przypominamy sobie że pierwszy standard HTML został opublikowany daawno temu, w 1993 roku <reference url="https://www.w3.org/wiki/HTML/Specifications" />, i to dziedzictwo czasem do nas wraca w postaci różnorakich problemów. Możemy spojrzeć na platformę web jak na system, który działa produkcyjnie od ponad 25 lat. Ewoluując nie może sobie za bardzo pozwolić na zmiany, które nie byłyby kompatybilne wstecz, bo zepsułoby to masę istniejących stron i aplikacji.</p>
+<p>Przy całym tym postępie w świecie aplikacji internetowych zdarzają się jednak sytuacje, kiedy przypominamy sobie że
+    pierwszy standard HTML został opublikowany daawno temu, w 1993 roku
+    <reference url="https://www.w3.org/wiki/HTML/Specifications" />, i to dziedzictwo czasem do nas wraca w postaci
+    różnorakich problemów. Możemy spojrzeć na platformę web jak na system, który działa produkcyjnie od ponad 25 lat.
+    Ewoluując nie może sobie za bardzo pozwolić na zmiany, które nie byłyby kompatybilne wstecz, bo zepsułoby to masę
+    istniejących stron i aplikacji.</p>
 
-<p>Jednym z aspektów, które obrywają przez konieczność zachowania kompatybilności wstecz jest bezpieczeństwo. Przykładowo, w praktyce dopiero teraz na naszych oczach dokonuje się zmiana, w której protokół HTTP jest wypierany przez HTTPS. Ten brak szyfrowania, który do niedawna był typowy dla stron internetowych, to jeden z przykładów sytuacji, gdzie nie trzeba szczególnych zdolności hackerskich aby naruszyć prywatność użytkowników stron.</p>
+<p>Jednym z aspektów, które obrywają przez konieczność zachowania kompatybilności wstecz jest bezpieczeństwo.
+    Przykładowo, w praktyce dopiero teraz na naszych oczach dokonuje się zmiana, w której protokół HTTP jest wypierany
+    przez HTTPS. Ten brak szyfrowania, który do niedawna był typowy dla stron internetowych, to jeden z przykładów
+    sytuacji, gdzie nie trzeba szczególnych zdolności hackerskich aby naruszyć prywatność użytkowników stron.</p>
 
-<p>Bezpieczeństwo stron internetowych jest ważne przede wszystkim dlatego, że nasza przeglądarka pomimo tego że chroni nas dziś dość dobrze przed instalacją malware'u na maszynie na której działa, sama może stać się celem ataku innego rodzaju. Jako użytkownicy jesteśmy na ogół zalogowani w co najmniej kilku serwisach z których korzystamy i często dla wygody nie wylogowujemy się z nich tylko po prostu zamykamy zakładkę, pozostawiając sesję logowania aktywną. Jeśli odejdziemy od komputera i ktoś inny w tym czasie otworzy naszą przeglądarkę, to prawdopodobnie bez problemu wejdzie na naszego Twittera, LinkedIna, czy nasz program do zarządzania listą Todo i będzie mógł wykonać akcję w naszym imieniu.</p>
+<p>Bezpieczeństwo stron internetowych jest ważne przede wszystkim dlatego, że nasza przeglądarka pomimo tego że chroni
+    nas dziś dość dobrze przed instalacją malware'u na maszynie na której działa, sama może stać się celem ataku innego
+    rodzaju. Jako użytkownicy jesteśmy na ogół zalogowani w co najmniej kilku serwisach z których korzystamy i często
+    dla wygody nie wylogowujemy się z nich tylko po prostu zamykamy zakładkę, pozostawiając sesję logowania aktywną.
+    Jeśli odejdziemy od komputera i ktoś inny w tym czasie otworzy naszą przeglądarkę, to prawdopodobnie bez problemu
+    wejdzie na naszego Twittera, LinkedIna, czy nasz program do zarządzania listą Todo i będzie mógł wykonać akcję w
+    naszym imieniu.</p>
 
-<p>W praktyce w naszym otoczeniu mamy raczej zaufane osoby i problemem nie jest taki lokalny atak bezpośrednio na nas, ale raczej na strony z których korzystamy. Patrząc z perspektywy web developera to mogą być ataki na strony które tworzymy i za których zabezpieczenie jesteśmy odpowiedzialni, dlatego warto przyjrzeć się niektórym z nich. W następnej części, która już za moment, opiszę krótko trzy rodzaje stosunkowo łatwych do zrozumienia i dość łatwych do wykonania ataków na strony czy aplikacje internetowe, a mianowicie:</p>
+<p>W praktyce w naszym otoczeniu mamy raczej zaufane osoby i problemem nie jest taki lokalny atak bezpośrednio na nas,
+    ale raczej na strony z których korzystamy. Patrząc z perspektywy web developera to mogą być ataki na strony które
+    tworzymy i za których zabezpieczenie jesteśmy odpowiedzialni, dlatego warto przyjrzeć się niektórym z nich. W
+    następnej części, która już za moment, opiszę krótko trzy rodzaje stosunkowo łatwych do zrozumienia i dość łatwych
+    do wykonania ataków na strony czy aplikacje internetowe, a mianowicie:</p>
 
 <ul>
     <li><em>Cross Site Scripting</em> (XSS)</li>
-    <li><em>Cross-Site Styling</em>, czyli atak na style strony które intuicyjnie mogą wydawać się zupełnie bezpieczną częścią strony</li>
+    <li><em>Cross-Site Styling</em>, czyli atak na style strony które intuicyjnie mogą wydawać się zupełnie bezpieczną
+        częścią strony</li>
     <li><em>Clickjacking</em></li>
 </ul>
 
-<p>Po tej nadchodzącej sekcji i przedstawieniu problemów przejdę natomiast do rozwiązań, czyli tego jak możemy zapobiec skutkom ataków definiując politykę bezpieczeństwa dla strony przez tytułowy mechanizm <em>Content-Security-Policy</em>.</p>
+<p>Po tej nadchodzącej sekcji i przedstawieniu problemów przejdę natomiast do rozwiązań, czyli tego jak możemy zapobiec
+    skutkom ataków definiując politykę bezpieczeństwa dla strony przez tytułowy mechanizm
+    <em>Content-Security-Policy</em>.</p>
 
 <p class="podcast-transcript-jingle">jingiel</p>
 
@@ -217,65 +259,153 @@
 
 <h3>Cross Site Scripting</h3>
 
-<p>Zacznę od przedstawienia tego czym jest podatność strony na Cross-Site-Scripting. Cross Site Scripting, często oznaczany akronimem XSS, to rodzaj łatwego do popełnienia błędu w aplikacji pisanej na przeglądarki. Ten błąd pozwala osobie o złych zamiarach na dodanie do naszej aplikacji internetowej dodatkowego kodu JavaScript, który wykona się u osoby odwiedzającej stronę w przeglądarce.</p>
+<p>Zacznę od przedstawienia tego czym jest podatność strony na Cross-Site-Scripting. Cross Site Scripting, często
+    oznaczany akronimem XSS, to rodzaj łatwego do popełnienia błędu w aplikacji pisanej na przeglądarki. Ten błąd
+    pozwala osobie o złych zamiarach na dodanie do naszej aplikacji internetowej dodatkowego kodu JavaScript, który
+    wykona się u osoby odwiedzającej stronę w przeglądarce.</p>
 
-<p>Ten błąd jest podobny w naturze do wielu innych błędów które można sklasyfikować jako code-injection, czyli błędów pozwalających na wstrzykiwanie kodu. Najogólniej ujmując błąd typu code-injection pojawia się, kiedy aplikacja wysyła jakieś niezaufane dane, czyli np. takie wprowadzone przez użytkownika, do interpretera. Chyba najpopularniejszym błędem tej klasy jest SQL Injection, ale w przypadku Cross-Site-Scripting interpreterem nie jest silnik bazy danych, ale silnik JavaScript w przeglądarce.</p>
+<p>Ten błąd jest podobny w naturze do wielu innych błędów które można sklasyfikować jako code-injection, czyli błędów
+    pozwalających na wstrzykiwanie kodu. Najogólniej ujmując błąd typu code-injection pojawia się, kiedy aplikacja
+    wysyła jakieś niezaufane dane, czyli np. takie wprowadzone przez użytkownika, do interpretera. Chyba
+    najpopularniejszym błędem tej klasy jest SQL Injection, ale w przypadku Cross-Site-Scripting interpreterem nie jest
+    silnik bazy danych, ale silnik JavaScript w przeglądarce.</p>
 
-<p>Błąd typu Cross Site Scripting możemy popełnić pisząc już swoją pierwszą aplikację typu "hello world". Przypuśćmy, że w tej prostej aplikacji pytamy użytkownika o imię, które może wpisać w polu tekstowym na stronie, a kiedy je poda i wciśnie przycisk to wyświetlamy tekst typu "Witaj, [imię]" przez JavaScriptową metodę document.write(). W tej sytuacji dajemy użytkownikowi możliwość nadużycia, bo jeśli zamiast swojego imienia wprowadzi tag &lt;script&gt;
-a w środku fragment kodu JavaScript, to ten kod zostanie dodany do strony i wykonany w przeglądarce tego użytkownika.</p>
+<p>Błąd typu Cross Site Scripting możemy popełnić pisząc już swoją pierwszą aplikację typu "hello world". Przypuśćmy, że
+    w tej prostej aplikacji pytamy użytkownika o imię, które może wpisać w polu tekstowym na stronie, a kiedy je poda i
+    wciśnie przycisk to wyświetlamy tekst typu "Witaj, [imię]" przez JavaScriptową metodę document.write(). W tej
+    sytuacji dajemy użytkownikowi możliwość nadużycia, bo jeśli zamiast swojego imienia wprowadzi tag &lt;script&gt;
+    a w środku fragment kodu JavaScript, to ten kod zostanie dodany do strony i wykonany w przeglądarce tego
+    użytkownika.</p>
 
-<p>Przypuśćmy teraz, że jako programiści zrobimy podobny błąd pisząc system komentarzy np. w sklepie internetowym. Jeśli pozwolimy użytkownikom podczas dodawania komentarza w polu "imię" dokleić skrypt i zachowamy potem takiego stringa w bazie danych żeby go wyświetlać przy komentarzu, to ten może wykonać się u wszystkich użytkowników oglądających ten komentarz i to w kontekście ich sesji. A więc doklejony skrypt będzie miał dostęp do tych samych danych strony, co użytkownik, przypuszczalnie np. numeru karty kredytowej zapisanego w opcjach sklepu internetowego, i będzie mógł wysłać te dane na serwer atakującego.</p>
+<p>Przypuśćmy teraz, że jako programiści zrobimy podobny błąd pisząc system komentarzy np. w sklepie internetowym. Jeśli
+    pozwolimy użytkownikom podczas dodawania komentarza w polu "imię" dokleić skrypt i zachowamy potem takiego stringa w
+    bazie danych żeby go wyświetlać przy komentarzu, to ten może wykonać się u wszystkich użytkowników oglądających ten
+    komentarz i to w kontekście ich sesji. A więc doklejony skrypt będzie miał dostęp do tych samych danych strony, co
+    użytkownik, przypuszczalnie np. numeru karty kredytowej zapisanego w opcjach sklepu internetowego, i będzie mógł
+    wysłać te dane na serwer atakującego.</p>
 
-<p>Mechanizm Content-Security Policy może pomóc rozwiązać ten problem, bo pozwala nam poinstruować przeglądarkę, żeby nie wykonywała żadnego kodu JavaScript zagnieżdżonego w kodzie HTML. Dokument HTML jest typowo dynamicznie generowany w czasie wykonania programu przez aplikację i mocno narażony na błędy programisty. Jedną dyrektywą CSP możemy więc ustalić, że żadne skrypty zdefiniowane w blokach &lt;script&gt; ani w atrybutach elementów HTML takich jak <code>onclick</code> nie będą po prostu wykonywane przez przeglądarkę. W typowym przypadku zechcemy przy tym zachować możliwość wykonywania skryptów które są załączane jako pliki zewnętrzne, ale dla nich możemy również zdefiniować listę domen które są zaufane, na zasadzie whitelisty. Nałożenie takich restrykcji znacznie ogranicza w praktyce możliwość wykonania ataku Cross Site Scripting, bo kod z powodzeniem wstrzyknięty razem z legalnymi danymi w markup strony po prostu się nie wykona.</p>
+<p>Mechanizm Content-Security Policy może pomóc rozwiązać ten problem, bo pozwala nam poinstruować przeglądarkę, żeby
+    nie wykonywała żadnego kodu JavaScript zagnieżdżonego w kodzie HTML. Dokument HTML jest typowo dynamicznie
+    generowany w czasie wykonania programu przez aplikację i mocno narażony na błędy programisty. Jedną dyrektywą CSP
+    możemy więc ustalić, że żadne skrypty zdefiniowane w blokach &lt;script&gt; ani w atrybutach elementów HTML takich
+    jak <code>onclick</code> nie będą po prostu wykonywane przez przeglądarkę. W typowym przypadku zechcemy przy tym
+    zachować możliwość wykonywania skryptów które są załączane jako pliki zewnętrzne, ale dla nich możemy również
+    zdefiniować listę domen które są zaufane, na zasadzie whitelisty. Nałożenie takich restrykcji znacznie ogranicza w
+    praktyce możliwość wykonania ataku Cross Site Scripting, bo kod z powodzeniem wstrzyknięty razem z legalnymi danymi
+    w markup strony po prostu się nie wykona.</p>
 
 <p class="podcast-transcript-jingle">jingiel</p>
 
 <h3>Cross Site Styling</h3>
 
-<p>Przed chwilą opisałem na czym polega atak Cross Site Scripting i dlaczego w związku z nim dobrze jest zablokować wykonywanie w aplikacji webowej wszystkich skryptów zagnieżdżonych. Można sobie zadać pytanie, czy innego rodzaju zasoby takie jak np. style CSS lub zewnętrzne czcionki lub obiekty audio i video również powinny być blokowane i czy potencjalny atakujący jest w stanie w jakiś sposób skorzystać np. z wstrzyknięcia do kodu strony dodatkowych styli CSS.</p>
+<p>Przed chwilą opisałem na czym polega atak Cross Site Scripting i dlaczego w związku z nim dobrze jest zablokować
+    wykonywanie w aplikacji webowej wszystkich skryptów zagnieżdżonych. Można sobie zadać pytanie, czy innego rodzaju
+    zasoby takie jak np. style CSS lub zewnętrzne czcionki lub obiekty audio i video również powinny być blokowane i czy
+    potencjalny atakujący jest w stanie w jakiś sposób skorzystać np. z wstrzyknięcia do kodu strony dodatkowych styli
+    CSS.</p>
 
-<p>W przypadku wstrzyknięcia na stronę złośliwych styli problemem jest to, że strona może zmienić swój wygląd w sposób który będzie mniej lub bardziej niebezpieczny dla użytkownika. CSS pozwala dziś transformować wygląd strony w bardzo dużym stopniu. Można sobie wyobrazić sytuację, gdzie np. link dodany w komentarzu przez użytkownika jest przez wstrzyknięte style przeniesiony wizualnie gdzieś na górę strony do głównego menu z nawigacją, i w ten sposób atakującemu uda się przekierować część naszych użytkowników na własną podrobioną witrynę. Poprzez CSS można też dodać tekst gdzieś na stronie, który może chociażby ośmieszyć serwis albo obrazić jakąś grupę odbiorców. Przy udanym ataku można też załączyć do strony jednopikselowy obrazek umieszczony w domenie atakującego. Wtedy przeglądarki użytkowników wchodzących na stronę będą wysyłać do tego złośliwego serwera żądanie, co pozwoli atakującemu poznać np. poziom ruchu na stronie i adresy IP wszystkich odwiedzających.</p>
+<p>W przypadku wstrzyknięcia na stronę złośliwych styli problemem jest to, że strona może zmienić swój wygląd w sposób
+    który będzie mniej lub bardziej niebezpieczny dla użytkownika. CSS pozwala dziś transformować wygląd strony w bardzo
+    dużym stopniu. Można sobie wyobrazić sytuację, gdzie np. link dodany w komentarzu przez użytkownika jest przez
+    wstrzyknięte style przeniesiony wizualnie gdzieś na górę strony do głównego menu z nawigacją, i w ten sposób
+    atakującemu uda się przekierować część naszych użytkowników na własną podrobioną witrynę. Poprzez CSS można też
+    dodać tekst gdzieś na stronie, który może chociażby ośmieszyć serwis albo obrazić jakąś grupę odbiorców. Przy udanym
+    ataku można też załączyć do strony jednopikselowy obrazek umieszczony w domenie atakującego. Wtedy przeglądarki
+    użytkowników wchodzących na stronę będą wysyłać do tego złośliwego serwera żądanie, co pozwoli atakującemu poznać
+    np. poziom ruchu na stronie i adresy IP wszystkich odwiedzających.</p>
 
-<p>Ogólnie rzecz biorąc style pozwalają na złośliwości mniejszego kalibru niż opisywany wcześniej Cross Site Scripting. Natomiast jeśli stawiamy projekt od zera, to warto rozważyć zablokowanie wykonywania wszystkich styli znajdujących się wewnątrz tagu <code>style</code> na stronie i w atrybutach <code>style</code> tagów HTML i mieć ten potencjalny problem z głowy, pozwalając jedynie na ładowanie arkuszy styli z zewnętrznych plików. Unikanie styli w atrybutach było chyba zresztą od zawsze dobrą praktyką jeśli chodzi o utrzymanie separacji kodu, ułatwienie cache'owania, oraz ze względu na dużą tzw. specyficzność selektorów CSS definiowanych w atrybutach, z którą każdy kto miał do czynienia z CSS kiedyś walczył.</p>
+<p>Ogólnie rzecz biorąc style pozwalają na złośliwości mniejszego kalibru niż opisywany wcześniej Cross Site Scripting.
+    Natomiast jeśli stawiamy projekt od zera, to warto rozważyć zablokowanie wykonywania wszystkich styli znajdujących
+    się wewnątrz tagu <code>style</code> na stronie i w atrybutach <code>style</code> tagów HTML i mieć ten potencjalny
+    problem z głowy, pozwalając jedynie na ładowanie arkuszy styli z zewnętrznych plików. Unikanie styli w atrybutach
+    było chyba zresztą od zawsze dobrą praktyką jeśli chodzi o utrzymanie separacji kodu, ułatwienie cache'owania, oraz
+    ze względu na dużą tzw. specyficzność selektorów CSS definiowanych w atrybutach, z którą każdy kto miał do czynienia
+    z CSS kiedyś walczył.</p>
 
-<p>W konfiguracji Content-Security-Policy możemy jedną dyrektywą zablokować wykonywanie styli zagnieżdżonych, oraz określić domeny internetowe z których ładowanie zewnętrznych arkuszy styli jest dozwolone. O tym czym jest dyrektywa powiem jeszcze za chwilę, ale najpierw jeszcze dwa słowa o innej potencjalnej luce bezpieczeństwa którą możemy zablokować na poziomie aplikacji, a mianowicie <em>clickjackingu</em>.</p>
+<p>W konfiguracji Content-Security-Policy możemy jedną dyrektywą zablokować wykonywanie styli zagnieżdżonych, oraz
+    określić domeny internetowe z których ładowanie zewnętrznych arkuszy styli jest dozwolone. O tym czym jest dyrektywa
+    powiem jeszcze za chwilę, ale najpierw jeszcze dwa słowa o innej potencjalnej luce bezpieczeństwa którą możemy
+    zablokować na poziomie aplikacji, a mianowicie <em>clickjackingu</em>.</p>
 
 <p class="podcast-transcript-jingle">jingiel</p>
 
 <h3>Clickjacking</h3>
 
-<p>Clickjacking jest ciekawym rodzajem podstępu. Użytkownik na stronie widzi i klika w jakiś niewinnie wyglądający link, a przeglądarka zamiast tego wykonuje coś całkiem nieprzewidzianego, np. "lajkuje" z jego konta jakąś nieznaną mu stronę. Ten wariant sztuczki niektórzy nazywają nawet odrębnie "likejackingiem". Żeby działać na jakimś przykładzie, możemy rozpatrzeć właśnie ten scenariusz, bo przemawia do wyobraźni i faktycznie występuje w przyrodzie.</p>
+<p>Clickjacking jest ciekawym rodzajem podstępu. Użytkownik na stronie widzi i klika w jakiś niewinnie wyglądający link,
+    a przeglądarka zamiast tego wykonuje coś całkiem nieprzewidzianego, np. "lajkuje" z jego konta jakąś nieznaną mu
+    stronę. Ten wariant sztuczki niektórzy nazywają nawet odrębnie "likejackingiem". Żeby działać na jakimś przykładzie,
+    możemy rozpatrzeć właśnie ten scenariusz, bo przemawia do wyobraźni i faktycznie występuje w przyrodzie.</p>
 
-<p>Podstęp wykorzystuje fakt, że HTML pozwala utworzyć na stronie poprzez tag <code>iframe</code> czyli inline frame, ramkę, i załadować w niej inną stronę. Stroną może być np. podstrona serwisu Facebook zawierająca przycisk "like" jakiegoś produktu czy posta. Ta strona w ramce iframe będzie przez przeglądarkę  wczytana w kontekście użytkownika przeglądarki, tyle że nie w nowej zakładce, a właśnie w ramce wewnątrz strony. Problem pojawia się, kiedy ktoś sprawi, że ta ramka będzie przezroczysta i niewidoczna (np. stosując opacity "0" i wysoki z-index). Wtedy może ją ustawić tak, żeby skłonić użytkownika w kliknięcie przezroczystego przycisku "like" zupełnie nieświadomie że właśnie to zrobił.</p>
+<p>Podstęp wykorzystuje fakt, że HTML pozwala utworzyć na stronie poprzez tag <code>iframe</code> czyli inline frame,
+    ramkę, i załadować w niej inną stronę. Stroną może być np. podstrona serwisu Facebook zawierająca przycisk "like"
+    jakiegoś produktu czy posta. Ta strona w ramce iframe będzie przez przeglądarkę wczytana w kontekście użytkownika
+    przeglądarki, tyle że nie w nowej zakładce, a właśnie w ramce wewnątrz strony. Problem pojawia się, kiedy ktoś
+    sprawi, że ta ramka będzie przezroczysta i niewidoczna (np. stosując opacity "0" i wysoki z-index). Wtedy może ją
+    ustawić tak, żeby skłonić użytkownika w kliknięcie przezroczystego przycisku "like" zupełnie nieświadomie że właśnie
+    to zrobił.</p>
 
-<p>Jako twórcy aplikacji webowych chcemy przede wszystkim zapobiec wstrzyknięciu kodu na stronę którą developujemy, aby chronić naszych użytkowników. Content-security policy pozwala na to poprzez zablokowanie ładowania na stronie ramek z innych domen niż te, których faktycznie potrzebujemy do działania i znacznie ograniczyć możliwość takiego ataku na użytkowników.</p>
+<p>Jako twórcy aplikacji webowych chcemy przede wszystkim zapobiec wstrzyknięciu kodu na stronę którą developujemy, aby
+    chronić naszych użytkowników. Content-security policy pozwala na to poprzez zablokowanie ładowania na stronie ramek
+    z innych domen niż te, których faktycznie potrzebujemy do działania i znacznie ograniczyć możliwość takiego ataku na
+    użytkowników.</p>
 
 <p class="podcast-transcript-jingle">jingiel</p>
 
 <h2>Rozwiązanie/mitygacja: Content-Security-Policy</h2>
 
-<p>Tym sposobem dotarliśmy do sekcji, w której będę mógł trochę szerzej przedstawić rozwiązanie, a może raczej mitygację dla wspomnianych problemów i kilku im pokrewnych. Jeśli nasza strona pozwala na wstrzykiwanie kodu, to już w tym tkwi problem i w jej kodzie będziemy go docelowo chcieli rozwiązać, bo prawdopodobnie nieprawidłowo używamy frameworka i gdzieś poszliśmy za bardzo na skróty. Mechanizm Content-Security Policy pozwoli nam za to zablokować takie częściowo udane próby nadużyć i jeśli się takie pojawią, to wskaże nam gdzie nastąpiła próba ataku na użytkowników strony, przez mechanizm raportowania o którym jeszcze powiem.</p>
+<p>Tym sposobem dotarliśmy do sekcji, w której będę mógł trochę szerzej przedstawić rozwiązanie, a może raczej mitygację
+    dla wspomnianych problemów i kilku im pokrewnych. Jeśli nasza strona pozwala na wstrzykiwanie kodu, to już w tym
+    tkwi problem i w jej kodzie będziemy go docelowo chcieli rozwiązać, bo prawdopodobnie nieprawidłowo używamy
+    frameworka i gdzieś poszliśmy za bardzo na skróty. Mechanizm Content-Security Policy pozwoli nam za to zablokować
+    takie częściowo udane próby nadużyć i jeśli się takie pojawią, to wskaże nam gdzie nastąpiła próba ataku na
+    użytkowników strony, przez mechanizm raportowania o którym jeszcze powiem.</p>
 
-<p>Content-Security-Policy to standard, wspierany dziś w dużym stopniu przez wszystkie nowoczesne przeglądarki, pozwalający zdefiniować autorom stron jakie zasoby mogą być ładowane przez przeglądarkę, a jakie powinny zostać zablokowane. Z założenia ma ograniczyć możliwość wykonania ataków Cross Site Scripting, Clickjacking i innego rodzaju ataków code-injection skierowanych w przeglądarki. W tej chwili, na początku 2018 roku, dobrze wspierane w przeglądarkach są wersje 1 i 2 standardu, trwają prace nad wersją trzecią, ale to co mamy teraz zdecydowanie wystarcza już do rozwiązania wielu problemów.</p>
+<p>Content-Security-Policy to standard, wspierany dziś w dużym stopniu przez wszystkie nowoczesne przeglądarki,
+    pozwalający zdefiniować autorom stron jakie zasoby mogą być ładowane przez przeglądarkę, a jakie powinny zostać
+    zablokowane. Z założenia ma ograniczyć możliwość wykonania ataków Cross Site Scripting, Clickjacking i innego
+    rodzaju ataków code-injection skierowanych w przeglądarki. W tej chwili, na początku 2018 roku, dobrze wspierane w
+    przeglądarkach są wersje 1 i 2 standardu, trwają prace nad wersją trzecią, ale to co mamy teraz zdecydowanie
+    wystarcza już do rozwiązania wielu problemów.</p>
 
 <p>Jako developerzy możemy zdefiniować politykę bezpieczeństwa strony na dwa sposoby:</p>
 
 <ul>
-<li>Pierwszym z nich jest wysyłanie stringa gdzie deklarujemy nasze preferencje w nagłówku HTTP o nazwie <code>Content-Security-Policy</code>.</li>
-<li>Drugą możliwością, wprowadzoną dla wygody w drugiej wersji standardu, jest przesyłanie tej wartości w meta-tagu strony. Ta forma może być w wielu sytuacjach wygodniejsza dla nas programistów i programistek, bo kiedy mamy tag będący częścią strony, to możemy go wersjonować razem z całym kodem np. w gicie, wiemy też że po wdrożeniu na inny serwer niż nasz lokalny na maszynie developerskiej, konfiguracja nadal trafi do przeglądarki użytkownika, niezależnie od tego czy serwer zostanie jakoś szczególnie skonfigurowany.</li>
+    <li>Pierwszym z nich jest wysyłanie stringa gdzie deklarujemy nasze preferencje w nagłówku HTTP o nazwie
+        <code>Content-Security-Policy</code>.</li>
+    <li>Drugą możliwością, wprowadzoną dla wygody w drugiej wersji standardu, jest przesyłanie tej wartości w meta-tagu
+        strony. Ta forma może być w wielu sytuacjach wygodniejsza dla nas programistów i programistek, bo kiedy mamy tag
+        będący częścią strony, to możemy go wersjonować razem z całym kodem np. w gicie, wiemy też że po wdrożeniu na
+        inny serwer niż nasz lokalny na maszynie developerskiej, konfiguracja nadal trafi do przeglądarki użytkownika,
+        niezależnie od tego czy serwer zostanie jakoś szczególnie skonfigurowany.</li>
 </ul>
 
-<p>Jeśli podczas wczytywania strony przeglądarka napotka taki nagłówek lub meta-tag, to zastosuje politykę do wszystkich zasobów z którymi spotka się podczas dalszego przetwarzania strony.</p>
+<p>Jeśli podczas wczytywania strony przeglądarka napotka taki nagłówek lub meta-tag, to zastosuje politykę do wszystkich
+    zasobów z którymi spotka się podczas dalszego przetwarzania strony.</p>
 
-<p>Nagłówek HTTP, który definiujemy opisuje oczekiwane od przeglądarki zachowanie przy pomocy <strong>dyrektyw</strong> i ich <strong>wartości</strong>.</p>
+<p>Nagłówek HTTP, który definiujemy opisuje oczekiwane od przeglądarki zachowanie przy pomocy <strong>dyrektyw</strong>
+    i ich <strong>wartości</strong>.</p>
 
-<p>Dyrektywa określa rodzaj zasobów, np. dyrektywa o nazwie <code>script-src</code> wskazuje na ustawienia dotyczące przetwarzania JavaScript. Wartość dyrektywy to lista źródeł, z których mogą był ładowane zasoby tego typu. Cały nagłówek Content-Security-Policy zawiera więc zestaw par "klucz-kolekcja wartości", które są złączone tworząc formę jednego długiego stringa. To w jaki sposób to już detal, wystarczy popatrzeć na przykłady i jest dość jasne jak takiego stringa skleić.</p>
+<p>Dyrektywa określa rodzaj zasobów, np. dyrektywa o nazwie <code>script-src</code> wskazuje na ustawienia dotyczące
+    przetwarzania JavaScript. Wartość dyrektywy to lista źródeł, z których mogą był ładowane zasoby tego typu. Cały
+    nagłówek Content-Security-Policy zawiera więc zestaw par "klucz-kolekcja wartości", które są złączone tworząc formę
+    jednego długiego stringa. To w jaki sposób to już detal, wystarczy popatrzeć na przykłady i jest dość jasne jak
+    takiego stringa skleić.</p>
 
-<p>Przykładowo dla wspomnianego klucza <code>script-src</code> możemy zezwolić na ładowanie skryptów zewnętrznych z tej domeny z której pochodzi strona plus, powiedzmy, z domeny disqus.com jeśli korzystamy z systemu komentarzy Disqus, plus np. google-analytics.com. Jeśli w wartościach wypiszemy takie trzy domeny, to jedynie skrypty z tych domen będą wykonane przez przeglądarkę. Nie będą natomiast domyślnie wykonane skrypty z tagów <code>script</code> ani te w atrybutach takich jak onclick albo onmouseover, te musielibyśmy jawnie włączyć dodając do listy zaufanych źródeł specjalne wartości które reprezentują te formy kodu.</p>
+<p>Przykładowo dla wspomnianego klucza <code>script-src</code> możemy zezwolić na ładowanie skryptów zewnętrznych z tej
+    domeny z której pochodzi strona plus, powiedzmy, z domeny disqus.com jeśli korzystamy z systemu komentarzy Disqus,
+    plus np. google-analytics.com. Jeśli w wartościach wypiszemy takie trzy domeny, to jedynie skrypty z tych domen będą
+    wykonane przez przeglądarkę. Nie będą natomiast domyślnie wykonane skrypty z tagów <code>script</code> ani te w
+    atrybutach takich jak onclick albo onmouseover, te musielibyśmy jawnie włączyć dodając do listy zaufanych źródeł
+    specjalne wartości które reprezentują te formy kodu.</p>
 
-<p>Dyrektyw jest obecnie, czyli w drugiej wersji standardu zaledwie kilkanaście i odpowiadają różnego rodzaju zasobom które możemy chcieć kontrolować. Przejdę przez większość z nich, ale nie po to żeby je ktoś próbował zapamiętywać bo to nie ma tu sensu, tylko żeby pokazać nad czym mniej-więcej mamy kontrolę dzięki Content-Security-Policy.</p>
+<p>Dyrektyw jest obecnie, czyli w drugiej wersji standardu zaledwie kilkanaście i odpowiadają różnego rodzaju zasobom
+    które możemy chcieć kontrolować. Przejdę przez większość z nich, ale nie po to żeby je ktoś próbował zapamiętywać bo
+    to nie ma tu sensu, tylko żeby pokazać nad czym mniej-więcej mamy kontrolę dzięki Content-Security-Policy.</p>
 
-<p>Nadrzędną dyrektywą jest <code>default-src</code>, która jest używana w przypadku kiedy nie zdefiniujemy którejkolwiek z pozostałych, czyli pozwala nam zdefiniować wartośc domyślną. Generalnie dobrze ustawić jej jakąś restrykcyjną wartość, np. zezwalającą jedynie na ładowanie zasobów z tej samej domeny i jedynie na treści z zewnętrznych plików.</p>
+<p>Nadrzędną dyrektywą jest <code>default-src</code>, która jest używana w przypadku kiedy nie zdefiniujemy
+    którejkolwiek z pozostałych, czyli pozwala nam zdefiniować wartośc domyślną. Generalnie dobrze ustawić jej jakąś
+    restrykcyjną wartość, np. zezwalającą jedynie na ładowanie zasobów z tej samej domeny i jedynie na treści z
+    zewnętrznych plików.</p>
 
 
 <p>Dyrektywy, które pozwalają w bardziej granularny sposób kontrolować konkretne rodzaje zasobów to m.in</p>
@@ -283,36 +413,79 @@ a w środku fragment kodu JavaScript, to ten kod zostanie dodany do strony i wyk
 <ul>
     <li>wspomniany wcześniej <code>script-src</code> dotyczący skryptów,</li>
     <li><code>style-src</code> dotyczący styli CSS,</li>
-    <li><code>object-src</code> określający dozwolone źródła dla obiektów takich jak Flash, czy przeglądarkowa Java, czyli załączanych przez tagi object, applet i embed. Generalnie jeśli nie używamy tego typu staroci w przeglądarce to najlepiej nie zezwalać przeglądarce na ładowanie tego typu obiektów w ramach naszej strony,</li>
+    <li><code>object-src</code> określający dozwolone źródła dla obiektów takich jak Flash, czy przeglądarkowa Java,
+        czyli załączanych przez tagi object, applet i embed. Generalnie jeśli nie używamy tego typu staroci w
+        przeglądarce to najlepiej nie zezwalać przeglądarce na ładowanie tego typu obiektów w ramach naszej strony,</li>
     <li><code>img-src</code> określa dozwolone źródła obrazków,</li>
-    <li><code>media-src</code> dotyczy zasobów audio i video. Np. ten podcast na moim blogu jest embedowany jako plik audio i podlega tym regułom,</li>
-    <li><code>frame-ancestors</code> pozwala generalnie ograniczyć źródła dla ramek takich jak iframe i zmniejszyć szansę na udany clickjacking,</li>
-    <li><code>form-action</code> ogranicza lokalizacje, do których przeglądarka może nas przekierować po submicie formularza,</li>
+    <li><code>media-src</code> dotyczy zasobów audio i video. Np. ten podcast na moim blogu jest embedowany jako plik
+        audio i podlega tym regułom,</li>
+    <li><code>frame-ancestors</code> pozwala generalnie ograniczyć źródła dla ramek takich jak iframe i zmniejszyć
+        szansę na udany clickjacking,</li>
+    <li><code>form-action</code> ogranicza lokalizacje, do których przeglądarka może nas przekierować po submicie
+        formularza,</li>
     <li><code>font-src</code> dotyczy oczywiście czcionek.</li>
-    <li>Nazwy dyrektyw dotyczące żądań wysyłanych z poziomu JavaScriptu i przekierowań inicjowanych przez kod JavaScript trochę się zmieniały pomiędzy wersjami standardu, ale generalnie wszędzie powinna być wspierana dyrektywa <code>connect-src</code> pozwalająca je zdefiniować.</li>
+    <li>Nazwy dyrektyw dotyczące żądań wysyłanych z poziomu JavaScriptu i przekierowań inicjowanych przez kod JavaScript
+        trochę się zmieniały pomiędzy wersjami standardu, ale generalnie wszędzie powinna być wspierana dyrektywa
+        <code>connect-src</code> pozwalająca je zdefiniować.</li>
 </ul>
 
-<p>Wymieniłem tu kilka dyrektyw, które są do siebie podobne i dotyczą różnych kategorii zasobów które przeglądarka może blokować lub nie. Na uwagę zasługują jeszcze w szczególności dwie nieco inne dyrektywy CSP.</p>
+<p>Wymieniłem tu kilka dyrektyw, które są do siebie podobne i dotyczą różnych kategorii zasobów które przeglądarka może
+    blokować lub nie. Na uwagę zasługują jeszcze w szczególności dwie nieco inne dyrektywy CSP.</p>
 
-<p>Pierwsza z nich to <code>upgrade-insecure-requests</code>, która instruuje przeglądarkę żeby wszelkie napotkane odwołania do zasobów po HTTP zamieniała na żądania HTTPS. W złożonych aplikacjach taka zmiana po stronie kodu całej aplikacji może być bardzo trudna i ta dyrektywa może pozwolić na łagodną migrację takich stron na HTTPS.</p>
+<p>Pierwsza z nich to <code>upgrade-insecure-requests</code>, która instruuje przeglądarkę żeby wszelkie napotkane
+    odwołania do zasobów po HTTP zamieniała na żądania HTTPS. W złożonych aplikacjach taka zmiana po stronie kodu całej
+    aplikacji może być bardzo trudna i ta dyrektywa może pozwolić na łagodną migrację takich stron na HTTPS.</p>
 
-<p>Drugą z ciekawych dyrektyw jest <code>report-uri</code>, które prawdopodobnie w trzeciej wersji standardu zostanie przemianowane na <code>report-to</code>. Ta dyrektywa pozwala nam poprosić przeglądarkę o to, żeby w przypadku naruszenia polityki Content-Security-Policy wysłała informację o tym zdarzeniu pod wskazany adres URL.</p>
+<p>Drugą z ciekawych dyrektyw jest <code>report-uri</code>, które prawdopodobnie w trzeciej wersji standardu zostanie
+    przemianowane na <code>report-to</code>. Ta dyrektywa pozwala nam poprosić przeglądarkę o to, żeby w przypadku
+    naruszenia polityki Content-Security-Policy wysłała informację o tym zdarzeniu pod wskazany adres URL.</p>
 
-<p>Informacja o naruszeniu jest wysyłana jako JSON-owa struktura zawierającą precyzyjną informacje na temat tego jaki zasób został zablokowany, które miejsce w kodzie strony próbowało się do niego odwołać, która konkretnie dyrektywa została naruszona i tym podobne rzeczy. Mechanizmu można go użyć nie tylko po to, żeby odnotowywać próby ataku na stronę, ale też żeby szybko wykryć sytuacje gdzie jako developerzy nałożyliśmy zbyt mocne ograniczenia, albo zapomnieliśmy dodać jakąś domenę na białą listę.</p>
+<p>Informacja o naruszeniu jest wysyłana jako JSON-owa struktura zawierającą precyzyjną informacje na temat tego jaki
+    zasób został zablokowany, które miejsce w kodzie strony próbowało się do niego odwołać, która konkretnie dyrektywa
+    została naruszona i tym podobne rzeczy. Mechanizmu można go użyć nie tylko po to, żeby odnotowywać próby ataku na
+    stronę, ale też żeby szybko wykryć sytuacje gdzie jako developerzy nałożyliśmy zbyt mocne ograniczenia, albo
+    zapomnieliśmy dodać jakąś domenę na białą listę.</p>
 
-<p>Co lepsze, możemy również poprosić przeglądarkę o samo raportowanie naruszeń, bez blokowania zasobów. Pozwala to w pewnym sensie przetestować nasze Content-Security-Policy bezpośrednio na produkcji w ten sposób, że przez jakiś czas jedynie zbieramy dane i obserwujemy co się dzieje, i dopiero na tej podstawie po 2 tygodniach albo miesiącu rzeczywiście włączamy blokowanie. Realizuje się to przez zmianę nagłówka HTTP albo odpowiadającego mu klucza meta-tagu z Content-Security-Policy na Content-Security-Policy-Report-Only. Ta prosta zmiana powoduje zmianę działania z wymuszania polityki bezpieczeństwa na ów tryb obserwacji, w którym jedynie zbieramy raporty o naruszeniach dyrektyw.</p>
+<p>Co lepsze, możemy również poprosić przeglądarkę o samo raportowanie naruszeń, bez blokowania zasobów. Pozwala to w
+    pewnym sensie przetestować nasze Content-Security-Policy bezpośrednio na produkcji w ten sposób, że przez jakiś czas
+    jedynie zbieramy dane i obserwujemy co się dzieje, i dopiero na tej podstawie po 2 tygodniach albo miesiącu
+    rzeczywiście włączamy blokowanie. Realizuje się to przez zmianę nagłówka HTTP albo odpowiadającego mu klucza
+    meta-tagu z Content-Security-Policy na Content-Security-Policy-Report-Only. Ta prosta zmiana powoduje zmianę
+    działania z wymuszania polityki bezpieczeństwa na ów tryb obserwacji, w którym jedynie zbieramy raporty o
+    naruszeniach dyrektyw.</p>
 
 <p class="podcast-transcript-jingle">jingiel</p>
 
 <h2>Gdzie znaleźć więcej informacji</h2>
 
-<p>W tym miejscu chętnie wszedłbym jeszcze głębiej w szczegóły, ale podcast już teraz wydaje się trochę długi i nie wiem czy komukolwiek się go przesłuchać podczas jednego dojazdu do pracy ;) Zakończę więc na tym ogólnym obrazie i pozostawiam chętnym temat do zgłębienia. To jak zawsze najłatwiej zrobić biorąc jakiś swój weekendowy projekt i dodając do niego odpowiedni meta tag. W notatkach do tego odcinka zamieszczam link do kursu na Pluralsight o nazwie <em>Defeating Cross-site Scripting with Content Security Policy</em> <reference url="https://app.pluralsight.com/courses/defeating-cross-site-scripting-content-security-policy" title="Defeating Cross-site Scripting with Content Security Policy" />. Tam w 2.5 h temat jest przerobiony od deski do deski i jeśli ktoś potrzebuje szczegółów albo chce wizualnie zapoznać się z tym wszystkim o czym mówiłem, to kurs jest naprawdę bardzo przystępny.</p>
+<p>W tym miejscu chętnie wszedłbym jeszcze głębiej w szczegóły, ale podcast już teraz wydaje się trochę długi i nie wiem
+    czy komukolwiek się go przesłuchać podczas jednego dojazdu do pracy ;) Zakończę więc na tym ogólnym obrazie i
+    pozostawiam chętnym temat do zgłębienia. To jak zawsze najłatwiej zrobić biorąc jakiś swój weekendowy projekt i
+    dodając do niego odpowiedni meta tag. W notatkach do tego odcinka zamieszczam link do kursu na Pluralsight o nazwie
+    <em>Defeating Cross-site Scripting with Content Security Policy</em>
+    <reference url="https://app.pluralsight.com/courses/defeating-cross-site-scripting-content-security-policy"
+        title="Defeating Cross-site Scripting with Content Security Policy" />. Tam w 2.5 h temat jest przerobiony od
+    deski do deski i jeśli ktoś potrzebuje szczegółów albo chce wizualnie zapoznać się z tym wszystkim o czym mówiłem,
+    to kurs jest naprawdę bardzo przystępny.</p>
 
-<p>Ten odcinek podcastu "Programowanie na śniadanie" jest pierwszym ściśle technicznym odcinkiem i każdy feedback na jego temat od Ciebie będzie dla mnie cenny. Jeśli jesteś w stanie doradzić mi jak to nagranie mogłem zrobić lepiej, to odezwij się na facebooku albo napisz komentarz na blogu lub maila i daj mi o tym znać. Jestem ciekawy tego czy treść dla Ciebie jako programisty była interesująca i ma szanse wnieść coś do Twojej pracy, czy może chętniej posłuchałbyś albo posłuchałabyś o czymś innym? Pytam szczególnie dlatego, że podcasty jakie znam to w przytłaczającej większości luźne rozmowy i sam takich często słucham. Tu natomiast sprawdzam, czy w formie audio można również dostarczyć trochę ściślejszej technicznej wiedzy i jestem ciekaw czy w Twoim odczuciu jest ona przyswajalna w podobnym stopniu jak ta z książek czy kursów video, czy jednak w formie audio łatwiej się zgubić.</p>
+<p>Ten odcinek podcastu "Programowanie na śniadanie" jest pierwszym ściśle technicznym odcinkiem i każdy feedback na
+    jego temat od Ciebie będzie dla mnie cenny. Jeśli jesteś w stanie doradzić mi jak to nagranie mogłem zrobić lepiej,
+    to odezwij się na facebooku albo napisz komentarz na blogu lub maila i daj mi o tym znać. Jestem ciekawy tego czy
+    treść dla Ciebie jako programisty była interesująca i ma szanse wnieść coś do Twojej pracy, czy może chętniej
+    posłuchałbyś albo posłuchałabyś o czymś innym? Pytam szczególnie dlatego, że podcasty jakie znam to w
+    przytłaczającej większości luźne rozmowy i sam takich często słucham. Tu natomiast sprawdzam, czy w formie audio
+    można również dostarczyć trochę ściślejszej technicznej wiedzy i jestem ciekaw czy w Twoim odczuciu jest ona
+    przyswajalna w podobnym stopniu jak ta z książek czy kursów video, czy jednak w formie audio łatwiej się zgubić.</p>
 
-<p>Ten odcinek kończy również mój etap przygotowań do premiery podcastu i wraz z jego publikacją uruchomiłem listę mailingową oraz stronę na facebooku, gdzie będę informował o nowych odcinkach. Mocno zachęcam oczywiście do zapisania się, nie będzie spamu bo teraz jest mi już trudno znaleźć czas na odpisanie na maile które do mnie przychodzą, a co dopiero na rozsyłanie własnych ;) Na listę mailingowa możesz zapisać się na moim blogu zakasanerekawy.pl w zakładce <em>Podcast</em>.</p>
+<p>Ten odcinek kończy również mój etap przygotowań do premiery podcastu i wraz z jego publikacją uruchomiłem listę
+    mailingową oraz stronę na facebooku, gdzie będę informował o nowych odcinkach. Mocno zachęcam oczywiście do
+    zapisania się, nie będzie spamu bo teraz jest mi już trudno znaleźć czas na odpisanie na maile które do mnie
+    przychodzą, a co dopiero na rozsyłanie własnych ;) Na listę mailingowa możesz zapisać się na moim blogu
+    zakasanerekawy.taurit.pl w zakładce <em>Podcast</em>.</p>
 
-<p>Dziękuję Ci za to, że zostałeś lub zostałaś aż do tego miejsca. Życzę udanego dnia, bo przypuszczam że podcastów tego typu słuchasz tak jak ja z rana i być może dzień pracy dopiero przed Tobą. Także do usłyszenia w kolejnym odcinku!</p>
+<p>Dziękuję Ci za to, że zostałeś lub zostałaś aż do tego miejsca. Życzę udanego dnia, bo przypuszczam że podcastów tego
+    typu słuchasz tak jak ja z rana i być może dzień pracy dopiero przed Tobą. Także do usłyszenia w kolejnym odcinku!
+</p>
 
 <p class="podcast-transcript-jingle">outro</p>
 

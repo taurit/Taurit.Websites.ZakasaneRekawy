@@ -3,17 +3,16 @@
   <channel>
     <title>Programowanie na śniadanie</title>
     <description>Podcast, który przybliża platformę Microsoft .NET, zahaczając też o bardziej uniwersalną wiedzę wartościową dla każdego programisty i programistki.</description>
-    <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie</link>
+    <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie</link>
     <language>pl</language>
     <copyright>This work is licensed under a Creative Commons License - Attribution-NonCommercial-NoDerivatives 4.0 International - http://creativecommons.org/licenses/by-nc-nd/4.0/</copyright>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-    <lastBuildDate>Mon, 26 Feb 2018 18:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 16:57:22 GMT</lastBuildDate>
     <ttl>4320</ttl>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-    <atom:link href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
+    <atom:link href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/feed.rss" type="application/rss+xml" rel="self" />
     <itunes:author>Paweł Bulwan</itunes:author>
     <googleplay:author>Paweł Bulwan</googleplay:author>
-    <itunes:complete>Yes<itunes:complete>
     <itunes:subtitle>Łatwy do przełknięcia podcast o programowaniu</itunes:subtitle>
     <itunes:summary>Podcast, który przybliża platformę Microsoft .NET, zahaczając też o bardziej uniwersalną wiedzę wartościową dla każdego programisty i programistki.</itunes:summary>
     <itunes:keywords>programowanie, it, praca, microsoft, net, development, web, produktywność, programista, kariera</itunes:keywords>
@@ -27,20 +26,20 @@
       <itunes:email>itunes-podcast@taurit.pl</itunes:email>
     </itunes:owner>
     <image>
-      <url>https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-144.jpg</url>
+      <url>https://zakasanerekawy.taurit.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-144.jpg</url>
       <title>Programowanie na śniadanie</title>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie</link>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie</link>
     </image>
-    <itunes:image href="https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
-    <googleplay:image href="https://zakasanerekawy.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
+    <itunes:image href="https://zakasanerekawy.taurit.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
+    <googleplay:image href="https://zakasanerekawy.taurit.pl/assets/img/podcast/programowanie-na-sniadanie/podcast-cover-2048.jpg" />
     <item>
       <title>PNŚ 0: Programowanie na śniadanie</title>
       <itunes:title>Programowanie na śniadanie</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Mon, 05 Feb 2018 05:00:00 GMT</pubDate>
       <itunes:episode>0</itunes:episode>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/0</link>
-      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/0</comments>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/0</link>
+      <comments>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/0</comments>
       <itunes:author>Paweł Bulwan</itunes:author>
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
@@ -49,41 +48,57 @@
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
 <p>Zwięźle, bo w zaledwie 5 minut o tym: dla kogo jest ten podcast, o czym będzie (poza tym że o programowaniu) i dlaczego koniecznie musisz go zasubskrybować ;) Zawartość odcinka:</p><ul>
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></googleplay:description>
       <description><![CDATA[
 <p>Zwięźle, bo w zaledwie 5 minut o tym: dla kogo jest ten podcast, o czym będzie (poza tym że o programowaniu) i dlaczego koniecznie musisz go zasubskrybować ;) Zawartość odcinka:</p><ul>
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></description>
       <content:encoded><![CDATA[
 <p>Zwięźle, bo w zaledwie 5 minut o tym: dla kogo jest ten podcast, o czym będzie (poza tym że o programowaniu) i dlaczego koniecznie musisz go zasubskrybować ;) Zawartość odcinka:</p><ul>
     <li>dla kogo jest ten podcast?</li>
     <li>o czym będzie (poza tym że o programowaniu)?</li>
     <li>dlaczego koniecznie musisz go zasubskrybować ;)</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></content:encoded>
-      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/0</guid>
+      <guid isPermaLink="false">https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/0</guid>
       <itunes:duration>0:05:08</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/000-Programowanie-na-sniadanie.mp3" length="3794430" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/000-Programowanie-na-sniadanie.mp3" fileSize="3794430" type="audio/mpeg" medium="audio">
+      <enclosure url="https://taurit.blob.core.windows.net/cdn/pns/000-Programowanie-na-sniadanie.mp3" length="3794430" type="audio/mpeg" />
+      <media:content url="https://taurit.blob.core.windows.net/cdn/pns/000-Programowanie-na-sniadanie.mp3" fileSize="3794430" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 0: Programowanie na śniadanie</media:title>
         <media:description type="plain">Zwięźle, bo w zaledwie 5 minut o tym: dla kogo jest ten podcast, o czym będzie (poza tym że o programowaniu) i dlaczego koniecznie musisz go zasubskrybować ;)</media:description>
         <media:keywords>programowanie, net, microsoft, it, praca</media:keywords>
@@ -98,8 +113,8 @@
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Mon, 05 Feb 2018 06:00:00 GMT</pubDate>
       <itunes:episode>1</itunes:episode>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/1</link>
-      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/1</comments>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/1</link>
+      <comments>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/1</comments>
       <itunes:author>Paweł Bulwan</itunes:author>
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
@@ -114,9 +129,13 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
 <p>O niedawnej książce CEO Microsoftu Satya Nadelli "Hit Refresh", w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p><ul>
@@ -129,9 +148,13 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></googleplay:description>
       <description><![CDATA[
 <p>O niedawnej książce CEO Microsoftu Satya Nadelli "Hit Refresh", w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p><ul>
@@ -144,9 +167,13 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></description>
       <content:encoded><![CDATA[
 <p>O niedawnej książce CEO Microsoftu Satya Nadelli "Hit Refresh", w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy. Zawartość odcinka:</p><ul>
@@ -159,14 +186,18 @@
         </ol>
     </li>
     <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></content:encoded>
-      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/1</guid>
+      <guid isPermaLink="false">https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/1</guid>
       <itunes:duration>0:10:32</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" length="7569777" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" fileSize="7569777" type="audio/mpeg" medium="audio">
+      <enclosure url="https://taurit.blob.core.windows.net/cdn/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" length="7569777" type="audio/mpeg" />
+      <media:content url="https://taurit.blob.core.windows.net/cdn/pns/001-Hit-refresh-jak-naprawic-korporacje-wg-ceo-microsoft.mp3" fileSize="7569777" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 1: "Hit Refresh". Jak naprawić korporację? - wg CEO Microsoftu</media:title>
         <media:description type="plain">O niedawnej książce CEO Microsoftu Satya Nadelli "Hit Refresh", w której pisze o transformacji Microsoftu której się podjął i o przyszłości świata technologii widzianej z jego perspektywy.</media:description>
         <media:keywords>programowanie, net, microsoft, it, satya, nadella, praca, korporacja</media:keywords>
@@ -181,8 +212,8 @@
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Mon, 05 Feb 2018 07:00:00 GMT</pubDate>
       <itunes:episode>2</itunes:episode>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/2</link>
-      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/2</comments>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/2</link>
+      <comments>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/2</comments>
       <itunes:author>Paweł Bulwan</itunes:author>
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
@@ -199,9 +230,13 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
 <p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p><ul>
@@ -216,9 +251,13 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></googleplay:description>
       <description><![CDATA[
 <p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p><ul>
@@ -233,9 +272,13 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></description>
       <content:encoded><![CDATA[
 <p>Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo. Zawartość odcinka:</p><ul>
@@ -250,14 +293,18 @@
     </li>
     <li>Rozwiązanie/mitygacja: Content-Security-Policy</li>
     <li>Gdzie znaleźć więcej informacji?</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></content:encoded>
-      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/2</guid>
+      <guid isPermaLink="false">https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/2</guid>
       <itunes:duration>0:27:10</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" length="19556959" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/002-Content-Security-Policy.mp3" fileSize="19556959" type="audio/mpeg" medium="audio">
+      <enclosure url="https://taurit.blob.core.windows.net/cdn/pns/002-Content-Security-Policy.mp3" length="19556959" type="audio/mpeg" />
+      <media:content url="https://taurit.blob.core.windows.net/cdn/pns/002-Content-Security-Policy.mp3" fileSize="19556959" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 2: Jak poprawić bezpieczeństwo strony jednym meta-tagiem - Content-Security-Policy</media:title>
         <media:description type="plain">Jeśli tworzysz strony lub aplikacje webowe, Content-Security-Policy pozwoli Ci jedną linijką konfiguracji znacznie poprawić ich bezpieczeństwo.</media:description>
         <media:keywords>web development, http, programowanie, bezpieczeństwo, przeglądarki, sieć, www</media:keywords>
@@ -272,8 +319,8 @@
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Tue, 13 Feb 2018 18:00:00 GMT</pubDate>
       <itunes:episode>3</itunes:episode>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3</link>
-      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3</comments>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/3</link>
+      <comments>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/3</comments>
       <itunes:author>Paweł Bulwan</itunes:author>
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
@@ -309,9 +356,13 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ol><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
 <p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
@@ -345,9 +396,13 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ol><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></googleplay:description>
       <description><![CDATA[
 <p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
@@ -381,9 +436,13 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ol><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></description>
       <content:encoded><![CDATA[
 <p>Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami? Zawartość odcinka:</p><ul>
@@ -417,14 +476,18 @@ defensywnego.</li>
 <a href="https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM/" target="_blank">Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)</a> - klasyka nt. pisania utrzymywalnego,
 czytelnego i bezbłędnego kodu.</li>
 
-</ol><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ol><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></content:encoded>
-      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/3</guid>
+      <guid isPermaLink="false">https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/3</guid>
       <itunes:duration>0:18:13</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" length="13118784" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/003-Programowanie-defensywne.mp3" fileSize="13118784" type="audio/mpeg" medium="audio">
+      <enclosure url="https://taurit.blob.core.windows.net/cdn/pns/003-Programowanie-defensywne.mp3" length="13118784" type="audio/mpeg" />
+      <media:content url="https://taurit.blob.core.windows.net/cdn/pns/003-Programowanie-defensywne.mp3" fileSize="13118784" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 3: Programowanie defensywne</media:title>
         <media:description type="plain">Czy defensywny styl programowania to coś dobrego, czy może raczej antywzorzec? Jak pisać programy, które pozostaną stabilne w zetknięciu z dziwnymi danymi i z użytkownikami?</media:description>
         <media:keywords>programowanie, bezpieczeństwo, dobre praktyki, kodowanie, wyjątki, błędy, testy</media:keywords>
@@ -439,8 +502,8 @@ czytelnego i bezbłędnego kodu.</li>
       <itunes:episodeType>full</itunes:episodeType>
       <pubDate>Mon, 26 Feb 2018 14:54:00 GMT</pubDate>
       <itunes:episode>4</itunes:episode>
-      <link>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</link>
-      <comments>https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</comments>
+      <link>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/4</link>
+      <comments>https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/4</comments>
       <itunes:author>Paweł Bulwan</itunes:author>
       <itunes:explicit>clean</itunes:explicit>
       <googleplay:explicit>no</googleplay:explicit>
@@ -459,9 +522,13 @@ czytelnego i bezbłędnego kodu.</li>
 </ol>
 </li>
 <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></itunes:summary>
       <googleplay:description><![CDATA[
 <p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
@@ -478,9 +545,13 @@ czytelnego i bezbłędnego kodu.</li>
 </ol>
 </li>
 <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></googleplay:description>
       <description><![CDATA[
 <p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
@@ -497,9 +568,13 @@ czytelnego i bezbłędnego kodu.</li>
 </ol>
 </li>
 <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></description>
       <content:encoded><![CDATA[
 <p>Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :) Zawartość odcinka:</p><ul>
@@ -516,14 +591,18 @@ czytelnego i bezbłędnego kodu.</li>
 </ol>
 </li>
 <li>Podsumowanie</li>
-</ul><p>Zachęcam do zapisania się na listę z <a href="https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych odcinkach</a> i do śledzenia podcastu <a href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast znajdziesz też po nazwie
-    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
-
+</ul><p>Zachęcam do zapisania się na listę z <a
+        href="https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/">powiadomieniami o nowych
+        odcinkach</a> i do śledzenia podcastu <a
+        href="https://www.facebook.com/programowanienasniadanie/">"Programowanie na śniadanie" na Facebooku</a>. Podcast
+    znajdziesz też po nazwie
+    <em>"Programowanie na śniadanie"</em> w katalogu swojej aplikacji do podcastów, np. <a
+        href="https://www.shiftyjelly.com/pocketcasts/" target="_blank">Pocket Casts</a>.</p>
 ]]></content:encoded>
-      <guid isPermaLink="false">https://zakasanerekawy.pl/podcast/programowanie-na-sniadanie/4</guid>
+      <guid isPermaLink="false">https://zakasanerekawy.taurit.pl/podcast/programowanie-na-sniadanie/4</guid>
       <itunes:duration>0:21:30</itunes:duration>
-      <enclosure url="https://cdn.zakasanerekawy.pl/Access/File/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" length="15578101" type="audio/mpeg" />
-      <media:content url="https://cdn.zakasanerekawy.pl/Access/File/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" fileSize="15578101" type="audio/mpeg" medium="audio">
+      <enclosure url="https://taurit.blob.core.windows.net/cdn/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" length="15578101" type="audio/mpeg" />
+      <media:content url="https://taurit.blob.core.windows.net/cdn/pns/004-Kilka-rzeczy-o-linq-ktorych-mozesz-nie-wiedziec.mp3" fileSize="15578101" type="audio/mpeg" medium="audio">
         <media:title type="plain">PNŚ 4: Kilka rzeczy o LINQ, których możesz nie wiedzieć</media:title>
         <media:description type="plain">Która z dwóch składni LINQ daje więcej możliwości? Jak wykorzystać wiele rdzeni procesora i przyspieszyć LINQ? Odpowiedź na te i inne pytania już w nowym odcinku podcastu :)</media:description>
         <media:keywords>csharp, c#, cs, linq, microsoft, entities, sql, xml, .net, dotnet</media:keywords>
