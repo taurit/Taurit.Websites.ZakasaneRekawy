@@ -1,5 +1,4 @@
 User-Agent: *
 Noindex: /
-Disallow: /
 
 Sitemap: https://zakasanerekawy.taurit.pl/sitemap.xml
